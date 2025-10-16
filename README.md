@@ -64,8 +64,8 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 - 📑 **[One-Pagers](Supporting_Materials/One-Pagers/)** - Individual reform deep dives
   - [Citizens United Reversal](Supporting_Materials/One-Pagers/01_Citizens_United_Reversal.md)
   - [Abolish Electoral College](Supporting_Materials/One-Pagers/03_Abolish_Electoral_College.md)
-  - [Publicly Funded Elections](Supporting_Materials/One-Pagers/05_Publicly_Funded_Elections.md)
-  - [Ranked-Choice Voting](Supporting_Materials/One-Pagers/07_Ranked_Choice_Voting.md)
+  - [Publicly Funded Elections](Supporting_Materials/One-Pagers/07_Publicly_Funded_Elections.md)
+  - [Ranked-Choice Voting](Supporting_Materials/One-Pagers/12_Ranked_Choice_Voting.md)
   - *(20 one-pagers total in folder)*
 
 **Hold Them Accountable:**
@@ -203,23 +203,23 @@ Complete set of 20 individual reform fact sheets:
 1. [Citizens United Reversal](Supporting_Materials/One-Pagers/01_Citizens_United_Reversal.md)
 2. [Senate Term Limits](Supporting_Materials/One-Pagers/02_Senate_Term_Limits.md)
 3. [Abolish Electoral College](Supporting_Materials/One-Pagers/03_Abolish_Electoral_College.md)
-4. [Lobbying Reform](Supporting_Materials/One-Pagers/04_Lobbying_Reform.md)
-5. [Publicly Funded Elections](Supporting_Materials/One-Pagers/05_Publicly_Funded_Elections.md)
-6. [Independent Ethics Body](Supporting_Materials/One-Pagers/06_Independent_Ethics_Body.md)
-7. [Ranked-Choice Voting](Supporting_Materials/One-Pagers/07_Ranked_Choice_Voting.md)
-8. [Ban Micro-Targeted Ads](Supporting_Materials/One-Pagers/08_Ban_Micro_Targeted_Ads.md)
-9. [Universal Basic Services](Supporting_Materials/One-Pagers/09_Universal_Basic_Services.md)
-10. [Decentralize Federal Power](Supporting_Materials/One-Pagers/10_Decentralize_Federal_Power.md)
-11. [Sunset Provisions](Supporting_Materials/One-Pagers/11_Sunset_Provisions.md)
-12. [Fairness Doctrine](Supporting_Materials/One-Pagers/12_Fairness_Doctrine.md)
-13. [Supreme Court Term Limits](Supporting_Materials/One-Pagers/13_Supreme_Court_Term_Limits.md)
-14. [Ban Gerrymandering](Supporting_Materials/One-Pagers/14_Ban_Gerrymandering.md)
-15. [Automatic Voter Registration](Supporting_Materials/One-Pagers/15_Automatic_Voter_Registration.md)
-16. [Election Day Holiday](Supporting_Materials/One-Pagers/16_Election_Day_Holiday.md)
-17. [Paper Ballot Trail](Supporting_Materials/One-Pagers/17_Paper_Ballot_Trail.md)
-18. [Social Media Transparency](Supporting_Materials/One-Pagers/18_Social_Media_Transparency.md)
-19. [Civic Education](Supporting_Materials/One-Pagers/19_Civic_Education.md)
-20. [Ban Deepfakes](Supporting_Materials/One-Pagers/20_Ban_Deepfakes.md)
+4. [Ban Gerrymandering](Supporting_Materials/One-Pagers/04_Ban_Gerrymandering.md)
+5. [Restore Fairness Doctrine](Supporting_Materials/One-Pagers/05_Restore_Fairness_Doctrine.md)
+6. [Ban Lobbying](Supporting_Materials/One-Pagers/06_Ban_Lobbying.md)
+7. [Publicly Funded Elections](Supporting_Materials/One-Pagers/07_Publicly_Funded_Elections.md)
+8. [Supreme Court Term Limits](Supporting_Materials/One-Pagers/08_Supreme_Court_Term_Limits.md)
+9. [Independent Congressional Ethics](Supporting_Materials/One-Pagers/09_Independent_Congressional_Ethics.md)
+10. [Automatic Voter Registration](Supporting_Materials/One-Pagers/10_Automatic_Voter_Registration.md)
+11. [Election Day Federal Holiday](Supporting_Materials/One-Pagers/11_Election_Day_Federal_Holiday.md)
+12. [Ranked-Choice Voting](Supporting_Materials/One-Pagers/12_Ranked_Choice_Voting.md)
+13. [Paper Ballot Trail Mandate](Supporting_Materials/One-Pagers/13_Paper_Ballot_Trail_Mandate.md)
+14. [Social Media Transparency](Supporting_Materials/One-Pagers/14_Social_Media_Transparency.md)
+15. [Ban Micro-Targeted Political Ads](Supporting_Materials/One-Pagers/15_Ban_Micro_Targeted_Political_Ads.md)
+16. [Universal Basic Services](Supporting_Materials/One-Pagers/16_Universal_Basic_Services.md)
+17. [Decentralize Federal Power](Supporting_Materials/One-Pagers/17_Decentralize_Federal_Power.md)
+18. [Sunset Provisions](Supporting_Materials/One-Pagers/18_Sunset_Provisions.md)
+19. [Civic Education Overhaul](Supporting_Materials/One-Pagers/19_Civic_Education_Overhaul.md)
+20. [Political Deepfake Ban](Supporting_Materials/One-Pagers/20_Political_Deepfake_Ban.md)
 
 #### **Reference Materials**
 - 👥 **[Advisory Board](Supporting_Materials/Advisory_Board.md)** - Expert contributors
@@ -253,26 +253,26 @@ Complete set of 20 individual reform fact sheets:
 - 10-year cooling-off periods, lifetime ban on lobbying former chamber
 - Office of Public Integrity (independent enforcement)
 - Criminal penalties up to 5 years
-- [One-Pager](Supporting_Materials/One-Pagers/04_Lobbying_Reform.md) | [Chapter 30 Details](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) | [Chapter 17 Enforcement](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)
+- [One-Pager](Supporting_Materials/One-Pagers/06_Ban_Lobbying.md) | [Chapter 30 Details](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) | [Chapter 17 Enforcement](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)
 
 #### 5. **Publicly Funded Elections**
 - Democracy Vouchers ($200/voter annually)
 - 6-to-1 small donor matching
 - Funded by stock transaction fee
 - $30B per two-year cycle
-- [One-Pager](Supporting_Materials/One-Pagers/05_Publicly_Funded_Elections.md) | [Chapter 30 Details](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
+- [One-Pager](Supporting_Materials/One-Pagers/07_Publicly_Funded_Elections.md) | [Chapter 30 Details](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 
 #### 6. **Independent Congressional Ethics Body**
 - Congressional Accountability and Ethics Commission (CAEC)
 - 9 commissioners (appointed by President, Chief Justice, Comptroller General)
 - Investigative and enforcement powers
-- [One-Pager](Supporting_Materials/One-Pagers/06_Independent_Ethics_Body.md) | [Chapter 30 Details](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
+- [One-Pager](Supporting_Materials/One-Pagers/09_Independent_Congressional_Ethics.md) | [Chapter 30 Details](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 
 #### 7. **Ranked-Choice Voting Nationwide**
 - Federal mandate for all federal elections
 - Nonpartisan top-5 primaries
 - Breaks two-party stranglehold
-- [One-Pager](Supporting_Materials/One-Pagers/07_Ranked_Choice_Voting.md) | [Chapter 30 Details](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
+- [One-Pager](Supporting_Materials/One-Pagers/12_Ranked_Choice_Voting.md) | [Chapter 30 Details](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 
 ### **Media & Information** ([Multiple Chapters](TABLE_OF_CONTENTS.md))
 
@@ -280,22 +280,22 @@ Complete set of 20 individual reform fact sheets:
 - Prohibition on psychographic profiling
 - Broad targeting only (100,000+ people minimum)
 - Public ad database (all ads within 24 hours)
-- [One-Pager](Supporting_Materials/One-Pagers/08_Ban_Micro_Targeted_Ads.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
+- [One-Pager](Supporting_Materials/One-Pagers/15_Ban_Micro_Targeted_Political_Ads.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
 
 #### 12. **Restore Fairness Doctrine**
 - Balanced news requirement for broadcasters
 - Extend to cable news and digital platforms
 - FCC enforcement with teeth
-- [One-Pager](Supporting_Materials/One-Pagers/12_Fairness_Doctrine.md) | [Chapter 8 EXPANDED](Section2_The_Common_Defense/Chapter_08_Media_Agencies.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
+- [One-Pager](Supporting_Materials/One-Pagers/05_Restore_Fairness_Doctrine.md) | [Chapter 8 EXPANDED](Section2_The_Common_Defense/Chapter_08_Media_Agencies.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 
 #### 19. **Civic Education (Flagship)**
 - Media literacy, critical thinking, democratic values
 - $5 billion annual investment
-- [One-Pager](Supporting_Materials/One-Pagers/19_Civic_Education.md) | [Chapter 11 FLAGSHIP](Section3_The_General_Welfare/Chapter_11_Department_of_Education.md)
+- [One-Pager](Supporting_Materials/One-Pagers/19_Civic_Education_Overhaul.md) | [Chapter 11 FLAGSHIP](Section3_The_General_Welfare/Chapter_11_Department_of_Education.md)
 
 #### 20. **Ban Political Deepfakes**
 - AI transparency, mandatory labeling
-- [One-Pager](Supporting_Materials/One-Pagers/20_Ban_Deepfakes.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
+- [One-Pager](Supporting_Materials/One-Pagers/20_Political_Deepfake_Ban.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
 
 ### **Structural Government Reform** ([Chapters 29 & 30](Section6_Safeguarding_Democracy_And_Accountability/))
 
@@ -305,51 +305,51 @@ Complete set of 20 individual reform fact sheets:
 - Universal broadband (1 Gbps fiber to every home)
 - Free public transportation
 - $290B annual new spending (after healthcare savings)
-- [One-Pager](Supporting_Materials/One-Pagers/09_Universal_Basic_Services.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
+- [One-Pager](Supporting_Materials/One-Pagers/16_Universal_Basic_Services.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 
 #### 10. **Decentralize Federal Power**
 - Direct federal-city funding (bypass states)
 - Regional Development Authorities
 - Empowers 80% of population in cities/regions
-- [One-Pager](Supporting_Materials/One-Pagers/10_Decentralize_Federal_Power.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
+- [One-Pager](Supporting_Materials/One-Pagers/17_Decentralize_Federal_Power.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 
 #### 11. **Sunset Provisions for All Laws**
 - Every law reviewed and renewed every 20 years
 - Automatic expiration if not renewed
 - Prevents regulatory ossification
-- [One-Pager](Supporting_Materials/One-Pagers/11_Sunset_Provisions.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
+- [One-Pager](Supporting_Materials/One-Pagers/18_Sunset_Provisions.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 
 #### 13. **Supreme Court 18-Year Terms**
 - **33rd Amendment** proposed: Staggered terms (one appointment every 2 years)
 - Binding ethics code (immediate statutory)
-- [One-Pager](Supporting_Materials/One-Pagers/13_Supreme_Court_Term_Limits.md) | [Chapter 29 EXPANDED](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
+- [One-Pager](Supporting_Materials/One-Pagers/08_Supreme_Court_Term_Limits.md) | [Chapter 29 EXPANDED](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) | [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 
 ### **Voting Rights & Election Security** ([Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md))
 
 #### 14. **Ban Gerrymandering**
 - Independent redistricting commissions required
 - Gerrymandering prohibition (partisan and racial)
-- [One-Pager](Supporting_Materials/One-Pagers/14_Ban_Gerrymandering.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
+- [One-Pager](Supporting_Materials/One-Pagers/04_Ban_Gerrymandering.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
 
 #### 15. **Automatic Voter Registration**
 - Register all eligible citizens automatically
 - Opt-out instead of opt-in
-- [One-Pager](Supporting_Materials/One-Pagers/15_Automatic_Voter_Registration.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
+- [One-Pager](Supporting_Materials/One-Pagers/10_Automatic_Voter_Registration.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
 
 #### 16. **Election Day Holiday/Early Voting**
 - Federal holiday for Election Day
 - 2 weeks early voting minimum
-- [One-Pager](Supporting_Materials/One-Pagers/16_Election_Day_Holiday.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
+- [One-Pager](Supporting_Materials/One-Pagers/11_Election_Day_Federal_Holiday.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
 
 #### 17. **Paper Ballot Trail**
 - Paper ballot requirements
 - Auditable systems mandatory
-- [One-Pager](Supporting_Materials/One-Pagers/17_Paper_Ballot_Trail.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
+- [One-Pager](Supporting_Materials/One-Pagers/13_Paper_Ballot_Trail_Mandate.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
 
 #### 18. **Social Media Transparency**
 - Platform accountability and transparency
 - Algorithm disclosures
-- [One-Pager](Supporting_Materials/One-Pagers/18_Social_Media_Transparency.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
+- [One-Pager](Supporting_Materials/One-Pagers/14_Social_Media_Transparency.md) | [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
 
 ---
 
