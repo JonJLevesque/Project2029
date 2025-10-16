@@ -36,6 +36,80 @@ Project 2025 transformed the Department of Justice into a tool of political pers
 - Death penalty expanded
 - Reform efforts reversed
 
+### Documented DOJ Weaponization (January 20 - October 15, 2025)
+
+**See Evidence Appendix:** `Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md`
+
+The Evidence Appendix documents specific instances of DOJ weaponization with court validation, dates, and actors. Key documented violations include:
+
+**U.S. Attorney Fired for Refusing Political Prosecutions:**
+- **Erik Siebert** (EDVA) forced to resign Sept 19-20, 2025 after determining **insufficient evidence** to charge NY AG Letitia James and former FBI Director James Comey
+- Trump publicly stated **"I want him out"** and later posted **"He didn't quit, I fired him!"**
+- Trump posted directly to AG Bondi demanding prosecution: "JUSTICE MUST BE SERVED, NOW!!!"
+- **Lindsey Halligan** (Trump's former personal lawyer with **ZERO prosecutorial experience**) installed as interim U.S. Attorney
+
+**Politically Motivated Indictments:**
+
+*James Comey (September 25, 2025):*
+- Indicted **5 days after Trump's public demand**
+- Career prosecutors deemed evidence **insufficient**
+- Halligan presented case **alone** to grand jury (career prosecutors refused to participate)
+- Grand jury **REJECTED one of three counts** and only **14 of 23 jurors** voted to indict (unusually low)
+- Defense challenging as **vindictive prosecution** citing Trump's public demands as prima facie evidence
+
+*Letitia James (October 10, 2025):*
+- Indicted on charges related to 2020 mortgage (**$18,933 alleged benefit**)
+- Career prosecutors found **insufficient evidence**
+- **Ed Martin** (DOJ "weaponization czar") photographed outside James's Brooklyn property during investigation
+- Trump had repeatedly called for James to "be arrested and punished"
+- James's attorney: "Most blatant and desperate example of political retribution campaign"
+
+**Mass Firing of Prosecutors:**
+- Nearly **ALL Public Integrity Unit** attorneys fired
+- **75% of Civil Rights Division** attorneys departed (250+ attorneys)
+- **ALL January 6 prosecutors** fired with written termination letters explicitly stating they were fired for "prosecuting Jan 6 cases" (calling it "grave national injustice")
+- **Sean Brennan** (Jan 6 prosecutor): "In very plain language, it says I was terminated for prosecuting Jan 6 cases...I was retaliated against"
+- **Maurene Comey** (James Comey's daughter) fired from SDNY
+- **280+ former DOJ employees** signed unprecedented letter warning of "degradation" of constitutional oaths
+
+**Civil Rights Division Gutted:**
+- **70% of attorneys departed** (April 2025) under Assistant AG Harmeet Dhillon
+- **Voting Section reduced** from ~30 career attorneys to just **3 attorneys**
+- Chief Tamar Hagler and five senior managers reassigned to employee complaint office
+- Mission changed from racial discrimination enforcement to "fraud, errors, or suspicion," "Keeping Men out of Women's Sports," and "Ending Radical Indoctrination"
+- Dhillon told Tucker Carlson: "The crying, the unhappy hours, the mass resignations, the leaking, there's a support group for former civil rights attorneys"
+- **8 voting rights lawsuits dismissed** without rationale (cases DOJ had won at district/appeals levels)
+
+**Threatening Letters to Congress:**
+- Ed Martin sent **official DOJ threatening letter** to Rep. Robert Garcia after metaphorical CNN comment about Democrats bringing "weapons to this bar fight"
+- Letter stated comment "sounds to some like a threat to Mr. Musk" and demanded "clarification" within one week
+- Garcia: "It was 100% to silence me...to send a message"
+- Similar letters sent to Sen. Chuck Schumer and Rep. Eugene Vindman
+
+**Criminal Investigations of Political Critics:**
+- **Sen. Adam Schiff** - mortgage fraud investigation
+- **Chris Krebs** - Trump signed memo in Oval Office ordering investigation
+- **Miles Taylor** - Trump ordered investigation for "treason"
+- **George Soros** - racketeering, terrorism support investigation announced
+
+**AG Bondi's Combative Congressional Testimony (October 7, 2025):**
+- **Refused to answer** whether she discussed Comey case with Trump
+- Refused to discuss closing Tom Homan bribery investigation
+- Called Sen. Schiff **"a liar" and "a failed lawyer"**
+- Told Sen. Durbin: "I wish you loved Chicago as much as you hate President Trump"
+- Sen. Richard Blumenthal: "Possibly a new low for attorneys general...I have never seen anything close to it"
+
+**Laws Violated:**
+- **18 USC § 1503** (obstruction of justice)
+- **18 USC § 1512** (witness tampering)
+- **18 USC § 241** (deprivation of rights under color of law)
+- **5 USC § 2302** (prohibited personnel practices - retaliation)
+
+**Enforcement Status:**
+Despite documented violations with written evidence and public statements, **NO officials have been held accountable** as of October 15, 2025. The DOJ itself has been weaponized, eliminating internal accountability mechanisms.
+
+This documented record demonstrates the **urgent necessity** for the structural reforms outlined in this chapter, particularly the 10-year AG term, cause-removal protections, and independence protocols.
+
 ## The DOJ Independence Crisis
 
 ### Constitutional Principles at Stake

@@ -28,6 +28,77 @@
 ### Office of Personnel Management (OPM) Weaponization
 - [Specific ways OPM was misused]
 
+### Inspector General Massacre: Dismantling Independent Oversight
+
+**See Evidence Appendix:** `Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md`
+
+The most dramatic assault on civil service protections came through the systematic elimination of independent oversight—the mass firing of Inspectors General who are the guardians of merit principles and protectors against political abuse.
+
+**The "Friday Night Massacre" (January 24-25, 2025):**
+
+The administration fired **17-18 Inspectors General via two-sentence email** from Presidential Personnel Director Sergio Gor: "terminated, effective immediately." This violated the Inspector General Act, which requires **30-day advance notice to Congress with substantive reasons**—neither was provided.
+
+**Key IGs Fired:**
+- **Christi Grimm** (HHS) - Career professional
+- **Robert Storch** (Defense) - Was investigating SpaceX contracts
+- **Phyllis Fong** (Agriculture) - Was investigating Musk's Neuralink animal welfare violations
+- **Larry Turner** (Labor) - Had investigated Musk companies' labor violations
+- **Eric Soskin** (Transportation) - Department had fined Musk companies for safety violations
+- **Paul Martin** (USAID) - Fired February 11 after report on agency dismantling
+- **Mark Greenblatt** (Interior) - Trump's own first-term appointee
+
+**Federal Court Ruling (September 24, 2025):**
+
+Judge Ana C. Reyes ruled the firings were **"unlawfully" conducted**, calling the violation of the IG Act "obvious." While the court refused to order reinstatement (noting Trump could re-fire after proper notice), it formally declared the mass terminations **illegal**.
+
+**Pattern of Protecting Elon Musk:**
+
+At least **five fired IGs were investigating Musk companies** (SpaceX, Neuralink, Tesla) or regulatory actions against Musk entities. This represents a systematic effort to eliminate oversight over a senior government official (DOGE head) with massive conflicts of interest.
+
+**Congressional Response:**
+- Sen. Chuck Grassley (R-IA): "30 day notice...not provided"
+- Sen. Susan Collins (R-ME): "I don't understand why...fire individuals whose mission is to root out waste, fraud"
+
+**CIGIE Defunding (October 2025):**
+
+OMB subsequently withheld funds from the Council of the Inspectors General on Integrity and Efficiency (CIGIE), causing:
+- **15+ oversight websites to go offline**
+- **34,000+ investigative reports made inaccessible**
+- **Whistleblower hotlines shut down**
+
+OMB claimed IGs "lied to public" without providing specifics. Sens. Collins and Grassley demanded immediate reversal, with Grassley stating the action undermined transparency and accountability across the federal government.
+
+**Impact on Civil Service Protection:**
+
+The IG firings represented the systematic elimination of the primary institutional safeguard protecting merit-based civil service from political abuse:
+
+1. **Eliminated Watchdogs:** IGs investigate prohibited personnel practices, political retaliation, and abuse of civil service systems
+2. **Silenced Whistleblowers:** Without IG hotlines, federal employees have no protected channel to report political purges
+3. **Ended Accountability:** IG reports documenting Schedule F abuses and political loyalty tests were made inaccessible
+4. **Protected Corrupt Officials:** Investigations of DOGE and other political appointees abusing personnel systems were terminated
+
+**Laws Violated:**
+- **Inspector General Act (5 U.S.C. App. 3 § 3(b))** - Requires 30-day notice and cause
+- **5 USC § 2302** - Prohibited personnel practices (retaliation against those protecting merit system)
+- **Federal court finding:** Firings ruled **"unlawfully" conducted**
+
+**Enforcement Status:**
+
+Despite the federal court ruling that firings were unlawful, **NO officials were held accountable** and **NO IGs were reinstated** as of October 15, 2025. The oversight infrastructure remains dismantled.
+
+**Why This Matters for Civil Service Reform:**
+
+The IG massacre demonstrates that **statutory protections alone are insufficient**. The Inspector General Act had all the right requirements—30-day notice, cause for removal, congressional notification—but the administration simply ignored them and faced no consequences.
+
+**This necessitates the enhanced protections in this chapter:**
+- Criminal penalties for violating IG removal requirements
+- Automatic court review of IG firings
+- Mandatory reinstatement pending judicial determination
+- Independent funding for IG offices that cannot be withheld
+- Protection of CIGIE infrastructure and public access to reports
+
+The restoration of independent oversight is **prerequisite** to rebuilding merit-based civil service. Without IGs to investigate political abuse, Schedule F-style purges will recur.
+
 ### Merit Systems Protection Board (MSPB) Undermining
 - [How MSPB protections were weakened]
 
