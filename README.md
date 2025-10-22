@@ -72,7 +72,8 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 - ✅ **[First 100 Days Checklist](Supporting_Materials/Implementation_Checklists/First_100_Days_Checklist.md)** - Track new administration
 
 **Study Together:**
-- 📚 Study guides (coming soon)
+- 📚 **[Activist Study Guide](Supporting_Materials/Study_Guides/Activist_Study_Guide.md)** - 4-week organizing curriculum
+- 📖 Educator Study Guide (see below)
 
 #### **Legislators & Policymakers**
 
@@ -90,13 +91,12 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 
 **Citations & Evidence:**
 - 📋 **[Evidence Appendix](Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md)** - Documented violations with court rulings
+- 📚 **[Master Bibliography](Supporting_Materials/Master_Bibliography.md)** - Comprehensive legal citations and sources
 - Each chapter has comprehensive references
-- Master bibliography (coming soon)
 
 **Analysis:**
 - [Chapter 28](Section6_Safeguarding_Democracy_And_Accountability/Chapter_28_Legal_Accountability_for_Subversion_of_Democracy.md) - Legal framework analysis
-- [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) - Comparative international analysis
-- Comparative democracy study (coming soon)
+- [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) - Comparative international analysis (includes detailed international precedents)
 
 #### **Media & Journalists**
 
@@ -112,7 +112,7 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 
 **Teaching Resources:**
 - 📖 **[Chapter 11: Education for Citizenship](Section3_The_General_Welfare/Chapter_11_Department_of_Education.md)** - Complete framework
-- Educator study guide (coming soon)
+- 👩‍🏫 **[Educator Study Guide](Supporting_Materials/Study_Guides/Educator_Study_Guide.md)** - Curriculum integration toolkit
 - All chapters include discussion questions
 
 ---
@@ -196,7 +196,7 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 
 #### **Implementation Materials**
 - ✅ **[First 100 Days Checklist](Supporting_Materials/Implementation_Checklists/First_100_Days_Checklist.md)** - Immediate actions
-- 📅 Year 1-4 Checklists (coming soon)
+- 📅 **[Year 1-4 Implementation Roadmap](Supporting_Materials/Implementation_Checklists/Year_1_4_Implementation_Roadmap.md)** - Multi-year tracking with success metrics
 
 #### **One-Pagers** ([View All](Supporting_Materials/One-Pagers/))
 Complete set of 20 individual reform fact sheets:
@@ -223,9 +223,11 @@ Complete set of 20 individual reform fact sheets:
 
 #### **Reference Materials**
 - 👥 **[Advisory Board](Supporting_Materials/Advisory_Board.md)** - Expert contributors
-- 📚 Study Guides (coming soon)
-- 🎯 Activist Toolkit (coming soon)
-- 📖 Master Bibliography (coming soon)
+- 📚 **Study Guides:**
+  - **[Activist Study Guide](Supporting_Materials/Study_Guides/Activist_Study_Guide.md)** - 4-week organizing curriculum
+  - **[Educator Study Guide](Supporting_Materials/Study_Guides/Educator_Study_Guide.md)** - Classroom integration toolkit
+- 🎯 **[Activist Toolkit](Supporting_Materials/Activist_Toolkit.md)** - Templates, scripts, organizing resources
+- 📖 **[Master Bibliography](Supporting_Materials/Master_Bibliography.md)** - Comprehensive legal citations
 
 ---
 

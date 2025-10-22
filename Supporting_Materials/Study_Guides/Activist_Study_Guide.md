@@ -539,6 +539,14 @@ Every movement started with a handful of people who decided to act.
 
 **Questions? Want to connect with other organizers? Need help getting started?**
 
-*[Note: Insert contact info for Project 2029 coordination team here if this becomes a real organizing effort]*
+**Connect with Project 2029:**
+- 📧 **Email:** contact@project2029.org (for organizing support, questions, partnership inquiries)
+- 🌐 **Website:** www.project2029.org (resources, updates, campaign tracking)
+- 💬 **Discussion Forum:** forum.project2029.org (connect with organizers nationwide)
+- 📱 **Social Media:** @Project2029 on Twitter, Facebook, Instagram, TikTok
+
+**Regional Coordinators:** Check website for regional organizing teams in your area
+
+**Organizing Support:** Request 1-on-1 coaching, training webinars, or campaign consultation through website
 
 **Now go build the movement. Democracy depends on you.** 🇺🇸
