@@ -15,6 +15,16 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 4. ✅ **Implement structural safeguards** to prevent future authoritarian threats ([Chapter 29](#chapter-29-structural-safeguards))
 5. ✅ **Restore American democracy** to its constitutional foundations
 
+### **🔥 Aggressive Enforcement Strategy** ([Chapter 31](#chapter-31-constitutional-hardball) - NEW!)
+**Using Full Presidential Authority to Achieve Immediate Wins:**
+- 🔥 **Day 1 Executive Blitz:** Emergency declarations, IRS enforcement, FEC appointments, DOJ priorities
+- 🔥 **Week 1 Power Moves:** Eliminate filibuster, expand Supreme Court, DC/PR statehood
+- 🔥 **Month 1-3 Lock-In:** Pass democracy protection package while you have power
+- 🔥 **Legal Framework:** Every tactic has explicit constitutional/statutory authorization
+- 🔥 **Two-Track Strategy:** Aggressive enforcement NOW + constitutional amendments for permanence
+
+**Why:** Playing by rules your opponent ignores is a losing strategy. Republicans used these tactics to entrench minority rule. We use them to restore majority rule.
+
 ### **Transformative Agenda** ([Chapter 30](#chapter-30-fundamental-transformation) + Integrated Throughout)
 6. 🔥 **[Overturn Citizens United](#1-overturn-citizens-united)** - End corporate money dominance
 7. 🔥 **[Abolish Electoral College](#3-abolish-electoral-college)** - Direct popular vote
@@ -177,6 +187,7 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 28. **[Legal Accountability for Subversion of Democracy](Section6_Safeguarding_Democracy_And_Accountability/Chapter_28_Legal_Accountability_for_Subversion_of_Democracy.md)** - **14,470 words, includes Part I-A with documented violations**
 29. **[Structural Safeguards](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)** - **Includes documented evidence showing need for safeguards**
 30. **[Fundamental Democratic Transformation](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - **18,000 words, THE transformative vision**
+31. **[Constitutional Hardball](Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md)** - **🔥 NEW: Using Full Presidential Authority to Restore Democracy (12,000 words)**
 
 ---
 
@@ -220,6 +231,7 @@ Complete set of 20 individual reform fact sheets:
 18. [Sunset Provisions](Supporting_Materials/One-Pagers/18_Sunset_Provisions.md)
 19. [Civic Education Overhaul](Supporting_Materials/One-Pagers/19_Civic_Education_Overhaul.md)
 20. [Political Deepfake Ban](Supporting_Materials/One-Pagers/20_Political_Deepfake_Ban.md)
+21. [🔥 Constitutional Hardball](Supporting_Materials/One-Pagers/21_Constitutional_Hardball.md) - **NEW: Why Fighting Back with Full Power is Necessary**
 
 #### **Reference Materials**
 - 👥 **[Advisory Board](Supporting_Materials/Advisory_Board.md)** - Expert contributors

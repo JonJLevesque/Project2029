@@ -3,6 +3,8 @@
 
 **President takes office → 100 days to restore democracy**
 
+**⚡ NOW INCLUDES: CONSTITUTIONAL HARDBALL TACTICS** (See [Chapter 31](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md))
+
 ---
 
 ## 🎯 OVERVIEW
@@ -12,12 +14,17 @@ The first 100 days are CRITICAL for:
 2. **Restoring democratic norms** and institutions
 3. **Establishing momentum** for long-term reforms
 4. **Signaling seriousness** to public and allies
+5. **🔥 USING FULL CONSTITUTIONAL AUTHORITY** to lock in democratic reforms
 
-**This checklist is action-oriented:** Each item includes responsible party, timeline, and success metric.
+**This checklist combines:**
+- ✅ **Restorative actions** (undo Project 2025 damage)
+- 🔥 **Aggressive tactics** (constitutional hardball to prevent future subversion)
+
+**⚠️ CRITICAL:** Every day matters. Republicans will fight back hard. Move fast, lock in wins, defend aggressively.
 
 ---
 
-## DAY 1 (Inauguration Day) - EXECUTIVE ORDERS
+## DAY 1 (Inauguration Day) - EXECUTIVE ORDERS & POWER MOVES
 
 ### ☑️ **1. End Political Prosecutions**
 - **Action:** EO directing DOJ to review all ongoing investigations for political taint
@@ -80,20 +87,127 @@ The first 100 days are CRITICAL for:
 
 ---
 
-## WEEK 1 (Days 2-7) - PERSONNEL & IMMEDIATE ACTIONS
+## 🔥 DAY 1 - CONSTITUTIONAL HARDBALL POWER MOVES
 
-### ☑️ **11. Remove Political Operatives from DOJ**
+**[See Chapter 31 for full details and legal framework]**
+
+### ☑️ **11. DECLARE NATIONAL EMERGENCY: Democracy Crisis**
+- **Action:** Invoke National Emergencies Act (50 U.S.C. § 1601)
+- **Justification:** Threat to democratic governance from Project 2025
+- **Powers Unlocked:**
+  - IEEPA: Freeze dark money group assets pending investigation
+  - Defense Production Act: Compel social media transparency
+  - Stafford Act: Deploy federal resources for election security
+- **Responsible:** President (signed proclamation)
+- **Success Metric:** Emergency declaration published in Federal Register
+- **Reference:** Chapter 31, Section II-A
+
+### ☑️ **12. IRS ENFORCEMENT BLITZ: Dark Money Destruction**
+- **Action:** Direct IRS Commissioner to audit top 200 dark money 501(c)(4) groups
+- **Legal Basis:** IRS duty to enforce 26 U.S.C. (groups spending >50% on politics lose tax-exempt status)
+- **Timeline:** Start audits Week 1, complete reviews Month 6
+- **Expected Impact:** $2-3 billion dark money eliminated, force donor disclosure
+- **Responsible:** Treasury Secretary → IRS Commissioner
+- **Reference:** Chapter 31, Section II-B
+
+### ☑️ **13. FEC RECESS APPOINTMENTS: Break the Deadlock**
+- **Action:** Request Senate pro forma recess OR use first actual recess
+- **Appointments:** 3+ aggressive enforcement-minded FEC commissioners
+- **Result:** FEC goes from 3-3 deadlock to pro-enforcement majority
+- **Timeline:** Identify nominees Day 1, appoint during first recess opportunity
+- **Responsible:** President + White House Counsel
+- **Reference:** Chapter 31, Section II-C
+
+### ☑️ **14. DOJ ENFORCEMENT PRIORITIES MEMO**
+- **Action:** AG issues public memo on enforcement priorities
+- **Priorities:**
+  1. FARA violations (unregistered foreign lobbyists) - 500+ targets
+  2. Campaign finance violations (straw donors, coordination)
+  3. Public corruption (congressional insider trading, lobbying violations)
+  4. Voting Rights Act litigation (sue 30+ states simultaneously)
+- **Responsible:** Attorney General
+- **Timeline:** Memo issued Day 1, investigations start Week 1
+- **Reference:** Chapter 31, Section II-D
+
+### ☑️ **15. SEC CORPORATE POLITICAL SPENDING DISCLOSURE RULE**
+- **Action:** Direct SEC to propose rule requiring public companies disclose all political spending
+- **Legal Basis:** Securities Exchange Act § 14(a) - shareholder right to material information
+- **Requirements:** Disclose contributions, lobbying, dark money donations in proxy statements
+- **Timeline:** Propose Month 1, finalize Month 6, effective next proxy season
+- **Expected Impact:** 50%+ drop in corporate political spending due to reputational risk
+- **Responsible:** SEC Chair
+- **Reference:** Chapter 31, Section II-E
+
+---
+
+## WEEK 1 (Days 2-7) - PERSONNEL & STRUCTURAL POWER
+
+### 🔥 **16. ELIMINATE THE FILIBUSTER (Senate Day 1)**
+- **Action:** Senate Majority Leader raises point of order: cloture requires only 51 votes (not 60)
+- **Legal Basis:** Article I, Section 5 - "Each House may determine the Rules of its Proceedings"
+- **Process:**
+  1. Presiding officer (VP or President Pro Tem) rules on point of order
+  2. If ruled against, majority appeals, wins with 51 votes
+  3. Filibuster eliminated for all legislation
+- **Impact:** UNLOCKS entire reform agenda - all bills need only 51 votes
+- **Justification:** Republicans already eliminated filibuster for SCOTUS nominees; extending to legislation is justified
+- **Responsible:** Senate Majority Leader + Vice President (as President of Senate)
+- **Success Metric:** Senate rules changed, first bill passes with 51 votes
+- **Reference:** Chapter 31, Section III-A
+
+### 🔥 **17. SUPREME COURT EXPANSION TO 13 JUSTICES**
+- **Action:** Introduce Judiciary Act of 2029 expanding Court from 9 to 13 justices
+- **Legal Basis:** Congress has plenary power to set Court size (changed 6 times historically)
+- **Justification:** Match 13 federal circuit courts (1 justice per circuit); restore balance after Garland seat theft
+- **Timeline:**
+  - Week 1: Introduce bill
+  - Month 1: Pass via simple majority (filibuster eliminated)
+  - Month 2: Nominate 4 new justices
+  - Month 3-4: Confirm all 4 (simple majority)
+- **Result:** Court goes from 6-3 conservative to 7-6 liberal majority
+- **Responsible:** Senate Judiciary Chair + President
+- **Success Metric:** Bill passes Senate and House, President signs
+- **Reference:** Chapter 31, Section III-B
+
+### 🔥 **18. DC STATEHOOD BILL**
+- **Action:** Pass HR 51 (Washington, D.C. Admission Act)
+- **Legal Basis:** Article IV, Section 3 - "New States may be admitted by the Congress"
+- **Process:** Carve out federal district (Capitol, White House, Mall), remaining residential areas become 51st state
+- **Impact:** 2 new Democratic senators, 1 House member; DC residents gain representation
+- **Timeline:** Introduce Week 1, pass Month 1
+- **Responsible:** House + Senate leadership
+- **Reference:** Chapter 31, Section III-C
+
+### 🔥 **19. PUERTO RICO STATEHOOD BILL**
+- **Action:** Pass Puerto Rico statehood bill (contingent on referendum approval)
+- **Impact:** 2 new senators (likely 1 D, 1 R), 4-5 House members
+- **Combined with DC:** 4 new senators total, makes Republican Senate majority much harder
+- **Timeline:** Introduce Week 1, pass Month 2
+- **Responsible:** House + Senate leadership
+- **Reference:** Chapter 31, Section III-C
+
+### ☑️ **20. BINDING ETHICS CODE FOR SUPREME COURT**
+- **Action:** Pass legislation imposing ethics code on SCOTUS
+- **Requirements:** Financial disclosure, recusal standards, ban on political activity, independent enforcement
+- **Legal Basis:** Article III allows Congress to regulate courts
+- **Timeline:** Introduce Week 1, pass Month 3
+- **Responsible:** Senate Judiciary Committee
+- **Reference:** Chapter 31, Section III-D
+
+---
+
+### ☑️ **21. Remove Political Operatives from DOJ**
 - **Action:** Request resignations of politically appointed prosecutors
 - **Responsible:** Attorney General
 - **Timeline:** Complete within 7 days
 - **Reference:** Chapter 17
 
-### ☑️ **12. Restore Career Prosecutor Authority**
+### ☑️ **22. Restore Career Prosecutor Authority**
 - **Action:** Reinstate career prosecutors' decision-making autonomy
 - **Responsible:** AG → Deputy AG
 - **Reference:** Chapter 17
 
-### ☑️ **13. Launch Voting Rights Initiative**
+### ☑️ **23. Launch Voting Rights Initiative**
 - **Action:** DOJ Civil Rights Division priority announcement
 - **Responsible:** Assistant AG (Civil Rights) + Voting Section Chief
 - **Details:** Announce investigations into voter suppression in 20+ states
