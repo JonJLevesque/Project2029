@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Section 6: Safeguarding Democracy"
-nav_order: 60
-has_children: true
+title: "Section 6: Democracy"
+nav_order: 9
 ---
 
 # Section 6: Safeguarding Democracy and Accountability

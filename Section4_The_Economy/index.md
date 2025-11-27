@@ -1,8 +1,7 @@
 ---
 layout: default
 title: "Section 4: The Economy"
-nav_order: 40
-has_children: true
+nav_order: 7
 ---
 
 # Section 4: The Economy

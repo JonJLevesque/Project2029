@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Section 2: The Common Defense"
-nav_order: 20
-has_children: true
+title: "Section 2: Common Defense"
+nav_order: 5
 ---
 
 # Section 2: The Common Defense

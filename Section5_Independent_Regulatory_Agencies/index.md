@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Section 5: Independent Regulatory Agencies"
-nav_order: 50
-has_children: true
+title: "Section 5: Regulatory Agencies"
+nav_order: 8
 ---
 
 # Section 5: Independent Regulatory Agencies

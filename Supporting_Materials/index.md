@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Supporting Materials
-nav_order: 70
-has_children: true
+nav_order: 10
 ---
 
 # Supporting Materials
