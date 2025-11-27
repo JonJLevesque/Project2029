@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Section 3: General Welfare"
-nav_order: 6
+title: "Section 3: The General Welfare"
+nav_order: 30
+has_children: true
 ---
 
 # Section 3: The General Welfare

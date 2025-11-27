@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Section 1: Good Governance"
-nav_order: 4
+title: "Section 1: Restoring Good Governance"
+nav_order: 10
+has_children: true
 ---
 
 # Section 1: Restoring Good Governance
