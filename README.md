@@ -1,8 +1,6 @@
 # Project 2029: A Mandate for Restorative + Transformative Democratic Renewal
 
-**Quick Navigation:** [Overview](#overview) · [How to Use](#how-to-use-this-repository) · [Document Structure](#complete-document-structure) · [Key Resources](#key-resources-quick-access) · [29 Reforms](#the-29-transformative-reforms) · [Supporting Materials](#supporting-materials-index) · [Get Started](#get-started-now)
-
-*[☕ Support this project](https://buymeacoffee.com/project2029)*
+**Quick Navigation:** [Overview](#overview) · [How to Use](#how-to-use-this-repository) · [Document Structure](#complete-document-structure) · [Key Resources](#key-resources-quick-access) · [29 Reforms](#the-29-transformative-reforms) · [Supporting Materials](#supporting-materials-index) · [Get Started](#get-started-now) · [☕ Support](https://buymeacoffee.com/project2029)
 
 ---
 
