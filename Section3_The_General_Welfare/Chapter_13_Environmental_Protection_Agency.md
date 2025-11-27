@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 13: EPA"
+parent: "Section 3: The General Welfare"
+nav_order: 13
+---
+
 # Chapter 13: Environmental Protection Agency
 
 ## Executive Summary

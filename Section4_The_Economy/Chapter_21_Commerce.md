@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 21: Commerce"
+parent: "Section 4: The Economy"
+nav_order: 21
+---
+
 # Chapter 21: Department of Commerce
 
 ## Executive Summary

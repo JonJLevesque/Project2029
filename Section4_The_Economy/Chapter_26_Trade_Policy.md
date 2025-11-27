@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 26: Trade Policy"
+parent: "Section 4: The Economy"
+nav_order: 26
+---
+
 # Chapter 26: Trade Policy
 
 ## Executive Summary

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 6: Department of State"
+parent: "Section 2: The Common Defense"
+nav_order: 6
+---
+
 # Chapter 6: Department of State
 
 ## Executive Summary

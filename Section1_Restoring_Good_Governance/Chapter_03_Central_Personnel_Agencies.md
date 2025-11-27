@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 3: Central Personnel Agencies"
+parent: "Section 1: Restoring Good Governance"
+nav_order: 3
+---
+
 # Chapter 3: Central Personnel Agencies - Rebuilding the Civil Service
 
 ## Executive Summary

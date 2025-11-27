@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 25: Small Business"
+parent: "Section 4: The Economy"
+nav_order: 25
+---
+
 # Chapter 25: Small Business Administration
 
 ## Executive Summary

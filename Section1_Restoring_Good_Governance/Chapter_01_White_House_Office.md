@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 1: White House Office"
+parent: "Section 1: Restoring Good Governance"
+nav_order: 1
+---
+
 # Chapter 1: White House Office
 
 ## Executive Summary

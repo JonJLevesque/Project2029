@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 9: USAID"
+parent: "Section 2: The Common Defense"
+nav_order: 9
+---
+
 # Chapter 9: U.S. Agency for International Development (USAID)
 
 ## Executive Summary

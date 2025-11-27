@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 14: Health & Human Services"
+parent: "Section 3: The General Welfare"
+nav_order: 14
+---
+
 # Chapter 14: Department of Health and Human Services
 
 ## Executive Summary

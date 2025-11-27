@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 16: Interior"
+parent: "Section 3: The General Welfare"
+nav_order: 16
+---
+
 # Chapter 16: Department of the Interior
 
 ## Executive Summary

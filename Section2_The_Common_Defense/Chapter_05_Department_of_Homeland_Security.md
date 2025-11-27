@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 5: Homeland Security"
+parent: "Section 2: The Common Defense"
+nav_order: 5
+---
+
 # Chapter 5: Department of Homeland Security
 
 ## Executive Summary

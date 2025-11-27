@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 15: Housing (HUD)"
+parent: "Section 3: The General Welfare"
+nav_order: 15
+---
+
 # Chapter 15: Department of Housing and Urban Development
 ## Social Housing and the Right to a Home
 

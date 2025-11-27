@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 30: Transformation"
+parent: "Section 6: Safeguarding Democracy"
+nav_order: 30
+---
+
 # Chapter 30: Fundamental Democratic Transformation
 
 ## Executive Summary

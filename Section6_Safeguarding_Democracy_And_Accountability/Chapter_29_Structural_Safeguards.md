@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 29: Structural Safeguards"
+parent: "Section 6: Safeguarding Democracy"
+nav_order: 29
+---
+
 # Chapter 29: Structural Safeguards to Prevent Future Democratic Subversion
 
 ## Executive Summary

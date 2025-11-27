@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 22: Treasury"
+parent: "Section 4: The Economy"
+nav_order: 22
+---
+
 # Chapter 22: Department of the Treasury
 ## Tax Fairness and Wealth Inequality Transformation
 
