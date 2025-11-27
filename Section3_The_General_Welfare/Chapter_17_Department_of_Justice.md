@@ -349,6 +349,53 @@ DOJ must lead enforcement while Citizens United constitutional amendment proceed
 - Gift ban enforcement
 - Debarment from lobbying for violations
 
+**Foreign Lobby Registration Enforcement:**
+
+The Foreign Agents Registration Act (22 U.S.C. § 611 et seq.) requires organizations acting as agents of foreign principals to register with DOJ. **AIPAC (American Israel Public Affairs Committee) and similar organizations must register as foreign lobbies** when they coordinate activities with, receive direction from, or advance the interests of foreign governments.
+
+**AIPAC Foreign Lobby Registration Requirement:**
+
+*Legal Basis:*
+- 22 U.S.C. § 611(c): Defines "agent of a foreign principal" as any person who acts "at the order, request, or under the direction or control" of a foreign principal
+- 22 U.S.C. § 612(a): Registration requirement for all foreign agents
+- DOJ has statutory duty to enforce FARA registration
+
+*Enforcement Actions:*
+- **Immediate FARA compliance review** of AIPAC and similarly-situated organizations
+- **Criteria for registration determination:**
+  - Coordination with foreign government officials on policy positions
+  - Receipt of direction or talking points from foreign governments
+  - Representation of foreign government interests to U.S. officials
+  - Financial ties to foreign governments or their entities
+  - Acting to influence U.S. policy for benefit of foreign principal
+- **Registration required when ANY criteria met** (not all)
+- Civil penalties: Up to $10,000 per violation
+- Criminal penalties: Up to 5 years imprisonment for willful violations (22 U.S.C. § 618)
+- No exemptions for organizations claiming to represent U.S. citizens when coordinating with foreign governments
+
+*Scope Beyond AIPAC:*
+- All organizations lobbying for foreign government interests must register
+- Includes lobbies representing: Turkey, Saudi Arabia, UAE, China, Hungary, etc.
+- Retroactive compliance review for organizations that should have registered historically
+- **Estimated 40-60 organizations** currently lobbying as domestic entities while coordinating with foreign governments
+
+*Transparency Requirements (22 U.S.C. § 614):*
+- Semi-annual disclosure of all activities
+- Financial reporting of foreign government funding
+- Disclosure of all contacts with U.S. officials
+- Public database of all registered foreign agents (DOJ maintains at www.fara.gov)
+- Mandatory labeling of all communications as from registered foreign agent
+
+*Timeline:*
+- **Day 1-30:** Announce comprehensive FARA enforcement initiative
+- **Month 2-3:** Issue formal compliance inquiry letters to AIPAC and 40+ similar organizations
+- **Month 4-6:** Registration determinations and compliance orders
+- **Month 7+:** Enforcement actions against non-compliant organizations
+- **Year 1:** Congressional testimony on FARA compliance gaps and need for strengthening legislation
+
+*Rationale:*
+Organizations coordinating with foreign governments to influence U.S. policy—regardless of whether they also claim to represent U.S. citizens—must register as foreign agents. This is foundational to democratic transparency: Americans have the right to know when organizations lobbying Congress are acting at the direction of foreign governments. FARA enforcement has been historically weak, allowing numerous organizations to operate as domestic lobbies while advancing foreign government interests. **Equal enforcement without political or diplomatic exception is required by law.**
+
 **Enforcement Actions:**
 - Lifetime lobbying bans for serious violations
 - Criminal penalties: up to 5 years for knowing violations
@@ -363,43 +410,373 @@ DOJ must lead enforcement while Citizens United constitutional amendment proceed
 - Rewards for significant disclosures
 - Multiple reporting channels
 
-### V. Criminal Justice Reform
+### V. Criminal Justice Transformation
 
-**Sentencing Reform:**
+**Core Principle: Justice Is a Public Function, Not a Private Profit Center**
+
+Incarceration, detention, supervision, and bail are government functions. When private corporations profit from locking people up, they have incentives to lock up more people, longer. This is fundamentally incompatible with justice.
+
+---
+
+#### A. Private Prison Abolition
+
+**The Problem:**
+
+**Private Prisons Create Perverse Incentives:**
+- Profit motive encourages longer sentences, more incarceration
+- Lobbying for harsh sentencing laws (documented: ALEC, CCA/CoreCivic)
+- Cost-cutting reduces rehabilitation, healthcare, safety
+- Higher violence rates, worse conditions
+- No accountability to public
+- **$5+ billion industry built on human suffering**
+
+**The Numbers:**
+- ~8% of federal prisoners in private facilities (~14,000 people)
+- ~8% of state prisoners in private facilities (~100,000 people)
+- ~80% of immigration detainees in private facilities (~30,000 daily)
+- Two companies dominate: CoreCivic (formerly CCA) and GEO Group
+- Both spend millions lobbying for harsh immigration and criminal policies
+
+**Day 1 Executive Action: End Federal Private Prison Contracts**
+
+**Executive Order on Private Incarceration:**
+- Direct Bureau of Prisons (BOP) to not renew any private prison contracts
+- Direct US Marshals Service to phase out private detention contracts
+- Direct ICE to end private immigration detention contracts
+- Timeline: No new contracts immediately; existing contracts expire without renewal (2-3 year phase-out)
+
+**Legal Basis:**
+- Executive authority over federal contracting (Federal Acquisition Regulation)
+- Biden did this in 2021 (EO 14006); Trump reversed; we reinstate and strengthen
+- President controls executive agencies and their contracting decisions
+
+**Implementation Plan:**
+
+| Phase | Timeline | Action |
+|-------|----------|--------|
+| Immediate | Day 1 | EO prohibiting new contracts; notify contractors |
+| 6 months | | Transfer planning for BOP facilities |
+| Year 1 | | 50% reduction in private prison population |
+| Year 2 | | All federal prisoners in government facilities |
+| Year 3 | | All ICE detainees in government facilities or released |
+
+**What Happens to Existing Prisoners:**
+- Transfer to federal facilities (BOP has capacity)
+- Build/acquire additional federal facilities as needed
+- Prioritize release of non-violent offenders (reduces population)
+- No one remains in private facility after contract expires
+
+**What Happens to Facilities:**
+- Government can purchase facilities at fair market value
+- Or let contracts expire and consolidate into federal facilities
+- No obligation to maintain private facilities
+
+**What Happens to Staff:**
+- BOP hiring preference for former private prison staff who meet standards
+- Retraining and transition assistance
+- Union rights (private prison staff often non-union)
+
+**Federal Legislation: Private Prison Prohibition Act**
+
+**Permanent Ban:**
+- Prohibit federal government from contracting with private prisons
+- Prohibit federal funding for state/local private prison contracts
+- Apply to all forms of detention: prisons, jails, halfway houses, immigration detention, juvenile facilities
+- No exceptions, no waivers
+
+**Incentives for States:**
+- **Byrne JAG grants:** States must eliminate private prisons to receive
+- **SCAAP funds:** Immigration assistance tied to ending private detention
+- **DOJ civil rights oversight:** Private facilities face enhanced scrutiny
+
+**Constitutional Authority:**
+- Spending Clause: Condition federal funds on state compliance
+- Commerce Clause: Interstate prison industry, federal contractors
+
+---
+
+#### B. Private Immigration Detention Abolition
+
+**The Immigration Detention Crisis:**
+- ICE detains 30,000+ people daily
+- 80%+ in private facilities (GEO Group, CoreCivic)
+- Detention is civil, not criminal—yet conditions often worse than prisons
+- Deaths, abuse, medical neglect documented extensively
+- **$3+ billion annually to private contractors**
+
+**Alternative to Detention (ATD) First:**
+- Community supervision programs: 99% appearance rate at 1/10th the cost
+- GPS monitoring where necessary
+- Case management and legal support
+- Reserve detention for genuine flight risks or safety threats
+- **Most asylum seekers don't need to be detained**
+
+**Implementation:**
+- ICE directive: ATD as default, detention as last resort
+- Reduce detention population 75% in Year 1
+- Remaining detainees in government facilities only
+- Close private immigration detention centers
+
+**Legal Basis:**
+- Executive authority over immigration enforcement
+- DHS can set detention priorities
+- No statute requires private detention
+
+---
+
+#### C. Cash Bail Elimination
+
+**The Problem:**
+
+**Cash Bail Is Wealth-Based Detention:**
+- Can't afford $500 bail? Sit in jail for months awaiting trial
+- Can afford $500,000 bail? Go home tonight
+- **470,000 people in jail awaiting trial** (not convicted of anything)
+- 74% of jail population is pretrial (legally innocent)
+- Bail bond industry: $2 billion annually profiting from poverty
+
+**The Consequences:**
+- Job loss (miss work while detained)
+- Housing loss (can't pay rent)
+- Family separation
+- Coerced guilty pleas (plead guilty to go home vs. wait months for trial)
+- Racial disparities: Black defendants set higher bail than white defendants for same charges
+- **Detention of legally innocent people solely because they're poor**
+
+**Federal Cash Bail Elimination:**
+
+**Day 1 Executive Action:**
+- Direct DOJ to implement pretrial reform in federal system
+- Release all federal pretrial detainees held solely on money bail
+- Replace with risk assessment and pretrial services
+
+**Federal Pretrial Services:**
+- Risk assessment (validated, bias-tested instruments)
+- Release presumption for non-violent offenses
+- Pretrial supervision where needed
+- Court reminders (90%+ of missed appearances are mistakes, not flight)
+- Detention only for genuine danger or flight risk (judicial finding required)
+
+**Federal Legislation: Pretrial Integrity and Safety Act**
+
+**Federal System Reform:**
+- Eliminate cash bail in federal system entirely
+- Risk-based release decisions
+- Detention hearings with counsel
+- Speedy trial enforcement (release if trial delayed by government)
+
+**State Incentives:**
+- Condition Byrne JAG grants on bail reform
+- Provide federal funding for pretrial services programs
+- Technical assistance for implementation
+- Data collection on outcomes
+
+**Models:**
+- Washington, D.C.: No cash bail since 1992; 88% appearance rate, 12% rearrest rate
+- New Jersey: Near-elimination of cash bail; jail population dropped 44%
+- Kentucky: Risk assessment with pretrial services; high success rates
+
+**Constitutional Authority:**
+- Eighth Amendment: "Excessive bail shall not be required"
+- Due process: Detention of innocent people without hearing
+- Equal protection: Wealth-based discrimination
+
+---
+
+#### D. Private Probation/Parole Abolition
+
+**The Scandal:**
+
+**"Offender-Funded" Justice:**
+- Private probation companies charge fees to people on probation
+- Miss a payment? Go to jail (debtors' prison, unconstitutional but common)
+- Companies profit from extending supervision
+- No incentive to help people succeed
+- **Modern debtors' prison operated for private profit**
+
+**The Numbers:**
+- 10+ states allow private probation
+- ~300,000 people on private probation
+- Fees: $30-50/month supervision + drug tests, classes, etc.
+- Total cost to individuals: $1,000+ annually on poverty wages
+
+**Federal Action:**
+- No federal funding for states using private probation
+- DOJ Civil Rights Division investigation of private probation companies
+- Pattern-or-practice suits against abusive systems
+- Support state legislation banning private probation
+
+---
+
+#### E. Death Penalty Abolition
+
+**Beyond Moratorium to Abolition:**
+
+**The Case for Abolition:**
+- **Irreversible:** 190+ death row exonerations (how many innocents executed?)
+- **Arbitrary:** Same crime, different outcomes based on race, geography, quality of counsel
+- **Discriminatory:** Killers of white victims far more likely to get death penalty
+- **Expensive:** Death penalty cases cost 3-4x more than life imprisonment
+- **Ineffective:** No deterrent effect demonstrated
+- **Isolated:** US is only Western democracy with death penalty
+- **Declining:** Executions, death sentences, public support all declining
+
+**Day 1 Executive Action: Permanent Federal Moratorium**
+- Continue moratorium on federal executions
+- Commute all federal death sentences to life imprisonment
+- Direct DOJ to not seek death penalty in any case
+
+**Federal Legislation: Federal Death Penalty Abolition Act**
+- Repeal all federal death penalty statutes
+- Convert existing death sentences to life imprisonment
+- Prohibit future federal death sentences
+- Provide resources for state abolition efforts
+
+**State Incentives:**
+- Bonus Byrne JAG funding for abolition states
+- DOJ support for states pursuing abolition
+- Model legislation and technical assistance
+
+**Current Status:**
+- 23 states have abolished death penalty
+- 27 states retain (but many with moratoriums or no executions)
+- Trend is clear: abolition advancing
+
+---
+
+#### F. Sentencing Reform Expansion
 
 **End Mass Incarceration:**
-- First Step Act full implementation and expansion
-- Compassionate release expansion
-- Elderly offender release
+
+**The Problem:**
+- US: 2 million incarcerated (highest rate in world)
+- 5% of world population, 25% of world's prisoners
+- Sentences far longer than other democracies
+- Mandatory minimums remove judicial discretion
+- Three-strikes laws produce life sentences for minor offenses
+- **Mass incarceration costs $80+ billion annually**
+
+**Federal Sentencing Reform:**
+
+**First Step Act Expansion:**
+- Retroactive application of all reforms
+- Expand earned time credits
+- Expand compassionate release
+- More programs qualify for time reduction
+
+**Mandatory Minimum Reform:**
+- Eliminate most mandatory minimums (judicial discretion)
+- Safety valve expansion (judges can go below mandatory minimum)
+- Retroactive application
+- Exception: Only for most serious violent offenses
+
+**Sentencing Guideline Reform:**
+- Commission review of all guidelines
+- Reduce recommended ranges
+- Consider rehabilitation, not just punishment
+- Account for collateral consequences
+
+**Crack/Powder Disparity Elimination:**
+- Equal treatment (1:1 ratio)
+- Retroactive resentencing for all crack offenses
+- Release of those who would have served less under equal treatment
+
+**Federal Legislation: Sentencing Reform and Corrections Act**
+
+**Key Provisions:**
+- Mandatory minimum reform (reduce/eliminate)
 - Sentencing guideline reform
-- Mandatory minimum reduction
+- Expanded early release mechanisms
+- Retroactive application
+- Reentry support funding
 
-**Clemency Process:**
-- Restore Obama clemency initiative
-- Transparent criteria
-- Adequate staffing
-- Regular reviews
-- Presidential pardon/commutation use
+---
 
-**Death Penalty Moratorium:**
-- Federal executions suspended
-- Capital cases resentencing review
-- Innocence claims investigation
-- Abolition legislation support
+#### G. Drug Policy Reform
 
-**Drug Policy Reform:**
-- Marijuana enforcement deprioritization
-- Harm reduction approach
-- Treatment over incarceration
-- Crack/powder disparity elimination
-- Overdose prevention (Good Samaritan laws)
+**Treatment, Not Incarceration:**
 
-**Reentry and Rehabilitation:**
-- Reentry program investment
-- Ban the box support
-- Expungement and sealing
-- Voting rights restoration
-- Employment and housing barriers reduction
+**Marijuana:**
+- Federal decriminalization (remove from Schedule I)
+- Expungement of federal marijuana convictions
+- Support state legalization efforts
+- End federal interference with state-legal marijuana
+
+**Harm Reduction:**
+- Needle exchange programs (save lives, reduce HIV/Hepatitis)
+- Supervised consumption sites (overdose prevention)
+- Naloxone distribution (reverse overdoses)
+- Good Samaritan laws (call 911 without fear of arrest)
+
+**Treatment Over Prison:**
+- Diversion programs for drug offenses
+- Treatment courts
+- Federal funding for treatment infrastructure
+- End prosecution of possession for personal use
+
+---
+
+#### H. Reentry and Rehabilitation
+
+**Second Chances:**
+
+**Ban the Box (Federal):**
+- Executive order for federal hiring (already exists; strengthen)
+- Federal contractors must ban the box
+- Incentives for private sector
+
+**Expungement and Sealing:**
+- Automatic expungement of marijuana convictions
+- Expanded sealing eligibility
+- Reduce waiting periods
+- Make process accessible
+
+**Voting Rights Restoration:**
+- Federal elections: Right to vote restored upon release
+- Incentivize states to restore voting rights
+- End felony disenfranchisement (13% of Black men can't vote in some states)
+
+**Employment Barriers:**
+- Reduce occupational licensing barriers
+- EEOC guidance on criminal background checks
+- Bonding programs for employers
+
+**Housing Barriers:**
+- HUD guidance on criminal background screening
+- Fair chance housing policies
+- Support for reentry housing
+
+---
+
+#### I. Day 1 Criminal Justice Executive Actions
+
+| Action | Authority | Impact |
+|--------|-----------|--------|
+| End private prison contracts | Federal contracting | 14,000+ transferred to federal facilities |
+| End private ICE detention contracts | DHS authority | 30,000+ to ATD or release |
+| Federal death penalty moratorium | Prosecutorial discretion | No federal executions |
+| Commute federal death sentences | Clemency power | ~40 lives saved |
+| Federal bail reform | DOJ policy | Pretrial release default |
+| Marijuana enforcement deprioritization | Prosecutorial discretion | End federal marijuana prosecutions |
+| Clemency initiative | Clemency power | Thousands released |
+| BOP rehabilitation expansion | Agency authority | More programs, earlier release |
+
+---
+
+#### J. Success Metrics
+
+| Metric | Current | Target (Year 4) |
+|--------|---------|-----------------|
+| Federal prisoners in private facilities | 14,000 | 0 |
+| ICE detainees in private facilities | 25,000 | 0 |
+| Federal pretrial detention (money bail) | 40%+ | <10% |
+| Federal incarceration rate | 64/100K | 40/100K |
+| Clemency grants (annual) | <500 | 5,000+ |
+| Federal marijuana prosecutions | 3,000+ | 0 |
+| Federal death row population | ~40 | 0 |
+| States with abolished death penalty | 23 | 30+ |
+
+---
 
 ### VI. National Security Division Balance
 

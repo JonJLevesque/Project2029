@@ -64,6 +64,8 @@ Constitutional amendments take 7-10 years. **We can't wait.** While pursuing lon
 
 - **DC Statehood:** Adds 3 electoral votes that will go to popular vote winner (DC votes 90%+ Democratic). Legal basis: Article IV, Section 3 - simple majority Congress vote.
 
+- **Puerto Rico Statehood:** Adds 5 electoral votes (3.2 million U.S. citizens currently without presidential vote). Condition: binding referendum approval. Legal basis: Article IV, Section 3 - 37 states admitted this way.
+
 **With Amendment (Years 7-10):**
 - Direct popular vote enshrined in Constitution
 - Can't be reversed by state withdrawals from Compact
@@ -441,6 +443,100 @@ While constitutional amendment proceeds, the **National Popular Vote Interstate 
 
 **Goal:** Next generation understands democratic equality principle.
 
+### Statehood for Territories: Full Democratic Representation
+
+**3.5+ million Americans cannot vote for President.** This is indefensible in a democracy.
+
+#### DC Statehood
+
+**The Problem:**
+- 712,000 D.C. residents have no voting representation in Congress
+- Taxation without representation (D.C. pays more federal taxes per capita than any state)
+- Congress can override local laws (used repeatedly by Republicans)
+- One non-voting delegate in the House
+
+**The Solution:**
+- Admit as 51st state (Washington, Douglass Commonwealth)
+- 2 senators, 1+ representative, 3 electoral votes
+- Retain federal district for Capitol/White House/monuments (shrink to essential)
+
+**Legal Basis:**
+- Article IV, Section 3: Congress can admit new states by simple majority
+- 37 states admitted since founding using this process
+- No constitutional barrier
+
+**Timeline:**
+- Pass statehood bill in Year 1 (requires filibuster elimination)
+- Implement by Year 2
+
+#### Puerto Rico Statehood
+
+**The Problem:**
+- 3.2 million U.S. citizens in Puerto Rico cannot vote for President
+- No voting representation in Congress (1 non-voting Resident Commissioner)
+- Subject to federal laws without federal representation
+- Colonial status—unincorporated territory since 1898
+- PROMESA fiscal control board (imposed without democratic consent)
+
+**The Democratic Case:**
+- Multiple referendums have shown majority support for statehood (2012, 2017, 2020)
+- 2020 referendum: 52.5% voted YES for statehood
+- Self-determination principle requires honoring expressed preference
+- Full American citizenship should mean full American rights
+
+**Statehood Framework:**
+- **Condition:** Final binding referendum with clear majority for statehood
+- **Process:** Congress admits under Article IV, Section 3 (simple majority)
+- **Representation:** 5 electoral votes, 2 senators, 4-5 representatives
+- **Timeline:** Referendum Year 1, admission process Years 2-3
+- **Transition:** Phase-in of federal programs, tax integration over 5-10 years
+
+**Addressing Concerns:**
+
+**"Puerto Rico should decide first"**
+- They have. Multiple times. 2020 was clearest: 52.5% for statehood.
+- Legitimate concern about referendum design is addressed by requiring another binding vote
+
+**"Language and culture"**
+- 32 states have no official language
+- Federal government has no official language
+- Statehood doesn't require English-only
+- New Mexico is officially bilingual
+
+**"Economic burden"**
+- Puerto Ricans already pay federal taxes (payroll, etc.)
+- Statehood would expand federal programs (Medicare, Medicaid, SNAP)
+- Cost: ~$2-3 billion annually (comparable to small states)
+- Economic development from full federal investment would offset
+
+**"Political impact"**
+- Yes, likely Democratic-leaning (like DC)
+- But: Democracy shouldn't exclude citizens based on expected voting patterns
+- Republicans won Puerto Rico governorship in 2016
+- Political alignment can change
+
+**Constitutional Authority:**
+- Article IV, Section 3: Congress can admit new states
+- Precedent: 37 states admitted since founding
+- No constitutional barrier to admission
+- Supreme Court has never struck down state admission
+
+**Implementation:**
+- **Year 1:** Federal legislation authorizing final statehood referendum
+- **Year 2:** Referendum held in Puerto Rico (simple majority)
+- **Year 3:** If YES, admission process begins (transition provisions)
+- **Year 4:** Statehood effective, first congressional elections
+
+#### Other Territories
+
+**U.S. Virgin Islands, Guam, American Samoa, Northern Mariana Islands** should have self-determination votes on their future status (statehood, independence, free association, or territorial status). Federal policy should support whatever their residents choose.
+
+**Success Metrics:**
+- DC and Puerto Rico admitted as states by Year 4
+- 8.5+ million Americans gain full voting rights
+- Congress reflects actual American population
+- Electoral College includes 8+ new electoral votes
+
 ---
 
 ## IV. Comprehensive Lobbying Reform: End Legalized Corruption
@@ -471,6 +567,13 @@ Current lobbying system allows:
 - **10-year ban on lobbying** federal government generally
 - **Applies to all forms of lobbying:** direct, grassroots coordination, strategic advice
 - **Foreign lobbying permanently banned**
+
+**Foreign Lobby Registration (Cross-reference Chapter 17):**
+- **AIPAC and similar organizations must register as foreign lobbies** under FARA (Foreign Agents Registration Act, 22 U.S.C. § 611 et seq.) when coordinating with foreign governments
+- DOJ comprehensive FARA compliance review for 40-60 organizations currently lobbying as domestic entities while advancing foreign government interests
+- Criminal penalties up to 5 years for willful FARA violations
+- **Equal enforcement without political or diplomatic exception**
+- See Chapter 17 for full FARA enforcement framework
 
 **For Senior Congressional Staff:**
 - **10-year ban on lobbying** Congress
@@ -1174,6 +1277,10 @@ Current system allows:
 
 ### Universal Healthcare (Cross-reference Chapter 14: HHS)
 
+**Core Principle: Healthcare Is a Public Good, Not a Private Profit Center**
+
+The United States spends more on healthcare than any other nation—yet has worse outcomes. Why? Because we treat healthcare as a commodity to be bought and sold, not a right to be guaranteed. Private insurance companies extract $200+ billion annually in profits and administrative costs that provide zero healthcare.
+
 **Medicare for All (Single-Payer):**
 
 **Coverage:**
@@ -1189,17 +1296,39 @@ Current system allows:
 - **Total cost: $3.5-4 trillion annually**
 - **Saves money:** Currently spend $4.5 trillion on healthcare (waste, admin, profit)
 
+**Eliminating For-Profit Health Insurance:**
+
+**Why For-Profit Insurance Must End:**
+- Insurance companies profit by denying care
+- 30% of premiums go to admin, marketing, profits, CEO pay
+- Billions spent on claims denial, prior authorization bureaucracy
+- **Every dollar to shareholders is a dollar not spent on care**
+- Perverse incentive: healthy customers = profit; sick customers = loss
+
+**What Changes:**
+- **For covered services:** Private insurance prohibited (no duplicate coverage)
+- **For supplemental services:** Private insurance allowed (cosmetic, single rooms, etc.)
+- **Insurance workers:** Transition assistance (5-year support, retraining, job placement)
+- **Insurance companies:** Can convert to Medicare administrators or supplemental providers
+
+**Not "Government Takeover"—Government Insurance:**
+- You choose your doctor (any doctor accepts Medicare)
+- Hospitals remain private or public (their choice)
+- No government employees delivering care
+- Government pays the bills, like fire insurance for your home
+
 **Transition:**
 - 4-year phase-in
 - Medicare eligibility lowered incrementally (55+, then 45+, 35+, all)
-- Private insurance remains for supplemental only
 - Public option bridge (year 1-4)
+- Private insurance prohibited for covered services after full implementation
 
 **Benefits:**
 - Universal coverage (100% insured)
 - Lower costs (single-payer efficiency, negotiating power)
 - Better outcomes (prevention emphasized, no delayed care)
-- Freedom (job mobility, no tied to employer for insurance)
+- Freedom (job mobility, not tied to employer for insurance)
+- **No one profits from denying you care**
 
 ### Universal Education (Cross-reference Chapter 11: Education)
 
@@ -1329,7 +1458,13 @@ Current system allows:
 - Carbon tax: $100 billion
 - Close corporate tax loopholes: $100 billion
 - Military budget reallocation: $100 billion (reduce from $850B to $750B)
-- **Total new revenue: $725 billion**
+- **Church taxation & 501(c)(3) reform (Cross-reference Chapter 22):** $30-50 billion
+  - Tax-exempt status requires 67% of gross revenue distributed to direct charitable activities
+  - Churches operating as businesses taxed like businesses
+  - Organizations accumulating wealth rather than serving communities pay corporate taxes
+  - Additional $40-60 billion state/local property tax revenue
+  - See Chapter 22 for complete framework
+- **Total new revenue: $755-775 billion**
 
 **Result: Fully funded with surplus for other priorities**
 

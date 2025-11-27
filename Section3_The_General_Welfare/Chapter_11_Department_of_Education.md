@@ -363,6 +363,474 @@ This is not indoctrination—it's equipping citizens with the skills democracy d
 - Culturally relevant pedagogy
 - Community partnerships
 
+---
+
+## Part II: Higher Education Affordability and Access
+
+### XI. The Higher Education Crisis
+
+**The Problem:**
+
+**Student Debt Emergency:**
+- $1.7 trillion in outstanding student debt
+- 44 million borrowers
+- Average debt at graduation: $30,000+ (four-year public)
+- Graduate/professional debt: $100,000+
+- Debt-to-income ratios preventing homeownership, family formation, economic participation
+
+**Tuition Explosion:**
+- Tuition increased 1,200% since 1980 (vs. 236% inflation)
+- State disinvestment: Public universities now rely on tuition, not state support
+- Average public university: $10,000+ per year (in-state)
+- Average private university: $40,000+ per year
+- Community college (supposedly affordable): $3,500+ per year
+
+**Access Inequality:**
+- College completion rates stratified by income
+- High-income students 8x more likely to complete than low-income
+- First-generation students face systematic barriers
+- For-profit colleges exploit students with minimal outcomes
+- Geographic barriers: Rural students lack access
+
+**The "Buy, Borrow, Die" of Higher Education:**
+1. Families told college is essential
+2. Costs exceed what families can afford
+3. Students borrow (often without understanding terms)
+4. Graduate into economy that doesn't pay enough to repay
+5. Debt follows them for decades, limiting life choices
+6. Default, garnishment, destroyed credit
+
+### XII. Free Public Higher Education
+
+**Policy Design:**
+
+**Core Principle:** Higher education is a public good, not a consumer product. Just as K-12 education is publicly funded, higher education should be publicly funded.
+
+**Tuition-Free Public Higher Education:**
+
+| Family Income | Benefit |
+|---------------|---------|
+| Under $60,000 | Free tuition + fees + living expenses at public institutions |
+| $60,000 - $125,000 | Free tuition + fees at public institutions |
+| $125,000 - $200,000 | Subsidized tuition (50-75% covered) + need-based aid |
+| Over $200,000 | Standard financial aid (no additional subsidy) |
+
+**What's Covered:**
+- **Community colleges:** Free for ALL students regardless of income
+- **Public universities:** Free tuition + fees for families under $125K
+- **Living expenses:** Covered for lowest-income students (room, board, books, transportation)
+- **Includes:** State universities, community colleges, tribal colleges, HBCUs (where public)
+
+**What's Not Covered (by this program):**
+- Private universities (but Pell Grants doubled, available for private)
+- Graduate/professional programs (addressed separately)
+- For-profit institutions (ineligible for federal support)
+
+**Funding Mechanism:**
+
+**Federal-State Partnership:**
+- Federal government: 2/3 of cost
+- States: 1/3 of cost
+- **Condition:** States must maintain current higher ed funding levels (no supplanting)
+- **Incentive:** Additional federal match for states that exceed maintenance of effort
+
+**Estimated Cost:** $80 billion annually (federal share)
+
+**Implementation:**
+- **Year 1:** Community college free for all
+- **Year 2:** Public university tuition-free for families under $60K
+- **Year 3:** Full implementation (families under $125K)
+
+**Legal Basis:**
+- Spending Clause: Federal grants to states for education
+- Model: GI Bill (free education for veterans)
+- Model: Land Grant universities (federal support for public higher education)
+
+### XIII. Income-Based Repayment Reform
+
+**Current Problems:**
+- Multiple confusing plans (ICR, IBR, PAYE, REPAYE, SAVE)
+- Interest capitalization increases principal (borrowers owe more than they borrowed)
+- 20-25 year forgiveness timeline
+- Forgiven amounts taxed as income (phantom income tax bomb)
+- Complex certification and recertification
+- Servicer errors and mismanagement
+
+**Simplified IBR System:**
+
+**Single Universal Plan:**
+- **Payment:** 10% of discretionary income
+- **Discretionary income:** Income above 200% of federal poverty line
+- **Example:** Single person earning $40,000: Discretionary = $40,000 - $30,120 = $9,880; Payment = $988/year ($82/month)
+
+**Forgiveness:**
+- **Standard:** 20 years of payments (any employment)
+- **Public Service:** 10 years of payments (government, nonprofit, teaching, healthcare)
+- **Tax-free:** Forgiven amounts NOT taxed as income
+
+**Interest Subsidy:**
+- Payments cover interest first
+- Government subsidizes interest if payment doesn't cover
+- Principal never increases due to capitalization
+- If payment covers interest: principal decreases
+- If payment < interest: government pays difference, balance stays flat
+
+**Automatic Enrollment:**
+- IBR automatic for all federal borrowers
+- Income verified through IRS data sharing
+- No recertification paperwork
+- Automatic adjustments when income changes
+
+### XIV. Existing Student Debt Cancellation
+
+**Policy Design:**
+
+**Broad-Based Cancellation:**
+| Borrower Category | Cancellation Amount |
+|-------------------|---------------------|
+| All federal borrowers | $10,000 |
+| Pell Grant recipients | $20,000 additional ($30,000 total) |
+| Borrowers in IBR 20+ years | 100% (full cancellation) |
+| Borrowers with income < $50K | $50,000 |
+| Borrowers defrauded by for-profit colleges | 100% (full cancellation) |
+
+**Retroactive PSLF Fix:**
+- Credit ALL qualifying payments (regardless of payment plan)
+- Reverse denials based on technicalities
+- Automatic review of all applications
+- Immediate forgiveness for those who already qualified
+
+**Borrower Defense Expansion:**
+- Automatic cancellation for students defrauded by for-profit colleges
+- ITT Tech, Corinthian, Art Institutes, others: Full discharge
+- No individual application required
+- Group discharge process
+
+**Legal Basis:**
+- **Higher Education Act Section 432(a):** Secretary may "compromise, waive, or release" federal student loans
+- **Executive authority:** If Congress fails to act, administrative cancellation (contested but defensible)
+- **Legislation preferable:** Clear statutory authorization removes legal uncertainty
+
+**Cost:** $300-500 billion (one-time)
+
+**Economic Impact:**
+- Consumer spending increase: Freed from debt payments, borrowers spend in economy
+- Homeownership increase: Debt-free borrowers can qualify for mortgages
+- Family formation: Remove barrier to having children
+- Entrepreneurship: Debt-free graduates can take risks, start businesses
+- Racial wealth gap reduction: Black and Latino borrowers disproportionately burdened
+
+### XV. Teacher Compensation Revolution
+
+**The Crisis:**
+- Average teacher salary: $65,000 (vs. $80,000+ comparable professions)
+- Teacher shortage: 300,000+ unfilled positions nationally
+- 50%+ of teachers leave within 5 years
+- Low salaries deter talented candidates
+- Disproportionate impact on high-poverty schools (hardest positions, lowest pay)
+- Political attacks on teachers accelerating exodus
+
+**$80,000 Minimum Teacher Salary Target:**
+
+**Federal Incentive Structure:**
+- States that establish $80K minimum teacher salary receive substantial federal support
+- **Federal match:** 50% of cost to reach $80K from current salary
+- **Targeting:** Priority funding for high-poverty schools
+- **Professional development:** Additional funds for ongoing training
+
+**Example:**
+- Current average salary: $60,000
+- Target: $80,000
+- Increase needed: $20,000
+- Federal contribution: $10,000 per teacher
+- State contribution: $10,000 per teacher
+
+**Implementation:**
+- Year 1: States opt in, receive planning grants
+- Year 2-4: Federal matching begins, phased salary increases
+- Year 5: All participating states at $80K minimum
+
+**Estimated Cost:** $10 billion annually (federal share)
+
+**Teacher Loan Forgiveness Acceleration:**
+
+**Current PSLF:** 10 years of payments for forgiveness
+**Teacher-Specific Program:**
+- 5-year full forgiveness for teachers in:
+  - Title I schools
+  - High-need subject areas (STEM, special education, bilingual)
+  - Shortage areas
+- Immediate forgiveness for teachers with 10+ years in Title I schools
+
+**Teacher Housing Assistance:**
+- Down payment assistance programs in high-cost areas
+- Preference in social housing for educators
+- HUD-Education coordination for educator housing
+- Tax incentives for teacher housing near schools
+
+**Recruitment Pipeline:**
+- Grow Your Own programs (community members become teachers)
+- Teacher residency programs (apprenticeship model)
+- Alternative certification support (career changers)
+- Diverse teacher recruitment initiatives
+
+### XVI. Anti-Privatization Measures
+
+**The Threat:**
+
+**Voucher Programs:**
+- Divert public funds to private schools
+- Often religious schools (Establishment Clause concerns)
+- No accountability for outcomes
+- "Skimming" (private schools select easiest-to-educate students)
+- Public schools left with harder-to-serve students and less funding
+
+**Charter Schools (without accountability):**
+- Some charters excellent; many are not
+- Financial scandals, fraud, mismanagement
+- Selective enrollment (excluding special needs, English learners)
+- No transparency requirements
+- Drain public school funding
+
+**For-Profit Colleges:**
+- Predatory recruitment (targeting veterans, low-income)
+- Terrible outcomes (high debt, low graduation, worthless credentials)
+- 90/10 loophole exploitation (VA benefits)
+- Student loan default rates highest in sector
+
+**Policy Design:**
+
+**Voucher Prohibition:**
+- No federal funds for voucher programs diverting to private schools
+- Tax credit scholarship programs: Close loopholes
+- Condition federal education funding on states not implementing new voucher programs
+- Respect state decisions on existing programs, but no federal support
+
+**Charter School Accountability:**
+- Charter schools receiving public funds must meet same requirements as public schools:
+  - Financial transparency (public disclosure)
+  - Non-discrimination (cannot exclude students)
+  - Special education compliance (full IDEA implementation)
+  - Teacher certification requirements
+  - Performance standards (close low-performing charters)
+- Authorization review: Regular performance evaluation
+- Financial audits: Annual independent audit required
+
+**For-Profit College Crackdown:**
+
+**Gainful Employment Rule Restoration:**
+- Programs must lead to gainful employment
+- Debt-to-earnings ratios enforced
+- Programs failing metrics lose Title IV eligibility
+- Student warnings required for low-performing programs
+
+**90/10 Rule Enforcement:**
+- For-profits must get 10%+ of revenue from non-federal sources
+- GI Bill/VA benefits count as federal (close loophole)
+- Strict enforcement with sanctions for violations
+
+**Recruiting Restrictions:**
+- Ban incentive compensation (paid per enrollment)
+- No recruiting at homeless shelters, unemployment offices
+- Mandatory cooling-off period before enrollment
+- Clear disclosure of costs, outcomes, alternatives
+
+### XVII. Academic Freedom Protection Act
+
+**The Attack on Academic Freedom:**
+
+**"Divisive Concepts" Laws:**
+- 20+ states passed laws restricting teaching about race, gender, history
+- Vague language creates chilling effect
+- Teachers afraid to teach accurate history
+- Self-censorship widespread
+
+**Book Banning:**
+- 4,000+ book challenges in 2022-23 (record)
+- Targeting LGBTQ+ content, racial topics, "uncomfortable" history
+- Organized campaigns to remove books
+- Libraries and classrooms gutted
+
+**Teacher Intimidation:**
+- Surveillance and reporting systems ("tip lines")
+- Political attacks on individual teachers
+- Threats of license revocation
+- Hostile school board takeovers
+
+**Policy Design:**
+
+**Federal Academic Freedom Protection Act:**
+
+**K-12 Protections:**
+- **Preempt "divisive concepts" laws:** Federal law establishes that curriculum meeting professional education standards cannot be restricted based on viewpoint
+- **Anti-book-banning provision:** No federal funds to districts that ban books based on viewpoint or identity of author/characters
+- **Teacher protection:** No discipline for teaching accurate history, science, current events consistent with professional standards
+
+**Mechanism:**
+- Schools receiving federal funds must maintain academic freedom
+- Compliance monitored through civil rights data collection
+- Complaints investigated by Department of Education OCR
+- Remedies: Technical assistance, compliance agreements, fund withholding
+
+**Higher Education:**
+- **Institutional autonomy:** Protect from state political interference
+- **Tenure protection:** No weakening based on content of scholarship/teaching
+- **Research freedom:** No restrictions on topics of inquiry
+- **Student free speech:** Protect student expression, journalism
+
+**Legal Basis:**
+- **First Amendment:** Teachers and students have speech rights (*Tinker v. Des Moines*, *Keyishian v. Board of Regents*)
+- **Spending Clause:** Condition federal funds on academic freedom
+- **Civil Rights:** Title VI implications of viewpoint-based restrictions
+
+**Teacher Legal Defense Fund:**
+- $100 million annually for teacher legal defense
+- Administered through Department of Education
+- Cover attorneys' fees for teachers facing discipline over curriculum
+- Support ACLU, NAACP Legal Defense, and education law organizations
+
+### XVIII. School-to-Prison Pipeline Dismantling
+
+**The Problem:**
+
+**Criminalization of Students:**
+- 14 million students in schools with police but no counselors
+- Black students 3x more likely to be suspended than white students
+- Students with disabilities disproportionately disciplined
+- School arrests for minor infractions (dress code, talking back)
+- School resource officers: Often escalate rather than de-escalate
+
+**Consequences:**
+- Suspensions predict dropout, incarceration
+- Criminal records from school incidents follow students
+- Lost instruction time
+- Trauma from encounters with police
+- Pipeline to adult criminal justice system
+
+**Policy Design:**
+
+**End Police in Schools:**
+- Condition federal funding on removing School Resource Officers
+- Exception: Only where documented security need AND community approval through transparent process
+- Redirect SRO funding to counselors, social workers, restorative justice staff
+- No criminalization of normal adolescent behavior
+
+**Restorative Justice:**
+- Federal grants for restorative justice programs
+- Training for teachers and administrators
+- Evidence-based discipline alternatives
+- Peer mediation, circle processes, community conferencing
+- Reduce out-of-school suspensions 50%+ through alternatives
+
+**Discipline Disparity Monitoring:**
+- Enhanced OCR Civil Rights Data Collection
+- Automatic investigation triggers for extreme disparities
+- Consent decrees for persistent violators
+- Coordination with DOJ Civil Rights Division
+
+**Mental Health Investment:**
+- **Target:** 1 counselor per 250 students (current: 1 per 500+)
+- Social workers in all high-need schools
+- Trauma-informed practices training for all staff
+- Mental health crisis response (not police)
+- Community mental health partnerships
+
+**Success Metrics:**
+- Suspension rates: Reduce 50%
+- Suspension disparities: Eliminate
+- School arrests: Reduce 75%
+- Counselor ratios: 1:250 achieved
+- Restorative justice programs: In 50% of schools
+
+---
+
+## Part III: Day 1 Executive Actions - Education
+
+### Immediate Executive Actions (No Congress Required)
+
+**1. Rescind All "Divisive Concepts" Guidance:**
+- **Action:** Revoke all Trump/Project 2025 curriculum restriction guidance
+- **Authority:** Department of Education guidance authority
+- **Impact:** Signal federal support for academic freedom
+
+**2. Restore Title IX Protections:**
+- **Action:** Reinstate Obama-era Title IX guidance (transgender students, sexual assault)
+- **Authority:** Title IX regulatory authority
+- **Timeline:** Proposed rule Day 1, final rule within 6 months
+
+**3. Student Loan Forbearance Extension:**
+- **Action:** Extend payment pause pending legislative reform
+- **Authority:** HEROES Act (if emergency maintained) or negotiated rulemaking
+- **Impact:** 40+ million borrowers protected during transition
+
+**4. Restore Gainful Employment:**
+- **Action:** Reinstate gainful employment rule for for-profit colleges
+- **Authority:** Higher Education Act regulatory authority
+- **Impact:** Protect students from predatory programs
+
+**5. OCR Enforcement Priorities:**
+- **Action:** Direct Office for Civil Rights to prioritize discipline disparities, discrimination investigations
+- **Authority:** Department enforcement discretion
+- **Impact:** Aggressive civil rights enforcement
+
+**6. PSLF Administrative Fixes:**
+- **Action:** Implement administrative fixes to Public Service Loan Forgiveness
+- **Authority:** Existing regulatory authority
+- **Impact:** Thousands of deserving borrowers receive forgiveness
+
+### Week 1 Congressional Actions (Filibuster Eliminated)
+
+**1. College for All Act:**
+- Free public higher education (families under $125K)
+- Community college free for all
+- Federal-state partnership structure
+
+**2. Student Debt Relief Act:**
+- $10-50K cancellation (income-based)
+- IBR simplification
+- Tax-free forgiveness
+
+**3. Teacher Investment Act:**
+- $80K minimum salary incentive
+- Loan forgiveness acceleration
+- Housing assistance
+
+**4. Academic Freedom Protection Act:**
+- Preempt "divisive concepts" laws
+- Anti-book-banning provisions
+- Legal defense fund
+
+**5. School Safety Transformation Act:**
+- Remove police from schools (funding condition)
+- Restorative justice grants
+- Mental health investment
+
+---
+
+## Part IV: Budget Summary - Education
+
+### Annual Appropriations
+
+| Program | Annual Cost |
+|---------|-------------|
+| Civic Education Initiative | $5 billion |
+| Media Literacy Programs | $2 billion |
+| Free Public Higher Education | $80 billion |
+| Teacher Investment | $10 billion |
+| Academic Freedom Enforcement | $500 million |
+| School Mental Health | $5 billion |
+| Title I Full Funding | $40 billion |
+| IDEA Full Funding | $20 billion |
+| **TOTAL** | **~$162.5 billion** |
+
+### One-Time Costs
+
+| Program | Cost |
+|---------|------|
+| Student Debt Cancellation | $300-500 billion |
+
+---
+
 ## Success Metrics
 
 **Civic Knowledge:**

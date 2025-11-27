@@ -1,6 +1,6 @@
 # Project 2029: A Mandate for Restorative + Transformative Democratic Renewal
 
-**Quick Navigation:** [Overview](#overview) · [How to Use](#-how-to-use-this-repository) · [Document Structure](#-complete-document-structure) · [Key Resources](#-key-resources-quick-access) · [20 Reforms](#-the-20-transformative-reforms) · [Supporting Materials](#-supporting-materials-index) · [Get Started](#-get-started-now)
+**Quick Navigation:** [Overview](#overview) · [How to Use](#-how-to-use-this-repository) · [Document Structure](#-complete-document-structure) · [Key Resources](#-key-resources-quick-access) · [29 Reforms](#-the-29-transformative-reforms) · [Supporting Materials](#-supporting-materials-index) · [Get Started](#-get-started-now)
 
 ---
 
@@ -42,7 +42,33 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 19. 🔥 **[Civic Education Overhaul](#19-civic-education-flagship)** - Media literacy, critical thinking
 20. 🔥 **[Ban Political Deepfakes](#20-ban-political-deepfakes)** - AI transparency
 
-**Total Scope:** 30 comprehensive chapters + Introduction + Conclusion + Evidence Appendix = **Complete democratic transformation**
+### **💵 Economic Justice Agenda** (NEW!)
+21. 🔥 **[Billionaire Minimum Tax](#21-billionaire-minimum-tax)** - 30-35% on total economic income
+22. 🔥 **[Wealth Tax](#22-wealth-tax)** - 2% on $50M+, 3% on $1B+
+23. 🔥 **[Corporate Tax Reform](#23-corporate-tax-reform)** - 28% rate, close loopholes
+
+### **🏠 Housing Justice Agenda** (NEW!)
+24. 🔥 **[Social Housing](#24-national-social-housing)** - Vienna/Singapore model, $50B annually
+25. 🔥 **[Housing First](#25-housing-first)** - End homelessness, $20B annually
+26. 🔥 **[Anti-NIMBY Zoning](#26-anti-nimby-zoning)** - Federal override of exclusionary zoning
+
+### **🎓 Education Access Agenda** (NEW!)
+27. 🔥 **[Free Public College](#27-free-public-college)** - Tuition-free for families under $125K
+28. 🔥 **[Student Debt Cancellation](#28-student-debt-cancellation)** - Relief for 44 million borrowers
+29. 🔥 **[Teacher Investment](#29-teacher-investment)** - $80K minimum salary target
+
+### **⚖️ Criminal Justice Transformation** (NEW!)
+*Core Principle: Justice is a public function, not a private profit center*
+- 🔥 **[Private Prison Abolition](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - Day 1 EO ends federal contracts, permanent legislative ban
+- 🔥 **[Cash Bail Elimination](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - End wealth-based pretrial detention
+- 🔥 **[Death Penalty Abolition](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - Commute all federal death sentences, pursue full abolition
+- 🔥 **[For-Profit Healthcare Ban](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - Private insurance prohibited for covered services under Medicare for All
+
+### **🤖 Technology Governance** (NEW!)
+- 🔥 **[AI Governance Framework](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)** - AI Bill of Rights, algorithmic accountability, platform regulation
+- 🔥 **[Puerto Rico Statehood](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - 3.2 million citizens gain full voting rights
+
+**Total Scope:** 31 comprehensive chapters + Introduction + Conclusion + Evidence Appendix = **Complete democratic transformation**
 
 ---
 
@@ -155,13 +181,13 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 
 #### **Section 3: The General Welfare** ([View All](Section3_The_General_Welfare/))
 10. **[Department of Agriculture](Section3_The_General_Welfare/Chapter_10_Department_of_Agriculture.md)** - Small farmers, climate-smart ag
-11. **[Department of Education](Section3_The_General_Welfare/Chapter_11_Department_of_Education.md)** - **FLAGSHIP: Civic education, $5B investment**
+11. **[Department of Education](Section3_The_General_Welfare/Chapter_11_Department_of_Education.md)** - **FLAGSHIP: Civic education ($5B), Free public college ($80B), Teacher investment ($10B)**
 12. **[Department of Energy](Section3_The_General_Welfare/Chapter_12_Department_of_Energy.md)** - Clean energy, grid modernization
 13. **[Environmental Protection Agency](Section3_The_General_Welfare/Chapter_13_Environmental_Protection_Agency.md)** - Regulation restoration, climate action
 14. **[HHS](Section3_The_General_Welfare/Chapter_14_HHS.md)** - CDC/FDA depoliticization, healthcare access
-15. **[HUD](Section3_The_General_Welfare/Chapter_15_HUD.md)** - Affordable housing, $50B investment
+15. **[HUD](Section3_The_General_Welfare/Chapter_15_HUD.md)** - **Social housing ($50B), Housing First ($20B), Vienna/Singapore model**
 16. **[Interior](Section3_The_General_Welfare/Chapter_16_Interior.md)** - Public lands, indigenous rights
-17. **[Department of Justice](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - **DOJ independence, includes weaponization evidence**
+17. **[Department of Justice](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - **DOJ independence + Criminal Justice Transformation (private prison abolition, cash bail elimination, death penalty abolition)**
 18. **[Labor](Section3_The_General_Welfare/Chapter_18_Labor.md)** - Worker rights, union empowerment
 19. **[Transportation](Section3_The_General_Welfare/Chapter_19_Transportation.md)** - Public transit, green infrastructure
 20. **[Veterans Affairs](Section3_The_General_Welfare/Chapter_20_Veterans_Affairs.md)** - Healthcare, benefits backlog
@@ -170,7 +196,7 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 
 #### **Section 4: The Economy** ([View All](Section4_The_Economy/))
 21. **[Commerce](Section4_The_Economy/Chapter_21_Commerce.md)** - Innovation, manufacturing reshoring
-22. **[Treasury](Section4_The_Economy/Chapter_22_Treasury.md)** - Tax fairness, billionaire minimum tax
+22. **[Treasury](Section4_The_Economy/Chapter_22_Treasury.md)** - **Billionaire minimum tax (30-35%), Wealth tax ($300B), Corporate reform ($150B)**
 23. **[Export-Import Bank](Section4_The_Economy/Chapter_23_Export_Import_Bank.md)** - Green tech exports
 24. **[Federal Reserve](Section4_The_Economy/Chapter_24_Federal_Reserve.md)** - Independence, full employment
 25. **[Small Business Administration](Section4_The_Economy/Chapter_25_Small_Business_Administration.md)** - Capital access, technical assistance
@@ -185,7 +211,7 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 
 #### **Section 6: Safeguarding Democracy and Accountability** ([View All](Section6_Safeguarding_Democracy_And_Accountability/))
 28. **[Legal Accountability for Subversion of Democracy](Section6_Safeguarding_Democracy_And_Accountability/Chapter_28_Legal_Accountability_for_Subversion_of_Democracy.md)** - **14,470 words, includes Part I-A with documented violations**
-29. **[Structural Safeguards](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)** - **Includes documented evidence showing need for safeguards**
+29. **[Structural Safeguards](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)** - **Includes AI Governance framework + documented evidence showing need for safeguards**
 30. **[Fundamental Democratic Transformation](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - **18,000 words, THE transformative vision**
 31. **[Constitutional Hardball](Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md)** - **🔥 NEW: Using Full Presidential Authority to Restore Democracy (12,000 words)**
 
@@ -210,7 +236,7 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 - 📅 **[Year 1-4 Implementation Roadmap](Supporting_Materials/Implementation_Checklists/Year_1_4_Implementation_Roadmap.md)** - Multi-year tracking with success metrics
 
 #### **One-Pagers** ([View All](Supporting_Materials/One-Pagers/))
-Complete set of 20 individual reform fact sheets:
+Complete set of 30 individual reform fact sheets:
 1. [Citizens United Reversal](Supporting_Materials/One-Pagers/01_Citizens_United_Reversal.md)
 2. [Senate Term Limits](Supporting_Materials/One-Pagers/02_Senate_Term_Limits.md)
 3. [Abolish Electoral College](Supporting_Materials/One-Pagers/03_Abolish_Electoral_College.md)
@@ -231,7 +257,16 @@ Complete set of 20 individual reform fact sheets:
 18. [Sunset Provisions](Supporting_Materials/One-Pagers/18_Sunset_Provisions.md)
 19. [Civic Education Overhaul](Supporting_Materials/One-Pagers/19_Civic_Education_Overhaul.md)
 20. [Political Deepfake Ban](Supporting_Materials/One-Pagers/20_Political_Deepfake_Ban.md)
-21. [🔥 Constitutional Hardball](Supporting_Materials/One-Pagers/21_Constitutional_Hardball.md) - **NEW: Why Fighting Back with Full Power is Necessary**
+21. [🔥 Constitutional Hardball](Supporting_Materials/One-Pagers/21_Constitutional_Hardball.md) - **Why Fighting Back with Full Power is Necessary**
+22. [Foreign Lobby Registration (AIPAC & FARA)](Supporting_Materials/One-Pagers/22_Foreign_Lobby_Registration.md) - **Transparency for Foreign Lobbying**
+23. [Church Taxation & 501(c)(3) Reform](Supporting_Materials/One-Pagers/23_Church_Taxation_Reform.md) - **Tax Exemption for Genuine Charity**
+24. [**NEW:** Billionaire Minimum Tax](Supporting_Materials/One-Pagers/24_Billionaire_Minimum_Tax.md) - **30-35% on Total Economic Income**
+25. [**NEW:** Social Housing for America](Supporting_Materials/One-Pagers/25_Social_Housing_America.md) - **Vienna/Singapore Model ($50B annually)**
+26. [**NEW:** Housing First](Supporting_Materials/One-Pagers/26_Housing_First_Homelessness.md) - **End Homelessness with Evidence-Based Approach**
+27. [**NEW:** Free Public College](Supporting_Materials/One-Pagers/27_Free_Public_College.md) - **Tuition-Free for Families Under $125K**
+28. [**NEW:** Wealth Tax](Supporting_Materials/One-Pagers/28_Wealth_Tax.md) - **2% on $50M+, 3% on $1B+ ($300B Revenue)**
+29. *Reserved*
+30. [**NEW:** AI Governance](Supporting_Materials/One-Pagers/30_AI_Governance.md) - **Protecting Democracy from Algorithmic Harm**
 
 #### **Reference Materials**
 - 👥 **[Advisory Board](Supporting_Materials/Advisory_Board.md)** - Expert contributors
@@ -243,7 +278,7 @@ Complete set of 20 individual reform fact sheets:
 
 ---
 
-## 🔥 The 20 Transformative Reforms
+## 🔥 The 29 Transformative Reforms
 
 ### **Electoral & Campaign Finance** ([Jump to Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md))
 
@@ -409,12 +444,12 @@ Project 2029 proposes **6 constitutional amendments** to perfect the Union:
 ## 📊 By The Numbers
 
 ### **Document Scope**
-- **30 comprehensive chapters** + Introduction + Conclusion
-- **100,000+ words** of detailed policy
-- **70+ specific laws** required ([Master List](Supporting_Materials/Master_Legislative_Requirements.md))
-- **6 constitutional amendments** proposed
-- **20 democracy reforms** comprehensively addressed
-- **$30-290B** annual new spending (varies by reform, revenue sources identified)
+- **31 comprehensive chapters** + Introduction + Conclusion
+- **130,000+ words** of detailed policy
+- **90+ specific laws** required ([Master List](Supporting_Materials/Master_Legislative_Requirements.md))
+- **7 constitutional amendments** proposed
+- **29 democracy reforms** comprehensively addressed
+- **~$550B** annual new investment (fully funded by $720-770B new revenue)
 
 ### **Evidence Base**
 - **39 federal judges** ruled against Trump administration (Jan-Oct 2025)
@@ -423,10 +458,10 @@ Project 2029 proposes **6 constitutional amendments** to perfect the Union:
 - **Zero officials held accountable** despite documented violations
 
 ### **Supporting Materials**
-- **20 one-pagers** for individual reforms
-- **1 Quick Reference Guide** (all reforms, 1 page)
+- **28 one-pagers** for individual reforms
+- **1 Quick Reference Guide** (all 29 reforms)
 - **1 Evidence Appendix** (prosecution-ready documentation)
-- **1 Master Legislative List** (all 70+ laws)
+- **1 Master Legislative List** (all 90+ laws)
 - **Multiple implementation checklists**
 
 ---
@@ -503,32 +538,43 @@ Project 2029 is developed with input from constitutional law experts, former gov
 
 ## 📅 Document Status
 
-**Last Updated:** October 15, 2025
+**Last Updated:** November 26, 2025
 **Status:** Comprehensive - Restorative + Transformative Framework Complete
 
 ### **Recent Major Additions:**
 
-**October 15, 2025:**
-- **Evidence Appendix created:** Comprehensive Trump admin violations documentation (Jan 20 - Oct 15, 2025)
-- **Chapter 28 enhanced:** Part I-A added with documented violations record
-- **Chapter 17 expanded:** DOJ weaponization evidence integrated
-- **Chapter 3 expanded:** IG firing evidence documented
-- **Chapter 29 enhanced:** Evidence showing need for each safeguard
+**November 26, 2025:**
+- **Chapter 22 (Treasury) EXPANDED:** Comprehensive tax reform (+10,000 words)
+  - Billionaire minimum tax (30-35%)
+  - Wealth tax (2%/3%)
+  - Corporate tax reform ($150B revenue)
+  - Offshore tax haven crackdown
+  - IRS enforcement ($200-400B revenue)
+- **Chapter 15 (HUD) REWRITTEN:** Social housing transformation (+15,000 words)
+  - Vienna/Singapore model ($50B annually)
+  - Housing First homelessness elimination ($20B)
+  - Anti-NIMBY zoning preemption
+  - Rent stabilization framework
+- **Chapter 11 (Education) EXPANDED:** Higher education access (+8,000 words)
+  - Free public college ($80B annually)
+  - Student debt cancellation ($300-500B)
+  - Teacher investment ($10B)
+- **5 NEW One-Pagers:** Tax, housing, education fact sheets
+- **Quick Reference Guide updated:** Now 29 reforms
+- **Master Legislative Requirements updated:** Now 90+ laws
+- **First 100 Days Checklist updated:** Now 59 critical actions
 
-**October 13, 2025:**
-- **Chapter 30 added:** Fundamental Democratic Transformation (18,000 words)
-- **Chapter 8 expanded:** Fairness Doctrine restoration (3,000 words)
-- **Chapter 17 expanded:** Campaign finance and lobbying enforcement (1,500 words)
-- **Chapter 29 expanded:** Supreme Court term limits, micro-targeting ban (2,000 words)
-- **All 20 democracy reforms comprehensively addressed**
-- **6 constitutional amendments proposed**
+**October 15, 2025:**
+- **Evidence Appendix created:** Comprehensive Trump admin violations documentation
+- **Chapter 28 enhanced:** Part I-A added with documented violations record
+- **Chapter 31 added:** Constitutional Hardball framework
 
 ### **Repository Statistics:**
-- **Total chapters:** 32 (30 + Intro + Conclusion)
-- **Total words:** 110,000+
-- **Supporting materials:** 25+
-- **Constitutional amendments:** 6
-- **Legislative requirements:** 70+
+- **Total chapters:** 33 (31 + Intro + Conclusion)
+- **Total words:** 130,000+
+- **Supporting materials:** 30+
+- **Constitutional amendments:** 7
+- **Legislative requirements:** 90+
 
 ---
 

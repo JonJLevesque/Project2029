@@ -1,7 +1,7 @@
 # PROJECT 2029: MASTER LEGISLATIVE REQUIREMENTS
 ## Complete List of All Federal Laws Required for Implementation
 
-**Consolidated from 30 Chapters | Organized by Priority | 70+ Major Laws**
+**Consolidated from 31 Chapters | Organized by Priority | 90+ Major Laws**
 
 ---
 
@@ -13,7 +13,7 @@ This document consolidates **ALL legislative requirements** mentioned across Pro
 - **Year 1 Priority** (Day 1-100): Immediate action, executive orders + emergency legislation
 - **Year 1 Major Legislation**: Core democratic reforms
 - **Years 2-4**: Implementation and expansion laws
-- **Constitutional Amendments**: 6 proposed (separate ratification process)
+- **Constitutional Amendments**: 7 proposed (separate ratification process)
 
 **How to use:**
 - Legislators: Draft and introduce these bills
@@ -417,13 +417,26 @@ Section 4: Congress may prescribe appointment procedures.
 - **Timeline:** Ratification Years 5-10
 - **Note:** Statutory version likely unconstitutional, amendment needed
 
+**35. 34th Amendment: Wealth Tax Authority** (Ch 22)
+```
+Section 1: The Congress shall have power to lay and collect taxes on wealth,
+from whatever source held, without apportionment among the several States.
+Section 2: Congress may define wealth to include all forms of property,
+assets, and beneficial interests.
+Section 3: This article shall not affect the validity of any income tax
+authorized by the sixteenth article of amendment.
+```
+- **Timeline:** Ratification Years 5-10
+- **Note:** Backup if courts strike down statutory wealth tax
+- **Purpose:** Resolve constitutional ambiguity about direct taxes
+
 ---
 
 ## 🏢 AGENCY-SPECIFIC MAJOR LEGISLATION
 
 ### EDUCATION (Ch 11)
 
-**35. Civic Education Excellence Act**
+**36. Civic Education Excellence Act**
 - **Purpose:** $5B annual investment in civic education
 - **Key Components:**
   - Civic literacy programs (K-12)
@@ -433,40 +446,85 @@ Section 4: Congress may prescribe appointment procedures.
   - Teacher training and support
 - **Timeline:** Year 1 pass, Years 2+ implement
 
-**36. Media Literacy for Democracy Act**
+**37. Media Literacy for Democracy Act**
 - **Purpose:** $2B for media literacy programs
 - **Timeline:** Years 1-2
 
-**37. Title I Full Funding Act**
+**38. Title I Full Funding Act**
 - **Purpose:** Close funding gaps for low-income schools
 - **Cost:** $40B additional annually
 
-**38. IDEA Full Funding Act**
+**39. IDEA Full Funding Act**
 - **Purpose:** Special education adequacy
 - **Cost:** $20B additional annually
 
 ### CRIMINAL JUSTICE (Ch 17)
 
-**39. Criminal Justice Reform Expansion Act**
-- **Purpose:** End mass incarceration
+**40. Private Prison Prohibition Act**
+- **Purpose:** End federal private prison contracting permanently
 - **Key Provisions:**
-  - Sentencing reform (reduce mandatory minimums)
-  - First Step Act expansion
+  - Prohibit federal contracts with private prisons
+  - Prohibit federal funding for state/local private prison contracts
+  - Apply to all detention: prisons, jails, immigration, juvenile
+  - Condition Byrne JAG grants on states ending private prisons
+  - SCAAP funds tied to ending private detention
+- **Timeline:** Immediate (EO Day 1) + legislation Year 1
+- **Phase-out:** 2-3 years for existing contracts
+
+**41. Pretrial Integrity and Safety Act (Cash Bail Elimination)**
+- **Purpose:** End wealth-based pretrial detention
+- **Key Provisions:**
+  - Eliminate cash bail in federal system
+  - Risk-based release decisions
+  - Pretrial services funding
+  - Detention only for danger/flight risk (judicial finding)
+  - Speedy trial enforcement
+  - Condition Byrne JAG grants on state bail reform
+- **Timeline:** Year 1
+- **Impact:** 470,000+ in pretrial detention could be affected
+
+**42. Sentencing Reform and Corrections Act**
+- **Purpose:** End mass incarceration, reform federal sentencing
+- **Key Provisions:**
+  - Eliminate/reduce mandatory minimums
+  - First Step Act expansion (retroactive)
   - Compassionate release expansion
-  - Clemency process codification
+  - Sentencing guideline reform
+  - Crack/powder disparity elimination (1:1, retroactive)
+  - Reentry support funding
 - **Timeline:** Year 1-2
 
-**40. Death Penalty Abolition Act**
-- **Purpose:** End federal death penalty
+**43. Federal Death Penalty Abolition Act**
+- **Purpose:** End federal death penalty permanently
+- **Key Provisions:**
+  - Repeal all federal death penalty statutes
+  - Convert existing death sentences to life
+  - DOJ prohibited from seeking death penalty
+  - Resources for state abolition efforts
+- **Timeline:** Year 1 (moratorium Day 1 via EO)
+
+**44. Marijuana Justice Act**
+- **Purpose:** Deschedule marijuana, expunge convictions, repair harm
+- **Key Provisions:**
+  - Remove marijuana from Controlled Substances Act
+  - Automatic expungement of federal marijuana convictions
+  - Resentencing for those still incarcerated
+  - Community reinvestment in impacted areas
+  - End federal interference with state legalization
 - **Timeline:** Year 1
 
-**41. Marijuana Legalization and Expungement Act**
-- **Purpose:** Deschedule marijuana, expunge convictions
-- **Timeline:** Year 1
+**45. Private Probation Abolition Act**
+- **Purpose:** End for-profit probation/supervision
+- **Key Provisions:**
+  - No federal funding for states using private probation
+  - DOJ Civil Rights oversight of probation companies
+  - Model state legislation support
+  - End "offender-funded" supervision
+- **Timeline:** Year 1-2
 
 ### IMMIGRATION (Ch 5)
 
-**42. Immigration Reform and Humanity Act**
+**46. Immigration Reform and Humanity Act**
 - **Purpose:** Comprehensive immigration overhaul
 - **Key Provisions:**
   - Pathway to citizenship for undocumented
@@ -476,50 +534,279 @@ Section 4: Congress may prescribe appointment procedures.
   - Improve asylum process
 - **Timeline:** Years 1-2
 
-### HOUSING (Ch 15)
-
-**43. Affordable Housing Investment Act**
-- **Purpose:** $50B investment in affordable housing
-- **Timeline:** Years 1-4
-
 ### TAXATION (Ch 22)
 
-**44. Billionaire Minimum Tax Act**
-- **Purpose:** Wealth tax (2% on $50M+, 3% on $1B+)
-- **Revenue:** $300B annually
+**47. Billionaire Minimum Tax Act**
+- **Purpose:** 30-35% minimum tax on "Total Economic Income" for ultra-wealthy
+- **Key Provisions:**
+  - Total Economic Income = AGI + unrealized gains on tradable assets + 5% imputed return on illiquid assets
+  - Threshold: $100 million+ net worth
+  - Mark-to-market for publicly traded securities
+  - 10-year installment option for liquidity
+  - Loss carryback (5 years)
+- **Revenue:** $25-40B annually
+- **Ends:** "Buy, Borrow, Die" strategy
 
-**45. Stock Transaction Tax Act**
+**48. Wealth Tax Act**
+- **Purpose:** Annual tax on extreme wealth concentration
+- **Key Provisions:**
+  - 2% annual tax on net worth $50M-$1B
+  - 3% annual tax on net worth over $1B
+  - Comprehensive asset valuation (stocks, real estate, businesses, art)
+  - Retirement account exemption
+  - 40% exit tax for expatriation to avoid tax
+- **Revenue:** $250-300B annually
+- **Constitutional Backup:** 34th Amendment (Wealth Tax Authority)
+
+**49. Capital Gains Equality Act**
+- **Purpose:** Tax capital gains as ordinary income
+- **Key Provisions:**
+  - Long-term capital gains taxed as ordinary income for gains over $1M annually
+  - Eliminates preferential rate for wealthy investors
+  - Step-up in basis reform (carryover basis at death)
+- **Revenue:** $200B over 10 years
+
+**50. Corporate Tax Reform Act**
+- **Purpose:** Raise corporate rate and close loopholes
+- **Key Provisions:**
+  - Corporate rate: 21% → 28%
+  - 15% global minimum tax (Pillar Two implementation)
+  - Book minimum tax (15% on companies with $1B+ profits)
+  - GILTI strengthening
+  - Interest deduction limits
+- **Revenue:** $150B annually
+
+**51. Carried Interest Elimination Act**
+- **Purpose:** End hedge fund manager tax loophole
+- **Key Provisions:**
+  - Carried interest taxed as ordinary income (not capital gains)
+  - Applies to all fund manager compensation
+  - No holding period exception
+- **Revenue:** $15-20B over 10 years
+
+**52. Offshore Tax Haven Crackdown Act**
+- **Purpose:** End corporate profit shifting to tax havens
+- **Key Provisions:**
+  - Country-by-country reporting
+  - FATCA enforcement enhancement
+  - CFC rules strengthening
+  - 50% penalty for undisclosed offshore accounts
+  - Treaty renegotiation mandate (tax haven countries)
+- **Revenue:** $50-100B over 10 years
+
+**53. Estate Tax Strengthening Act**
+- **Purpose:** Prevent dynastic wealth concentration
+- **Key Provisions:**
+  - Lower exemption: $11M → $3.5M
+  - Top rate: 40% → 55% (over $10M) → 65% (over $50M)
+  - Eliminate step-up in basis (carryover at death)
+  - Generation-skipping tax strengthening
+  - Trust reform (limit duration, grantor trust rules)
+- **Revenue:** $50B annually
+
+**54. IRS Enforcement and Funding Act**
+- **Purpose:** Rebuild IRS enforcement capacity
+- **Key Provisions:**
+  - $80B over 10 years for enforcement
+  - High-wealth audit targets: 15% for $10M+ income
+  - 5,000+ new agents for large partnerships, high-net-worth
+  - Criminal prosecution increase for tax fraud
+  - Real-time reporting for high-value transactions
+  - Free direct e-filing for all taxpayers
+- **Revenue:** $200-400B over 10 years (ROI: 5-10x)
+
+**55. Stock Transaction Tax Act**
 - **Purpose:** 0.01% fee on stock trades
 - **Revenue:** $75B annually (funds Democracy Vouchers)
 
-**46. Carbon Tax Act**
+**56. Carbon Tax Act**
 - **Purpose:** Price carbon emissions
+- **Key Provisions:**
+  - $50/ton starting rate, increasing $10/year
+  - Border carbon adjustment (imports)
+  - Revenue: 50% to dividend, 50% to green investment
 - **Revenue:** $100B annually
 
-**47. Close Corporate Tax Loopholes Act**
-- **Purpose:** Enforce corporate taxation
-- **Revenue:** $100B annually
+---
+
+### HOUSING (Ch 15)
+
+**57. National Social Housing Act**
+- **Purpose:** Create Vienna/Singapore-style mixed-income public housing
+- **Key Provisions:**
+  - $50B annual Social Housing Trust Fund
+  - Regional Housing Authorities (federal, bypass NIMBYs)
+  - Mixed-income requirement: 30% very low, 30% low, 20% moderate, 20% middle
+  - Target: 1 million units over 10 years
+  - 30% of housing stock as social housing by 2050
+  - Rent capped at 30% of income for residents
+- **Timeline:** Years 1-10+
+
+**58. Housing First National Policy Act**
+- **Purpose:** End homelessness through evidence-based approach
+- **Key Provisions:**
+  - $20B annually for permanent supportive housing
+  - 100,000 new PSH units over 5 years
+  - Housing First required for all federal homeless grants
+  - No preconditions (sobriety, treatment compliance)
+  - Wraparound services linked to housing
+- **Target:** Functional zero chronic homelessness in 5 years
+- **Timeline:** Years 1-5
+
+**59. Community Land Trust Development Act**
+- **Purpose:** Permanent affordability through nonprofit land ownership
+- **Key Provisions:**
+  - $10B CLT Development Fund
+  - Federal CLT technical assistance
+  - Favorable tax treatment for CLTs
+  - Support for resident-owned communities
+- **Timeline:** Years 1-4
+
+**60. Anti-NIMBY Zoning Preemption Act**
+- **Purpose:** Override exclusionary local zoning near transit
+- **Key Provisions:**
+  - As-of-right multifamily within 1/2 mile of transit
+  - ADU legalization mandate
+  - Parking minimum elimination near transit
+  - Condition transportation funding on compliance
+- **Legal Basis:** Commerce Clause, Spending Clause, FHA disparate impact
+- **Timeline:** Year 1-2
+
+**61. Rent Stabilization Framework Act**
+- **Purpose:** Prevent rent gouging without eliminating market incentives
+- **Key Provisions:**
+  - Federal preemption of state rent control bans
+  - Maximum increase: inflation + 3% annually
+  - Just cause eviction requirements (federal floor)
+  - Anti-harassment provisions
+  - Right to counsel in eviction proceedings
+  - Mobile home park tenant protections
+- **Timeline:** Year 1-2
+
+**62. Fair Housing Restoration Act**
+- **Purpose:** Restore and strengthen fair housing enforcement
+- **Key Provisions:**
+  - Reinstate AFFH rule (Affirmatively Furthering Fair Housing)
+  - Federal source-of-income discrimination ban
+  - Algorithm auditing for lending (disparate impact)
+  - Triple HUD fair housing enforcement budget
+  - Disparate impact standard codified in statute
+- **Timeline:** Year 1 (executive reinstatement immediate)
+
+---
+
+### EDUCATION ACCESS (Ch 11)
+
+**63. Free Public Higher Education Act**
+- **Purpose:** Tuition-free public college for families under $125K
+- **Key Provisions:**
+  - Federal-state partnership (federal 2/3, state 1/3)
+  - Tuition + fees covered for families under $125K
+  - Living expenses for families under $60K
+  - Covers: community college, 4-year public, trade/vocational
+  - State maintenance of effort required
+- **Cost:** $80B annually (federal share)
+- **Timeline:** Years 1-3
+
+**64. Student Debt Cancellation Act**
+- **Purpose:** Provide relief for existing borrowers
+- **Key Provisions:**
+  - $10,000 cancellation for all federal borrowers
+  - $30,000 total for Pell Grant recipients
+  - $50,000 for borrowers with income under $50K
+  - 100% for borrowers in IBR 20+ years
+  - 100% for PSLF-eligible after 10 years
+  - Borrower Defense expansion for defrauded students
+- **One-Time Cost:** $300-500B
+- **Timeline:** Year 1-2
+
+**65. Income-Based Repayment Reform Act**
+- **Purpose:** Simplify and improve IBR for remaining/future borrowers
+- **Key Provisions:**
+  - Payment: 10% of discretionary income (above 200% poverty)
+  - Forgiveness: 20 years standard, 10 years public service
+  - Tax-free forgiveness (permanent)
+  - Automatic enrollment (IRS data sharing)
+  - Interest capitalization eliminated during IBR
+  - Graduate/undergraduate consolidation improvements
+- **Timeline:** Year 1
+
+**66. Teacher Compensation and Support Act**
+- **Purpose:** Make teaching a competitive profession
+- **Key Provisions:**
+  - $80,000 minimum salary target
+  - Federal incentive: 50% of cost to reach target
+  - 5-year full loan forgiveness for Title I teachers
+  - 10-year 50% forgiveness for all public school teachers
+  - PSLF automatic enrollment for educators
+  - Housing assistance for teachers in high-cost areas
+- **Cost:** $10B annually
+- **Timeline:** Years 1-3
+
+**67. Education Anti-Privatization Act**
+- **Purpose:** Protect public education from privatization
+- **Key Provisions:**
+  - No federal funds for voucher programs
+  - Charter school accountability (same standards as public)
+  - For-profit college accountability (gainful employment restoration)
+  - 90/10 rule enforcement (85/15 effective rate)
+  - Ban federal student aid for worst actor for-profits
+- **Timeline:** Year 1
+
+**68. Academic Freedom Protection Act**
+- **Purpose:** Protect against state censorship of curriculum
+- **Key Provisions:**
+  - Federal preemption of "divisive concepts" laws (conditional on federal funding)
+  - Anti-book-banning provisions (school library protection)
+  - $100M teacher legal defense fund
+  - Faculty tenure protection at public universities
+  - Academic freedom standards for federal grants
+- **Constitutional Note:** Spending Clause conditions; may face challenges
+- **Timeline:** Year 1-2
+
+**69. School-to-Prison Pipeline Dismantling Act**
+- **Purpose:** End criminalization of students
+- **Key Provisions:**
+  - Condition funding on removing School Resource Officers from discipline
+  - Restorative justice grants ($500M annually)
+  - Target: 1 counselor per 250 students
+  - Mental health investment ($2B annually)
+  - End suspensions for minor infractions
+  - Trauma-informed practices training
+- **Timeline:** Years 1-3
 
 ---
 
 ## 📊 LEGISLATIVE SUMMARY BY NUMBERS
 
-**Total Major Laws Required:** 70+
+**Total Major Laws Required:** 90+
 
 **Year 1 Priority:** 18 laws (must-pass immediately)
-**Year 1 Major:** 10 additional laws
-**Years 2-4:** 30+ implementation laws
-**Constitutional Amendments:** 6 proposed (separate process)
+**Year 1 Major:** 15 additional laws
+**Years 2-4:** 50+ implementation laws
+**Constitutional Amendments:** 7 proposed (separate process)
 
 **Budget Impact:**
-- **New Annual Spending:** $290B (after healthcare savings)
-- **New Annual Revenue:** $675B (surplus)
-- **Net Fiscal Impact:** +$385B annually (deficit reduction)
+- **New Annual Spending:** ~$550B
+  - Electoral/anti-corruption reforms: $30B
+  - Universal basic services: $290B
+  - Tax enforcement: $15B
+  - Housing programs: $74B
+  - Education access: $140B
+- **New Annual Revenue:** $720-770B
+  - Billionaire minimum tax: $25-40B
+  - Wealth tax: $300B
+  - Corporate tax reform: $150B
+  - Capital gains reform: $20B
+  - Financial transaction tax: $75B
+  - Carbon tax: $100B
+  - Estate tax: $50B
+- **Net Fiscal Impact:** +$170-220B annually (deficit reduction)
 
 **Enforcement:**
 - **New Agencies:** 3 (Office of Public Integrity, Congressional Ethics Commission, Campaign Finance Unit)
-- **Agency Expansions:** 15+ (DOJ, FEC, FCC, etc.)
-- **Total New Federal Employees:** ~5,000
+- **Agency Expansions:** 20+ (DOJ, IRS, FEC, FCC, HUD, ED, etc.)
+- **Total New Federal Employees:** ~15,000
 
 ---
 
@@ -585,7 +872,7 @@ This master list will be updated as:
 - Implementation proceeds (track status)
 - New needs identified (add laws)
 
-**Current Version:** 1.0 (October 2025)
+**Current Version:** 2.0 (November 2025)
 **Next Update:** Quarterly
 **Maintained by:** Project 2029 Team
 
@@ -598,7 +885,7 @@ This master list will be updated as:
 ---
 
 **Project 2029: Master Legislative Requirements**
-*70+ Laws | 6 Amendments | Complete Democratic Transformation*
-*From 30 Comprehensive Chapters | 72,620 Words*
+*90+ Laws | 7 Amendments | Complete Democratic Transformation*
+*From 31 Comprehensive Chapters | 100,000+ Words*
 
 **LEGISLATE. ORGANIZE. TRANSFORM. 🇺🇸**

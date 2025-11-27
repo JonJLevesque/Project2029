@@ -1,7 +1,7 @@
 # PROJECT 2029: QUICK REFERENCE GUIDE
-## The 20 Reforms to Save American Democracy
+## The 29 Reforms to Save American Democracy
 
-**One page. Twenty reforms. Your future.**
+**One page. Twenty-nine reforms. Your future.**
 
 ---
 
@@ -143,31 +143,110 @@
 
 ---
 
+## 💵 TAX FAIRNESS REFORMS
+
+### 21. **Billionaire Minimum Tax (30-35%)** (Ch 22)
+- **What:** 30-35% minimum tax on "Total Economic Income" (AGI + unrealized gains + imputed return on illiquid assets)
+- **Who Pays:** Taxpayers with $100M+ in assets (~700 billionaires, ~10,000-20,000 centimillionaires)
+- **Ends:** "Buy, Borrow, Die" strategy that lets billionaires pay 0-3% effective rates
+- **Revenue:** $25-40 billion annually
+- **Impact:** Billionaires pay AT LEAST as much as working families
+
+### 22. **Wealth Tax (2%/3%)** (Ch 22)
+- **What:** 2% annual tax on net worth over $50M, 3% on net worth over $1B
+- **Who Pays:** ~90,000 households (top 0.1%)
+- **Revenue:** $250-300 billion annually
+- **Day 1:** IRS wealth unit directive; exit tax enforcement
+- **Impact:** Slowly reduce extreme wealth concentration
+
+### 23. **Corporate Tax Reform** (Ch 22)
+- **What:** Raise rate to 28%, 15% global minimum, close profit-shifting loopholes
+- **Revenue:** $150 billion annually
+- **Ends:** Tax-free offshore parking of profits
+- **Impact:** Corporations pay fair share, level playing field for small business
+
+---
+
+## 🏠 HOUSING REFORMS
+
+### 24. **National Social Housing Program** (Ch 15)
+- **What:** $50B annual fund for publicly-owned mixed-income housing (Vienna/Singapore model)
+- **Production:** 1 million units over 10 years
+- **Target:** 30% of housing stock as social housing by 2050
+- **Design:** Mixed-income (30% very low, 30% low, 20% moderate, 20% middle income)
+- **Impact:** Universal housing stability, eliminate housing cost burden
+
+### 25. **Housing First** (Ch 15)
+- **What:** Permanent housing immediately for homeless, then wrap-around services
+- **Investment:** $20B annually
+- **Production:** 100,000 permanent supportive housing units over 5 years
+- **Success Rate:** 80-90% (vs. 40-50% traditional)
+- **Target:** Functional zero chronic homelessness in 5 years
+
+### 26. **Anti-NIMBY Zoning Preemption** (Ch 15)
+- **What:** Federal override of exclusionary local zoning near transit
+- **Requires:** As-of-right multifamily, ADU legalization, end parking minimums
+- **Enforcement:** Condition transportation funding on compliance
+- **Impact:** Unlock 7 million affordable units, end housing shortage
+
+---
+
+## 🎓 EDUCATION ACCESS REFORMS
+
+### 27. **Free Public Higher Education** (Ch 11)
+- **What:** Tuition-free public college/university for families under $125K
+- **Cost:** $80 billion annually (federal share of 2/3)
+- **Covers:** Community college, 4-year public, trade/vocational programs
+- **Living Expenses:** Covered for families under $60K
+- **Impact:** End student debt crisis for future students
+
+### 28. **Student Debt Cancellation** (Ch 11)
+- **What:** $10K all borrowers, $30K for Pell recipients, $50K for income under $50K
+- **Fixes IBR:** 10% of income above 200% poverty, 20-year forgiveness (tax-free)
+- **One-Time Cost:** $300-500 billion
+- **Impact:** Free 44 million borrowers from crushing debt
+
+### 29. **Teacher Investment** (Ch 11)
+- **What:** $80K minimum salary target, federal incentive covering 50% of cost to reach target
+- **Loan Forgiveness:** 5-year full forgiveness for Title I teachers
+- **Cost:** $10 billion annually
+- **Impact:** Competitive salaries attract best talent to teaching
+
+---
+
 ## 📊 BY THE NUMBERS
 
-**Constitutional Amendments Proposed:** 6 (28th-33rd)
+**Constitutional Amendments Proposed:** 7 (28th-34th)
 - 28th: Voting Rights
 - 29th: Presidential Accountability
 - 30th: Overturn Citizens United
 - 31st: Senate Term Limits
 - 32nd: Abolish Electoral College
 - 33rd: Supreme Court Term Limits
+- 34th: Wealth Tax Authority (backup if courts strike down)
 
-**Total Annual Investment:** $290 billion (after healthcare savings)
+**Total Annual Investment:** ~$550 billion
+- Electoral/anti-corruption reforms: $30B
+- Universal basic services: $290B
+- Tax enforcement: $15B
+- Housing programs: $74B
+- Education access: $140B
 
 **Revenue Sources:**
+- Billionaire minimum tax: $25-40B
 - Wealth tax (2% on $50M+, 3% on $1B+): $300B
+- Corporate tax reform: $150B
+- Capital gains as ordinary income: $20B
 - Financial transaction tax (0.01%): $75B
 - Carbon tax: $100B
-- Close corporate loopholes: $100B
-- Military reallocation: $100B
-- Total: $675B (surplus for other priorities)
+- Estate tax strengthening: $50B
+- **Total: $720-770B** (surplus for deficit reduction)
 
 **Timeline:**
-- **Year 1:** Immediate legislative reforms
-- **Years 2-4:** Universal services implementation
+- **Year 1:** Immediate legislative reforms + executive actions
+- **Years 2-4:** Universal services + housing + education implementation
 - **Years 5-10:** Constitutional amendments ratified
-- **Years 10-20:** Consolidation, cultural change
+- **Years 10-20:** Consolidation, cultural change, social housing at scale
 
 ---
 
@@ -280,7 +359,7 @@ These aren't just policy proposals. **This is a blueprint for the democracy we'v
 - By the people (not lobbyists)
 - For the people (not the wealthy)
 
-**Your 20 reforms are the DNA of democratic renewal.**
+**Your 29 reforms are the DNA of democratic renewal.**
 
 **Democracy requires eternal vigilance. This is our answer.**
 
@@ -290,7 +369,7 @@ These aren't just policy proposals. **This is a blueprint for the democracy we'v
 
 **Project 2029: Restorative + Transformative Democratic Renewal**
 
-*Last Updated: October 13, 2025*
+*Last Updated: November 26, 2025*
 *For full documentation: [GitHub Repository Link]*
 *Contact: [Project Email]*
 *Social: #Project2029 #DemocracyRenewal*

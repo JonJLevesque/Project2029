@@ -602,6 +602,351 @@ Section 4. Every State shall establish early voting, vote by mail, and same-day 
 - Platform transparency (algorithm disclosures)
 - Corrections policies (rapid response to false info)
 
+### Artificial Intelligence Governance
+
+**AI poses unprecedented risks to democracy—from mass manipulation to automated discrimination to surveillance capitalism. We need comprehensive governance before it's too late.**
+
+**The Problem:**
+
+**Consequential Decisions Without Accountability:**
+- AI systems make life-altering decisions: hiring, lending, housing, healthcare, benefits, criminal justice
+- Algorithmic bias replicates and amplifies historical discrimination
+- "Black box" decision-making with no explanation or recourse
+- No accountability when AI causes harm
+- Concentration of AI power in a few corporations
+
+**Democratic Manipulation at Scale:**
+- AI-powered disinformation at unprecedented scale
+- Deepfakes undermining shared reality (see deepfake ban provisions above)
+- Targeted manipulation based on psychological profiling
+- Foreign adversaries exploiting AI for election interference
+- Algorithmic amplification of division and extremism
+
+**Surveillance and Privacy Erosion:**
+- Mass data collection without meaningful consent
+- Facial recognition enabling tracking without warrant
+- Predictive policing targeting communities
+- Social credit scoring potential
+- Corporate surveillance as business model
+
+### AI Bill of Rights (Enforceable)
+
+**Moving beyond aspirational principles to binding law.**
+
+**Five Core Rights:**
+
+**1. Right to Human Alternative**
+- Citizens can opt out of automated decision-making for consequential decisions
+- Human review available upon request
+- No penalty for choosing human process
+- Reasonable timeline for human alternative
+
+**2. Right to Explanation**
+- Know when AI is making decisions about you
+- Understand why AI made specific decision
+- Meaningful explanation in plain language (not "the algorithm decided")
+- Technical details available for expert review
+
+**3. Right to Appeal**
+- Challenge AI decisions with human review
+- Independent reviewer (not just same AI or its operators)
+- Timely resolution (30 days for most decisions)
+- Remedy available if decision overturned
+
+**4. Right to Non-Discrimination**
+- AI cannot discriminate based on protected characteristics (race, sex, religion, national origin, disability, age)
+- Disparate impact analysis required
+- Bias testing before deployment
+- Ongoing monitoring for discriminatory outcomes
+
+**5. Right to Privacy**
+- Limits on data collection for AI training
+- Consent requirements for personal data use in AI
+- Right to know if your data was used to train AI
+- Right to deletion from training datasets
+- Prohibition on inferring sensitive characteristics (sexual orientation, health conditions, political views) without explicit consent
+
+### Algorithmic Impact Assessment (AIA)
+
+**Required before deployment of high-stakes AI systems.**
+
+**Covered Systems:**
+All AI systems making "consequential decisions" affecting:
+- Employment (hiring, firing, promotion, performance evaluation)
+- Credit (lending, insurance underwriting)
+- Housing (tenant screening, rental decisions)
+- Education (admissions, discipline, grading)
+- Healthcare (diagnosis, treatment recommendations, insurance coverage)
+- Benefits (welfare eligibility, unemployment)
+- Criminal justice (bail, sentencing, parole, policing)
+
+**Assessment Requirements:**
+- **Bias Testing:** Across demographic groups before deployment
+- **Accuracy Metrics:** Error rates by population group
+- **Privacy Impact:** Data used, retention, sharing
+- **Human Oversight Mechanisms:** How humans review and intervene
+- **Failure Modes:** What happens when system fails
+- **Redress Mechanisms:** How affected individuals can challenge decisions
+
+**Third-Party Audit:**
+- High-risk systems require independent third-party audit
+- Auditors certified and registered
+- Audit results in public summary (protecting trade secrets)
+- Annual re-audit for ongoing systems
+
+**Public Registry:**
+- All covered AI systems listed in public database
+- Searchable by agency, type, purpose
+- Assessment summaries available
+- Audit results posted
+
+### AI in Government
+
+**The federal government must lead by example.**
+
+**Transparency Requirements:**
+- All federal agencies must disclose AI systems in use
+- Public notice when AI affects individual rights
+- "AI Impact Statements" for major system deployments
+- Annual inventory published
+
+**Procurement Standards:**
+- Bias testing requirements for AI vendors
+- Transparency standards in contracts
+- Human oversight mandates
+- Performance benchmarks
+- Ongoing monitoring requirements
+- Vendor responsibility for outcomes
+
+**Accountability:**
+- Chief AI Officer in each major agency (Cabinet-level) reporting to agency head
+- AI Impact Review Board before deployment
+- Annual reports to Congress
+- GAO audit authority
+- IG jurisdiction over AI systems
+
+**Prohibited Uses:**
+- Mass surveillance without warrant
+- Social credit scoring
+- Predictive policing targeting individuals (not just hotspots)
+- Automated denial of constitutional rights
+- Manipulation of democratic processes
+- Facial recognition without explicit authorization (case-by-case)
+
+### Platform AI Regulation
+
+**Social media algorithms shape what Americans see, think, and believe. They must be accountable.**
+
+**Social Media Algorithm Requirements:**
+
+**User Control:**
+- Must offer chronological (non-algorithmic) feed option
+- User control over algorithmic curation intensity
+- Transparency in what factors drive recommendations
+- Ability to turn off specific categories (politics, outrage, etc.)
+
+**Transparency:**
+- Publish high-level description of recommendation system design
+- Disclose factors that increase or decrease content distribution
+- Report on algorithmic amplification of different content types
+- Researcher access to platform data (with privacy protections)
+
+**Harm Reduction:**
+- Prohibition on knowingly amplifying content that violates platform rules
+- Friction on virality for unverified claims
+- Circuit breakers for harmful content spread
+- No algorithmic amplification of content from accounts with repeated violations
+
+**Content Moderation Accountability:**
+- Appeals process with human review for all moderation decisions
+- Transparency reports on enforcement (by content type, demographic impact)
+- External oversight board (Meta-style but truly independent)
+- No political bias in enforcement (evidence-based, not viewpoint-based)
+
+### AI Safety Standards
+
+**High-risk AI requires pre-market approval, like medical devices or aircraft.**
+
+**High-Risk AI Categories:**
+- Criminal justice (bail algorithms, sentencing recommendations, parole predictions)
+- Healthcare (diagnostic AI, treatment recommendations, triage systems)
+- Employment (automated hiring, firing recommendations, performance scoring)
+- Critical infrastructure (transportation, energy, water)
+- Financial services (credit decisions, trading algorithms)
+
+**Pre-Market Requirements:**
+- Certification by designated testing organization
+- Meet safety and accuracy thresholds
+- Bias audit passed
+- Human oversight plan approved
+- Incident response plan in place
+
+**Ongoing Obligations:**
+- Continuous monitoring for performance drift
+- Incident reporting within 72 hours (for significant harms)
+- Annual recertification
+- Update assessments when system changes
+
+**Prohibited AI Uses (Absolute Bans):**
+
+| Prohibited Use | Rationale |
+|----------------|-----------|
+| Social credit scoring | Incompatible with liberty |
+| Mass surveillance without warrant | Fourth Amendment |
+| Predictive policing targeting individuals | Due process, equal protection |
+| Manipulation of democratic processes | Core democratic integrity |
+| Weapons autonomy without human control | Laws of armed conflict |
+| AI-generated CSAM | Child protection |
+| Deceptive AI impersonation | Fraud, identity |
+
+### Data Rights Foundation
+
+**AI runs on data. Citizens must control their data.**
+
+**GDPR-Style Protections:**
+
+**Right to Access:**
+- Know what data is collected about you
+- Obtain copy of your data in usable format
+- Understand how data is processed
+
+**Right to Deletion:**
+- Request deletion of personal data ("right to be forgotten")
+- Exceptions: legal requirements, legitimate business need, public interest
+- Response within 30 days
+
+**Right to Portability:**
+- Transfer data between services
+- Standard formats required
+- No lock-in through data hoarding
+
+**Right to Know AI Use:**
+- Disclosure when data is used for AI training
+- Opt-out of AI training (where feasible)
+- Notification of significant algorithmic decisions
+
+**Data Minimization:**
+- Collect only data necessary for stated purpose
+- Retention limits (delete when no longer needed)
+- Purpose limitation (don't repurpose without consent)
+- Privacy by design (minimize data in system architecture)
+
+**Enforcement:**
+- FTC primary enforcement authority
+- Private right of action for violations ($500-$10,000 per violation)
+- State Attorney General enforcement preserved
+- Whistleblower protections for reporting violations
+
+### Day 1 Executive Actions
+
+**What the President can do immediately:**
+
+**1. Executive Order on AI in Federal Agencies**
+- Direct inventory of all AI systems in government use
+- Pause on expansion of high-risk AI systems pending impact assessment
+- Appoint Chief AI Officers in each major agency
+- Require human review for consequential automated decisions
+- Annual public reporting on government AI
+
+**2. OMB Guidance on AI Procurement**
+- Bias testing requirements for all AI vendors
+- Transparency standards in procurement contracts
+- Human oversight mandates
+- Performance benchmarks and monitoring
+- Vendor responsibility provisions
+
+**3. FTC Enforcement Priority**
+- Direct FTC to treat algorithmic discrimination as unfair trade practice
+- Prioritize enforcement against deceptive AI practices
+- Investigate dark patterns in AI-powered services
+- Issue guidance on AI disclosure requirements
+
+**4. OSTP National AI Strategy**
+- Coordinate cross-agency AI policy
+- Fund AI safety research
+- Support development of AI standards
+- International AI governance engagement
+
+### Legislative Framework: AI Accountability Act
+
+**Comprehensive legislation to govern AI:**
+
+**Components:**
+1. **AI Bill of Rights Act** - Codify five core rights with enforcement
+2. **Algorithmic Impact Assessment Act** - Mandate pre-deployment review
+3. **AI in Government Transparency Act** - Federal government accountability
+4. **Platform Algorithm Transparency Act** - Social media governance
+5. **AI Safety Standards Act** - High-risk AI pre-market approval
+6. **Federal Data Privacy Act** - GDPR-style protections
+
+**Enforcement Structure:**
+- FTC primary enforcement authority
+- New Office of AI Accountability within FTC (or standalone)
+- Private right of action with fee-shifting
+- State enforcement authority preserved (floor, not ceiling)
+- Whistleblower rewards program
+
+**Penalties:**
+- Civil penalties up to $25,000 per violation
+- Knowing violations: up to $100,000 per violation
+- Corporate officer liability for systemic violations
+- Injunctive relief (stop using non-compliant system)
+- Consent decrees with monitoring
+
+### International AI Governance
+
+**AI doesn't stop at borders. Neither should governance.**
+
+**Leadership Role:**
+- Lead development of international AI standards (ISO, IEEE)
+- Bilateral AI agreements with allies (EU, UK, Japan, etc.)
+- Export controls on dangerous AI capabilities
+- AI governance in trade agreements
+
+**EU Coordination:**
+- Mutual recognition with EU AI Act where appropriate
+- Harmonize standards to reduce compliance burden
+- Joint research on AI safety
+- Coordinated enforcement against global platforms
+
+**Authoritarian AI Response:**
+- Export controls on AI enabling surveillance
+- Sanctions on companies supplying authoritarian AI
+- Support for civil society countering AI-enabled repression
+- Alternative development (democratic AI)
+
+### Success Metrics
+
+**How we'll know the framework is working:**
+
+| Metric | Target |
+|--------|--------|
+| AI discrimination complaints | Decreasing trend |
+| Algorithmic impact assessments filed | 100% compliance for covered systems |
+| Government AI transparency | All federal AI systems inventoried |
+| Platform algorithm transparency | User control options available |
+| Data privacy incidents | Decreasing trend |
+| Public trust in AI systems | Increasing (survey) |
+| AI-related litigation | Decreasing (violations caught pre-harm) |
+
+### Why This Matters for Democracy
+
+**AI threatens democracy through:**
+- **Manipulation:** Micro-targeting, deepfakes, algorithmic amplification of extremism
+- **Discrimination:** Automated bias in life-shaping decisions
+- **Surveillance:** Tracking, profiling, chilling of speech and association
+- **Concentration:** Power in hands of few tech giants
+- **Opacity:** Decisions without explanation or accountability
+
+**Comprehensive AI governance ensures:**
+- **Accountability:** Someone responsible when AI causes harm
+- **Transparency:** Citizens understand how decisions are made
+- **Fairness:** AI doesn't discriminate
+- **Control:** Humans remain in charge
+- **Democracy:** Technology serves citizens, not the reverse
+
+**The choice is clear: govern AI now, or be governed by it.**
+
 ## IX. Constitutional Amendments
 
 ### Proposed 28th Amendment: Voting Rights
