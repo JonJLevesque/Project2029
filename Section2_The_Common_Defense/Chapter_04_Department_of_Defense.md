@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 4: Department of Defense"
-parent: "Section 2: The Common Defense"
-nav_order: 4
----
-
 # Chapter 4: Department of Defense
 
 ## Executive Summary

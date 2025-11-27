@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 20: Veterans Affairs"
-parent: "Section 3: The General Welfare"
-nav_order: 20
----
-
 # Chapter 20: Department of Veterans Affairs
 
 ## Executive Summary

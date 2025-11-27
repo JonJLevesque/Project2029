@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 27: Financial Regulation"
-parent: "Section 5: Independent Regulatory Agencies"
-nav_order: 27
----
-
 # Chapter 27: Financial Regulatory Agencies
 
 ## Executive Summary

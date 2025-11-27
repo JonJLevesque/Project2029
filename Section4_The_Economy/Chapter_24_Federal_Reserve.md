@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 24: Federal Reserve"
-parent: "Section 4: The Economy"
-nav_order: 24
----
-
 # Chapter 24: Federal Reserve
 
 ## Executive Summary

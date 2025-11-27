@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 7: Intelligence Community"
-parent: "Section 2: The Common Defense"
-nav_order: 7
----
-
 # Chapter 7: Intelligence Community
 
 ## Executive Summary

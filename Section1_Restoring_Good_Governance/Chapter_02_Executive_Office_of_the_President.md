@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 2: Executive Office of the President"
-parent: "Section 1: Restoring Good Governance"
-nav_order: 2
----
-
 # Chapter 2: Executive Office of the President
 
 ## Executive Summary

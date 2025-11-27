@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 18: Labor"
-parent: "Section 3: The General Welfare"
-nav_order: 18
----
-
 # Chapter 18: Department of Labor and Related Agencies
 
 ## Executive Summary

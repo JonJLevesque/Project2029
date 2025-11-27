@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 12: Energy"
-parent: "Section 3: The General Welfare"
-nav_order: 12
----
-
 # Chapter 12: Department of Energy and Related Commissions
 
 ## Executive Summary

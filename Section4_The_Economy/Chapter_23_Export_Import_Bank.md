@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 23: Export-Import Bank"
-parent: "Section 4: The Economy"
-nav_order: 23
----
-
 # Chapter 23: Export-Import Bank
 
 ## Executive Summary

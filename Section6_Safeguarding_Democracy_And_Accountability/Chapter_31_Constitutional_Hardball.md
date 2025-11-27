@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 31: Constitutional Hardball"
-parent: "Section 6: Safeguarding Democracy"
-nav_order: 31
----
-
 # Chapter 31: Constitutional Hardball
 ## Using Full Presidential Authority to Restore Democracy
 

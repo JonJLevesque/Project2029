@@ -1,10 +1,3 @@
----
-layout: default
-title: Conclusion
-nav_order: 99
-description: "Forward Together - Democracy Renewed"
----
-
 # Conclusion: Forward Together - Democracy Renewed
 
 ## The Choice Before Us

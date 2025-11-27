@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 8: Media Agencies"
-parent: "Section 2: The Common Defense"
-nav_order: 8
----
-
 # Chapter 8: Media and Public Information Agencies
 
 ## Executive Summary

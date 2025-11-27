@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 17: Justice"
-parent: "Section 3: The General Welfare"
-nav_order: 17
----
-
 # Chapter 17: Department of Justice - Radical Reform for Independence and Democracy
 
 ## Executive Summary

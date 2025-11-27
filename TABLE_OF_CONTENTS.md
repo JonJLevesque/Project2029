@@ -1,10 +1,3 @@
----
-layout: default
-title: Table of Contents
-nav_order: 3
-description: "Complete navigation for all chapters and supporting materials"
----
-
 # Project 2029: A Mandate for Democratic Renewal
 ## Comprehensive Table of Contents
 

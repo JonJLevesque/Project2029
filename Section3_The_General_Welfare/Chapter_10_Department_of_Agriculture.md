@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 10: Agriculture"
-parent: "Section 3: The General Welfare"
-nav_order: 10
----
-
 # Chapter 10: Department of Agriculture
 
 ## Executive Summary

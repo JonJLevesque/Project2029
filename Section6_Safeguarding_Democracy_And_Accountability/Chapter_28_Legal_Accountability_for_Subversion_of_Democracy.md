@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 28: Accountability"
-parent: "Section 6: Safeguarding Democracy"
-nav_order: 28
----
-
 # Chapter 28: Legal Accountability for Subversion of Democracy
 
 ## Executive Summary

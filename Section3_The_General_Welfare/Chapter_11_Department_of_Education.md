@@ -1,10 +1,3 @@
----
-layout: default
-title: "Chapter 11: Education"
-parent: "Section 3: The General Welfare"
-nav_order: 11
----
-
 # Chapter 11: Department of Education - Education for Citizenship
 
 ## Executive Summary
