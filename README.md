@@ -2,6 +2,8 @@
 
 **Quick Navigation:** [Overview](#overview) · [How to Use](#how-to-use-this-repository) · [Document Structure](#complete-document-structure) · [Key Resources](#key-resources-quick-access) · [29 Reforms](#the-29-transformative-reforms) · [Supporting Materials](#supporting-materials-index) · [Get Started](#get-started-now)
 
+[![Support Project 2029](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/project2029)
+
 ---
 
 <a id="overview"></a>
