@@ -1,0 +1,112 @@
+title: Project 2029
+description: A Mandate for Democratic Renewal - A comprehensive policy blueprint for restoring American democracy
+baseurl: "/Project2029"
+url: "https://jonjl.github.io"
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.8.2
+color_scheme: dark
+
+# Search settings
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: true
+
+# Navigation
+nav_sort: case_sensitive
+nav_external_links:
+  - title: GitHub Repository
+    url: https://github.com/jonjl/Project2029
+
+# Footer
+footer_content: "Project 2029: A Mandate for Democratic Renewal"
+
+# Heading anchor links
+heading_anchors: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Code copy button
+enable_copy_code_button: true
+
+# Last edit timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Exclude from processing
+exclude:
+  - .git
+  - .gitattributes
+  - .github
+  - .claude
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - "*.pdf"
+  - "Project 2025 - EVIL EXAMPLE"
+  - Research
+  - TODO.md
+  - PROJECT_STATUS.md
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections for organized content
+collections:
+  sections:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "Section1_Restoring_Good_Governance"
+    values:
+      parent: "Section 1: Restoring Good Governance"
+  - scope:
+      path: "Section2_The_Common_Defense"
+    values:
+      parent: "Section 2: The Common Defense"
+  - scope:
+      path: "Section3_The_General_Welfare"
+    values:
+      parent: "Section 3: The General Welfare"
+  - scope:
+      path: "Section4_The_Economy"
+    values:
+      parent: "Section 4: The Economy"
+  - scope:
+      path: "Section5_Independent_Regulatory_Agencies"
+    values:
+      parent: "Section 5: Independent Regulatory Agencies"
+  - scope:
+      path: "Section6_Safeguarding_Democracy_And_Accountability"
+    values:
+      parent: "Section 6: Safeguarding Democracy"
+  - scope:
+      path: "Supporting_Materials"
+    values:
+      parent: "Supporting Materials"

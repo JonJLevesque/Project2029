@@ -1,3 +1,10 @@
+---
+layout: default
+title: Introduction
+nav_order: 2
+description: "A Call to Preserve Our Republic - The Five Core Mandates of Project 2029"
+---
+
 # Introduction: A Mandate to Restore Democracy
 
 ## A Call to Preserve Our Republic
