@@ -1,10 +1,10 @@
 title: Project 2029
 description: A Mandate for Democratic Renewal - A comprehensive policy blueprint for restoring American democracy
 baseurl: "/Project2029"
-url: "https://jonjl.github.io"
+url: "https://jonjlevesque.github.io"
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.8.2
+theme: just-the-docs
 color_scheme: dark
 
 # Search settings
@@ -22,7 +22,7 @@ search:
 nav_sort: case_sensitive
 nav_external_links:
   - title: GitHub Repository
-    url: https://github.com/jonjl/Project2029
+    url: https://github.com/JonJLevesque/Project2029
 
 # Footer
 footer_content: "Project 2029: A Mandate for Democratic Renewal"
