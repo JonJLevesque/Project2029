@@ -1288,6 +1288,398 @@ Carbon pollution imposes massive costs on society—climate damage, health impac
 
 ---
 
+### Reform X: National Cannabis Legalization and Taxation
+
+**The Problem:**
+Cannabis prohibition has failed catastrophically:
+- **$47+ billion** spent annually on enforcement at federal, state, and local levels
+- **600,000+ arrests** annually for cannabis, disproportionately affecting Black and Latino communities (3.6x more likely to be arrested despite equal usage rates)
+- **Lost tax revenue** in the billions while 24 states have legalized
+- **Thriving black market** generates zero tax revenue and funds criminal organizations
+- **Medical patients criminalized** for using effective treatments
+- **Federal-state conflict** creates banking crises, legal uncertainty, and compliance chaos
+
+Meanwhile, alcohol (88,000 deaths/year) and tobacco (480,000 deaths/year) are legal. Cannabis has zero recorded overdose deaths.
+
+**Policy Design:**
+
+**1. Federal Legalization Framework:**
+
+**Core Provisions:**
+- **Remove cannabis from Schedule I** of the Controlled Substances Act
+- **Create new federal regulatory framework** under FDA/TTB similar to alcohol
+- **Federal minimum age of 21** for purchase (states can set higher)
+- **DUI standards** developed by NHTSA with impairment-based testing
+- **No federal preemption** of stricter state laws (states can remain prohibition states)
+- **Retroactive expungement** of federal cannabis convictions
+
+**Personal Cultivation Rights:**
+- **Every adult (21+) may grow up to 12 plants** for personal use per household
+- **No license required** for personal cultivation
+- **Cannot sell personal cultivation** without commercial license
+- **Home cultivation exempt from federal taxation** (personal use only)
+- **Seed and clone sharing** permitted between adults
+- **Rationale:** Personal cultivation ensures access, prevents monopolization, and reflects individual liberty
+
+**2. Rotating Commercial License Lottery System:**
+
+**The Problem with Existing State Systems:**
+Current state legalization has created cannabis cartels—wealthy investors capture licenses, exclude communities harmed by prohibition, and concentrate wealth:
+- California: Top 10 companies control 40%+ of market
+- Colorado: Average license cost $1M+ (excluding working-class entrepreneurs)
+- Illinois: License corruption scandals, billionaire-owned operations
+
+**The Solution: Democratic Wealth Distribution Through Rotation**
+
+**License Categories:**
+| License Type | Duration | Lottery Frequency | Max Licenses |
+|--------------|----------|-------------------|--------------|
+| Cultivation (Small) | 3 years | Annual | 50,000 |
+| Cultivation (Large) | 5 years | Biennial | 5,000 |
+| Processing/Manufacturing | 5 years | Biennial | 10,000 |
+| Retail Dispensary | 3 years | Annual | 30,000 |
+| Wholesale Distribution | 5 years | Biennial | 2,000 |
+
+**Rotating Lottery Mechanism:**
+- **All licenses awarded by random lottery** (no auction, no political favoritism)
+- **Licenses are non-transferable** (cannot be sold or inherited)
+- **Term limits per category:** No individual/entity may hold same license type for more than 2 consecutive terms
+- **After term limit:** Must sit out one full term before re-entering lottery
+- **Effect:** Ensures constant rotation of wealth-generating opportunities to new participants
+
+**Social Equity Provisions:**
+- **Priority lottery pools** (50% of licenses reserved):
+  - Individuals with prior cannabis convictions (or family members)
+  - Residents of communities with high cannabis arrest rates
+  - Minority-owned small businesses
+  - Veterans
+  - Low-income applicants (below 200% federal poverty line)
+- **Startup grants:** $50,000-250,000 interest-free loans for social equity licensees
+- **Technical assistance:** Free business planning, compliance training, legal support
+- **Community reinvestment:** 25% of cannabis tax revenue returns to communities harmed by prohibition
+
+**Anti-Monopoly Provisions:**
+- **Ownership caps:** No entity may control more than 3 retail licenses or 5% of state cultivation
+- **Vertical integration limits:** Cannot own both cultivation and retail in same state
+- **Public company restrictions:** Publicly traded companies limited to 10% total market share
+- **Cross-ownership disclosure:** All beneficial owners must be disclosed
+- **Residency requirements:** Primary owner must be state resident for 2+ years
+
+**Government Purchase Program:**
+
+**How It Works:**
+- **Federal government purchases from licensed cultivators** at fair market price
+- **Creates guaranteed market** for small cultivators who might otherwise struggle to compete
+- **Purchased cannabis distributed through:**
+  - Federal dispensaries on federal lands (national parks, military bases, VA facilities)
+  - Wholesale to state-licensed retailers at cost-plus-5%
+  - Medical programs at reduced cost
+  - Research institutions
+- **Price stabilization:** Government purchases prevent market crashes that would harm small farmers
+
+**Lottery for Government Contracts:**
+- **Rotating contracts:** No cultivator may hold government contract for more than 3 consecutive years
+- **Small farm preference:** 75% of government purchases from operations under 10,000 sq ft
+- **Quality standards:** All purchases must meet federal quality/safety testing
+- **Fair pricing:** Independent commission sets fair purchase price annually based on production costs + reasonable profit
+
+**3. Federal Taxation Framework:**
+
+**Federal Excise Tax Structure:**
+| Product Type | Tax Rate | Collection Point |
+|--------------|----------|------------------|
+| Cannabis flower | $30/ounce | Wholesale |
+| Concentrates | $50/ounce | Wholesale |
+| Edibles | 15% of retail price | Retail |
+| Topicals/other | 10% of retail price | Retail |
+
+**Tax Administration:**
+- **Collected by TTB** (Alcohol and Tobacco Tax and Trade Bureau)
+- **Monthly remittance** from licensed businesses
+- **Audit authority** through IRS coordination
+- **Penalties:** Standard tax evasion penalties apply
+
+**Revenue Allocation:**
+| Purpose | Share | Annual Est. |
+|---------|-------|-------------|
+| Community reinvestment (harm from prohibition) | 25% | $5-7B |
+| Substance abuse treatment and prevention | 20% | $4-6B |
+| Public education (including drug education) | 15% | $3-4B |
+| Law enforcement retraining and transition | 10% | $2-3B |
+| Research (medical, agricultural, policy) | 10% | $2-3B |
+| Small business/social equity fund | 10% | $2-3B |
+| General revenue | 10% | $2-3B |
+
+**State Coordination:**
+- **Federal floor, state ceiling:** Federal sets minimum standards; states can be stricter
+- **Tax credit for state taxes:** Federal tax reduced by state cannabis taxes paid (avoids double taxation)
+- **Banking access:** Explicitly permit financial services for licensed cannabis businesses
+- **Interstate commerce:** Phase in after Year 3, with regulatory harmonization
+
+**4. Implementation Timeline:**
+
+**Day 1 Executive Actions:**
+- DOJ memo: Deprioritize federal cannabis enforcement in legal states
+- Treasury guidance: Banks may serve licensed cannabis businesses
+- Pardon: Mass pardon for federal simple possession convictions
+
+**Year 1 Legislation:**
+- Cannabis Administration and Opportunity Act passage
+- Remove from Schedule I
+- Establish federal regulatory framework
+- First lottery for federal licenses
+
+**Years 2-3:**
+- State regulatory harmonization
+- Full federal licensing operational
+- Interstate commerce framework developed
+- Research restrictions lifted
+
+**Years 4+:**
+- Interstate commerce permitted
+- International export framework (where legal)
+- Full revenue generation realized
+
+**Revenue Estimate:** $20-30 billion annually at full implementation
+
+**Cross-Reference:** See Chapter 17 (DOJ) for expungement and criminal justice reform provisions.
+
+---
+
+### Reform XI: Employee-Friendly Company Tax Incentives
+
+**The Problem:**
+
+American workers have been systematically stripped of economic security:
+- **Layoffs as profit strategy:** Companies lay off workers to boost stock prices, even when profitable
+- **Retirement crisis:** Only 56% of workers have access to employer retirement plans; average 401(k) balance at retirement is only $141,000
+- **Healthcare insecurity:** 27 million Americans uninsured; millions more underinsured with inadequate employer coverage
+- **Stock buybacks over workers:** S&P 500 companies spent $1 trillion on buybacks in 2022 while cutting jobs
+- **Short-term thinking:** Wall Street rewards cost-cutting (layoffs) over long-term investment (workers)
+
+**The tax code currently subsidizes bad behavior:** Companies get full deductions for executive compensation, stock buybacks, and layoffs while providing minimal incentives for worker retention and benefits.
+
+**Policy Design:**
+
+**1. Job Stability Tax Credit (No-Layoff Incentive):**
+
+**Core Structure:**
+Companies that maintain stable employment receive significant tax credits:
+
+| Workforce Stability | Annual Tax Credit |
+|---------------------|-------------------|
+| Zero layoffs (95%+ retention) | 5% of total payroll |
+| Minimal layoffs (90-95% retention) | 3% of total payroll |
+| Low layoffs (85-90% retention) | 1% of total payroll |
+| Below 85% retention | No credit |
+
+**Definitions:**
+- **Layoff:** Involuntary termination not for cause (excludes firings for misconduct, voluntary departures, retirements)
+- **Retention rate:** (Employees at year-end ÷ employees at year-start) × 100
+- **Payroll:** Total wages, salaries, and benefits paid during tax year
+- **Qualification period:** Must maintain retention level for full 12-month tax year
+
+**Anti-Abuse Provisions:**
+- **No contractor conversion:** Cannot convert employees to contractors to avoid layoff count
+- **Subsidiary consolidation:** Related entities treated as single employer
+- **Acquisition adjustments:** Post-merger workforce counted from 90 days after close
+- **Seasonal adjustment:** Seasonal businesses measured against same period prior year
+- **Minimum size:** Credit available only to employers with 50+ employees (small businesses have natural volatility)
+
+**Example:**
+- Company with 1,000 employees, $75M annual payroll
+- Maintains 97% retention (zero layoffs, only 30 voluntary departures)
+- Tax credit: 5% × $75M = **$3.75 million annual tax credit**
+- Incentive: Keep workers, get rewarded
+
+**2. Retirement Plan Tax Credit (Universal Retirement Incentive):**
+
+**The Problem:**
+- 44% of private sector workers have no employer retirement plan
+- Small businesses can't afford administrative costs
+- Workers without employer plans save 1/10th as much for retirement
+- Current tax incentives flow to high-income savers, not working-class
+
+**Universal Retirement Mandate with Tax Credit:**
+
+**Requirement (phased in):**
+| Employer Size | Deadline | Minimum Contribution |
+|---------------|----------|---------------------|
+| 500+ employees | Year 1 | 3% of wages |
+| 100-499 employees | Year 2 | 3% of wages |
+| 50-99 employees | Year 3 | 3% of wages |
+| 20-49 employees | Year 4 | 3% of wages |
+
+**Tax Credits for Above-Minimum Contributions:**
+
+| Employer Contribution | Tax Credit |
+|----------------------|------------|
+| 3% of wages (minimum) | 25% of contribution |
+| 4-5% of wages | 35% of contribution |
+| 6-8% of wages | 45% of contribution |
+| 9%+ of wages | 50% of contribution |
+
+**Example:**
+- Company with $50M payroll
+- Contributes 6% to employee retirement ($3M)
+- Tax credit: 45% × $3M = **$1.35 million annual tax credit**
+- Workers receive real retirement security
+
+**Retirement Plan Requirements:**
+- **Vesting:** Immediate vesting for employer contributions (no 3-year cliff)
+- **Auto-enrollment:** Default opt-in at 6% employee contribution
+- **Auto-escalation:** Annual 1% increase up to 10%
+- **Low fees:** Plan must offer index funds with expense ratios under 0.5%
+- **No loans against retirement:** Prohibit 401(k) loans (preserves retirement savings)
+
+**Small Business Support:**
+- **Pooled Employer Plans (PEPs):** Treasury facilitates industry-wide PEPs
+- **Administrative subsidy:** $500/employee credit for first 3 years for employers under 100
+- **Free plan templates:** Treasury provides pre-approved low-cost plan documents
+- **Compliance assistance:** Free IRS/DOL helpline for small business retirement questions
+
+**3. Healthcare Tax Credit (Universal Coverage Incentive):**
+
+**The Problem:**
+- 27 million Americans uninsured
+- Employer-sponsored coverage declining (56% in 2023 vs. 70% in 2000)
+- High deductibles make insurance unusable ($1,763 average deductible)
+- Companies drop coverage to cut costs; taxpayers pick up emergency care
+
+**Comprehensive Coverage Tax Credit:**
+
+| Coverage Level | Tax Credit |
+|----------------|------------|
+| Bronze plan (60% actuarial value) | 15% of premium |
+| Silver plan (70% AV) | 25% of premium |
+| Gold plan (80% AV) | 40% of premium |
+| Platinum plan (90%+ AV) | 50% of premium |
+
+**Additional Credits:**
+- **Low-deductible bonus:** +10% credit if deductible under $500
+- **Family coverage bonus:** +10% credit for covering dependents
+- **Full-time equivalence:** Part-time workers (20+ hrs/week) must be offered coverage to qualify
+
+**Example:**
+- Company pays $15,000/year for platinum health coverage per employee
+- 500 employees = $7.5M in healthcare costs
+- Tax credit: 50% × $7.5M = **$3.75 million annual tax credit**
+- Plus low-deductible bonus (10%): +$750,000
+- **Total credit: $4.5 million**
+
+**Coverage Requirements:**
+- **No waiting periods:** Coverage must begin within 30 days of employment
+- **No coverage gaps:** Termination coverage (COBRA equivalent) employer-paid for 90 days
+- **Mental health parity:** Full mental health coverage required
+- **Preventive care:** 100% coverage for preventive services
+- **No annual limits:** Prohibited (ACA standard)
+
+**4. Combined "Good Employer" Super-Credit:**
+
+Companies meeting ALL THREE criteria receive additional bonus:
+
+**Good Employer Certification Requirements:**
+1. ✅ 90%+ workforce retention (no mass layoffs)
+2. ✅ 6%+ employer retirement contribution
+3. ✅ Gold-level or better health coverage for all employees
+
+**Super-Credit:**
+- 10% **additional** credit on total payroll (on top of individual credits)
+- Public recognition as "Certified Good Employer"
+- Preference in federal contracting (see below)
+
+**Example: Full Stack Credits**
+- Company: 500 employees, $50M payroll
+- Job Stability Credit (5%): $2.5M
+- Retirement Credit (45% of $3M): $1.35M
+- Healthcare Credit (50% of $7.5M): $3.75M
+- Good Employer Super-Credit (10% of $50M): $5M
+- **Total Tax Credits: $12.6 million**
+
+**Federal Contracting Preference:**
+
+**Good Employer Requirement for Federal Contracts:**
+- Contracts over $500,000: Must be "Certified Good Employer" OR demonstrate progress toward certification
+- 10% price preference for Certified Good Employers in competitive bidding
+- Debarment for companies with pattern of mass layoffs while receiving federal contracts
+
+**5. Anti-Abuse and Enforcement:**
+
+**Preventing Gaming:**
+- **Clawback:** If company claims credits then conducts mass layoff within 24 months, credits recaptured plus 25% penalty
+- **Stock buyback limitation:** Companies claiming Good Employer credits cannot conduct stock buybacks in same tax year
+- **Executive compensation cap:** No credit if CEO compensation exceeds 50x median worker pay
+- **Offshore job shifting:** No credit if company increases offshore employment while domestic employment flat/declining
+- **Audit priority:** IRS priority audit for companies claiming $1M+ in combined credits
+
+**Reporting Requirements:**
+- **Annual workforce report:** Headcount by month, terminations by type, new hires
+- **Benefits disclosure:** Retirement plan participation rates, healthcare enrollment, coverage levels
+- **Executive-worker pay ratio:** CEO-to-median-worker compensation
+- **Public disclosure:** Summary filed with SEC (public companies) or posted publicly (large private)
+
+**6. Implementation Timeline:**
+
+**Year 1:**
+- Legislation passes
+- Treasury issues proposed regulations
+- IRS develops reporting forms
+- Credit available for tax year beginning after enactment
+
+**Year 2:**
+- Full credit system operational
+- Good Employer certification process launched
+- Federal contracting preferences implemented
+- Retirement mandate begins (500+ employers)
+
+**Years 3-4:**
+- Retirement mandate extends to smaller employers
+- First clawback audits for bad actors
+- Assessment of credit uptake and worker outcomes
+
+**Year 5:**
+- Comprehensive evaluation
+- Adjust credit levels based on data
+- Expand or modify based on results
+
+**Revenue Impact:**
+
+**Costs:**
+| Credit | Estimated Annual Cost |
+|--------|----------------------|
+| Job Stability | $15-25 billion |
+| Retirement | $20-30 billion |
+| Healthcare | $25-35 billion |
+| Good Employer Super | $10-15 billion |
+| **Total** | **$70-105 billion** |
+
+**Offsets:**
+- Reduced unemployment insurance costs: $10-15 billion
+- Reduced Medicaid/emergency care: $15-20 billion
+- Reduced SNAP/TANF (higher wages): $5-10 billion
+- Increased payroll taxes (more workers): $10-15 billion
+- Economic growth effects: $20-30 billion
+- **Net cost after offsets: $10-25 billion**
+
+**Funding Source:**
+- Stock buyback tax increase (1% → 4%): $30+ billion
+- Executive compensation deduction cap ($1M): $10+ billion
+- Net revenue positive
+
+**Success Metrics:**
+
+| Metric | Current | Year 2 Target | Year 5 Target |
+|--------|---------|---------------|---------------|
+| Workers with retirement plans | 56% | 70% | 90% |
+| Average employer retirement contribution | 3.5% | 5% | 7% |
+| Workers with employer health coverage | 49% | 55% | 65% |
+| Mass layoff events (>500 workers) | 1,800/year | 1,200/year | 600/year |
+| Good Employer certified companies | 0 | 5,000 | 25,000 |
+
+**Cross-Reference:** See Chapter 18 (Labor) for worker rights and union provisions that complement these tax incentives.
+
+---
+
 ## Part IV: Implementation Framework
 
 ### Day 1 Executive Actions (No Congress Required)
@@ -1405,7 +1797,13 @@ With filibuster eliminated (see Chapter 31), pass through reconciliation or simp
 | IRS Enforcement Revenue | $20 billion |
 | Carbon Tax | $100 billion |
 | Church Taxation (67% requirement) | $30-50 billion |
-| **TOTAL** | **$690-720 billion** |
+| Cannabis Legalization & Taxation | $20-30 billion |
+| **TOTAL REVENUE** | **$710-750 billion** |
+
+| Tax Incentive Programs | Annual Cost |
+|------------------------|-------------|
+| Employee-Friendly Company Credits (net) | $(10-25) billion |
+| **NET REVENUE** | **$685-740 billion** |
 
 **What This Revenue Can Fund:**
 - Medicare for All (net new cost: $200-300B)
@@ -1414,6 +1812,7 @@ With filibuster eliminated (see Chapter 31), pass through reconciliation or simp
 - Universal Pre-K ($40B)
 - Climate transition investments ($150B)
 - Infrastructure modernization ($100B)
+- Social Security expansion ($50-100B)
 - Remaining: Deficit reduction or expanded programs
 
 ---

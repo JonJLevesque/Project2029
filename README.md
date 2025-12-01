@@ -48,16 +48,21 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 21. 🔥 **[Billionaire Minimum Tax](#21-billionaire-minimum-tax)** - 30-35% on total economic income
 22. 🔥 **[Wealth Tax](#22-wealth-tax)** - 2% on $50M+, 3% on $1B+
 23. 🔥 **[Corporate Tax Reform](#23-corporate-tax-reform)** - 28% rate, close loopholes
+24. 🔥 **[Cannabis Legalization & Taxation](Section4_The_Economy/Chapter_22_Treasury.md)** - Personal growing rights, rotating license lottery, $20-30B revenue
+25. 🔥 **[Employee-Friendly Tax Incentives](Section4_The_Economy/Chapter_22_Treasury.md)** - Credits for no-layoff companies, retirement plans, healthcare
+
+### **🛡️ Social Safety Net**
+26. 🔥 **[Social Security Expansion](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - Expanded benefits, eliminate payroll cap, constitutional protection (34th Amendment)
 
 ### **🏠 Housing Justice Agenda**
-24. 🔥 **[Social Housing](#24-national-social-housing)** - Vienna/Singapore model, $50B annually
-25. 🔥 **[Housing First](#25-housing-first)** - End homelessness, $20B annually
-26. 🔥 **[Anti-NIMBY Zoning](#26-anti-nimby-zoning)** - Federal override of exclusionary zoning
+27. 🔥 **[Social Housing](#24-national-social-housing)** - Vienna/Singapore model, $50B annually
+28. 🔥 **[Housing First](#25-housing-first)** - End homelessness, $20B annually
+29. 🔥 **[Anti-NIMBY Zoning](#26-anti-nimby-zoning)** - Federal override of exclusionary zoning
 
 ### **🎓 Education Access Agenda**
-27. 🔥 **[Free Public College](#27-free-public-college)** - Tuition-free for families under $125K
-28. 🔥 **[Student Debt Cancellation](#28-student-debt-cancellation)** - Relief for 44 million borrowers
-29. 🔥 **[Teacher Investment](#29-teacher-investment)** - $80K minimum salary target
+30. 🔥 **[Free Public College](#27-free-public-college)** - Tuition-free for families under $125K
+31. 🔥 **[Student Debt Cancellation](#28-student-debt-cancellation)** - Relief for 44 million borrowers
+32. 🔥 **[Teacher Investment](#29-teacher-investment)** - $80K minimum salary target
 
 ### **⚖️ Criminal Justice Transformation**
 *Core Principle: Justice is a public function, not a private profit center*
@@ -437,7 +442,7 @@ Complete set of 30 individual reform fact sheets:
 
 ## 📜 Proposed Constitutional Amendments
 
-Project 2029 proposes **6 constitutional amendments** to perfect the Union:
+Project 2029 proposes **7 constitutional amendments** to perfect the Union:
 
 ### **From Chapter 29:** [Structural Safeguards](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
 - **28th Amendment:** Voting Rights Guarantee
@@ -448,6 +453,7 @@ Project 2029 proposes **6 constitutional amendments** to perfect the Union:
 - **31st Amendment:** Senate Term Limits (12 years maximum)
 - **32nd Amendment:** Abolish Electoral College (direct popular vote)
 - **33rd Amendment:** Supreme Court 18-Year Terms (staggered appointments)
+- **34th Amendment:** Social Security Protection (benefits can never be cut, payroll cap eliminated)
 
 **Full text available in respective chapters.**
 
@@ -457,11 +463,11 @@ Project 2029 proposes **6 constitutional amendments** to perfect the Union:
 
 ### **Document Scope**
 - **31 comprehensive chapters** + Introduction + Conclusion
-- **130,000+ words** of detailed policy
+- **150,000+ words** of detailed policy
 - **90+ specific laws** required ([Master List](Supporting_Materials/Master_Legislative_Requirements.md))
 - **7 constitutional amendments** proposed
-- **29 democracy reforms** comprehensively addressed
-- **~$550B** annual new investment (fully funded by $720-770B new revenue)
+- **32 democracy reforms** comprehensively addressed
+- **~$600B** annual new investment (fully funded by $750-800B new revenue)
 
 ### **Evidence Base**
 - **39 federal judges** ruled against Trump administration (Jan-Oct 2025)
