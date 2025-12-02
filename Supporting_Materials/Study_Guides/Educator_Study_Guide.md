@@ -667,9 +667,10 @@ Project 2029 provides a comprehensive framework for teaching democratic renewal.
 Democracy is not just learned—it's practiced. This curriculum gives students tools to understand, critique, and improve their government.
 
 **Questions? Need support? Want to share your experience?**
-- Connect with other educators using this curriculum (contact information to be added)
-- Share lesson plans and resources
-- Join educator community for Project 2029
+- **Email:** Me@Jonlevesque.com
+- **GitHub:** [Project 2029 Repository](https://github.com/JonJLevesque/Project2029)
+- Share lesson plans and resources with the educator community
+- Connect with other educators using this curriculum
 
 **Thank you for teaching democracy. Our students—and our democracy—depend on you.** 🇺🇸
 

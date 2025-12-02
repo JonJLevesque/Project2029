@@ -1091,4 +1091,4 @@ This toolkit is open source. Please:
 
 **Last Updated:** October 22, 2025
 **Version:** 1.0
-**Contact:** [To be added based on organizational structure]
+**Contact:** Me@Jonlevesque.com | [Project 2029 on GitHub](https://github.com/JonJLevesque/Project2029)
