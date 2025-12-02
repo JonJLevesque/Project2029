@@ -237,7 +237,6 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 - 📜 **[Master Legislative Requirements](Supporting_Materials/Master_Legislative_Requirements.md)** - All 70+ laws
 - 📋 **[Evidence Appendix: Trump Administration Violations](Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md)** - Jan 20 - Oct 15, 2025 documented violations
 - 📊 **[Table of Contents](TABLE_OF_CONTENTS.md)** - Full navigation
-- 📈 **[Project Status](PROJECT_STATUS.md)** - Development status, reform mapping
 
 #### **Implementation Materials**
 - ✅ **[First 100 Days Checklist](Supporting_Materials/Implementation_Checklists/First_100_Days_Checklist.md)** - Immediate actions
@@ -431,7 +430,6 @@ Complete set of 30 individual reform fact sheets:
 
 ### **For Understanding**
 - 📊 [Table of Contents](TABLE_OF_CONTENTS.md) - Full navigation
-- 📈 [Project Status](PROJECT_STATUS.md) - All 20 reforms mapped
 - 👥 [Advisory Board](Supporting_Materials/Advisory_Board.md) - Expert contributors
 
 ---
