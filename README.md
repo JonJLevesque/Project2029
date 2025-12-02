@@ -60,11 +60,12 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 29. 🔥 **[Teacher Investment](#29-teacher-investment)** - $80K minimum salary target
 
 ### **⚖️ Criminal Justice Transformation**
-*Core Principle: Justice is a public function, not a private profit center*
 - 🔥 **[Private Prison Abolition](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - Day 1 EO ends federal contracts, permanent legislative ban
 - 🔥 **[Cash Bail Elimination](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - End wealth-based pretrial detention
 - 🔥 **[Death Penalty Abolition](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - Commute all federal death sentences, pursue full abolition
-- 🔥 **[For-Profit Healthcare Ban](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - Private insurance prohibited for covered services under Medicare for All
+
+### **🏥 Healthcare**
+- 🔥 **[Medicare for All](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - Single-payer universal healthcare, private insurance prohibited for covered services
 
 ### **🗳️ Voting Rights & Representation**
 - 🔥 **[DC Statehood](Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md)** - 700,000+ citizens gain full voting rights
