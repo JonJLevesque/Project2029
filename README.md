@@ -66,9 +66,12 @@ Project 2029 is a **comprehensive policy framework** designed to counter Project
 - 🔥 **[Death Penalty Abolition](Section3_The_General_Welfare/Chapter_17_Department_of_Justice.md)** - Commute all federal death sentences, pursue full abolition
 - 🔥 **[For-Profit Healthcare Ban](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - Private insurance prohibited for covered services under Medicare for All
 
+### **🗳️ Voting Rights & Representation**
+- 🔥 **[DC Statehood](Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md)** - 700,000+ citizens gain full voting rights
+- 🔥 **[Puerto Rico Statehood](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - 3.2 million citizens gain full voting rights
+
 ### **🤖 Technology Governance**
 - 🔥 **[AI Governance Framework](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)** - AI Bill of Rights, algorithmic accountability, platform regulation
-- 🔥 **[Puerto Rico Statehood](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)** - 3.2 million citizens gain full voting rights
 
 **Total Scope:** 31 comprehensive chapters + Introduction + Conclusion + Evidence Appendix = **Complete democratic transformation**
 
