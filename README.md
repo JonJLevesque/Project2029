@@ -282,6 +282,7 @@ Complete set of 30 individual reform fact sheets:
   - **[Activist Study Guide](Supporting_Materials/Study_Guides/Activist_Study_Guide.md)** - 4-week organizing curriculum
   - **[Educator Study Guide](Supporting_Materials/Study_Guides/Educator_Study_Guide.md)** - Classroom integration toolkit
 - 🎯 **[Activist Toolkit](Supporting_Materials/Activist_Toolkit.md)** - Templates, scripts, organizing resources
+- 🛡️ **[Opposition Playbook](Supporting_Materials/Opposition_Playbook.md)** - **Anticipate attacks, preempt opposition messaging, win debates**
 - 📖 **[Master Bibliography](Supporting_Materials/Master_Bibliography.md)** - Comprehensive legal citations
 
 ---
