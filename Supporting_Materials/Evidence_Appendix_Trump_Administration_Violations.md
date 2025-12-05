@@ -956,6 +956,203 @@ Judge Engoron found Trump **systematically overstated asset values by $812M-$2.2
 
 ---
 
+## IX-A. Immigration Enforcement Abuses and Project 2025 Architects
+
+This section documents civil rights violations in immigration enforcement and identifies principal architects responsible for designing and implementing policies that courts have found unconstitutional or unlawful.
+
+### ICE Enforcement Abuses and Civil Rights Violations
+
+**Date:** January 20, 2025 - ongoing
+**Evidence Level:** (1) Strong Documentation
+
+The administration reinstated and expanded aggressive immigration enforcement tactics that federal courts have found violate constitutional due process protections and civil rights law.
+
+**Documented Abuses:**
+
+**Mass Arrests Without Individualized Determinations:**
+- ICE conducted "sweeping raids" at courthouses, churches, schools, and hospitals—previously designated as "sensitive locations"
+- January 20, 2025: Trump rescinded sensitive location policy via executive order
+- Arrests made without regard to individual circumstances, legal status, or pending cases
+- Multiple federal courts found violations of due process requirements
+
+**Detention Conditions Violating Constitutional Standards:**
+- Overcrowding in detention facilities exceeding capacity by 150-200%
+- Medical care delays resulting in preventable deaths (at least 12 documented in first 9 months)
+- Separation of families including nursing mothers from infants
+- Federal courts issued multiple injunctions on detention conditions
+
+**Use of Wartime Authority for Civil Enforcement:**
+- Invoked 1798 Alien Enemies Act (designed for wartime) to deport civilians
+- **Supreme Court ruled 9-0** (April 7, 2025) this violated due process
+- 137+ individuals deported to El Salvador's CECOT megaprison without hearings
+- Judge Boasberg found **"probable cause for criminal contempt"** when administration continued deportations in defiance of court order
+
+**Targeting of Protected Groups:**
+- ICE arrested individuals inside courthouses attending immigration hearings
+- Detained asylum seekers with approved credible fear determinations
+- Arrested U.S. citizen children alongside undocumented parents
+- ACLU documented pattern of targeting immigrants with pending legal relief
+
+**Command Responsibility Evidence:**
+- Acting ICE Director explicitly stated policy was to "eliminate discretion" in enforcement
+- Internal memos obtained through FOIA show instructions to ignore individual circumstances
+- Termination of ICE attorneys who raised legal objections to enforcement methods
+- Whistleblower complaints filed alleging orders to violate court injunctions
+
+**Laws Violated:**
+- 18 USC § 241 (Conspiracy Against Rights) - Organized deprivation of constitutional rights
+- 18 USC § 242 (Deprivation of Rights Under Color of Law) - Individual officer violations
+- Fifth Amendment Due Process Clause
+- Eighth Amendment (cruel and unusual punishment in detention)
+- Convention Against Torture (international obligation)
+- Immigration and Nationality Act procedural requirements
+
+**Status:** Multiple lawsuits pending; Supreme Court ruling on due process; criminal contempt proceedings; no individual accountability for officers or commanders
+
+---
+
+### Russell Vought: Principal Architect of Executive Power Seizure
+
+**Date:** January 20, 2025 - ongoing
+**Evidence Level:** (1) Strong Documentation
+
+Russell Vought serves as Director of the Office of Management and Budget and is publicly identified as the principal author of Project 2025's Chapter 2 (Executive Office of the President), which provided the blueprint for dismantling oversight mechanisms and consolidating presidential power.
+
+**Documented Role in Constitutional Violations:**
+
+**Impoundment of Congressionally Appropriated Funds:**
+- OMB under Vought's direction ordered freezes of appropriated funds January 20-27, 2025
+- **Federal court ruled February 3, 2025** the freezes violated the **Impoundment Control Act** and Constitution
+- GAO issued multiple decisions finding OMB actions unlawful
+- Vought publicly stated intention to use OMB as "air-traffic control" to override congressional spending decisions
+
+**Dismantling of Independent Oversight:**
+- OMB under Vought's direction **defunded CIGIE** (Council of Inspectors General), causing:
+  - 15+ oversight websites to go offline
+  - 34,000+ investigative reports inaccessible
+  - Whistleblower hotlines shut down
+- Vought publicly described strategy to "bend or break the bureaucracy to the presidential will"
+
+**Schedule F Implementation:**
+- OMB issued guidance to reclassify tens of thousands of career civil servants as at-will employees
+- Federal courts have blocked portions as violating civil service protections
+- Vought publicly advocated eliminating civil service protections in Project 2025 document
+
+**Coordination with Funding Weaponization:**
+- OMB directed university funding freezes ($2.2B to Harvard alone) as retaliation for protected speech
+- **Federal judge blocked** as unconstitutional First Amendment retaliation
+- Pattern of using OMB authority to punish critics and enforce political compliance
+
+**Published Intent Evidence:**
+- Project 2025 Chapter 2 (authored by Vought) states: "OMB is the air-traffic control system" to control all federal agencies
+- Chapter explicitly advocates eliminating congressional appropriations constraints
+- Vought gave extensive interviews describing plan to centralize power in OMB
+
+**Laws Violated:**
+- Impoundment Control Act (2 USC § 681 et seq.)
+- Antideficiency Act (31 USC § 1341)
+- Inspector General Act (5 USC App. 3)
+- U.S. Constitution Article I (Congressional power of the purse)
+- First Amendment (funding retaliation for protected speech)
+
+**Status:** Federal courts have blocked multiple OMB actions as unconstitutional or unlawful; no individual accountability; ongoing litigation
+
+---
+
+### Stephen Miller: Immigration Policy Architect and Civil Rights Violations
+
+**Date:** January 20, 2025 - ongoing
+**Evidence Level:** (1) Strong Documentation
+
+Stephen Miller serves as Deputy Chief of Staff for Policy and is publicly identified as the principal architect of the administration's immigration enforcement policies, including those federal courts have found unconstitutional.
+
+**Documented Role in Constitutional Violations:**
+
+**Birthright Citizenship Executive Order:**
+- Miller publicly identified as author of January 20, 2025 executive order ending birthright citizenship
+- **Four federal judges blocked as "blatantly unconstitutional"**
+- Order directly contradicted 14th Amendment text: "All persons born...in the United States...are citizens"
+- Judge Sorokin: "Blatantly unconstitutional" (February 13, 2025)
+
+**Alien Enemies Act Deportation Program:**
+- Miller designed program using 1798 wartime law for civil immigration enforcement
+- **Supreme Court ruled 9-0** this violated due process (April 7, 2025)
+- 137+ individuals deported without hearings while program blocked
+- Miller publicly stated intention to circumvent immigration court system
+
+**Family Separation Policy (Reinstated):**
+- Miller identified as architect of original family separation policy (2018)
+- Policy reinstated January 2025 over career DHS official objections
+- Federal courts previously found 2018 version violated due process
+- American Academy of Pediatrics documented "irreparable psychological harm" to children
+
+**Sensitive Locations Policy Rescission:**
+- Miller advocated elimination of restrictions on enforcement at schools, hospitals, churches
+- January 20, 2025: Policy rescinded
+- Resulted in documented arrests of parents at school drop-offs, patients at hospitals
+- Chilling effect on immigrant community access to medical care and education
+
+**Documented Communications:**
+- 2017-2019: Southern Poverty Law Center published 900+ emails showing Miller promoting white nationalist content
+- Emails referenced American Renaissance, VDare, and other white nationalist publications
+- Miller promoted stories from these outlets to Breitbart for publication
+- Content included advocacy for limiting non-white immigration
+
+**Whistleblower Testimony:**
+- Former DHS official Miles Taylor publicly testified Miller pressured staff to violate law
+- Multiple ICE attorneys reported being overruled when raising legal objections
+- DHS Inspector General reports (prior to IG firing) documented pressure to implement unlawful policies
+
+**Laws Violated:**
+- 18 USC § 241 (Conspiracy Against Rights) - Pattern of organized civil rights deprivation
+- 18 USC § 242 (Deprivation of Rights Under Color of Law)
+- Fifth Amendment Due Process
+- 14th Amendment (birthright citizenship, equal protection)
+- Immigration and Nationality Act procedural requirements
+
+**Status:** Multiple policies blocked by federal courts; no individual accountability; Miller continues in policy role
+
+---
+
+### ICE and CBP Officer Accountability Framework
+
+**Legal Standard for Individual Officer Accountability:**
+
+The Constitution and federal civil rights statutes establish that officers who violate constitutional rights while acting under color of law may be held criminally and civilly liable, regardless of whether they claim to be following orders.
+
+**18 USC § 242 (Deprivation of Rights Under Color of Law):**
+"Whoever, under color of any law...willfully subjects any person...to the deprivation of any rights, privileges, or immunities secured or protected by the Constitution or laws of the United States" faces criminal penalties including imprisonment.
+
+**Qualified Immunity Limitations:**
+- Officers cannot claim immunity when violating "clearly established" constitutional rights
+- Due process rights in deportation proceedings are "clearly established"
+- Defying court orders is not protected by any immunity doctrine
+- Officers who continue enforcement after court injunctions lose qualified immunity
+
+**Command Responsibility:**
+- Superiors who order constitutional violations are liable under § 241 (conspiracy)
+- "Just following orders" is not a defense under established law (see Nuremberg Principles, incorporated into U.S. military and civil law)
+- Officers have duty to refuse unlawful orders
+
+**Documented Potential Individual Violations:**
+
+| Category | Description | Applicable Statute |
+|----------|-------------|-------------------|
+| Arrests after court order | Officers who detained individuals after injunctions | 18 USC § 242, contempt |
+| Deportations without hearings | Officers who deported after Supreme Court ruling | 18 USC § 241, 242 |
+| Detention condition deaths | Officers responsible for medical care denial | 18 USC § 242, state homicide |
+| Warrantless sensitive location arrests | Officers exceeding legal authority | Fourth Amendment, 18 USC § 242 |
+| Family separation without process | Officers removing children without legal determination | Due Process, 18 USC § 242 |
+
+**Whistleblower Reports:**
+- Multiple ICE officers filed whistleblower complaints alleging illegal orders
+- CBP officers reported being instructed to ignore asylum claims
+- Complaints document names of supervising officers who issued illegal directives
+
+**Status:** No individual officers charged; whistleblower complaints pending; civil suits naming individual defendants ongoing
+
+---
+
 ## X. Summary by Evidence Level
 
 ### LEVEL 1: STRONG DOCUMENTATION
@@ -1011,6 +1208,12 @@ Judge Engoron found Trump **systematically overstated asset values by $812M-$2.2
 - Due process violations (Supreme Court ruled 9-0)
 - First Amendment violations (multiple court findings)
 - Court order defiance
+
+**Immigration Enforcement & Project 2025 Architects:**
+- ICE enforcement abuses (mass arrests without due process, detention deaths)
+- Russell Vought (Impoundment Act violations, CIGIE defunding, Schedule F)
+- Stephen Miller (birthright citizenship order, Alien Enemies Act program, family separation)
+- ICE/CBP officer violations (continuing enforcement after court orders)
 
 **Criminal:**
 - Classified information leaks (FBI investigating)
@@ -1247,11 +1450,15 @@ The pattern represents what Sen. Richard Blumenthal called an **"unprecedented, 
 
 - **Chapter 17:** Department of Justice - Documents DOJ weaponization requiring comprehensive reform
 
+- **Chapter 5:** Department of Homeland Security - Evidence of ICE/CBP enforcement abuses and civil rights violations
+
 - **Chapter 3:** Central Personnel Agencies - Evidence of IG massacre and civil service attacks
 
 - **Chapter 29:** Structural Safeguards - Demonstrates necessity of each proposed safeguard
 
 - **Chapter 11:** Department of Education - Shows need for civic education on rule of law
+
+- **Section IX-A:** Immigration Enforcement Abuses and Project 2025 Architects - Individual accountability for Russell Vought, Stephen Miller, and ICE/CBP officers
 
 - **All Chapters:** Demonstrates systematic nature of Project 2025 implementation
 
@@ -1259,6 +1466,8 @@ The pattern represents what Sen. Richard Blumenthal called an **"unprecedented, 
 
 **END OF EVIDENCE APPENDIX**
 
-*Last Updated: October 15, 2025*
+*Last Updated: December 5, 2025*
 *Document Status: Prosecution-Ready Evidence Compilation*
 *Classification: Level 1 (Strong Documentation) and Level 2 (Credible Allegations Under Investigation)*
+
+*December 2025 Update: Added Section IX-A documenting ICE enforcement abuses, individual accountability framework for Project 2025 architects Russell Vought and Stephen Miller, and ICE/CBP officer liability standards.*
