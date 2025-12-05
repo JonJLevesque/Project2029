@@ -1,13 +1,13 @@
 # Evidence Appendix: Trump Administration Accountability Record
 
 ## Documented Violations and Potential Crimes
-**January 20 - October 15, 2025**
+**January 20 - December 4, 2025**
 
 ---
 
 ## Purpose and Usage
 
-This appendix serves as the **evidentiary foundation** for Project 2029's accountability framework, particularly Chapter 28 (Legal Accountability for Subversion of Democracy). It documents violations spanning ethics law, constitutional provisions, federal statutes, and criminal codes during the first nine months of the second Trump administration.
+This appendix serves as the **evidentiary foundation** for Project 2029's accountability framework, particularly Chapter 28 (Legal Accountability for Subversion of Democracy). It documents violations spanning ethics law, constitutional provisions, federal statutes, and criminal codes during the first eleven months of the second Trump administration.
 
 **Referenced in:**
 - Chapter 28: Legal Accountability for Subversion of Democracy
@@ -26,12 +26,13 @@ This appendix serves as the **evidentiary foundation** for Project 2029's accoun
 
 ## Executive Summary
 
-**Federal judges have ruled Trump administration actions "unlawful," "blatantly unconstitutional," and found "probable cause" for criminal contempt**—marking an unprecedented level of judicial rebuke within a single administration's first nine months.
+**Federal judges have ruled Trump administration actions "unlawful," "blatantly unconstitutional," and found "probable cause" for criminal contempt**—marking an unprecedented level of judicial rebuke within a single administration's first year.
 
 Research across mainstream media, court documents, congressional investigations, and watchdog organizations reveals systematic violations spanning ethics law, constitutional provisions, federal statutes, and criminal codes. The scale represents what legal experts describe as a "constitutional stress test," with:
 
-- **350+ lawsuits filed**
-- **39 federal judges issuing rulings against the administration**
+- **253 active cases** challenging Trump administration actions (Lawfare tracker)
+- **32 actions fully blocked, 88 temporarily blocked** by federal courts
+- **Multiple summary judgments** against the government
 - **Systematic dismantling of oversight mechanisms** designed to prevent governmental abuse
 
 This comprehensive record documents allegations ranging from strongly evidenced violations to credible investigations, distinguishing between documented facts, ongoing inquiries, and the current enforcement status of each incident.
@@ -157,6 +158,20 @@ Sens. Collins and Grassley demanded immediate reversal, with Grassley stating th
 ## II. Conflicts of Interest
 
 The administration has generated unprecedented financial conflicts spanning cryptocurrency, foreign business deals, aviation contracts, and regulatory authority over officials' business interests.
+
+### Historical Context: First Term Foreign Payments
+
+**Evidence Level:** (1) Strong Documentation
+
+During Trump's first presidency, CREW documented he likely benefited from at least **$13.6 million in payments from foreign governments**, including:
+- **Saudi Arabia:** Over **$615,000** in payments
+- **China (state-owned ICBC):** **$5.35 million** in rent at Trump Tower
+- Multiple other foreign government payments
+
+**Second Term Ethics Policy Change:**
+The Trump Organization revised its ethics policy in the second term to explicitly **"allow for a broad range of transactions between the organization (including affiliated entities) and foreign partners"**—facilitating receipt of foreign gifts in probable violation of the Foreign Emoluments Clause.
+
+**Sources:** Citizens for Responsibility and Ethics in Washington (CREW), Oversight Democrats, American Enterprise Institute
 
 ### President Trump: Cryptocurrency Pay-to-Play Schemes
 
@@ -340,24 +355,29 @@ Within days of inauguration, GSA installed Starlink terminals at headquarters fo
 
 ### Government Shutdown Partisan Messaging
 
-**Date:** September 30 - October 15, 2025
+**Date:** September 30 - December 2025
 **Evidence Level:** (1) Strong Documentation
 
 During the government shutdown, federal agencies posted **partisan political messaging on official government websites and in official email auto-responses**, blaming "Senate Democrats," "Radical Left," and "Democrat Senators" for the shutdown—using taxpayer-funded platforms for political attacks.
 
 **Specific Incidents:**
 - **HUD** posted: "The Radical Left in Congress shut down the government"
-- **Department of Education** changed employee out-of-office messages **WITHOUT EMPLOYEE CONSENT** to blame Democrats
+- **Department of Education** changed employee out-of-office messages **WITHOUT EMPLOYEE CONSENT** to blame Democrats, replacing neutral messages with political diatribes purportedly authored by that employee
 - **SBA** instructed partisan auto-responses
-- Similar messaging at **DOJ, State, Commerce, Labor, Treasury, Interior, HHS** and other agencies
+- **DOI, HHS** sent emails accusing Democrats of "blocking" resolutions
+- Similar messaging at **DOJ, State, Commerce, Labor, Treasury, Interior** and other agencies
+
+**Congressional Response:**
+Rep. Jamie Raskin described agencies like HUD and SBA being used as **"MAGA propaganda organs"** and stated officials responsible would have been **"instantly fired, if not prosecuted"** under previous administrations.
 
 **Complaints Filed:**
-Public Citizen filed **nine complaints** to Office of Special Counsel. CREW, Democracy Defenders Fund, and Rep. Robert Garcia sent letters to OSC demanding investigation.
+Public Citizen filed **nine complaints** to Office of Special Counsel alleging **"blatant violation"** of Hatch Act. CREW, Democracy Defenders Fund, and Rep. Robert Garcia sent letters to OSC demanding investigation.
 
 **Enforcement Problem:** The OSC Hatch Act Unit was **furloughed during the shutdown**, making oversight impossible during the violations.
 
 **Law Violated:** Hatch Act (5 U.S.C. §§ 7321-7326)
 **Status:** Under investigation; no enforcement action; OSC leadership compromised
+**Sources:** Congressman Jamie Raskin, Newsweek, Public Citizen
 
 ---
 
@@ -587,9 +607,9 @@ Trump appointed **Lindsey Halligan** (his former personal lawyer with **ZERO pro
 
 ---
 
-### Politically Motivated Indictment of James Comey
+### Politically Motivated Indictment of James Comey — DISMISSED
 
-**Date:** September 25, 2025
+**Date:** September 25, 2025 (indicted); November 2025 (dismissed)
 **Evidence Level:** (1) Strong Documentation
 
 Former FBI Director **James Comey indicted** on charges of false statements (18 USC § 1001) and obstruction of congressional proceeding (18 USC § 1505). The indictment came **five days after Trump's public demand**.
@@ -604,16 +624,22 @@ Former FBI Director **James Comey indicted** on charges of false statements (18 
 
 Comey's statement: "My heart is broken for the Department of Justice, but I have great confidence in the federal judicial system, and I'm innocent."
 
-Comey arraigned October 9, 2025; pleaded not guilty. Defense challenging as **vindictive prosecution** citing Trump's public demands as prima facie evidence.
+Comey arraigned October 9, 2025; pleaded not guilty. Defense challenged as **vindictive prosecution** citing Trump's public demands as prima facie evidence.
+
+**FEDERAL JUDGE DISMISSES INDICTMENT (November 2025):**
+Federal judge **dismissed the indictment**, ruling that prosecutor Lindsey Halligan was **"put in the top job there in an illegal way"**—her appointment violated federal law governing U.S. Attorney appointments.
+
+**Critical Finding:** The judge's ruling leaves open the possibility prosecutors could bring new criminal cases, but establishes that the original prosecution was conducted illegally.
 
 **Laws Violated by Trump:** 18 USC §§ 1503, 1512, 241 (deprivation of rights under color of law)
-**Status:** Pending trial; defense motion to dismiss for selective prosecution
+**Status:** Indictment DISMISSED; Halligan appointment ruled illegal; potential for refiling
+**Sources:** NPR, Federal court ruling
 
 ---
 
-### Politically Motivated Indictment of Letitia James
+### Politically Motivated Indictment of Letitia James — DISMISSED
 
-**Date:** October 10, 2025
+**Date:** October 10, 2025 (indicted); November 2025 (dismissed)
 **Evidence Level:** (1) Strong Documentation
 
 New York Attorney General **Letitia James indicted** on charges of bank fraud and false statements related to a 2020 mortgage (**$18,933 alleged benefit**). Trump had repeatedly called for James to "be arrested and punished."
@@ -622,10 +648,30 @@ Career prosecutors found **insufficient evidence**. Ed Martin (DOJ "weaponizatio
 
 James's attorney: "This is nothing more than a continuation of the president's desperate weaponization of our justice system" and "most blatant and desperate example of...political retribution campaign."
 
-Arraignment scheduled October 24, 2025. James denies all charges.
+**FEDERAL JUDGE DISMISSES INDICTMENT (November 2025):**
+Federal judge **dismissed the indictment**, ruling on the same grounds as the Comey dismissal—prosecutor Lindsey Halligan was **"put in the top job there in an illegal way."**
 
 **Laws Violated by Trump:** 18 USC §§ 1503, 1512, 241
-**Status:** Pending trial
+**Status:** Indictment DISMISSED; Halligan appointment ruled illegal; potential for refiling
+**Sources:** NPR, Federal court ruling
+
+---
+
+### Pentagon Investigation of Senator Mark Kelly
+
+**Date:** November 2025
+**Evidence Level:** (1) Strong Documentation
+
+The Pentagon launched an investigation of Democratic **Senator Mark Kelly** (Arizona) for public comments about service members disobeying illegal orders—protected political speech by a sitting U.S. Senator.
+
+**Context:** Kelly, a former Navy combat pilot and astronaut, made public comments regarding the duty of military personnel to refuse unlawful orders, a well-established principle under the Uniform Code of Military Justice.
+
+**Pattern of Targeting Critics:**
+This investigation follows the same pattern as the Comey and James indictments—Trump has **"publicly directed the Justice Department to investigate them and berated them,"** making selective/vindictive prosecution claims viable.
+
+**Laws Violated:** First Amendment (retaliation for protected speech), 18 USC § 241 (conspiracy against rights)
+**Status:** Investigation ongoing; follows dismissed Comey/James prosecutions
+**Sources:** NPR
 
 ---
 
@@ -721,12 +767,18 @@ The administration issued executive orders targeting **20+ law firms** that had 
 
 **Actions:** Revoked security clearances, banned from federal buildings, terminated federal contracts.
 
-**Federal Judge Rulings:**
+**Federal Judge Rulings (Through November 2025):**
 - **Judge Loren AliKhan:** "The framers of our Constitution would see this as a shocking abuse of power"
 - **Judge Beryl Howell:** Orders cast "chilling harm of blizzard proportion across entire legal profession"
+- **Judge John Bates:** Granted **summary judgment** blocking Jenner & Block EO as unconstitutional
+- Multiple judges issued **preliminary injunctions** blocking enforcement against WilmerHale and Susman Godfrey as likely violating First Amendment, due process, and separation of powers
 
-**Laws Violated:** 18 USC §§ 1512, 241; First Amendment (retaliation for protected representation)
-**Status:** Four firms sued successfully; nine capitulated
+**Perkins Coie Ruling:**
+Judge Howell ruled Executive Order directed at Perkins Coie violates **First, Fifth, and Sixth Amendments**.
+
+**Laws Violated:** 18 USC §§ 1512, 241; First Amendment (retaliation for protected representation); Fifth Amendment (due process); Sixth Amendment (right to counsel)
+**Status:** Multiple summary judgments and preliminary injunctions; four firms sued successfully; nine capitulated
+**Sources:** Just Security
 
 ---
 
@@ -772,7 +824,7 @@ Trump issued orders freezing **congressionally appropriated funds** across gover
 
 ### Targeting Universities with Funding Freezes
 
-**Date:** April 2025
+**Date:** April 2025 - ongoing
 **Evidence Level:** (1) Strong Documentation
 
 Administration **froze $2.2+ billion** to Harvard after the university refused demands for:
@@ -782,10 +834,14 @@ Administration **froze $2.2+ billion** to Harvard after the university refused d
 
 Trump threatened to **revoke Harvard's tax-exempt status**. Similar actions against Columbia, Penn, Northwestern, and Cornell.
 
-**Federal judge blocked the funding freeze** as unconstitutional.
+**Federal Court Ruling (November 2025):**
+Federal judge ruled administration's attempt to condition Harvard's federal funding on campus policy changes violates **First Amendment and Title VI procedural requirements** and the **Administrative Procedure Act**.
 
-**Laws Violated:** First Amendment, abuse of appropriations power
-**Status:** Partially blocked; ongoing litigation
+**Judge's Finding:** Court found government **"used antisemitism as a smokescreen for a targeted, ideologically-motivated assault on this country's premier universities."**
+
+**Laws Violated:** First Amendment, APA, Title VI, abuse of appropriations power
+**Status:** Blocked by federal court; ongoing litigation
+**Sources:** Just Security
 
 ---
 
@@ -822,6 +878,84 @@ Requires independent agencies to submit regulations to White House for approval�
 
 **Laws Violated:** Separation of powers, agency organic statutes
 **Status:** Under litigation
+
+---
+
+### American Bar Association Grant Retaliation
+
+**Date:** October-November 2025
+**Evidence Level:** (1) Strong Documentation
+
+DOJ terminated **all American Bar Association Office on Violence Against Women grants** citing "change in agency priorities"—after Deputy AG Blanche memo limiting DOJ employee engagement with ABA.
+
+**Context:** The action followed ABA criticism of administration legal practices and came after the law firm targeting campaign.
+
+**Federal Court Ruling (November 2025):**
+**Judge Cooper granted preliminary injunction** finding likely **First Amendment retaliation violation**.
+
+**Laws Violated:** First Amendment (retaliation against professional organization for protected speech)
+**Status:** Preliminary injunction granted; ongoing litigation
+**Sources:** Just Security
+
+---
+
+### SNAP Funding Crisis (Administrative Procedure Act Violation)
+
+**Date:** October-November 2025
+**Evidence Level:** (1) Strong Documentation
+
+The administration moved to **freeze SNAP (food stamp) funding** during the government shutdown, affecting **41 million Americans** who depend on the program's **$8.6 billion monthly** in benefits.
+
+**Federal Court Ruling (November 2025):**
+Federal judge in Rhode Island ruled stopping SNAP funding violated the **Administrative Procedure Act** because the funding decision was **"arbitrary and capricious"** with **"no explanation, legitimate or otherwise that's consistent with the APA."**
+
+**Judge McConnell's Ruling:** Ordered Trump administration to **continue paying using emergency funds**, citing the **"terror"** felt by Americans scrambling to meet basic needs.
+
+**Laws Violated:** Administrative Procedure Act (5 USC § 706)
+**Status:** Administration ordered to continue payments; APA violation judicially determined
+**Sources:** ABC News
+
+---
+
+### California National Guard Deployment (Separation of Powers)
+
+**Date:** September-October 2025
+**Evidence Level:** (1) Strong Documentation
+
+Trump **extended deployment of 300 National Guard troops to California** and sought to **take control from Governor Newsom**—asserting federal control over state National Guard forces without statutory authority.
+
+**Constitutional Issues:**
+- National Guard troops are state forces unless federalized through proper procedures
+- President lacks authority to unilaterally command state National Guard
+- Violates federalism principles and state sovereignty
+
+**Legal Challenge:**
+California Attorney General and Governor Newsom filed motion for **preliminary injunction** to block extension and restore control to governor, seeking injunction against future similar violations.
+
+**Laws Violated:** Separation of powers, federalism, National Guard statutory framework
+**Status:** Litigation ongoing
+**Sources:** Just Security
+
+---
+
+### Student Visa Crackdown on Protesters (First Amendment)
+
+**Date:** Spring 2025 - ongoing
+**Evidence Level:** (1) Strong Documentation
+
+Administration **suspended student visas and initiated deportations** of students participating in protests—using immigration enforcement as retaliation for protected First Amendment activity.
+
+**Legal Issues:**
+- First Amendment protects protest activity regardless of immigration status
+- Due process violations in visa suspensions
+- Comparisons to 1798 Alien Enemies Act being used in peacetime to suppress dissent
+
+**Response:**
+Civil rights groups filed multiple lawsuits arguing actions violate First Amendment, due process protections, and federal immigration law. Following public outcry and pressure from Democratic lawmakers, administration **reversed course and reinstated some student visa records**, but other deportations and detentions remain active.
+
+**Laws Violated:** First Amendment, Fifth Amendment due process, federal immigration law
+**Status:** Partially reversed after litigation; some cases ongoing
+**Sources:** Congressman Steve Cohen
 
 ---
 
@@ -1186,21 +1320,26 @@ The Constitution and federal civil rights statutes establish that officers who v
 - Presidential threats
 
 **Obstruction/Witness Tampering:**
-- U.S. Attorney Siebert firing
-- Comey indictment (5 days after Trump demand)
-- James indictment
+- U.S. Attorney Siebert firing (for refusing political prosecutions)
+- Comey indictment **DISMISSED** (court: prosecutor "put in job illegally")
+- James indictment **DISMISSED** (same ruling)
+- Pentagon investigation of Sen. Mark Kelly (for protected speech)
 - Mass prosecutor firings with written reasons citing Jan 6 cases
 - Threatening letters to Congress
 - Security clearance revocations
 - Secret Service protection removal
-- Law firm targeting (courts found unconstitutional)
+- Law firm targeting (multiple summary judgments finding unconstitutional)
 
 **Abuse of Power:**
 - Criminal contempt (court found probable cause)
-- Funding freezes (courts blocked)
-- University targeting
+- Funding freezes (courts blocked as APA violations)
+- SNAP funding freeze (court: "arbitrary and capricious")
+- University targeting (court: "antisemitism as smokescreen")
+- ABA grant retaliation (preliminary injunction granted)
 - Media bans
 - Independent agency control attempts
+- California National Guard seizure attempt
+- Student visa crackdowns on protesters
 - Illegal agency dismantlement (courts found unconstitutional)
 
 **Constitutional:**
@@ -1260,13 +1399,20 @@ The Constitution and federal civil rights statutes establish that officers who v
 
 ### Federal Court Statistics
 
-**39 federal judges** (appointed by five presidents) have ruled against Trump administration actions as of October 15, 2025.
+As of December 4, 2025 (Lawfare Litigation Tracker):
+- **253 active cases** challenging Trump administration actions
+- **32 actions fully blocked** by federal courts
+- **88 actions temporarily blocked**
+- **Multiple summary judgments** against the government
 
 **Multiple judges found:**
 - "Unlawful" (IG firings)
 - "Blatantly unconstitutional" (birthright citizenship)
 - "Shocking abuse of power" (law firm targeting)
 - "Chilling harm of blizzard proportion" (law firm orders)
+- "Arbitrary and capricious" (SNAP funding freeze)
+- "Antisemitism as smokescreen" (university targeting)
+- "Put in the top job there in an illegal way" (Halligan appointment - Comey/James dismissed)
 - Probable cause for criminal contempt (deportation defiance)
 
 ---
@@ -1289,7 +1435,7 @@ The Constitution and federal civil rights statutes establish that officers who v
 
 ## XII. Enforcement Status and Accountability Gap
 
-### Current Status (October 15, 2025)
+### Current Status (December 4, 2025)
 
 Despite extensive documentation and multiple court rulings finding violations:
 
@@ -1434,7 +1580,14 @@ The violations span every major category: **ethics law** (illegal firings of ove
 
 **Critical Finding:** The administration has not simply committed violations—it has systematically dismantled enforcement mechanisms (firing 17+ IGs, OSC head, OGE Director, defunding CIGIE, incapacitating FEC, gutting Civil Rights Division) creating what legal experts describe as a **"constitutional stress test"** where violations occur but accountability systems have been eliminated.
 
-**280+ former DOJ employees** have signed unprecedented letters warning of threats to rule of law. **Over 350 lawsuits** have been filed. **Multiple federal courts** have found violations. Yet as of October 15, 2025, **no officials have been held criminally accountable**, demonstrating what watchdog organizations characterize as a fundamental breakdown in governmental checks and balances.
+**280+ former DOJ employees** have signed unprecedented letters warning of threats to rule of law. **253 active lawsuits** are challenging administration actions with **32 fully blocked and 88 temporarily blocked**. **Multiple federal courts** have found violations including summary judgments and dismissed indictments. Yet as of December 4, 2025, **no officials have been held criminally accountable**, demonstrating what watchdog organizations characterize as a fundamental breakdown in governmental checks and balances.
+
+**December 2025 Developments:**
+- Comey and James indictments **DISMISSED** - court ruled prosecutor appointment illegal
+- SNAP funding freeze ruled **"arbitrary and capricious"** APA violation
+- Harvard targeting ruled unconstitutional - court found "antisemitism as smokescreen"
+- Multiple summary judgments against law firm targeting
+- Pentagon investigating Senator Mark Kelly for protected speech
 
 This record documents extensive evidence of potential criminal conduct including obstruction of justice (18 USC § 1503), witness tampering (18 USC § 1512), deprivation of rights under color of law (18 USC § 241), contempt of court (18 USC § 401), and bribery (18 USC § 201), alongside constitutional violations of the Emoluments Clause, Elections Clause, separation of powers, and multiple amendments.
 
@@ -1470,4 +1623,8 @@ The pattern represents what Sen. Richard Blumenthal called an **"unprecedented, 
 *Document Status: Prosecution-Ready Evidence Compilation*
 *Classification: Level 1 (Strong Documentation) and Level 2 (Credible Allegations Under Investigation)*
 
-*December 2025 Update: Added Section IX-A documenting ICE enforcement abuses, individual accountability framework for Project 2025 architects Russell Vought and Stephen Miller, and ICE/CBP officer liability standards.*
+*December 2025 Updates:*
+- *Added Section IX-A documenting ICE enforcement abuses, individual accountability framework for Project 2025 architects Russell Vought and Stephen Miller, and ICE/CBP officer liability standards*
+- *Updated with October 15 - December 4, 2025 violations including: Comey/James indictment dismissals, SNAP APA violation, Harvard targeting ruling, ABA grant retaliation, California National Guard deployment, student visa crackdowns, Senator Mark Kelly investigation*
+- *Updated case statistics to 253 active cases per Lawfare tracker*
+- *Added new sources: Just Security Litigation Tracker, Lawfare Litigation Tracker, NPR, ABC News, Congressman Jamie Raskin, Congressman Steve Cohen*
