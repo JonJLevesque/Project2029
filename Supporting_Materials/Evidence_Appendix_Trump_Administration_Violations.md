@@ -1,7 +1,7 @@
 # Evidence Appendix: Trump Administration Accountability Record
 
 ## Documented Violations and Potential Crimes
-**January 20 - December 4, 2025**
+**January 20, 2025 – February 28, 2026**
 
 ---
 
@@ -30,8 +30,8 @@ This appendix serves as the **evidentiary foundation** for Project 2029's accoun
 
 Research across mainstream media, court documents, congressional investigations, and watchdog organizations reveals systematic violations spanning ethics law, constitutional provisions, federal statutes, and criminal codes. The scale represents what legal experts describe as a "constitutional stress test," with:
 
-- **253 active cases** challenging Trump administration actions (Lawfare tracker)
-- **32 actions fully blocked, 88 temporarily blocked** by federal courts
+- **Over 350 active cases** challenging Trump administration actions (Just Security / Lawfare trackers)
+- **51 actions fully blocked, 109 temporarily blocked** by federal courts (updated February 2026)
 - **Multiple summary judgments** against the government
 - **Systematic dismantling of oversight mechanisms** designed to prevent governmental abuse
 
@@ -1785,9 +1785,290 @@ The pattern represents what Sen. Richard Blumenthal called an **"unprecedented, 
 
 ---
 
+## XVII. Period Update: December 4, 2025 – February 28, 2026
+
+The three months following December 4, 2025 saw the administration's lawlessness intensify across every documented category. The Supreme Court struck down the administration's sweeping tariff regime as illegal. Federal courts found the administration deported immigrants to "the wrong country" after lying about it in court filings. A grand jury refused—for the second time in months—to indict Democratic officials whose sole offense was making a video about lawful military duties. The EPA finalized the most consequential deregulatory rollback in American history, revoking its own statutory authority to regulate greenhouse gases in defiance of a 2007 Supreme Court ruling. ICE racked up nearly 100 documented violations of court orders in Minnesota alone, and a federal attorney became the first in Trump's second term to be held in civil contempt. The pattern is consistent with every prior reporting period: the administration continued to escalate violations while systematically eliminating the mechanisms designed to enforce accountability.
+
+---
+
+### Supreme Court Rules IEEPA Tariffs Illegal (Learning Resources, Inc. v. Trump)
+
+**Date:** February 20, 2026
+**Evidence Level:** (1) Strong Documentation
+
+The Supreme Court, in a **6-3 ruling** authored by Chief Justice John Roberts, struck down President Trump's sweeping global tariffs imposed under the International Emergency Economic Powers Act (IEEPA). The majority—Roberts, joined by Sotomayor, Kagan, Gorsuch, Barrett, and Jackson—held that **IEEPA does not give the President the power to set tariffs**, rejecting the administration's claim that the statute's authorization to "regulate...importation" during a national emergency includes tariff authority.
+
+The tariffs at issue—including the April 2025 "Liberation Day" tariffs applied globally—had generated over **$160 billion in collections** through the date of the ruling, all collected on authority the Supreme Court found did not exist.
+
+Trump announced he would immediately replace the invalidated tariffs with new levies under Section 122 of the Trade Act of 1974, asserting a statutory authority that legal experts note has its own significant constraints.
+
+**Law Violated:** International Emergency Economic Powers Act (50 U.S.C. § 1701 et seq.), as applied; exceeded statutory authorization
+**Court:** U.S. Supreme Court, *Learning Resources, Inc. v. Trump*, No. 24-1287
+**Status:** Tariffs declared unlawful; administration announced replacement authority under separate statute; ongoing litigation
+**Sources:** Supreme Court opinion (Feb. 20, 2026); CNN, Brookings Institution
+
+---
+
+### EPA Repeals Endangerment Finding: Largest Deregulatory Action in U.S. History
+
+**Date:** February 12, 2026
+**Evidence Level:** (1) Strong Documentation
+
+EPA Administrator Lee Zeldin finalized the repeal of the **2009 Endangerment Finding**, the agency's own scientific determination—mandated by the Supreme Court's 2007 ruling in *Massachusetts v. EPA*—that greenhouse gases endanger public health and welfare. The White House and EPA described it as "the largest deregulatory action in American history."
+
+The 2009 finding was not a discretionary policy choice: it was a **legally required response** to a unanimous Supreme Court decision holding that greenhouse gases are "air pollutants" subject to Clean Air Act regulation. By revoking the finding, the EPA stripped its own statutory authority to regulate carbon dioxide and other greenhouse gas emissions under the Clean Air Act.
+
+**Constitutional and Legal Violations:**
+- Directly defies the holding of *Massachusetts v. EPA*, 549 U.S. 497 (2007)
+- Violates the Clean Air Act's statutory definition of "air pollutant" (42 U.S.C. § 7602(g)) as interpreted by the Supreme Court
+- Conflicts with the 2022 Inflation Reduction Act's climate provisions
+- Violates Administrative Procedure Act notice-and-comment requirements (the administration began the repeal process on an accelerated basis beginning in early 2026)
+
+**Public Health Impact:** The Union of Concerned Scientists and EPA's own prior estimates project hundreds of thousands of premature deaths from pollution not prevented over coming decades as a result of the loss of regulatory authority.
+
+**Legal Challenges:** Environmental organizations including Earthjustice announced immediate legal challenges. The repeal is expected to generate years of federal litigation reaching the Supreme Court.
+
+**Law Violated:** Clean Air Act (42 U.S.C. § 7521); *Massachusetts v. EPA*, 549 U.S. 497 (2007); APA (5 U.S.C. § 706)
+**Status:** Repeal finalized; legal challenges filed; major litigation expected
+**Sources:** EPA press release; NPR (Feb. 11, 2026); Washington Post (Feb. 12, 2026); Earthjustice statement
+
+---
+
+### Court Rules DOE Clean Energy Grant Cancellations Violated Equal Protection
+
+**Date:** January 12, 2026
+**Evidence Level:** (1) Strong Documentation
+
+U.S. District Court for the District of Columbia ruled that the Trump Department of Energy **violated the Constitution's equal protection requirements** when it cancelled millions of dollars in federal grants for clean energy and transportation projects based solely on the political affiliation of the recipient states.
+
+**The Facts:** The Department of Energy cancelled **$7.5 billion in grants** across 315 projects. Every single cancelled project was located in one of **16 states** that voted for the Democratic candidate in 2024 and whose senators caucus with Democrats—including California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New Hampshire, New Jersey, New Mexico, New York, Oregon, Vermont, and Washington.
+
+**The Court's Finding:** "Defendants freely admit that they made grant-termination decisions primarily—if not exclusively—based on whether the awardee resided in a state whose citizens voted for President Trump in 2024... Defendants offer no explanation for how their purposeful segregation of grantees based on their electoral support for President Trump rationally advances their stated government interest."
+
+The administration offered after-the-fact justifications that the cancelled projects lacked economic viability, but the court found these rationales were pretextual given the administration's own admissions.
+
+**Law Violated:** U.S. Constitution, Fifth Amendment equal protection component; Inflation Reduction Act and Infrastructure Investment and Jobs Act (grant authority); APA (5 U.S.C. § 706)
+**Court:** U.S. District Court, District of Columbia
+**Status:** Ruling issued; additional grant cancellations not yet subject to litigation remain in effect
+**Sources:** Environmental Defense Fund press release (Jan. 12, 2026); OPB (Jan. 12, 2026)
+
+---
+
+### Third-Country Deportation Policy Ruled Unlawful; Administration Found to Have Lied to Court
+
+**Date:** February 25, 2026
+**Evidence Level:** (1) Strong Documentation
+
+U.S. District Judge Brian E. Murphy (District of Massachusetts) issued an **81-page ruling** declaring the Trump administration's "third-country" deportation policy unconstitutional and unlawful. The policy, implemented through a May 2025 ICE memo, allowed officers to deport migrants to countries other than their own with as little as **six hours' notice**, denying individuals any opportunity to raise claims of persecution or torture.
+
+**The Court's Core Finding:** "This case is about whether the government may, without notice, deport a person to the wrong country, or a country where he is likely to be persecuted, or tortured, thereby depriving that person of the opportunity to seek protections to which he would be undisputedly entitled."
+
+**Documented Administration Lies to Court:** Judge Murphy's ruling specifically found that the administration **provided false information** about the removal of one plaintiff—a Guatemalan national identified as O.C.G. After a court granted O.C.G. protection preventing deportation to Guatemala, "Defendants threw him on a bus to Mexico, where he had just been raped, and where he was quickly sent back to Guatemala, the place an immigration judge had just found he would likely be persecuted. And then Defendants lied about it." The judge documented multiple additional instances of the administration stonewalling, providing misleading information, and violating court orders throughout the litigation.
+
+**Procedural History:** Murphy paused his ruling 15 days to allow the administration to appeal. This ruling came months after the Supreme Court had blocked an earlier Murphy decision and rebuked him in follow-up orders—making the administration's repeated violations of the court's injunctions even more significant.
+
+**Law Violated:** Fifth Amendment (due process); Convention Against Torture (implementing statute, 8 U.S.C. § 1231(b)(3)); INA procedural requirements; 18 U.S.C. § 401 (contempt—multiple court order violations documented)
+**Court:** U.S. District Court, District of Massachusetts, Judge Brian E. Murphy
+**Status:** Ruling issued; administration appealing; 81-page opinion documents pattern of court order violations and misrepresentations to tribunal
+**Sources:** Washington Post (Feb. 25, 2026); NBC News; Slate (Feb. 2026); CBS News
+
+---
+
+### Systematic ICE Violations of Court Orders: Minnesota and New Jersey
+
+**Date:** December 2025 – February 2026
+**Evidence Level:** (1) Strong Documentation
+
+Federal courts documented an extraordinary pattern of ICE violating court orders across multiple jurisdictions during this period—representing the most sustained documented defiance of judicial authority in the second Trump term.
+
+**Minnesota:**
+
+Chief U.S. District Judge Patrick Schiltz documented **at least 97 violations of court orders across 74 cases** in Minnesota, stating he had been "extremely patient" with the administration. In January 2026, Judge Schiltz threatened to hold acting ICE Director **Todd Lyons** in contempt and ordered him to appear personally in court. The administration released one detainee—Juan Tobay Robles—only after the contempt threat, averting Lyons' required appearance.
+
+On February 19, 2026, a federal judge held a Trump administration **attorney in civil contempt**—the first time in Trump's second term a federal attorney faced court-ordered sanctions—for "**flagrant disobedience of court orders**" in an immigration case.
+
+By late February 2026, Chief Judge Schiltz documented an additional **113 alleged breaches** of court orders in other matters, totaling over 200 documented violations, and threatened criminal contempt proceedings. The judge also issued a stern warning to the chief federal prosecutor in Minnesota that ICE "is not a law unto itself."
+
+**New Jersey:**
+
+The U.S. Attorney's Office for New Jersey **admitted in open court** that it had identified **more than 50 instances of violations of court orders** since December 2025 alone. Violations primarily involved transferring detainees from one facility to another after judges had expressly prohibited such transfers, including flying one detainee to Texas in direct defiance of a court order.
+
+**Pattern:** The administration's own attorneys were compelled by court proceedings to disclose these violations. The DOJ did not voluntarily report noncompliance. The violations are documented in federal court records.
+
+**Law Violated:** 18 U.S.C. § 401 (criminal contempt); Fifth Amendment due process; 18 U.S.C. § 401 (civil contempt); federal court injunctions
+**Court:** U.S. District Court, District of Minnesota (Chief Judge Schiltz); U.S. District Court, District of New Jersey
+**Status:** Civil contempt sanctions imposed on one federal attorney; ICE director threatened with contempt; criminal contempt proceedings threatened; violations ongoing
+**Sources:** CNN (Feb. 19, 2026); NBC News; CNBC (Jan. 28, 2026); Minnesota Reformer (Feb. 26, 2026)
+
+---
+
+### Grand Jury Refuses to Indict Six Democratic Members of Congress — Second Straight Grand Jury Rejection
+
+**Date:** February 10, 2026
+**Evidence Level:** (1) Strong Documentation
+
+A federal grand jury in Washington, D.C. **unanimously rejected** the DOJ's attempt to indict six Democratic members of Congress over a 90-second social media video in which they urged members of the military and intelligence community to refuse "illegal orders." The six lawmakers—all military veterans or former intelligence officers—were Reps. Jason Crow (CO), Maggie Goodlander (NH), Chris Deluzio (PA), Chrissy Houlahan (PA), and Sens. Mark Kelly (AZ) and Elissa Slotkin (MI).
+
+**Pattern of Political Prosecution:**
+
+The prosecution was brought by the U.S. Attorney's Office for D.C. under **Jeanine Pirro**, Trump's appointed U.S. Attorney and longtime personal ally. No career federal prosecutors participated in presenting the case—a sharp departure from DOJ norms. The case was presented by a former House Republican staffer and an associate of Pirro's office.
+
+Federal grand juries almost never refuse to indict: in fiscal year 2016 (the most recent year with full DOJ statistics), juries returned only **6 "no bill" votes out of 69,451 federal felony cases presented**—a refusal rate of less than 0.01%. The grand jury's rejection indicates the government's evidence did not reach even the **probable cause** threshold.
+
+This was the **second consecutive grand jury rejection** of Trump DOJ-initiated political prosecutions. The Comey and James indictments were dismissed in November 2025 for illegal appointment of the prosecutor. The rejection of the Congressional Democrats' indictment followed the same pattern: political appointment of loyalists as prosecutors, no career DOJ participation, and grand jury or judicial rejection.
+
+**Congressional Response:** House Judiciary Committee Democrats, Reps. Robert Garcia and Jamie Raskin, sent a letter to Pirro on February 19, 2026 demanding answers about the failed prosecution and the use of DOJ resources for political retaliation.
+
+**Law Violated by Administration:** 18 U.S.C. § 1512(b) (intimidation); 18 U.S.C. § 241 (conspiracy against rights); First Amendment (retaliation for protected political speech); norms prohibiting use of DOJ against political opponents
+**Court:** U.S. District Court, District of Columbia (Grand Jury)
+**Status:** Prosecution rejected; Pirro's office subsequently dropped the case entirely; pattern of failed political prosecutions now encompasses three separate grand jury or judicial rejections
+**Sources:** CBS News (Feb. 10, 2026); NBC News; Washington Post; House Judiciary Committee Democrats letter (Feb. 19, 2026)
+
+---
+
+### Mass Probationary Employee Firings: Courts Find Unlawful, Supreme Court Intervenes
+
+**Date:** January–February 2026
+**Evidence Level:** (1) Strong Documentation
+
+The administration's mass termination of probationary federal employees—affecting tens of thousands of workers across six major agencies—continued to generate major court rulings in this period.
+
+**Judge Alsup's Summary Judgment (January 2026):**
+U.S. District Judge William H. Alsup (N.D. California) issued a **partial summary judgment** finding OPM's mass termination orders unlawful, concluding OPM had no statutory authority to direct agencies to fire employees and that the stated reason (poor performance) was fabricated—the same finding he reached on a preliminary basis in March 2025. The ruling covered employees at the Veterans Affairs, Agriculture, Interior, Energy, Defense, and Treasury Departments.
+
+**AFGE Lawsuit Victory:** A federal judge ordered reinstatement of probationary employees at multiple agencies, finding the firings were "**explicitly intended for the purpose of political retribution and have been rolled out haphazardly, with no evidence of reasoned decision-making.**"
+
+**Supreme Court Intervention:**
+The Supreme Court granted the administration's emergency application and **halted the reinstatement order**, allowing mass layoffs to proceed while appeals continue. The stay was granted without full briefing on the merits, leaving open the question of the firings' ultimate legality.
+
+**Government Shutdown Layoffs (December 2025):**
+Judge Susan Illston ordered the administration to **rescind RIF notices** issued at the Small Business Administration, General Services Administration, and State Department during the government shutdown, ruling that the continuing resolution expressly prohibited such reductions. Congress subsequently included language in stopgap spending legislation blocking all agency RIFs through at least January 30, 2026; that legislative protection expired in late February 2026.
+
+**Law Violated:** 5 U.S.C. § 7543 (civil service removal standards); OPM statutory authority limits; Antideficiency Act (31 U.S.C. § 1341); continuing resolution provisions
+**Court:** U.S. District Court, N.D. California (Judge Alsup); U.S. District Court, N.D. California (Judge Illston); U.S. Supreme Court (stay granted)
+**Status:** Firings found unlawful on the merits by district court; Supreme Court stay allows layoffs to proceed pending appeal; congressional moratorium expired late February 2026
+**Sources:** Washington State AG press release; AFGE (Jan. 2026); PBS News; CBS News; Federal News Network
+
+---
+
+### DOE Climate Science Review Ordered by Unlawfully Appointed Researchers
+
+**Date:** January 30, 2026
+**Evidence Level:** (1) Strong Documentation
+
+A federal judge ruled that the Department of Energy **violated the law** when it handpicked five researchers to conduct the climate science review that the EPA used as its scientific justification for repealing the Endangerment Finding. The DOE's selective appointment of those researchers violated **Federal Advisory Committee Act (FACA)** requirements for transparency, balance, and open process in constituting federal advisory panels.
+
+This ruling undermined the scientific and procedural foundation for the EPA's February 12, 2026 Endangerment Finding repeal—meaning the most consequential deregulatory action in American history was built on a process a federal court had already found to be unlawful.
+
+**Law Violated:** Federal Advisory Committee Act (5 U.S.C. App. 2); Administrative Procedure Act (5 U.S.C. § 706)
+**Court:** Federal district court
+**Status:** Ruling issued January 30, 2026; EPA proceeded with Endangerment Finding repeal 13 days later despite the ruling; legal challenge to repeal proceeding
+**Sources:** NPR (Feb. 11, 2026 report referencing January 30 ruling)
+
+---
+
+### California Sues Trump Over $1.2 Billion in Illegally Terminated Energy Programs
+
+**Date:** February 18, 2026
+**Evidence Level:** (1) Strong Documentation
+
+California Governor Gavin Newsom filed a federal lawsuit against the Trump administration for **illegally terminating $1.2 billion in energy and infrastructure programs**. The terminations included programs authorized and funded by the Inflation Reduction Act and the Infrastructure Investment and Jobs Act—laws that appropriated specific funds for specific purposes that the executive branch is constitutionally required to spend.
+
+The lawsuit joins a growing body of litigation challenging the administration's practice of terminating congressionally mandated spending as a political weapon against states and constituencies that voted Democratic in 2024.
+
+**Law Violated:** Impoundment Control Act (2 U.S.C. § 681 et seq.); Inflation Reduction Act; Infrastructure Investment and Jobs Act; U.S. Constitution, Article I (Congressional power of the purse)
+**Court:** Federal district court (California)
+**Status:** Lawsuit filed February 18, 2026; pending
+**Sources:** Office of the Governor of California press release (Feb. 18, 2026)
+
+---
+
+### Trump Administration Admits 56+ Court Order Violations to Federal Judge in New Jersey
+
+**Date:** December 2025 – February 2026
+**Evidence Level:** (1) Strong Documentation
+
+In a remarkable courtroom admission, a Justice Department official told a federal judge in New Jersey that the government had identified **more than 50 instances of violations of court orders** since December 2025—all related to immigration enforcement. The admission came after the judge found the government had violated his order in the case of an Indian national challenging his detention: the judge had expressly directed officials not to transfer the man out of New Jersey, but he was nonetheless flown to Texas.
+
+The DOJ's voluntary disclosure of 50+ violations—made only under the pressure of ongoing judicial scrutiny—is itself extraordinary. The violations involved migrants being transferred between facilities after judges had expressly prohibited such moves.
+
+Taken together with the Minnesota violations (97-200+ documented), these admissions establish that **court order violations by ICE are not isolated incidents but a nationwide operational pattern** under this administration.
+
+**Law Violated:** 18 U.S.C. § 401 (contempt of court); Fifth Amendment due process; federal court injunctions
+**Court:** U.S. District Court, District of New Jersey
+**Status:** Violations admitted; judicial scrutiny continuing
+**Sources:** Slate (Feb. 2026); Trump's DOJ makes a startling confession to New Jersey court
+
+---
+
+### DOJ Fails to Secure Grand Jury Indictment of Members of Congress — January Precedents
+
+**Date:** February 10, 2026 (grand jury rejection)
+**Evidence Level:** (1) Strong Documentation
+
+*[See full entry above under "Grand Jury Refuses to Indict Six Democratic Members of Congress." This entry documents additional context on the expanded targeting campaign.]*
+
+**Pattern of Expanded Targeting:**
+The DOJ's targeting of political opponents during this period extended beyond the six Congressional Democrats. Protect Democracy's retaliatory action tracker documented continued investigations and adverse actions against:
+- Former national security officials who testified against Trump
+- State attorneys general who filed lawsuits against Trump administration policies
+- Law enforcement officials involved in prior Trump investigations
+
+The February 10 grand jury rejection was the third consecutive failure of Trump's political prosecution campaign: after the Comey and James indictment dismissals (November 2025) and the February 2026 grand jury rejection, U.S. Attorney Pirro's office subsequently **dropped the case entirely**.
+
+**Law Violated:** 18 U.S.C. §§ 241, 1512 (conspiracy against rights, witness tampering); First Amendment (political retaliation); norms of DOJ independence
+**Status:** Case dropped after grand jury rejection; pattern of political prosecutions continues with other targets
+
+---
+
+### Updated Litigation Statistics (February 2026)
+
+**Date:** As of February 28, 2026
+**Evidence Level:** (1) Strong Documentation
+
+Per the Just Security Trump Litigation Tracker (updated February 2026):
+
+- **Government actions fully blocked:** 51 cases (up from 32 as of December 4, 2025)
+- **Government actions temporarily blocked:** 109 cases (up from 88)
+- **Government actions blocked pending appeal:** 33 additional cases
+- **Total plaintiff wins:** approximately 200 cases
+- **Government wins:** approximately 110 cases
+- **Cases awaiting ruling:** 231 cases
+
+**Most significant new developments tracked (December 2025 – February 2026):**
+- Supreme Court: IEEPA tariffs unlawful (Feb. 20)
+- District Court: Third-country deportations unlawful (Feb. 25)
+- District Court: DOE clean energy grant cancellations unconstitutional equal protection violation (Jan. 12)
+- District Court: Mass probationary firings unlawful on the merits (Jan. 2026)
+- Civil contempt sanction: First federal attorney held in contempt (Feb. 19)
+
+**Source:** Just Security Trump Litigation Tracker (Feb. 2026); Lawfare Litigation Tracker
+
+---
+
+### Summary of December 4, 2025 – February 28, 2026 Violations
+
+**New Level 1 documented violations added this period:**
+
+| Violation | Date | Court/Body | Outcome |
+|-----------|------|------------|---------|
+| IEEPA tariffs illegal | Feb. 20, 2026 | Supreme Court (6-3) | Tariffs struck down |
+| EPA Endangerment Finding repeal | Feb. 12, 2026 | (litigation pending) | Repeal finalized despite legal conflict with SCOTUS precedent |
+| DOE clean energy grant cancellations | Jan. 12, 2026 | D.C. District Court | Found unconstitutional (equal protection) |
+| Third-country deportations unlawful | Feb. 25, 2026 | D. Mass. (Judge Murphy) | Policy invalidated; admin found to have lied to court |
+| 97–200+ ICE court order violations (MN) | Dec. 2025 – Feb. 2026 | D. Minn. (Chief Judge Schiltz) | Civil contempt imposed; criminal contempt threatened |
+| 50+ court order violations admitted (NJ) | Dec. 2025 – Feb. 2026 | D.N.J. | Admitted by DOJ in open court |
+| Mass probationary firings unlawful | Jan. 2026 | N.D. Cal. (Judge Alsup) | Summary judgment for plaintiffs; Supreme Court stay pending |
+| Shutdown RIFs unlawful | Dec. 2025 | N.D. Cal. (Judge Illston) | Reinstatement ordered |
+| DOE climate science review unlawful | Jan. 30, 2026 | Federal district court | FACA violation found |
+| Congressional Democrats indictment attempt | Feb. 10, 2026 | D.C. Grand Jury | Grand jury unanimously rejected |
+| CA $1.2B energy program terminations | Feb. 18, 2026 | Federal district court | Lawsuit filed |
+
+---
+
 **END OF EVIDENCE APPENDIX**
 
-*Last Updated: December 5, 2025*
+*Last Updated: February 28, 2026*
 *Document Status: Prosecution-Ready Evidence Compilation*
 *Classification: Level 1 (Strong Documentation) and Level 2 (Credible Allegations Under Investigation)*
 
@@ -1797,3 +2078,9 @@ The pattern represents what Sen. Richard Blumenthal called an **"unprecedented, 
 - *Updated with October 15 - December 4, 2025 violations including: Comey/James indictment dismissals, SNAP APA violation, Harvard targeting ruling, ABA grant retaliation, California National Guard deployment, student visa crackdowns, Senator Mark Kelly investigation*
 - *Updated case statistics to 253 active cases per Lawfare tracker*
 - *Added new sources: Just Security Litigation Tracker, Lawfare Litigation Tracker, NPR, ABC News, Congressman Jamie Raskin, Congressman Steve Cohen*
+
+*February 2026 Updates:*
+- *Added Section XVII covering December 4, 2025 – February 28, 2026 period*
+- *Key new violations: Supreme Court strikes IEEPA tariffs (6-3); EPA repeals Endangerment Finding defying Massachusetts v. EPA; DOE clean energy grant cancellations found unconstitutionally discriminatory; third-country deportation policy struck down with administration found to have lied to court; 200+ ICE court order violations in Minnesota; 50+ additional violations admitted in New Jersey; grand jury unanimously refuses to indict six Congressional Democrats; mass probationary firings found unlawful on merits*
+- *Updated case statistics: 51 fully blocked, 109 temporarily blocked, ~200 plaintiff wins (Just Security, February 2026)*
+- *Added new sources: Supreme Court opinion in Learning Resources, Inc. v. Trump (Feb. 20, 2026); Washington Post; NPR; CBS News; California Governor's Office; House Judiciary Committee Democrats; Earthjustice; Federal News Network*
