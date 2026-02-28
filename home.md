@@ -177,7 +177,7 @@ These chapters represent the core of the Project 2029 vision:
 <div class="callout warning">
 
 ### For Researchers & Journalists
-- [Evidence Appendix](Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md) — Jan 20–Oct 15, 2025 violations, 39 court rulings, 350+ lawsuits
+- [Evidence Appendix](Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md) — Jan 20–Dec 4, 2025 violations, 39 court rulings, 350+ lawsuits
 - [Master Bibliography](Supporting_Materials/Master_Bibliography.md) — 1,500+ citations across all 31 chapters
 - [Strategic Diagrams](Supporting_Materials/Diagrams.md) — Visual framework of the full project
 

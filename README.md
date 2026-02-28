@@ -49,7 +49,7 @@ Project 2029 is a **414,000+ word comprehensive policy framework** designed to c
 - [Ch 28: Legal Accountability](Section6_Safeguarding_Democracy_And_Accountability/Chapter_28_Legal_Accountability_for_Subversion_of_Democracy.md) — 13 criminal statutes, four-tier accountability framework
 - [Ch 31: Constitutional Hardball](Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md) — Using full presidential authority
 
-**Need evidence?** → [Evidence Appendix](Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md) (Jan 20–Oct 15, 2025, with court rulings)
+**Need evidence?** → [Evidence Appendix](Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md) (Jan 20–Dec 4, 2025, with court rulings)
 
 ### By Audience
 
@@ -214,7 +214,7 @@ Project 2029 proposes **7 constitutional amendments** to permanently secure demo
 |----------|-------------|
 | [Quick Reference Guide](Supporting_Materials/Quick_Reference_Guide.md) | All 31 chapters and 32 reforms on one page |
 | [Table of Contents](TABLE_OF_CONTENTS.md) | Full navigation with chapter summaries |
-| [Evidence Appendix](Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md) | Jan 20–Oct 15, 2025 violations with 39 court rulings |
+| [Evidence Appendix](Supporting_Materials/Evidence_Appendix_Trump_Administration_Violations.md) | Jan 20–Dec 4, 2025 violations with 39 court rulings |
 | [Master Legislative Requirements](Supporting_Materials/Master_Legislative_Requirements.md) | All 196+ proposed laws consolidated |
 
 ### Implementation Tracking
