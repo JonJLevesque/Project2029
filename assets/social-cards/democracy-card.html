@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200">
+<title>Project 2029 - Democratic Renewal</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: linear-gradient(135deg, #0f1a2e 0%, #1a2744 50%, #1e2d4a 100%);
+    color: #ffffff;
+    overflow: hidden;
+  }
+  .card {
+    width: 1200px;
+    height: 630px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 70px;
+    position: relative;
+  }
+  .border-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, #2563eb, #60a5fa, #2563eb);
+  }
+  .border-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, #2563eb, #60a5fa, #2563eb);
+  }
+  .corner-tl {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+    border-top: 3px solid #2563eb;
+    border-left: 3px solid #2563eb;
+  }
+  .corner-tr {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    border-top: 3px solid #2563eb;
+    border-right: 3px solid #2563eb;
+  }
+  .corner-bl {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+    border-bottom: 3px solid #2563eb;
+    border-left: 3px solid #2563eb;
+  }
+  .corner-br {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    border-bottom: 3px solid #2563eb;
+    border-right: 3px solid #2563eb;
+  }
+  .project-label {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    color: #60a5fa;
+    margin-bottom: 16px;
+  }
+  .title {
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -2px;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  .title span {
+    color: #60a5fa;
+  }
+  .subtitle {
+    font-size: 24px;
+    font-weight: 600;
+    color: #94a3b8;
+    text-align: center;
+    margin-bottom: 40px;
+    letter-spacing: -0.3px;
+  }
+  .counter-label {
+    font-size: 20px;
+    font-weight: 700;
+    color: #cbd5e1;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  .counter-label span {
+    color: #60a5fa;
+  }
+  .stats-row {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 36px;
+  }
+  .stat {
+    text-align: center;
+  }
+  .stat-value {
+    font-size: 32px;
+    font-weight: 800;
+    color: #60a5fa;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+  .stat-label {
+    font-size: 14px;
+    color: #94a3b8;
+    font-weight: 500;
+    margin-top: 6px;
+  }
+  .stat-divider {
+    width: 1px;
+    height: 40px;
+    background: rgba(37, 99, 235, 0.4);
+  }
+  .ready {
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background: linear-gradient(90deg, transparent, rgba(37, 99, 235, 0.2), transparent);
+    padding: 12px 40px;
+    border-radius: 6px;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="border-top"></div>
+  <div class="border-bottom"></div>
+  <div class="corner-tl"></div>
+  <div class="corner-tr"></div>
+  <div class="corner-bl"></div>
+  <div class="corner-br"></div>
+  <div class="project-label">Project 2029</div>
+  <div class="title">A Mandate for <span>Restorative +<br>Transformative</span> Democratic Renewal</div>
+  <div class="subtitle">The complete counter to Project 2025</div>
+  <div class="stats-row">
+    <div class="stat">
+      <div class="stat-value">414,000</div>
+      <div class="stat-label">words</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat">
+      <div class="stat-value">31</div>
+      <div class="stat-label">chapters</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat">
+      <div class="stat-value">150+</div>
+      <div class="stat-label">proposed laws</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat">
+      <div class="stat-value">7</div>
+      <div class="stat-label">amendments</div>
+    </div>
+  </div>
+  <div class="ready">Ready for Day One</div>
+</div>
+</body>
+</html>

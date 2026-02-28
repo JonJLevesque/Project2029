@@ -1,7 +1,8 @@
 # MASTER BIBLIOGRAPHY
 ## Project 2029: Comprehensive Legal and Academic Citations
 
-**Last Updated:** October 22, 2025
+**Last Updated:** February 28, 2026
+**Coverage:** All 31 chapters and supporting materials
 
 ---
 
@@ -764,10 +765,749 @@ This bibliography is a living document. For updates:
 3. **International precedents** will be updated with new comparative data
 4. **Corrections** - If you identify citation errors or missing key sources, please submit corrections
 
-**Last Comprehensive Review:** October 22, 2025
+**Last Comprehensive Review:** February 28, 2026
+
+---
+
+## 🏛️ XVIII. CHAPTER-SPECIFIC REFERENCES (NEWLY DEVELOPED CHAPTERS)
+
+The following sections document references from the 17 chapters fully developed between October 2025 and February 2026.
+
+---
+
+### Chapter 5: Department of Homeland Security
+
+**Constitutional Provisions:**
+- U.S. Const. art. I, § 8 (commerce, naturalization, defense powers)
+- U.S. Const. amend. I (speech, assembly, religion)
+- U.S. Const. amend. IV (searches and seizures)
+- U.S. Const. amend. V (due process)
+- U.S. Const. amend. VIII (cruel and unusual punishment)
+- U.S. Const. amend. XIV (equal protection, due process)
+
+**Federal Statutes:**
+- Homeland Security Act of 2002, 6 U.S.C. § 101 et seq.
+- Immigration and Nationality Act, 8 U.S.C. § 1101 et seq.
+- Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. § 5121 et seq.
+- Cybersecurity and Infrastructure Security Agency Act of 2018, 6 U.S.C. § 651 et seq.
+- Trafficking Victims Protection Reauthorization Act, 22 U.S.C. § 7105
+- Immigration Reform and Control Act of 1986, Pub. L. 99-603
+- Privacy Act of 1974, 5 U.S.C. § 552a
+- Freedom of Information Act, 5 U.S.C. § 552
+- Alien Enemies Act of 1798, 50 U.S.C. § 21
+- Refugee Act of 1980, 8 U.S.C. § 1521 et seq.
+- Federal Advisory Committee Act, 5 U.S.C. App. 2
+
+**Supreme Court Precedents:**
+- *Zadvydas v. Davis*, 533 U.S. 678 (2001)
+- *Trump v. Hawaii*, 585 U.S. 667 (2018)
+- *Mathews v. Eldridge*, 424 U.S. 319 (1976)
+- *INS v. St. Cyr*, 533 U.S. 289 (2001)
+- *Boumediene v. Bush*, 553 U.S. 723 (2008)
+- *Arizona v. United States*, 567 U.S. 387 (2012)
+
+**International Law:**
+- 1967 United Nations Protocol Relating to the Status of Refugees, 606 U.N.T.S. 267
+- Convention Against Torture, ratified by the United States, Oct. 21, 1994
+- Universal Declaration of Human Rights, G.A. Res. 217A (III), U.N. Doc. A/810 (1948)
+- International Covenant on Civil and Political Rights, 999 U.N.T.S. 171
+
+**Regulations:**
+- 8 C.F.R. § 208.16-.18 (Convention Against Torture implementing regulations)
+- 8 C.F.R. § 1240.1 et seq. (immigration proceedings)
+- 6 C.F.R. § 5.1 et seq. (DHS Privacy Act implementation)
+
+**Judicial Orders:**
+- Boasberg, J., TRO, *J.G.G. v. Trump*, No. 25-cv-766 (D.D.C. Mar. 15, 2025)
+- Boasberg, J., Class Certification Order, *J.G.G. v. Trump*, No. 25-cv-766 (D.D.C. Dec. 2025)
+
+**Reports and Journalism:**
+- Amnesty International USA, "Torture and Enforced Disappearances in the Sunshine State" (December 2025)
+- American Civil Liberties Union, "Detained Immigrants Detail Physical Abuse" (2025)
+- American Immigration Council, "Immigration Detention Is Harsher and Less Accountable Than Ever" (January 2026)
+- NPR, "2025 Is the Deadliest Year to Be in ICE Custody in Decades" (October 23, 2025)
+- NPR, "Alien Enemies Act Deportations Violated Due Process, Judge Says" (December 22, 2025)
+- Human Rights Watch, "United States: Repeal the Alien Enemies Act" (May 1, 2025)
+- Lemkin Institute, "Trump Administration's Mass Deportation Operations" (November 2025)
+- Center on Budget and Policy Priorities, "Trump Administration Actions Weakening Disaster Preparation and Response" (2025)
+- Project on Government Oversight, "ICE Inspections Plummeted as Detentions Soared in 2025" (2025)
+- Heritage Foundation, "Mandate for Leadership: The Conservative Promise" (2023), Chapter 5 (DHS), pp. 133-174
+
+---
+
+### Chapter 6: Department of State
+
+**Constitutional Provisions:**
+- U.S. Const. art. I, §§ 8, 9 (congressional foreign affairs powers)
+- U.S. Const. art. II, §§ 2-3 (presidential treaty and appointment powers)
+- U.S. Const. art. VI, cl. 2 (Supremacy Clause — treaties as supreme law)
+
+**Federal Statutes:**
+- Foreign Service Act of 1980, 22 U.S.C. § 3901 et seq.
+- State Department Basic Authorities Act of 1956, 22 U.S.C. § 2651 et seq.
+- Foreign Assistance Act of 1961, 22 U.S.C. § 2151 et seq.
+- Arms Export Control Act, 22 U.S.C. § 2751 et seq.
+- Global Magnitsky Human Rights Accountability Act, 22 U.S.C. § 2656 note
+- Countering America's Adversaries Through Sanctions Act (CAATSA), 22 U.S.C. § 9501 et seq.
+- International Emergency Economic Powers Act, 50 U.S.C. § 1701 et seq.
+- NATO Participation Act of 1994, 22 U.S.C. § 1904
+- Taiwan Relations Act of 1979, 22 U.S.C. § 3301 et seq.
+- United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, 22 U.S.C. § 7601 et seq.
+- Mutual Educational and Cultural Exchange Act of 1961, 22 U.S.C. § 2451 et seq. (Fulbright Program)
+- United States Agency for Global Media Authorization Act, 22 U.S.C. § 6201 et seq.
+- BUILD Act of 2018, 22 U.S.C. § 9601 et seq.
+- Leahy Law, 22 U.S.C. § 2378d
+- Uruguay Round Agreements Act, 19 U.S.C. § 3511
+
+**Treaties and International Agreements:**
+- North Atlantic Treaty (1949), 63 Stat. 2241; TIAS 1964
+- Vienna Convention on Diplomatic Relations (1961), 21 U.S.T. 77; TIAS 7502
+- United Nations Charter (1945), 59 Stat. 1031; TS 993
+- Paris Agreement under the UNFCCC (2015), T.I.A.S. 16-1104
+- Convention Relating to the Status of Refugees (1951) and 1967 Protocol, 19 U.S.T. 6223; TIAS 6577
+
+**Supreme Court Decisions:**
+- *Dames & Moore v. Regan*, 453 U.S. 654 (1981)
+- *Zivotofsky v. Kerry*, 576 U.S. 1 (2015)
+
+**Regulations:**
+- 22 C.F.R. Parts 11-19 (Foreign Service selection and assignment)
+- 22 C.F.R. Part 41 (Visas and Consular Procedures)
+- 22 C.F.R. Parts 200-226 (USAID acquisition regulations)
+- 5 C.F.R. Part 351 (Reduction in Force procedures)
+
+**Executive Orders (to be rescinded):**
+- E.O. 14155 — Withdrawing from WHO (Jan. 20, 2025)
+- E.O. 14162 — Paris Agreement withdrawal (Jan. 20, 2025)
+- E.O. 14169 — Foreign Assistance Freeze (Jan. 20, 2025)
+
+---
+
+### Chapter 7: Intelligence Community
+
+**Federal Statutes:**
+- National Security Act of 1947, 50 U.S.C. §§ 3001 et seq.
+- Intelligence Reform and Terrorism Prevention Act of 2004, Pub. L. 108-458, 50 U.S.C. § 3001 note
+- Foreign Intelligence Surveillance Act of 1978, 50 U.S.C. §§ 1801 et seq.
+- FISA Amendments Act of 2008, Pub. L. 110-261 (Section 702 at 50 U.S.C. § 1881a)
+- Central Intelligence Agency Act of 1949, 50 U.S.C. §§ 3501 et seq.
+- Inspector General Independence Act of 2022, Pub. L. 117-286
+- Intelligence Community Whistleblower Protection Act of 1998, 50 U.S.C. § 3033 note
+- Intelligence Identities Protection Act of 1982, 50 U.S.C. §§ 3121 et seq.
+- Espionage Act, 18 U.S.C. §§ 793 et seq.
+
+**Executive Orders and Directives:**
+- Executive Order 12333 (United States Intelligence Activities, as amended)
+- Executive Order 13526 (Classified National Security Information)
+- Security Executive Agent Directive 4 (National Security Adjudicative Guidelines)
+- Presidential Policy Directive 21 (Critical Infrastructure Security and Resilience)
+- Presidential Policy Directive 20 (U.S. Cyber Operations Policy)
+
+**Judicial Decisions:**
+- *Department of the Navy v. Egan*, 484 U.S. 518 (1988)
+- *ACLU v. Clapper*, 785 F.3d 787 (2d Cir. 2015)
+
+**Reports:**
+- Senate Select Committee on Intelligence, Report on the CIA's Detention and Interrogation Program (2014)
+- Privacy and Civil Liberties Oversight Board, Report on Section 702 of FISA (2014)
+- DOJ Office of Inspector General, Review of FBI's Crossfire Hurricane Investigation (2019)
+- Project on Government Oversight, "Key Intel Whistleblower Official Fired" (October 2025)
+- Church Committee, Final Report, S. Rep. No. 94-755 (1976)
+- National Intelligence Council, Global Trends 2040 (March 2021)
+
+---
+
+### Chapter 8: Media Agencies
+
+**Statutes and Regulations:**
+- Communications Act of 1934, 47 U.S.C. §§ 151 et seq.
+- Public Broadcasting Act of 1967, 47 U.S.C. § 396
+- U.S. International Broadcasting Act of 1994, 22 U.S.C. §§ 6201 et seq.
+- Section 230 of the Communications Decency Act, 47 U.S.C. § 230
+- Universal Service Fund provisions, 47 U.S.C. § 254
+- 47 C.F.R. Part 73 (FCC broadcast regulations)
+- Executive Order 14290, "Ending Taxpayer Subsidization of Biased Media" (May 1, 2025)
+
+**Judicial Decisions:**
+- *FCC v. League of Women Voters*, 468 U.S. 364 (1984)
+- *Motor Vehicle Manufacturers Association v. State Farm Mutual Auto Insurance Co.*, 463 U.S. 29 (1983)
+- *Reno v. ACLU*, 521 U.S. 844 (1997)
+- *Agency for International Development v. Alliance for Open Society International*, 570 U.S. 205 (2013)
+- *Rust v. Sullivan*, 500 U.S. 173 (1991)
+- *Loper Bright Enterprises v. Raimondo*, 603 U.S. 369 (2024)
+- Sixth Circuit vacating FCC 2024 Open Internet Order (January 2025)
+
+**Contemporary Sources:**
+- CPB dissolution announcement (August 1, 2025; CPB board vote January 6, 2026)
+- Democracy Forward, litigation summary re: Voice of America (2025)
+- Congressional rescissions bill rescinding $1.1 billion in CPB appropriations (July 2025)
+- FCC "In Re: Delete, Delete, Delete" proceeding (2025)
+- NPR, "From 1,300 to 81 Workers: Trump Official Plans to Cut Voice of America" (June 6, 2025)
+- Project 2025, Chapter on FCC, pp. 237-256 (Brendan Carr, author)
+
+---
+
+### Chapter 9: USAID
+
+**Primary Statutes:**
+- Foreign Assistance Act of 1961, Pub. L. 87-195, 22 U.S.C. § 2151 et seq.
+- PEPFAR, Pub. L. 108-25, 22 U.S.C. § 7601 et seq.
+- Tom Lantos and Henry J. Hyde Reauthorization Act of 2008, Pub. L. 110-293
+- Food for Peace Act, 7 U.S.C. § 1691 et seq.
+- Global Food Security Act of 2016, Pub. L. 114-195, 22 U.S.C. § 9301 et seq.
+
+**Key Court Decisions:**
+- *American Foreign Service Association v. Trump* (D. Md. 2025) — Preliminary injunction finding DOGE's USAID dismantling likely unconstitutional
+- U.S. Supreme Court (March 2025) — 5-4 decision denying Trump administration's request to lift $1.5 billion foreign aid order
+- U.S. Supreme Court (September 2025) — Decision permitting $4 billion foreign aid freeze
+- *Free Enterprise Fund v. PCAOB*, 561 U.S. 477 (2010)
+- *AIDS Vaccine Advocacy Coalition v. U.S. Department of State* (D.D.C. 2025)
+
+**Regulations:**
+- 22 C.F.R. Part 200 et seq. (USAID uniform administrative requirements)
+- 22 C.F.R. Part 226 (Assistance Awards to U.S. NGOs)
+- 22 C.F.R. Part 228 (Procurement rules)
+- 48 C.F.R. Chapter 7 (AIDAR)
+
+**International Legal Framework:**
+- United Nations Charter, Article 55
+- International Covenant on Economic, Social and Cultural Rights, Article 11
+- International Health Regulations (2005)
+- Sendai Framework for Disaster Risk Reduction 2015-2030
+- UN Sustainable Development Goals
+
+**Reports and Studies:**
+- UNAIDS, Impact of US Funding Cuts on Global HIV Response (2025)
+- Center for Global Development, Millions Lost Access to PEPFAR-Supported HIV Drugs (2025)
+- The Lancet / PMC, Impact of PEPFAR Funding Freeze on HIV Deaths (2025)
+- Moynihan, "The Death of USAID," Public Administration and Development (2025)
+- KFF, Trump Administration's Foreign Aid Review (2025)
+- Physicians for Human Rights, On the Brink of Catastrophe (2025)
+
+---
+
+### Chapter 10: Department of Agriculture
+
+**Constitutional Authorities:**
+- U.S. Const. art. I, § 8, cl. 1 (Spending Clause)
+- U.S. Const. art. I, § 8, cl. 3 (Commerce Clause)
+
+**Supreme Court Cases:**
+- *Wickard v. Filburn*, 317 U.S. 111 (1942)
+- *Gonzales v. Raich*, 545 U.S. 1 (2005)
+- *West Virginia v. EPA*, 597 U.S. 697 (2022)
+- *Sackett v. EPA*, 598 U.S. 651 (2023)
+- *Pigford v. Glickman*, 185 F.R.D. 82 (D.D.C. 1999)
+
+**Federal Statutes:**
+- Agricultural Adjustment Act, 7 U.S.C. § 601 et seq.
+- Food and Nutrition Act of 2008, 7 U.S.C. § 2011 et seq.
+- Richard B. Russell National School Lunch Act, 42 U.S.C. § 1751 et seq.
+- Healthy, Hunger-Free Kids Act of 2010, Pub. L. 111-296
+- Federal Crop Insurance Act, 7 U.S.C. § 1501 et seq.
+- Conservation Reserve Program, 16 U.S.C. § 3831 et seq.
+- Environmental Quality Incentives Program, 16 U.S.C. § 3839aa et seq.
+- Packers and Stockyards Act, 7 U.S.C. § 181 et seq.
+- Commodity Credit Corporation Charter Act, 15 U.S.C. § 713a et seq.
+- Federal Meat Inspection Act, 21 U.S.C. § 601 et seq.
+- Poultry Products Inspection Act, 21 U.S.C. § 451 et seq.
+- National Organic Program, 7 U.S.C. § 6501 et seq.
+- Beginning Farmer and Rancher Development Program, 7 U.S.C. § 2008q
+
+**Regulations:**
+- 7 C.F.R. Part 205 (National Organic Program)
+- 7 C.F.R. Part 271 et seq. (SNAP administration)
+- 7 C.F.R. Part 764 (FSA farm ownership and operating loans)
+- 7 C.F.R. Part 1740 (ReConnect Program)
+- 7 C.F.R. Part 1780 (Water and Environmental Program)
+
+**Reports:**
+- USDA Economic Research Service, Food Security in the U.S. Key Statistics (2024)
+- Food Research and Action Center, 47.9 Million Americans Facing Hunger (December 2025)
+- National Sustainable Agriculture Coalition, USDA Staffing Crisis (2025)
+
+---
+
+### Chapter 14: Department of Health and Human Services
+
+**Constitutional Provisions:**
+- U.S. Const. Art. I, § 8, cl. 1 (Spending Clause)
+- U.S. Const. Art. I, § 8, cl. 3 (Commerce Clause)
+- U.S. Const. Art. I, § 8, cl. 18 (Necessary and Proper Clause)
+- U.S. Const. Art. VI (Supremacy Clause)
+
+**Federal Statutes:**
+- Public Health Service Act, 42 U.S.C. § 201 et seq.
+- Food, Drug, and Cosmetic Act, 21 U.S.C. § 301 et seq.
+- Affordable Care Act, 42 U.S.C. § 18001 et seq.
+- Social Security Act, Title XVIII (Medicare), 42 U.S.C. § 1395 et seq.
+- Social Security Act, Title XIX (Medicaid), 42 U.S.C. § 1396 et seq.
+- Title X Family Planning, 42 U.S.C. § 300 et seq.
+- Mental Health Parity and Addiction Equity Act, 29 U.S.C. § 1185a; 42 U.S.C. § 300gg-26
+- HIPAA, 42 U.S.C. § 1320d et seq.
+- Children's Health Insurance Program, 42 U.S.C. § 1397aa et seq.
+- Ryan White HIV/AIDS Program, 42 U.S.C. § 300ff et seq.
+- Community Health Centers, 42 U.S.C. § 254b
+- NIH Authority, 42 U.S.C. § 241; 42 U.S.C. § 289
+- BARDA Authority, 42 U.S.C. § 247d-7e
+- Public Health Emergency Authority, 42 U.S.C. § 247d
+- Comstock Act, 18 U.S.C. §§ 1461-1462
+- Food Safety Modernization Act, Pub. L. 111-353
+- 21st Century Cures Act, Pub. L. 114-255
+- Inflation Reduction Act, Pub. L. 117-169
+- Emergency Medical Treatment and Labor Act (EMTALA), 42 U.S.C. § 1395dd
+- Dietary Supplement Health and Education Act of 1994, 21 U.S.C. § 321(ff)
+
+**Supreme Court Cases:**
+- *NFIB v. Sebelius*, 567 U.S. 519 (2012)
+- *California v. Texas*, 593 U.S. 659 (2021)
+- *South Dakota v. Dole*, 483 U.S. 203 (1987)
+- *Whole Woman's Health v. Hellerstedt*, 579 U.S. 582 (2016)
+- *Dobbs v. Jackson Women's Health Organization*, 597 U.S. 215 (2022)
+- *Zubik v. Burwell*, 578 U.S. 403 (2016)
+- *Geier v. American Honda Motor Co.*, 529 U.S. 861 (2000)
+- *Wyeth v. Levine*, 555 U.S. 555 (2009)
+- *Department of Education v. Brown*, 600 U.S. 551 (2023)
+- *Biden v. Nebraska*, 599 U.S. 477 (2023)
+- *National Endowment for the Arts v. Finley*, 524 U.S. 569 (1998)
+
+**Regulations:**
+- 45 C.F.R. Part 59 (Title X Family Planning Program)
+- 45 C.F.R. Parts 144-158 (ACA insurance market regulations)
+- 29 C.F.R. Part 2590 (MHPAEA regulations)
+- 21 C.F.R. Part 314 (FDA new drug applications)
+- 42 C.F.R. Parts 430-498 (Medicaid and Medicare regulations)
+- 45 C.F.R. Parts 160, 164 (HIPAA Privacy and Security Rules)
+- 45 C.F.R. Part 46 (Common Rule — Protection of Human Subjects)
+- 42 C.F.R. Part 482 (Hospital Conditions of Participation)
+- 45 C.F.R. Part 92 (Section 1557 Nondiscrimination)
+
+**Key Sources:**
+- Kaiser Family Foundation, Medicaid Enrollment and Unwinding Tracker (November 2025)
+- JAMA Health Forum, "Cutting the NIH — The $8 Trillion Health Care Catastrophe" (2025)
+- Nature, "US Science After a Year of Trump" (2026)
+- Heritage Foundation, "Mandate for Leadership" (2023), Chapter 14 (HHS), pp. 449-503
+
+---
+
+### Chapter 16: Department of the Interior
+
+**Constitutional Provisions:**
+- U.S. Const. Art. IV, § 3, cl. 2 (Property Clause)
+- U.S. Const. Art. I, § 8, cl. 3 (Indian Commerce Clause)
+- U.S. Const. Art. II, § 2 (Treaty Clause)
+
+**Statutes:**
+- Antiquities Act, 54 U.S.C. § 320301 (1906)
+- National Park Service Organic Act, 54 U.S.C. § 100101 (1916)
+- General Mining Law of 1872, 30 U.S.C. § 22
+- Mineral Leasing Act, 30 U.S.C. § 181 (1920)
+- Outer Continental Shelf Lands Act, 43 U.S.C. § 1331 (1953)
+- American Indian Religious Freedom Act, 42 U.S.C. § 1996 (1978)
+- Archaeological Resources Protection Act, 16 U.S.C. § 470 (1979)
+- Endangered Species Act, 16 U.S.C. § 1531 (1973)
+- National Environmental Policy Act, 42 U.S.C. § 4321 (1970)
+- Federal Land Policy and Management Act, 43 U.S.C. § 1701 (1976)
+- Surface Mining Control and Reclamation Act, 30 U.S.C. § 1201 (1977)
+- Indian Self-Determination and Education Assistance Act, 25 U.S.C. § 5301 (1975)
+- National Historic Preservation Act, 54 U.S.C. § 300101 (1966)
+- Wild and Scenic Rivers Act, 16 U.S.C. § 1271 (1968)
+- Wilderness Act, 16 U.S.C. § 1131 (1964)
+- Migratory Bird Treaty Act, 16 U.S.C. § 703 (1918)
+- Great American Outdoors Act, P.L. 116-152 (2020)
+- Land and Water Conservation Fund Act, 54 U.S.C. § 200301
+
+**Supreme Court Cases:**
+- *Light v. United States*, 220 U.S. 523 (1911)
+- *Kleppe v. New Mexico*, 426 U.S. 529 (1976)
+- *Tennessee Valley Authority v. Hill*, 437 U.S. 153 (1978)
+- *United States v. Mitchell*, 463 U.S. 206 (1983)
+- *Mountain States Legal Foundation v. Bush*, 306 F.3d 1132 (D.C. Cir. 2002)
+- *Tulare County v. Bush*, 306 F.3d 1138 (D.C. Cir. 2002)
+
+**Regulations:**
+- 43 C.F.R. Part 3100 (BLM oil and gas leasing)
+- 50 C.F.R. Part 402 (ESA Section 7 consultation)
+- 43 C.F.R. Part 46 (NEPA implementation for Interior)
+- 36 C.F.R. Part 60 (National Register of Historic Places)
+
+**Sources:**
+- Heritage Foundation, "Mandate for Leadership" (2023), Chapter 16 (Interior), authored by William Perry Pendley
+- Center for Western Priorities, "From Disavowal to Delivery" (January 2026)
+- Outdoor Recreation Roundtable, "$351 Million Daily" (2025)
+- Bears Ears Inter-Tribal Coalition, Co-management documentation
+
+---
+
+### Chapter 18: Department of Labor
+
+**Federal Statutes:**
+- Fair Labor Standards Act, 29 U.S.C. § 201 et seq.
+- National Labor Relations Act, 29 U.S.C. § 151 et seq.
+- Occupational Safety and Health Act of 1970, 29 U.S.C. § 651 et seq.
+- Davis-Bacon Act, 40 U.S.C. § 3141 et seq.
+- Service Contract Act, 41 U.S.C. § 6701 et seq.
+- Employee Retirement Income Security Act, 29 U.S.C. § 1001 et seq.
+- Family and Medical Leave Act of 1993, 29 U.S.C. § 2601 et seq.
+- National Apprenticeship Act, 29 U.S.C. § 50 et seq.
+- Federal Arbitration Act, 9 U.S.C. § 1 et seq.
+- Workforce Innovation and Opportunity Act, Pub. L. 113-128 (2014)
+- Portal-to-Portal Act of 1947, 29 U.S.C. § 251 et seq.
+- Migrant and Seasonal Agricultural Worker Protection Act, 29 U.S.C. § 1801 et seq.
+- SECURE 2.0 Act of 2022, Pub. L. 117-328, Div. T
+
+**Regulations:**
+- 29 C.F.R. Part 541 (White Collar Exemptions)
+- 29 C.F.R. Part 795 (Independent Contractor Classification)
+- 29 C.F.R. § 1910.1053 and § 1926.1153 (OSHA Silica Standards)
+- 41 C.F.R. Chapter 60 (OFCCP Regulations)
+
+**Supreme Court Cases:**
+- *NLRB v. Jones & Laughlin Steel Corp.*, 301 U.S. 1 (1937)
+- *United States v. Darby*, 312 U.S. 100 (1941)
+- *Encino Motorcars, LLC v. Navarro*, 584 U.S. 79 (2018)
+- *Epic Systems Corp. v. Lewis*, 584 U.S. 497 (2018)
+- *Cedar Point Nursery v. Hassid*, 594 U.S. 139 (2021)
+
+**Key Legislative Proposals:**
+- H.R. 842 / S. 420, 117th Congress — PRO Act (2021)
+- H.R. 3481 / S. 1714, 118th Congress — FAMILY Act (2023)
+- H.R. 2694, 118th Congress — FAIR Act (2023)
+- Executive Order 11246 (Equal Employment Opportunity), signed September 24, 1965
+- Executive Order 14026 (Minimum Wage for Government Contractors), signed April 27, 2021
+
+**Policy Sources:**
+- Economic Policy Institute, "More than $1.5 billion in stolen wages recovered" (2024)
+- Good Jobs First, "Worker Protections in Freefall" (2025)
+- Heritage Foundation, "Mandate for Leadership" (2023), Department of Labor, pp. 581-618
+
+---
+
+### Chapter 19: Department of Transportation
+
+**Constitutional Authorities:**
+- U.S. Const. Art. I, § 8 (Commerce Clause, Spending Clause)
+
+**Supreme Court Cases:**
+- *Gibbons v. Ogden*, 22 U.S. 1 (1824)
+- *Train v. City of New York*, 420 U.S. 35 (1975)
+- *Spirit Airlines, Inc. v. DOT*, 687 F.3d 403 (D.C. Cir. 2012)
+
+**Federal Statutes:**
+- Federal Aviation Act, 49 U.S.C. § 40101 et seq.
+- Federal-Aid Highway Act, 23 U.S.C. § 101 et seq.
+- Federal Transit Act, 49 U.S.C. § 5301 et seq.
+- National Traffic and Motor Vehicle Safety Act, 49 U.S.C. § 30101 et seq.
+- Amtrak Statute, 49 U.S.C. § 24101 et seq.
+- Federal Railroad Safety Act, 49 U.S.C. § 20101 et seq.
+- Federal Motor Carrier Safety Administration Statute, 49 U.S.C. § 31101 et seq.
+- Interstate Commerce Act, 49 U.S.C. § 10101 et seq.
+- Rail Safety Improvement Act of 2008, Pub. L. 110-432
+- Infrastructure Investment and Jobs Act, Pub. L. 117-58, 135 Stat. 429 (2021)
+- Clean Air Act § 209, 42 U.S.C. § 7543 (California Emissions Waiver)
+- 42 U.S.C. § 32902 (Corporate Average Fuel Economy Standards)
+- 49 U.S.C. § 41712 (Unfair and Deceptive Practices in Air Transportation)
+- 49 U.S.C. § 20109 (Railroad Safety: Employee Protections)
+- 49 U.S.C. § 5103 (PHMSA: Hazardous Materials Transport)
+- 49 U.S.C. § 24405 (Amtrak: Buy America Requirements)
+
+**Regulations:**
+- 49 C.F.R. Part 213 (Track Safety Standards)
+- 49 C.F.R. Part 395 (Hours of Service of Drivers)
+- 14 C.F.R. Part 5 (Safety Management Systems)
+- 14 C.F.R. Part 21 (Aircraft Certification Procedures)
+
+**Sources:**
+- NTSB, Preliminary Report, Reagan National Airport Midair Collision (2025)
+- GAO, "NEVI Formula Program: DOT's Actions Constitute an Impoundment" (2025)
+- Heritage Foundation, "Mandate for Leadership" (2023), pp. 635-660
+- House Transportation and Infrastructure Committee, Final Report on the Boeing 737 MAX (2020)
+
+---
+
+### Chapter 20: Department of Veterans Affairs
+
+**Federal Statutes:**
+- 38 U.S.C. §§ 101 et seq. (Veterans' Benefits Act)
+- 38 U.S.C. § 1703 (Veterans Access, Choice and Accountability Act)
+- 38 U.S.C. §§ 1701-1774 (Veterans Health Care Act)
+- 38 U.S.C. §§ 3301-3325 (Post-9/11 GI Bill)
+- 38 U.S.C. §§ 7401-7464 (Title 38 hybrid employment authorities)
+- 50 U.S.C. §§ 3901 et seq. (Servicemembers Civil Relief Act)
+- 42 U.S.C. § 1437f(o)(19) (HUD-VASH authorization)
+- 29 U.S.C. § 794d (Section 508, Rehabilitation Act)
+- 31 U.S.C. § 1341 (Anti-Deficiency Act)
+
+**Public Laws:**
+- MISSION Act of 2018, Pub. L. 115-182
+- PACT Act of 2022, Pub. L. 117-168
+- Camp Lejeune Justice Act of 2022, Pub. L. 117-168, Title III
+- Blue Water Navy Vietnam Veterans Act of 2019, Pub. L. 116-23
+
+**Regulations:**
+- 38 C.F.R. Part 17 (VA medical regulations)
+- 38 C.F.R. Parts 3-4 (VA disability compensation and rating)
+- 38 C.F.R. Part 21 (Veterans education)
+- 48 C.F.R. Part 49 (FAR contract termination)
+
+**Supreme Court Cases:**
+- *Walters v. National Association of Radiation Survivors*, 473 U.S. 305 (1985)
+- *Brown v. Gardner*, 513 U.S. 115 (1994)
+
+---
+
+### Chapter 21: Department of Commerce
+
+**Statutes:**
+- Commerce Department Organization Act, 15 U.S.C. § 1501 et seq.
+- Census Act, 13 U.S.C. § 1 et seq.; 13 U.S.C. § 9 (confidentiality)
+- Weather Service Organic Act, 15 U.S.C. § 313
+- NOAA Enabling Legislation, 33 U.S.C. § 851
+- CHIPS and Science Act, Pub. L. 117-167, 136 Stat. 1371 (2022)
+- Minority Business Development Act of 2021, 15 U.S.C. § 9501 et seq.
+- Public Works and Economic Development Act of 1965, 42 U.S.C. § 3121 et seq.
+- Export Control Reform Act of 2018, 50 U.S.C. § 4801 et seq.
+- Stevenson-Wydler Technology Innovation Act, 15 U.S.C. § 3701 et seq.
+- Confidential Information Protection and Statistical Efficiency Act, 44 U.S.C. § 3561 et seq.
+- America COMPETES Act, Pub. L. 110-69
+- Magnuson-Stevens Fishery Conservation and Management Act, 16 U.S.C. § 1801 et seq.
+- Coastal Zone Management Act, 16 U.S.C. § 1451 et seq.
+- Leahy-Smith America Invents Act, Pub. L. 112-29
+- Antidumping Duty Act, 19 U.S.C. § 1673 et seq.
+- Countervailing Duty statute, 19 U.S.C. § 1671 et seq.
+- NTIA Organization Act, 47 U.S.C. § 901 et seq.
+
+**Constitutional Provisions:**
+- U.S. Const. art. I, § 2, cl. 3 (Census Clause)
+- U.S. Const. art. I, § 8, cl. 8 (Patent and Copyright Clause)
+
+**Regulations:**
+- Export Administration Regulations (EAR), 15 C.F.R. Parts 730-774
+- 15 C.F.R. § 800 et seq. (CHIPS Program Office)
+
+**Judicial Decisions:**
+- *Department of Commerce v. New York*, 588 U.S. 752 (2019) (census citizenship question)
+- *State of Rhode Island et al. v. Trump* (D.R.I. 2025) (MBDA preliminary injunction)
+
+**Project 2025 References:**
+- Heritage Foundation, "Mandate for Leadership" (2023), Chapter on Commerce, pp. 663-689 (Thomas Gilman)
+
+---
+
+### Chapter 23: Export-Import Bank
+
+**Statutes:**
+- Export-Import Bank Act of 1945, 12 U.S.C. § 635 et seq.
+- Export-Import Bank Reauthorization Act of 2019, Pub. L. 116-94, Div. I, Title IV
+- Small Business Act, 15 U.S.C. § 632
+- Davis-Bacon Act, 40 U.S.C. § 3141 et seq.
+- Trade Expansion Act of 1962, 19 U.S.C. § 1862
+
+**Regulations:**
+- Export Administration Regulations, 15 C.F.R. Parts 730-774
+- EXIM Environmental Procedures and Guidelines, 12 C.F.R. Part 408
+
+**International Agreements:**
+- OECD Arrangement on Officially Supported Export Credits
+- OECD Common Approaches on Environment and Social Due Diligence
+- G20 Principles for Debt Transparency (2020)
+- ILO Core Conventions (Nos. 29, 87, 98, 100, 105, 111, 138, 182)
+- Paris Agreement on Climate Change
+
+**Key Cases:**
+- *McCulloch v. Maryland*, 17 U.S. (4 Wheat.) 316 (1819)
+
+**Government Reports:**
+- EXIM FY 2024 Annual Performance Report
+- EXIM Report to Congress on Global Export Credit Competition (June 2024)
+- CRS, Export-Import Bank: Overview and Issues for Congress, IF10017 (2025)
+- CRS, Export-Import Bank: Overview and Reauthorization Issues, R43581 (2019)
+- CRS, Export-Import Bank Financing of Fossil Fuel Projects, IF12819 (2024)
+- CSIS, The U.S. EXIM Bank in an Age of Great Power Competition (2023)
+
+---
+
+### Chapter 24: Federal Reserve
+
+**Statutes:**
+- Federal Reserve Act, 12 U.S.C. § 221 et seq.
+- Full Employment and Balanced Growth Act (Humphrey-Hawkins Act), 15 U.S.C. § 3101 et seq.
+- Dodd-Frank Act, 12 U.S.C. § 5301 et seq.
+- Bank Holding Company Act, 12 U.S.C. § 1841 et seq.
+- Community Reinvestment Act, 12 U.S.C. § 2901 et seq.
+- Home Mortgage Disclosure Act, 12 U.S.C. § 2801 et seq.
+- Federal Deposit Insurance Act, 12 U.S.C. § 1811 et seq.
+- Equal Credit Opportunity Act, 15 U.S.C. § 1691 et seq.
+- Fair Housing Act, 42 U.S.C. § 3604 et seq.
+- Expedited Funds Availability Act, 12 U.S.C. § 4001 et seq.
+- Economic Growth, Regulatory Relief, and Consumer Protection Act, Pub. L. 115-174 (2018)
+
+**Regulations:**
+- 12 C.F.R. Part 228 (Federal Reserve CRA regulation)
+- 12 C.F.R. Part 252 (enhanced prudential standards)
+- 12 C.F.R. Part 225 (bank holding company regulation)
+- 88 Fed. Reg. 75768 (2023 CRA Final Rule)
+- 90 Fed. Reg. (July 18, 2025) (Proposed CRA rule rescission)
+
+**Supreme Court Cases:**
+- *Humphrey's Executor v. United States*, 295 U.S. 602 (1935)
+- *Seila Law LLC v. CFPB*, 591 U.S. 197 (2020)
+- *Collins v. Yellen*, 594 U.S. 220 (2021)
+- *Lewis v. United States*, 680 F.2d 1239 (9th Cir. 1982)
+
+**Executive Actions:**
+- E.O. "Strengthening American Leadership in Digital Financial Technology" (Jan. 23, 2025)
+- GENIUS Act, Pub. L. 119-___ (2025) (stablecoin regulatory framework)
+- Anti-CBDC Surveillance State Act, H.R. 1919 (2025)
+
+**Contemporary Sources:**
+- Federal Reserve Board, Statement on Rescission of Climate Risk Principles (Oct. 16, 2025)
+- Jerome H. Powell, Statement on DOJ Criminal Investigation (Jan. 11, 2026)
+- Project 2025, pp. 696-703 (Federal Reserve abolition proposal, Paul Winfree)
+- Lawfare, "Reversing Humphrey's Executor and the Problem of the Federal Reserve" (2025)
+
+---
+
+### Chapter 25: Small Business Administration
+
+**Statutes:**
+- Small Business Act, 15 U.S.C. § 631 et seq.
+- Small Business Investment Act of 1958, 15 U.S.C. § 661 et seq.
+- Small Business Jobs Act of 2010, Pub. L. 111-240
+- Women's Business Centers Authorization, 15 U.S.C. § 656
+- Microloan Program, 15 U.S.C. § 636(m)
+- 8(a) Business Development Program, 15 U.S.C. §§ 636(j), 637(a)
+- Women-Owned Small Business Federal Contracting Program, 15 U.S.C. § 637(m)
+- Service-Disabled Veteran-Owned Small Business Program, 15 U.S.C. § 657f
+- HUBZone Program, 15 U.S.C. § 657a
+- Trade Act of 1974, 19 U.S.C. § 2101 et seq.
+
+**Regulations:**
+- SBA 8(a) Business Development Program, 13 C.F.R. Part 124
+- SBA Women-Owned Small Business Program, 13 C.F.R. Part 127
+- SBA HUBZone Program, 13 C.F.R. Part 126
+- SBA SBIC Program, 13 C.F.R. Parts 107-108
+- SBA Microloan Program, 13 C.F.R. Part 120, Subpart G
+- Federal Acquisition Regulation, 48 C.F.R. Parts 1-99
+
+**Case Law:**
+- *Adarand Constructors, Inc. v. Pena*, 515 U.S. 200 (1995)
+- *Students for Fair Admissions v. Harvard*, 600 U.S. 181 (2023)
+- *Loper Bright Enterprises v. Raimondo*, 603 U.S. ___ (2024)
+
+**Sources:**
+- Bloomberg, "SBA to Cut 43% of Workers in DOGE Push" (March 21, 2025)
+- Center for American Progress, "DOGE Takes a Chainsaw to Services Small Businesses Need" (2025)
+- GAO-25-107267, COVID-19 Relief: Improved Controls Needed (2025)
+- Public Citizen, Hatch Act Complaint Against SBA Administrator Kelly Loeffler (October 2025)
+
+---
+
+### Chapter 26: Trade Policy
+
+**United States Code:**
+- 19 U.S.C. § 1202 — Smoot-Hawley Tariff Act; Harmonized Tariff Schedule
+- 19 U.S.C. § 1671 — Countervailing duty investigations
+- 19 U.S.C. § 1673 — Antidumping investigations
+- 19 U.S.C. § 1862 — Trade Expansion Act of 1962, Section 232
+- 19 U.S.C. § 2101 et seq. — Trade Act of 1974
+- 19 U.S.C. § 2131 — Section 201 global safeguard actions
+- 19 U.S.C. § 2411 — Section 301 unfair trade practices
+- 19 U.S.C. § 2461 et seq. — Generalized System of Preferences
+- 19 U.S.C. § 2291 et seq. — Trade Adjustment Assistance
+- 19 U.S.C. § 3511 — WTO Agreements Act
+- 19 U.S.C. § 4201 et seq. — Trade Promotion Authority
+- 19 U.S.C. § 3721 et seq. — African Growth and Opportunity Act (AGOA)
+- 19 U.S.C. § 4501 et seq. — USMCA Implementation Act
+- 50 U.S.C. § 1701 et seq. — IEEPA
+- 50 U.S.C. § 4501 et seq. — Defense Production Act
+- 50 U.S.C. § 4565 — CFIUS (FIRRMA)
+- 50 U.S.C. § 4801 et seq. — Export Control Reform Act of 2018
+
+**Regulations:**
+- 15 C.F.R. § 730 et seq. — Export Administration Regulations
+- 15 C.F.R. § 400 et seq. — Foreign Trade Zone regulations
+- 19 C.F.R. § 10.8 et seq. — GSP implementing regulations
+- 19 C.F.R. § 351 et seq. — AD/CVD proceedings
+- 20 C.F.R. § 618 et seq. — TAA for workers
+- 31 C.F.R. § 800 et seq. — CFIUS/FIRRMA regulations
+
+**International Agreements:**
+- GATT 1994 — Articles I, II, III, VI, XIX, XX
+- Dispute Settlement Understanding (DSU)
+- USMCA — Chapters 10, 23, 24, 31
+- Agreement on Subsidies and Countervailing Measures (SCM)
+- Anti-Dumping Agreement (ADA)
+- CPTPP (2018)
+
+**Key Case Law:**
+- *J.W. Hampton, Jr. & Co. v. United States*, 276 U.S. 394 (1928)
+- *Panama Refining Co. v. Ryan*, 293 U.S. 388 (1935)
+- *United States v. L.A. Tucker Truck Lines, Inc.*, 344 U.S. 33 (1952)
+- IEEPA tariff challenges pending in Court of International Trade (2025)
+
+**Economic and Policy Sources:**
+- Tax Foundation, Tracking the Economic Impact of Trump Tariffs (2025-2026)
+- Budget Lab at Yale, Fiscal and Economic Effects of April 9 Tariffs (2025)
+- Peterson Institute, Trump's Tariff Proposals Would Cost Typical Household Over $2,600/Year
+- CRS, R48548 — Retaliatory Tariffs on U.S. Agriculture
+- CRS, R47200 — Trade Adjustment Assistance for Workers
+- CRS, R48549 — Presidential 2025 Tariff Actions: Timeline and Status
+- Council on Foreign Relations, Annual U.S. Goods Deficit Hits a Record (2026)
+
+---
+
+### Chapter 27: Financial Regulatory Agencies
+
+**Constitutional Provisions:**
+- U.S. Const. art. I, § 8, cls. 3, 5, 18 (Commerce, Currency, Necessary and Proper Clauses)
+- U.S. Const. art. I, § 8, cl. 1 (Taxing and Spending Clause)
+- U.S. Const. art. II, § 3 (Take Care Clause)
+- U.S. Const. art. II, § 2 (Appointments Clause)
+- U.S. Const. art. I, § 9 (Appropriations Clause)
+
+**Federal Statutes:**
+- Consumer Financial Protection Act of 2010, 12 U.S.C. §§ 5481-5603
+- Securities Exchange Act of 1934, 15 U.S.C. § 78a et seq.
+- Securities Act of 1933, 15 U.S.C. § 77a et seq.
+- Commodity Exchange Act, 7 U.S.C. § 1 et seq.
+- National Housing Act, 12 U.S.C. § 1701 et seq.
+- Housing and Economic Recovery Act of 2008, 12 U.S.C. § 4511 et seq.
+- Sarbanes-Oxley Act of 2002, Pub. L. 107-204, 15 U.S.C. § 7201 et seq.
+- Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq.
+- Fair Debt Collection Practices Act, 15 U.S.C. § 1692 et seq.
+- Military Lending Act, 10 U.S.C. § 987
+- Holding Foreign Companies Accountable Act, Pub. L. 116-222 (2020)
+- CARD Act, 15 U.S.C. § 1665d
+- Bank Secrecy Act, 31 U.S.C. §§ 5311-5336
+- Gramm-Leach-Bliley Act, 15 U.S.C. §§ 6801-6809
+
+**Supreme Court Decisions:**
+- *CFPB v. Community Financial Services Association of America*, 601 U.S. 416 (2024)
+- *SEC v. W.J. Howey Co.*, 328 U.S. 293 (1946)
+- *Free Enterprise Fund v. PCAOB*, 561 U.S. 477 (2010)
+- *Whitman v. American Trucking Associations*, 531 U.S. 457 (2001)
+- *Loper Bright Enterprises v. Raimondo*, 603 U.S. 369 (2024)
+
+**Key Regulatory Actions:**
+- CFPB Payday Lending Rule, 12 C.F.R. Part 1041 (2017)
+- CFPB Medical Debt Credit Reporting Final Rule, 89 Fed. Reg. (January 2025)
+- SEC Climate Disclosure Rule, 89 Fed. Reg. 21668 (March 28, 2024; defense abandoned March 2025)
+- Basel III Endgame Proposed Rule, 88 Fed. Reg. 64028 (September 18, 2023)
+- Joint CRA Final Rule, 88 Fed. Reg. 78144 (November 14, 2023)
+
+**Key Enforcement Dismissals (2025):**
+- CFPB v. Capital One, CFPB v. Vanderbilt Mortgage, CFPB v. Rocket Homes, CFPB v. TransUnion — 42 total enforcement actions dismissed January-September 2025
+
+**Academic and Policy Sources:**
+- Better Markets, "FSOC Policies Will Harm the Economy" (2025)
+- National Consumer Law Center, "CFPB Abruptly Drops Enforcement Actions" (2025)
+- Electronic Privacy Information Center, "Attacks on the CFPB Threaten Privacy" (2025)
+- CRS, R48739 — FSOC: Policy Issues in the 119th Congress (2025)
+- CRS, R47855 — Bank Capital Requirements: Basel III Endgame (2025)
 
 ---
 
 **END OF MASTER BIBLIOGRAPHY**
 
-*This document supports all chapters and supporting materials of Project 2029: A Mandate to Restore Democracy.* 🇺🇸
+*This document supports all 31 chapters and supporting materials of Project 2029: A Mandate to Restore Democracy.* 🇺🇸

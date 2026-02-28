@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project 2029: Overview</title>
+<style>
+  /* ── Reset & Base ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 11pt; }
+  body {
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    color: #1a1a1a;
+    background: #f5f5f5;
+    line-height: 1.35;
+  }
+
+  /* ── Page Container ── */
+  .page {
+    width: 8.5in;
+    min-height: 11in;
+    margin: 0 auto;
+    padding: 0.45in 0.5in 0.4in;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── Header ── */
+  .header {
+    text-align: center;
+    border-bottom: 3px solid #1a1a1a;
+    padding-bottom: 0.15in;
+    margin-bottom: 0.15in;
+  }
+  .header h1 {
+    font-size: 18pt;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    margin-bottom: 2pt;
+  }
+  .header .subtitle {
+    font-size: 10pt;
+    font-weight: 600;
+    color: #444;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  /* ── Stats Bar ── */
+  .stats-bar {
+    display: flex;
+    justify-content: center;
+    gap: 0.3in;
+    padding: 0.1in 0;
+    margin-bottom: 0.12in;
+    background: #f0f0f0;
+    border-radius: 4px;
+  }
+  .stat {
+    text-align: center;
+  }
+  .stat .num {
+    font-size: 16pt;
+    font-weight: 800;
+    color: #1a1a1a;
+    line-height: 1.1;
+  }
+  .stat .label {
+    font-size: 7pt;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #555;
+    font-weight: 600;
+  }
+
+  /* ── Section Colors ── */
+  .sec1 { --sec-color: #6B21A8; --sec-bg: #F3E8FF; }
+  .sec2 { --sec-color: #B91C1C; --sec-bg: #FEE2E2; }
+  .sec3 { --sec-color: #15803D; --sec-bg: #DCFCE7; }
+  .sec4 { --sec-color: #B45309; --sec-bg: #FEF3C7; }
+  .sec5 { --sec-color: #0E7490; --sec-bg: #CFFAFE; }
+  .sec6 { --sec-color: #1D4ED8; --sec-bg: #DBEAFE; }
+
+  /* ── Sections Grid ── */
+  .sections-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.1in;
+    margin-bottom: 0.12in;
+    flex: 1;
+  }
+  .section-box {
+    border: 1.5px solid var(--sec-color);
+    border-radius: 4px;
+    padding: 0.08in 0.1in;
+    background: var(--sec-bg);
+  }
+  .section-box h2 {
+    font-size: 8.5pt;
+    font-weight: 800;
+    color: var(--sec-color);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 3pt;
+    border-bottom: 1px solid var(--sec-color);
+    padding-bottom: 2pt;
+  }
+  .section-box .sec-num {
+    font-size: 7pt;
+    font-weight: 600;
+    opacity: 0.7;
+  }
+  .chapter-list {
+    list-style: none;
+    font-size: 7.5pt;
+    line-height: 1.45;
+  }
+  .chapter-list li {
+    padding: 1pt 0;
+  }
+  .chapter-list .ch-num {
+    font-weight: 700;
+    color: var(--sec-color);
+    display: inline-block;
+    width: 28pt;
+  }
+  .chapter-list .ch-focus {
+    color: #555;
+    font-style: italic;
+    font-size: 6.5pt;
+  }
+
+  /* ── Two Agendas ── */
+  .agendas {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.1in;
+    margin-bottom: 0.12in;
+  }
+  .agenda-box {
+    border-radius: 4px;
+    padding: 0.08in 0.1in;
+  }
+  .agenda-restorative {
+    background: #f0f0f0;
+    border: 1.5px solid #555;
+  }
+  .agenda-transformative {
+    background: #1a1a1a;
+    color: #fff;
+    border: 1.5px solid #1a1a1a;
+  }
+  .agenda-box h3 {
+    font-size: 9pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 3pt;
+  }
+  .agenda-transformative h3 { color: #fbbf24; }
+  .agenda-box p {
+    font-size: 7.5pt;
+    line-height: 1.4;
+  }
+  .agenda-box ul {
+    font-size: 7pt;
+    margin-left: 10pt;
+    line-height: 1.45;
+  }
+
+  /* ── Principles ── */
+  .principles {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 4pt 10pt;
+    margin-bottom: 0.1in;
+    padding: 0.06in 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+  }
+  .principle {
+    font-size: 6.5pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: #444;
+  }
+  .principle::before {
+    content: "\25A0 ";
+    color: #1D4ED8;
+  }
+
+  /* ── Footer ── */
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-top: 0.06in;
+    border-top: 2px solid #1a1a1a;
+  }
+  .footer-left {
+    font-size: 7pt;
+    color: #555;
+    line-height: 1.4;
+  }
+  .footer-left .url {
+    font-size: 9pt;
+    font-weight: 700;
+    color: #1D4ED8;
+  }
+  .qr-placeholder {
+    width: 0.7in;
+    height: 0.7in;
+    border: 1.5px dashed #999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 6pt;
+    color: #999;
+    text-align: center;
+    border-radius: 4px;
+  }
+
+  /* ── Print Styles ── */
+  @media print {
+    body { background: none; }
+    .page {
+      margin: 0;
+      padding: 0.4in 0.45in 0.35in;
+      width: auto;
+      min-height: auto;
+      box-shadow: none;
+    }
+    .stats-bar { background: #f0f0f0 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .section-box { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .agenda-transformative { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+
+  /* ── Screen shadow ── */
+  @media screen {
+    .page {
+      box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+      margin-top: 0.3in;
+      margin-bottom: 0.3in;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Header -->
+  <div class="header">
+    <h1>Project 2029</h1>
+    <div class="subtitle">A Mandate for Restorative + Transformative Democratic Renewal</div>
+  </div>
+
+  <!-- Stats Bar -->
+  <div class="stats-bar">
+    <div class="stat"><div class="num">414K+</div><div class="label">Words</div></div>
+    <div class="stat"><div class="num">31</div><div class="label">Chapters</div></div>
+    <div class="stat"><div class="num">150+</div><div class="label">Proposed Laws</div></div>
+    <div class="stat"><div class="num">7</div><div class="label">Amendments</div></div>
+    <div class="stat"><div class="num">6</div><div class="label">Sections</div></div>
+    <div class="stat"><div class="num">59</div><div class="label">First 100-Day Actions</div></div>
+  </div>
+
+  <!-- Sections Grid -->
+  <div class="sections-grid">
+
+    <div class="section-box sec1">
+      <h2><span class="sec-num">Section 1:</span> Restoring Good Governance</h2>
+      <ul class="chapter-list">
+        <li><span class="ch-num">Ch 1</span> White House Office <span class="ch-focus">-- ethics, staffing</span></li>
+        <li><span class="ch-num">Ch 2</span> Executive Office of the President <span class="ch-focus">-- OMB, NSC, science</span></li>
+        <li><span class="ch-num">Ch 3</span> Central Personnel Agencies <span class="ch-focus">-- end Schedule F, merit system</span></li>
+      </ul>
+    </div>
+
+    <div class="section-box sec2">
+      <h2><span class="sec-num">Section 2:</span> The Common Defense</h2>
+      <ul class="chapter-list">
+        <li><span class="ch-num">Ch 4</span> Department of Defense <span class="ch-focus">-- civilian control</span></li>
+        <li><span class="ch-num">Ch 5</span> Homeland Security <span class="ch-focus">-- civil liberties, immigration</span></li>
+        <li><span class="ch-num">Ch 6</span> Department of State <span class="ch-focus">-- alliances, diplomacy</span></li>
+        <li><span class="ch-num">Ch 7</span> Intelligence Community <span class="ch-focus">-- analytic integrity</span></li>
+        <li><span class="ch-num">Ch 8</span> Media Agencies <span class="ch-focus">-- Fairness Doctrine</span></li>
+        <li><span class="ch-num">Ch 9</span> USAID <span class="ch-focus">-- development, democracy</span></li>
+      </ul>
+    </div>
+
+    <div class="section-box sec3">
+      <h2><span class="sec-num">Section 3:</span> The General Welfare</h2>
+      <ul class="chapter-list">
+        <li><span class="ch-num">Ch 10</span> Agriculture <span class="ch-focus">-- small farmers, food security</span></li>
+        <li><span class="ch-num">Ch 11</span> Education <span class="ch-focus">-- civic literacy, $5B investment</span></li>
+        <li><span class="ch-num">Ch 12</span> Energy <span class="ch-focus">-- clean energy, grid modernization</span></li>
+        <li><span class="ch-num">Ch 13</span> EPA <span class="ch-focus">-- climate action, environmental justice</span></li>
+        <li><span class="ch-num">Ch 14</span> HHS <span class="ch-focus">-- ACA, public health, reproductive rights</span></li>
+        <li><span class="ch-num">Ch 15</span> HUD <span class="ch-focus">-- $50B housing, fair housing</span></li>
+        <li><span class="ch-num">Ch 16</span> Interior <span class="ch-focus">-- public lands, tribal sovereignty</span></li>
+        <li><span class="ch-num">Ch 17</span> Justice <span class="ch-focus">-- DOJ independence, civil rights</span></li>
+        <li><span class="ch-num">Ch 18</span> Labor <span class="ch-focus">-- PRO Act, minimum wage</span></li>
+        <li><span class="ch-num">Ch 19</span> Transportation <span class="ch-focus">-- transit, high-speed rail</span></li>
+        <li><span class="ch-num">Ch 20</span> Veterans Affairs <span class="ch-focus">-- mental health, benefits</span></li>
+      </ul>
+    </div>
+
+    <div class="section-box sec4">
+      <h2><span class="sec-num">Section 4:</span> The Economy</h2>
+      <ul class="chapter-list">
+        <li><span class="ch-num">Ch 21</span> Commerce <span class="ch-focus">-- CHIPS Act, manufacturing</span></li>
+        <li><span class="ch-num">Ch 22</span> Treasury <span class="ch-focus">-- tax fairness, billionaire tax</span></li>
+        <li><span class="ch-num">Ch 23</span> Export-Import Bank <span class="ch-focus">-- clean tech exports</span></li>
+        <li><span class="ch-num">Ch 24</span> Federal Reserve <span class="ch-focus">-- independence, full employment</span></li>
+        <li><span class="ch-num">Ch 25</span> Small Business Admin <span class="ch-focus">-- capital access, equity</span></li>
+        <li><span class="ch-num">Ch 26</span> Trade Policy <span class="ch-focus">-- worker-centered trade</span></li>
+      </ul>
+    </div>
+
+    <div class="section-box sec5">
+      <h2><span class="sec-num">Section 5:</span> Independent Regulatory Agencies</h2>
+      <ul class="chapter-list">
+        <li><span class="ch-num">Ch 27</span> Financial Regulatory Agencies <span class="ch-focus">-- CFPB, SEC, consumer protection</span></li>
+      </ul>
+    </div>
+
+    <div class="section-box sec6">
+      <h2><span class="sec-num">Section 6:</span> Safeguarding Democracy</h2>
+      <ul class="chapter-list">
+        <li><span class="ch-num">Ch 28</span> Legal Accountability <span class="ch-focus">-- prosecution, truth commission</span></li>
+        <li><span class="ch-num">Ch 29</span> Structural Safeguards <span class="ch-focus">-- voting rights, whistleblowers</span></li>
+        <li><span class="ch-num">Ch 30</span> Fundamental Transformation <span class="ch-focus">-- 13 transformative reforms</span></li>
+        <li><span class="ch-num">Ch 31</span> Constitutional Hardball <span class="ch-focus">-- SCOTUS expansion, filibuster</span></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- Two Agendas -->
+  <div class="agendas">
+    <div class="agenda-box agenda-restorative">
+      <h3>Restorative Agenda (Ch 1-29)</h3>
+      <p>Reverse all Project 2025 damage. Rebuild institutions. Restore the rule of law, civil rights, and democratic norms.</p>
+      <ul>
+        <li>Eliminate Schedule F and restore civil service</li>
+        <li>Reinstate DOJ independence and accountability</li>
+        <li>Rejoin Paris Agreement, restore EPA enforcement</li>
+        <li>Protect voting rights, whistleblowers, inspectors general</li>
+      </ul>
+    </div>
+    <div class="agenda-box agenda-transformative">
+      <h3>Transformative Agenda (Ch 30+)</h3>
+      <p>Go beyond restoration. Build the democracy we have never had but always promised.</p>
+      <ul>
+        <li>Overturn Citizens United (30th Amendment)</li>
+        <li>Abolish Electoral College, Senate term limits</li>
+        <li>Universal Basic Services: healthcare, education, transit</li>
+        <li>Ranked-choice voting, publicly funded elections</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Principles -->
+  <div class="principles">
+    <span class="principle">Constitutional Fidelity</span>
+    <span class="principle">Rule of Law</span>
+    <span class="principle">Democratic Values</span>
+    <span class="principle">Institutional Independence</span>
+    <span class="principle">Evidence-Based Policy</span>
+    <span class="principle">Civic Renewal</span>
+    <span class="principle">Equal Justice</span>
+    <span class="principle">Transparency</span>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    <div class="footer-left">
+      <div class="url">project2029.github.io</div>
+      <div>A counter-document to the Heritage Foundation's Project 2025</div>
+      <div>Licensed CC BY-SA 4.0 | Ready for Implementation</div>
+    </div>
+    <div class="qr-placeholder">QR Code<br>(insert)</div>
+  </div>
+
+</div>
+</body>
+</html>

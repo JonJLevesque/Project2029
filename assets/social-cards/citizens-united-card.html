@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>Overturn Citizens United</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px;
+    height: 1080px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #1a2744;
+    color: #ffffff;
+    overflow: hidden;
+  }
+  .card {
+    width: 1080px;
+    height: 1080px;
+    display: flex;
+    flex-direction: column;
+    padding: 70px 64px;
+    position: relative;
+  }
+  .corner-accent {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(225deg, rgba(37, 99, 235, 0.2) 0%, transparent 70%);
+  }
+  .top-bar {
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, #2563eb, #60a5fa);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .badge {
+    display: inline-block;
+    background: #dc2626;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border-radius: 6px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    align-self: flex-start;
+  }
+  .title {
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 1.05;
+    letter-spacing: -2px;
+    margin-bottom: 48px;
+  }
+  .title span {
+    color: #60a5fa;
+  }
+  .stat-block {
+    background: rgba(220, 38, 38, 0.12);
+    border: 1px solid rgba(220, 38, 38, 0.35);
+    border-radius: 14px;
+    padding: 30px 36px;
+    margin-bottom: 40px;
+  }
+  .stat-number {
+    font-size: 52px;
+    font-weight: 800;
+    color: #f87171;
+    line-height: 1;
+    letter-spacing: -2px;
+    margin-bottom: 8px;
+  }
+  .stat-context {
+    font-size: 20px;
+    color: #fca5a5;
+    font-weight: 500;
+    line-height: 1.4;
+  }
+  .reform-block {
+    background: rgba(37, 99, 235, 0.12);
+    border: 1px solid rgba(37, 99, 235, 0.3);
+    border-radius: 14px;
+    padding: 30px 36px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .reform-label {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #60a5fa;
+    font-weight: 700;
+    margin-bottom: 14px;
+  }
+  .reform-items {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.5;
+    color: #e2e8f0;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 40px;
+  }
+  .project-name {
+    font-size: 24px;
+    font-weight: 800;
+  }
+  .project-name span {
+    color: #60a5fa;
+  }
+  .site-link {
+    font-size: 15px;
+    color: #64748b;
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="top-bar"></div>
+  <div class="corner-accent"></div>
+  <div class="badge">Democracy Reform</div>
+  <div class="title">Overturn<br>Citizens <span>United</span></div>
+  <div class="stat-block">
+    <div class="stat-number">$3.5 Billion</div>
+    <div class="stat-context">in dark money flooded the 2020 elections</div>
+  </div>
+  <div class="reform-block">
+    <div class="reform-label">Our Solution</div>
+    <div class="reform-items">28th Amendment + DISCLOSE Act<br>End unlimited dark money in politics</div>
+  </div>
+  <div class="footer">
+    <div class="project-name">PROJECT <span>2029</span></div>
+    <div class="site-link">project2029.github.io</div>
+  </div>
+</div>
+</body>
+</html>

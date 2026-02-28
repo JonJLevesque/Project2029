@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200">
+<title>Chapter Card Template</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #ffffff;
+    color: #1a2744;
+    overflow: hidden;
+  }
+  .card {
+    width: 1200px;
+    height: 630px;
+    display: flex;
+    position: relative;
+  }
+  .sidebar {
+    width: 320px;
+    background: #1a2744;
+    color: #ffffff;
+    padding: 50px 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .chapter-number {
+    font-size: 80px;
+    font-weight: 800;
+    color: #60a5fa;
+    line-height: 1;
+    letter-spacing: -3px;
+  }
+  .chapter-label {
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #94a3b8;
+    margin-bottom: 8px;
+  }
+  .section-name {
+    font-size: 14px;
+    color: #60a5fa;
+    font-weight: 600;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(96, 165, 250, 0.3);
+    line-height: 1.4;
+  }
+  .sidebar-footer {
+    font-size: 18px;
+    font-weight: 800;
+  }
+  .sidebar-footer span {
+    color: #60a5fa;
+  }
+  .main-content {
+    flex: 1;
+    padding: 50px 56px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-top: 5px solid #2563eb;
+  }
+  .chapter-title {
+    font-size: 42px;
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: -1.5px;
+    margin-bottom: 36px;
+    color: #1a2744;
+  }
+  .reform-highlights {
+    flex: 1;
+  }
+  .reform-highlights h3 {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #2563eb;
+    margin-bottom: 18px;
+    font-weight: 700;
+  }
+  .reform-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    margin-bottom: 16px;
+  }
+  .reform-bullet {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #2563eb;
+    flex-shrink: 0;
+    margin-top: 8px;
+  }
+  .reform-text {
+    font-size: 19px;
+    color: #334155;
+    line-height: 1.4;
+    font-weight: 500;
+  }
+  .footer-link {
+    font-size: 15px;
+    color: #94a3b8;
+    font-weight: 500;
+    text-align: right;
+  }
+  .footer-link span {
+    color: #2563eb;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="sidebar">
+    <div>
+      <div class="chapter-label">Chapter</div>
+      <div class="chapter-number">XX</div>
+      <div class="section-name">[Section Name: e.g., The General Welfare]</div>
+    </div>
+    <div class="sidebar-footer">PROJECT <span>2029</span></div>
+  </div>
+  <div class="main-content">
+    <div class="chapter-title">[Chapter Title Goes Here]</div>
+    <div class="reform-highlights">
+      <h3>Key Reforms</h3>
+      <div class="reform-item">
+        <div class="reform-bullet"></div>
+        <div class="reform-text">[First key reform highlight]</div>
+      </div>
+      <div class="reform-item">
+        <div class="reform-bullet"></div>
+        <div class="reform-text">[Second key reform highlight]</div>
+      </div>
+      <div class="reform-item">
+        <div class="reform-bullet"></div>
+        <div class="reform-text">[Third key reform highlight]</div>
+      </div>
+    </div>
+    <div class="footer-link">Read full chapter: <span>project2029.github.io</span></div>
+  </div>
+</div>
+</body>
+</html>

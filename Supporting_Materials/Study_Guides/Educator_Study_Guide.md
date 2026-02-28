@@ -7,7 +7,7 @@
 
 ## 📚 OVERVIEW
 
-This guide helps educators integrate Project 2029's democratic renewal framework into existing curricula. The material aligns with National Curriculum Standards for Social Studies (NCSS), the C3 Framework, and Common Core State Standards for literacy in history/social studies.
+This guide helps educators integrate Project 2029's democratic renewal framework into existing curricula. Project 2029 spans 31 chapters, 414,000+ words, 150+ proposed federal laws, and 7 constitutional amendments covering every federal department and agency. The material aligns with National Curriculum Standards for Social Studies (NCSS), the C3 Framework, and Common Core State Standards for literacy in history/social studies.
 
 **Appropriate for:**
 - **High School:** Grades 9-12 (Government, Civics, US History, AP Government)
@@ -76,6 +76,34 @@ This guide helps educators integrate Project 2029's democratic renewal framework
   - **Historical Comparison:** 1960s Fairness Doctrine vs. 2020s media landscape
   - **Fact-Checking Exercise:** Evaluate claims in political ads using multiple sources
 
+**Unit 5: Federal Agencies and the Social Safety Net**
+- **Topic:** Role of Government in Healthcare, Labor, Environment
+- **Project 2029 Connection:**
+  - [Chapter 14: HHS](../../Section3_The_General_Welfare/Chapter_14_HHS.md) - Healthcare access, CDC/FDA independence, reproductive rights
+  - [Chapter 18: Labor](../../Section3_The_General_Welfare/Chapter_18_Labor.md) - Worker rights, unions, OSHA, minimum wage
+  - [Chapter 20: Veterans Affairs](../../Section3_The_General_Welfare/Chapter_20_Veterans_Affairs.md) - Government obligations to veterans
+  - [Chapter 16: Interior](../../Section3_The_General_Welfare/Chapter_16_Interior.md) - Public lands, tribal sovereignty, conservation
+  - [Chapter 13: EPA](../../Section3_The_General_Welfare/Chapter_13_Environmental_Protection_Agency.md) - Environmental regulation and climate action
+- **Activities:**
+  - **Debate:** Should healthcare be a right or a privilege? Analyze Ch 14's proposals vs. Project 2025's approach
+  - **Case Study:** Compare OSHA enforcement before and after Project 2025 (Ch 18)
+  - **Research Project:** Interview a veteran about VA services, compare to Ch 20 proposals
+  - **Role Play:** Students represent different stakeholders (workers, employers, regulators) debating labor reform
+
+**Unit 6: Infrastructure and Economic Policy**
+- **Topic:** Transportation, Trade, Small Business, Federal Reserve
+- **Project 2029 Connection:**
+  - [Chapter 19: Transportation](../../Section3_The_General_Welfare/Chapter_19_Transportation.md) - Public transit, high-speed rail, infrastructure equity
+  - [Chapter 26: Trade Policy](../../Section4_The_Economy/Chapter_26_Trade_Policy.md) - Worker-centered trade, environmental standards
+  - [Chapter 25: Small Business](../../Section4_The_Economy/Chapter_25_Small_Business_Administration.md) - Capital access, contracting equity
+  - [Chapter 24: Federal Reserve](../../Section4_The_Economy/Chapter_24_Federal_Reserve.md) - Monetary policy independence, full employment
+- **Activities:**
+  - **Mapping Exercise:** Map public transit access in your community, compare to Ch 19 proposals
+  - **Trade Simulation:** Students negotiate trade agreements balancing worker, environmental, and business interests
+  - **Data Analysis:** Compare small business lending rates across demographics (Ch 25)
+
+**Note:** Chapter one-pagers are available in [One-Pagers/Chapters/](../One-Pagers/Chapters/) for quick classroom handouts on any chapter topic.
+
 ### **US History Classes**
 
 **Unit: Reform Movements**
@@ -103,11 +131,25 @@ This guide helps educators integrate Project 2029's democratic renewal framework
 - **Topic:** What should government provide?
 - **Project 2029 Connection:**
   - [One-Pager: Universal Basic Services](../One-Pagers/16_Universal_Basic_Services.md)
+  - [Chapter 14: HHS](../../Section3_The_General_Welfare/Chapter_14_HHS.md) - Healthcare as a public good
+  - [Chapter 19: Transportation](../../Section3_The_General_Welfare/Chapter_19_Transportation.md) - Public transit as a public good
   - Healthcare, education, broadband, transit as public goods
 - **Activities:**
-  - **Cost-Benefit Analysis:** Compare universal healthcare costs to current system
+  - **Cost-Benefit Analysis:** Compare universal healthcare costs to current system (use Ch 14 data)
   - **International Comparison:** Research how other developed democracies provide these services
   - **Budget Simulation:** Students allocate federal budget - what gets cut to fund UBS?
+
+**Unit: Labor Markets and Trade**
+- **Topic:** How do government policies shape work and trade?
+- **Project 2029 Connection:**
+  - [Chapter 18: Labor](../../Section3_The_General_Welfare/Chapter_18_Labor.md) - Worker protections, union rights, minimum wage
+  - [Chapter 26: Trade Policy](../../Section4_The_Economy/Chapter_26_Trade_Policy.md) - Trade agreements and worker impacts
+  - [Chapter 22: Treasury](../../Section4_The_Economy/Chapter_22_Treasury.md) - Tax policy and wealth inequality
+  - [Chapter 27: Financial Regulation](../../Section5_Independent_Regulatory_Agencies/Chapter_27_Financial_Regulatory_Agencies.md) - Consumer protection, banking reform
+- **Activities:**
+  - **Data Analysis:** Chart minimum wage vs. productivity vs. cost of living over time (Ch 18)
+  - **Debate:** Free trade vs. worker-centered trade - who wins, who loses? (Ch 26)
+  - **Case Study:** Analyze the 2008 financial crisis through the lens of Ch 27 regulatory reforms
 
 ### **English / Language Arts (Cross-Curricular)**
 
@@ -146,7 +188,7 @@ This guide helps educators integrate Project 2029's democratic renewal framework
 1. **Warm-Up (10 min):** What does "democracy" mean? Student responses on board
 2. **Mini-Lecture (20 min):** Define: popular sovereignty, political equality, free/fair elections, rule of law, civil liberties, accountability
 3. **Small Group Discussion (20 min):** Rate US democracy 1-10 on each dimension. Why?
-4. **Introduction to Project 2029 (20 min):** Overview of 20 reforms
+4. **Introduction to Project 2029 (20 min):** Overview of 31 chapters and key reforms
 5. **Gallery Walk (15 min):** Post one-pagers around room, students take notes
 6. **Reflection (5 min):** Which reform most important? Why?
 
@@ -261,6 +303,11 @@ This guide helps educators integrate Project 2029's democratic renewal framework
 - **On Electoral College:** Does democracy require every vote to count equally?
 - **On Term Limits:** Should we limit who voters can choose? Or trust voters?
 - **On Universal Basic Services:** Are healthcare and education rights or privileges?
+- **On Labor (Ch 18):** Should workers have a fundamental right to organize and bargain collectively?
+- **On Healthcare (Ch 14):** What is the government's obligation to protect public health?
+- **On Public Lands (Ch 16):** Who should decide how federal lands are used -- local communities, states, or the federal government?
+- **On Veterans (Ch 20):** What does society owe to those who served in the military?
+- **On Trade (Ch 26):** Should trade agreements prioritize economic growth or worker protections?
 
 ---
 
@@ -450,17 +497,25 @@ Prepare and deliver 5-minute testimony, then answer questions from committee (cl
 - How do democratic values shape American political culture?
 - Relevant chapters: Ch. 11 (Civic Education), Ch. 30 (Democratic Transformation)
 
+**Theme 3: People, Places, and Environments**
+- How do government policies shape our physical environment and communities?
+- Relevant chapters: Ch. 13 (EPA), Ch. 16 (Interior), Ch. 12 (Energy), Ch. 19 (Transportation)
+
 **Theme 5: Individuals, Groups, and Institutions**
 - How do institutions protect or threaten individual rights?
-- Relevant chapters: Ch. 28 (Legal Accountability), Ch. 29 (Structural Safeguards)
+- Relevant chapters: Ch. 28 (Legal Accountability), Ch. 29 (Structural Safeguards), Ch. 14 (HHS), Ch. 18 (Labor)
 
 **Theme 6: Power, Authority, and Governance**
 - How is power distributed in democratic systems? Should it be redistributed?
-- Relevant chapters: Ch. 1-3 (Executive power), Ch. 30 (Structural reforms)
+- Relevant chapters: Ch. 1-3 (Executive power), Ch. 30 (Structural reforms), Ch. 31 (Constitutional Hardball)
+
+**Theme 7: Production, Distribution, and Consumption**
+- How do economic policies affect different groups?
+- Relevant chapters: Ch. 22 (Treasury), Ch. 18 (Labor), Ch. 25 (Small Business), Ch. 26 (Trade), Ch. 27 (Financial Regulation)
 
 **Theme 10: Civic Ideals and Practices**
 - How can citizens effect change? What civic skills are essential?
-- Relevant materials: Activist Study Guide, all reform one-pagers
+- Relevant materials: Activist Study Guide, all reform one-pagers, chapter one-pagers in [One-Pagers/Chapters/](../One-Pagers/Chapters/)
 
 ---
 
@@ -546,13 +601,14 @@ Prepare and deliver 5-minute testimony, then answer questions from committee (cl
 ### **Differentiation Strategies**
 
 **For Advanced Students:**
-- Assign more complex chapters (Ch. 28, Ch. 30)
+- Assign more complex chapters (Ch. 28, Ch. 30, Ch. 31, Ch. 17)
 - Require deeper research (primary legal sources, academic journals)
 - Lead seminar discussions or peer teach
 - Develop original reform proposals
+- Compare Project 2029 chapters with corresponding Project 2025 sections
 
 **For Struggling Students:**
-- Start with one-pagers (accessible, visual, shorter)
+- Start with chapter one-pagers (from [One-Pagers/Chapters/](../One-Pagers/Chapters/)) and reform one-pagers (accessible, visual, shorter)
 - Provide graphic organizers for note-taking
 - Offer sentence stems for discussions ("I agree because..." "Evidence shows...")
 - Allow alternative assessments (visual projects, presentations vs. essays)
@@ -628,7 +684,7 @@ Prepare and deliver 5-minute testimony, then answer questions from committee (cl
 - Discussion: How did past reforms happen? What made them succeed?
 
 **Day 5: Choose Your Reform**
-- Gallery walk of all 20 one-pagers
+- Gallery walk of reform one-pagers and chapter one-pagers (from [One-Pagers/Chapters/](../One-Pagers/Chapters/))
 - Students select reform for final project
 - Begin research
 
@@ -657,7 +713,7 @@ Prepare and deliver 5-minute testimony, then answer questions from committee (cl
 
 ## 🔚 CONCLUSION
 
-Project 2029 provides a comprehensive framework for teaching democratic renewal. Use these resources to:
+Project 2029 provides a comprehensive framework -- 31 chapters covering every federal department and agency -- for teaching democratic renewal. Use these resources to:
 
 1. **Engage students** in authentic civic questions
 2. **Develop critical thinking** about institutions and reform
@@ -676,5 +732,5 @@ Democracy is not just learned—it's practiced. This curriculum gives students t
 
 ---
 
-**Last Updated:** October 22, 2025
-**Version:** 1.0
+**Last Updated:** February 28, 2026
+**Version:** 2.0

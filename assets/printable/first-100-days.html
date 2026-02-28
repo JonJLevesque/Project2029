@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project 2029: First 100 Days Action Plan</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 11pt; }
+  body {
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    color: #1a1a1a;
+    background: #f5f5f5;
+    line-height: 1.3;
+  }
+
+  .page {
+    width: 8.5in;
+    min-height: 11in;
+    margin: 0 auto;
+    padding: 0.35in 0.4in 0.3in;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── Header ── */
+  .header {
+    text-align: center;
+    margin-bottom: 0.1in;
+  }
+  .header h1 {
+    font-size: 16pt;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+  }
+  .header .subtitle {
+    font-size: 8.5pt;
+    color: #555;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* ── Section colors ── */
+  :root {
+    --c-gov: #6B21A8;
+    --c-def: #B91C1C;
+    --c-wel: #15803D;
+    --c-eco: #B45309;
+    --c-reg: #0E7490;
+    --c-dem: #1D4ED8;
+  }
+
+  /* ── Timeline connector line ── */
+  .timeline {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.06in;
+    position: relative;
+  }
+
+  /* ── Day 1 Block ── */
+  .day1-block {
+    border: 2.5px solid var(--c-def);
+    border-radius: 5px;
+    padding: 0.08in 0.1in;
+    background: #FEF2F2;
+  }
+  .day1-block .block-header {
+    display: flex;
+    align-items: baseline;
+    gap: 6pt;
+    margin-bottom: 4pt;
+    border-bottom: 1.5px solid var(--c-def);
+    padding-bottom: 3pt;
+  }
+  .day1-block .block-header h2 {
+    font-size: 12pt;
+    font-weight: 800;
+    color: var(--c-def);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .day1-block .block-header .tag {
+    font-size: 7pt;
+    background: var(--c-def);
+    color: #fff;
+    padding: 1pt 5pt;
+    border-radius: 2px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .action-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3pt 8pt;
+  }
+  .action-item {
+    font-size: 7pt;
+    display: flex;
+    align-items: flex-start;
+    gap: 3pt;
+    line-height: 1.35;
+    padding: 1.5pt 0;
+  }
+  .action-item .bullet {
+    flex-shrink: 0;
+    width: 5pt;
+    height: 5pt;
+    border-radius: 50%;
+    margin-top: 1.5pt;
+  }
+  .action-item .text { flex: 1; }
+  .action-item strong { font-weight: 700; }
+  .b-gov { background: var(--c-gov); }
+  .b-def { background: var(--c-def); }
+  .b-wel { background: var(--c-wel); }
+  .b-eco { background: var(--c-eco); }
+  .b-reg { background: var(--c-reg); }
+  .b-dem { background: var(--c-dem); }
+
+  /* ── Phase blocks (Week 1, Month 1, etc.) ── */
+  .phase-block {
+    border: 1.5px solid #333;
+    border-radius: 4px;
+    padding: 0.06in 0.1in;
+  }
+  .phase-header {
+    display: flex;
+    align-items: baseline;
+    gap: 6pt;
+    margin-bottom: 3pt;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 2pt;
+  }
+  .phase-header h2 {
+    font-size: 10pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .phase-header .days {
+    font-size: 7pt;
+    color: #666;
+    font-weight: 600;
+  }
+
+  /* ── Department mini-grid ── */
+  .dept-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3pt;
+  }
+  .dept-card {
+    border-radius: 3px;
+    padding: 3pt 4pt;
+    font-size: 6.5pt;
+    line-height: 1.35;
+  }
+  .dept-card .dept-name {
+    font-weight: 800;
+    font-size: 6.5pt;
+    margin-bottom: 1pt;
+  }
+  .dept-card.c-gov { background: #F3E8FF; border-left: 2px solid var(--c-gov); }
+  .dept-card.c-def { background: #FEE2E2; border-left: 2px solid var(--c-def); }
+  .dept-card.c-wel { background: #DCFCE7; border-left: 2px solid var(--c-wel); }
+  .dept-card.c-eco { background: #FEF3C7; border-left: 2px solid var(--c-eco); }
+  .dept-card.c-reg { background: #CFFAFE; border-left: 2px solid var(--c-reg); }
+  .dept-card.c-dem { background: #DBEAFE; border-left: 2px solid var(--c-dem); }
+
+  /* ── 3-col action list ── */
+  .action-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 4pt 8pt;
+  }
+  .action-cols .action-item { font-size: 6.8pt; }
+
+  /* ── Bottom bar ── */
+  .bottom-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0.04in;
+    border-top: 2px solid #1a1a1a;
+    margin-top: auto;
+  }
+  .metrics-row {
+    display: flex;
+    gap: 12pt;
+  }
+  .metric {
+    text-align: center;
+  }
+  .metric .val {
+    font-size: 10pt;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .metric .mlabel {
+    font-size: 6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #555;
+    font-weight: 600;
+  }
+  .bottom-bar .url {
+    font-size: 8pt;
+    font-weight: 700;
+    color: var(--c-dem);
+  }
+
+  /* ── Arrow connector ── */
+  .arrow-down {
+    text-align: center;
+    font-size: 10pt;
+    color: #999;
+    line-height: 1;
+    margin: -1pt 0;
+  }
+
+  /* ── Print ── */
+  @media print {
+    body { background: none; }
+    .page { margin: 0; padding: 0.35in 0.4in 0.3in; width: auto; min-height: auto; }
+    .day1-block, .dept-card { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+  @media screen {
+    .page { box-shadow: 0 2px 12px rgba(0,0,0,0.12); margin-top: 0.3in; margin-bottom: 0.3in; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <h1>Project 2029: First 100 Days Action Plan</h1>
+    <div class="subtitle">59 Critical Actions -- From Inauguration to Democratic Renewal</div>
+  </div>
+
+  <div class="timeline">
+
+    <!-- DAY 1 -->
+    <div class="day1-block">
+      <div class="block-header">
+        <h2>Day 1 -- Inauguration Day</h2>
+        <span class="tag">Executive Orders Blitz</span>
+      </div>
+      <div class="action-grid">
+        <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Rescind all Project 2025 executive orders</strong> -- comprehensive reversal</div></div>
+        <div class="action-item"><div class="bullet b-gov"></div><div class="text"><strong>Reinstate all fired civil servants</strong> -- eliminate Schedule F, restore 10,000+ employees</div></div>
+        <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Restore DOJ independence protocols</strong> -- ban political interference, log all contacts</div></div>
+        <div class="action-item"><div class="bullet b-wel"></div><div class="text"><strong>Rejoin Paris Climate Agreement</strong> -- immediate executive notification to UN</div></div>
+        <div class="action-item"><div class="bullet b-def"></div><div class="text"><strong>End travel bans</strong> -- restore refugee admissions to 125,000+, end family separation</div></div>
+        <div class="action-item"><div class="bullet b-def"></div><div class="text"><strong>Restore DACA</strong> -- protect Dreamers, reform asylum access</div></div>
+        <div class="action-item"><div class="bullet b-eco"></div><div class="text"><strong>Issue EO on workers' rights</strong> -- strengthen OSHA, union organizing protections</div></div>
+        <div class="action-item"><div class="bullet b-wel"></div><div class="text"><strong>Reopen ACA marketplace enrollment</strong> -- special enrollment period, restore Title IX</div></div>
+        <div class="action-item"><div class="bullet b-reg"></div><div class="text"><strong>Restore CFPB enforcement actions</strong> -- consumer protection, lending oversight</div></div>
+        <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Reinstate IG offices and independence</strong> -- unrestricted access, no prior approval</div></div>
+        <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Declare Democracy Crisis emergency</strong> -- freeze dark money assets, election security</div></div>
+        <div class="action-item"><div class="bullet b-eco"></div><div class="text"><strong>IRS enforcement blitz</strong> -- audit top 200 dark money groups, high-wealth targeting</div></div>
+      </div>
+    </div>
+
+    <div class="arrow-down">&#9660;</div>
+
+    <!-- WEEK 1 -->
+    <div class="phase-block" style="border-color: #444;">
+      <div class="phase-header">
+        <h2>Week 1</h2>
+        <span class="days">Days 2-7 -- Personnel and Structural Power</span>
+      </div>
+      <div class="action-cols">
+        <div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Eliminate filibuster</strong> -- Senate rules, 51-vote threshold</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Introduce SCOTUS expansion</strong> -- 9 to 13 justices bill</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>DC Statehood bill</strong> -- 2 senators, representation</div></div>
+        </div>
+        <div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Puerto Rico Statehood bill</strong> -- pending referendum</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Appoint Special Counsel</strong> -- Project 2025 accountability</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>SCOTUS ethics code bill</strong> -- binding, enforceable</div></div>
+        </div>
+        <div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Voting rights initiative</strong> -- sue 30+ states</div></div>
+          <div class="action-item"><div class="bullet b-gov"></div><div class="text"><strong>Remove political operatives</strong> -- 500+ from DOJ and career posts</div></div>
+          <div class="action-item"><div class="bullet b-def"></div><div class="text"><strong>Alliance reassurance calls</strong> -- NATO, Asian partners</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="arrow-down">&#9660;</div>
+
+    <!-- MONTH 1 (Days 8-30) -->
+    <div class="phase-block" style="border-color: #666;">
+      <div class="phase-header">
+        <h2>Month 1</h2>
+        <span class="days">Days 8-30 -- Rebuilding Institutions, Department by Department</span>
+      </div>
+      <div class="dept-grid">
+        <div class="dept-card c-gov">
+          <div class="dept-name">White House / OPM</div>
+          50,000+ positions posted; ethics protocols implemented
+        </div>
+        <div class="dept-card c-dem">
+          <div class="dept-name">DOJ</div>
+          Hire 200+ civil rights attorneys; 50+ cases reopened
+        </div>
+        <div class="dept-card c-def">
+          <div class="dept-name">State / Defense</div>
+          Career diplomats restored; civilian control confirmed
+        </div>
+        <div class="dept-card c-wel">
+          <div class="dept-name">EPA</div>
+          100+ enforcement actions; Clean Water Rule restored
+        </div>
+        <div class="dept-card c-wel">
+          <div class="dept-name">HHS / CDC / FDA</div>
+          Depoliticize public health; restore science advisory
+        </div>
+        <div class="dept-card c-wel">
+          <div class="dept-name">Education</div>
+          Rescind "divisive concepts"; restore Title IX; PSLF fix
+        </div>
+        <div class="dept-card c-wel">
+          <div class="dept-name">HUD</div>
+          Reinstate AFFH rule; Housing First directive
+        </div>
+        <div class="dept-card c-eco">
+          <div class="dept-name">Treasury / IRS</div>
+          High-wealth enforcement unit; beneficial ownership DB
+        </div>
+      </div>
+    </div>
+
+    <div class="arrow-down">&#9660;</div>
+
+    <!-- DAYS 31-100 -->
+    <div class="phase-block" style="border-color: #888;">
+      <div class="phase-header">
+        <h2>Days 31-100</h2>
+        <span class="days">Institutional Reforms and Congressional Priorities</span>
+      </div>
+      <div class="action-grid">
+        <div>
+          <div style="font-size: 7pt; font-weight: 800; color: #1D4ED8; margin-bottom: 2pt; text-transform: uppercase;">8 Priority Bills to Congress</div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text">Voting Rights Advancement Act</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text">DOJ Independence Act</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text">DISCLOSE Act (Enhanced)</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text">Democracy Funding Act</div></div>
+        </div>
+        <div>
+          <div style="font-size: 7pt; font-weight: 800; color: #1D4ED8; margin-bottom: 2pt; text-transform: uppercase;">&nbsp;</div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text">Lobbying Prohibition and Transparency Act</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text">Congressional Ethics Commission Act</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text">Whistleblower Protection Strengthening Act</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text">IG Independence Act</div></div>
+        </div>
+      </div>
+      <div style="margin-top: 4pt; border-top: 1px solid #ddd; padding-top: 3pt;">
+        <div class="action-cols">
+          <div class="action-item"><div class="bullet b-wel"></div><div class="text"><strong>National Civic Education Commission</strong> seated; media literacy pilots in 50 districts</div></div>
+          <div class="action-item"><div class="bullet b-dem"></div><div class="text"><strong>Accountability investigations</strong> coordinated: Special Counsel + Congress</div></div>
+          <div class="action-item"><div class="bullet b-def"></div><div class="text"><strong>International Democracy Summit</strong> hosted; anti-authoritarian coalition</div></div>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /timeline -->
+
+  <!-- Bottom -->
+  <div class="bottom-bar">
+    <div class="metrics-row">
+      <div class="metric"><div class="val">60+</div><div class="mlabel">Exec Orders</div></div>
+      <div class="metric"><div class="val">10K+</div><div class="mlabel">Jobs Restored</div></div>
+      <div class="metric"><div class="val">500+</div><div class="mlabel">Operatives Out</div></div>
+      <div class="metric"><div class="val">100+</div><div class="mlabel">Cases Reopened</div></div>
+      <div class="metric"><div class="val">8</div><div class="mlabel">Priority Bills</div></div>
+    </div>
+    <div class="url">project2029.github.io</div>
+  </div>
+
+</div>
+</body>
+</html>

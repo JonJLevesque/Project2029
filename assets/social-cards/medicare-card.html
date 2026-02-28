@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>Medicare for All</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px;
+    height: 1080px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: linear-gradient(160deg, #0f1a2e 0%, #1a2744 100%);
+    color: #ffffff;
+    overflow: hidden;
+  }
+  .card {
+    width: 1080px;
+    height: 1080px;
+    display: flex;
+    flex-direction: column;
+    padding: 70px 64px;
+    position: relative;
+  }
+  .top-bar {
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, #2563eb, #0ea5e9);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .badge {
+    display: inline-block;
+    background: #0ea5e9;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border-radius: 6px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    align-self: flex-start;
+  }
+  .title {
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 1.05;
+    letter-spacing: -3px;
+    margin-bottom: 20px;
+  }
+  .title span {
+    color: #38bdf8;
+  }
+  .subtitle {
+    font-size: 26px;
+    color: #7dd3fc;
+    font-weight: 600;
+    margin-bottom: 56px;
+    line-height: 1.35;
+  }
+  .stat-block {
+    background: rgba(14, 165, 233, 0.12);
+    border: 1px solid rgba(14, 165, 233, 0.35);
+    border-radius: 14px;
+    padding: 36px 40px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  .stat-number {
+    font-size: 72px;
+    font-weight: 800;
+    color: #38bdf8;
+    line-height: 1;
+    letter-spacing: -3px;
+    margin-bottom: 8px;
+  }
+  .stat-label {
+    font-size: 22px;
+    color: #7dd3fc;
+    font-weight: 600;
+  }
+  .bottom-message {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .message-text {
+    font-size: 34px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.35;
+    color: #e2e8f0;
+    letter-spacing: -0.5px;
+  }
+  .message-text span {
+    color: #38bdf8;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 36px;
+  }
+  .project-name {
+    font-size: 24px;
+    font-weight: 800;
+  }
+  .project-name span {
+    color: #60a5fa;
+  }
+  .site-link {
+    font-size: 15px;
+    color: #64748b;
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="top-bar"></div>
+  <div class="badge">Healthcare</div>
+  <div class="title">Medicare<br><span>for All</span></div>
+  <div class="subtitle">Universal healthcare as a constitutional right</div>
+  <div class="stat-block">
+    <div class="stat-number">33 Million</div>
+    <div class="stat-label">uninsured Americans covered</div>
+  </div>
+  <div class="bottom-message">
+    <div class="message-text">No more medical bankruptcy.<br>No more choosing between <span>rent and prescriptions</span>.</div>
+  </div>
+  <div class="footer">
+    <div class="project-name">PROJECT <span>2029</span></div>
+    <div class="site-link">project2029.github.io</div>
+  </div>
+</div>
+</body>
+</html>

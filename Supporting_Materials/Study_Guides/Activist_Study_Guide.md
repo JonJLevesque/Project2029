@@ -8,12 +8,14 @@
 ## 📚 HOW TO USE THIS GUIDE
 
 This guide helps you:
-1. **Understand** the 20 democracy reforms comprehensively
+1. **Understand** Project 2029's 31 chapters and 150+ proposed laws comprehensively
 2. **Organize** campaigns at local, state, and federal levels
 3. **Mobilize** communities around specific reforms
 4. **Hold politicians accountable** to reform commitments
 5. **Build coalitions** across movements
 6. **Track progress** and sustain momentum
+
+**Project 2029 by the numbers:** 31 chapters, 414,000+ words, 150+ proposed laws, 7 constitutional amendments, covering every federal department and agency.
 
 **Study plan: 4 weeks**
 - Week 1: Understand the reforms (read, discuss, internalize)
@@ -29,7 +31,7 @@ This guide helps you:
 
 **Read:**
 - [README.md](../README.md) - Project overview
-- [Quick Reference Guide](../Quick_Reference_Guide.md) - All 20 reforms on one page
+- [Quick Reference Guide](../Quick_Reference_Guide.md) - All 31 chapters and key reforms on one page
 - [Introduction](../../00_Introduction_A_Mandate_to_Restore_Democracy.md) - Why we need this
 
 **Discussion Questions:**
@@ -75,6 +77,28 @@ This guide helps you:
 - [Reform #19: Civic Education Overhaul](../One-Pagers/19_Civic_Education_Overhaul.md)
 - [Reform #20: Political Deepfake Ban](../One-Pagers/20_Political_Deepfake_Ban.md)
 
+**If you care about HEALTHCARE AND HUMAN SERVICES:**
+- [Chapter 14 One-Pager: HHS](../One-Pagers/Chapters/Ch_14_HHS.md) (if available)
+- [Chapter 14: HHS](../../Section3_The_General_Welfare/Chapter_14_HHS.md) - CDC/FDA depoliticization, healthcare access, reproductive rights
+- [Chapter 20: Veterans Affairs](../../Section3_The_General_Welfare/Chapter_20_Veterans_Affairs.md) - Mental health, toxic exposure care, benefits backlog
+
+**If you care about WORKERS AND ECONOMIC JUSTICE:**
+- [Chapter 18: Labor](../../Section3_The_General_Welfare/Chapter_18_Labor.md) - PRO Act, OSHA/NLRB, minimum wage, wage theft
+- [Chapter 25: Small Business](../../Section4_The_Economy/Chapter_25_Small_Business_Administration.md) - Capital access, contracting equity
+- [Chapter 26: Trade Policy](../../Section4_The_Economy/Chapter_26_Trade_Policy.md) - Worker-centered trade, environmental standards
+
+**If you care about ENVIRONMENT AND PUBLIC LANDS:**
+- [Chapter 13: EPA](../../Section3_The_General_Welfare/Chapter_13_Environmental_Protection_Agency.md) - Climate action, environmental justice
+- [Chapter 16: Interior](../../Section3_The_General_Welfare/Chapter_16_Interior.md) - Public lands, tribal sovereignty, 30x30 conservation
+- [Chapter 12: Energy](../../Section3_The_General_Welfare/Chapter_12_Department_of_Energy.md) - Clean energy, grid modernization
+
+**If you care about INFRASTRUCTURE AND COMMUNITIES:**
+- [Chapter 19: Transportation](../../Section3_The_General_Welfare/Chapter_19_Transportation.md) - Public transit, high-speed rail, green transportation
+- [Chapter 15: HUD](../../Section3_The_General_Welfare/Chapter_15_HUD.md) - Social housing, Housing First, anti-NIMBY zoning
+- [Chapter 10: Agriculture](../../Section3_The_General_Welfare/Chapter_10_Department_of_Agriculture.md) - Small farmers, food security
+
+**Chapter One-Pagers:** Quick summaries of every chapter are available in [One-Pagers/Chapters/](../One-Pagers/Chapters/) -- perfect for distributing at organizing events.
+
 **Discussion Questions:**
 1. Which reform would have the biggest impact on your community?
 2. Which reform is most winnable in your area (state/city)?
@@ -87,7 +111,7 @@ This guide helps you:
 
 **Read:**
 - [First 100 Days Checklist](../Implementation_Checklists/First_100_Days_Checklist.md) - Immediate actions
-- [Master Legislative Requirements](../Master_Legislative_Requirements.md) - All 70+ laws needed
+- [Master Legislative Requirements](../Master_Legislative_Requirements.md) - All 150+ proposed laws needed
 
 **Discussion Questions:**
 1. What can be done through executive action (Day 1)? What requires legislation?
@@ -148,6 +172,24 @@ This guide helps you:
 - Why: Connects to local control, urban-rural divide, responsive government
 - Coalition partners: Mayors, city councils, urban advocates, rural coalitions
 - Winnable at: Federal (legislation), local (demand direct federal funds)
+
+**Strategy G: "Healthcare for All"**
+- Focus: Chapter 14 (HHS reform, ACA strengthening, reproductive rights, pandemic preparedness)
+- Why: Connects to universal healthcare, bodily autonomy, public health
+- Coalition partners: Healthcare advocates, reproductive rights orgs, nurses unions, patient groups
+- Winnable at: State (Medicaid expansion, reproductive protections), federal (ACA strengthening, Medicare expansion)
+
+**Strategy H: "Workers United"**
+- Focus: Chapter 18 (Labor—PRO Act, OSHA, minimum wage) + Chapter 26 (Trade—worker protections)
+- Why: Connects to wages, workplace safety, union rights, fair trade
+- Coalition partners: Labor unions, worker centers, Fight for $15, trade justice groups
+- Winnable at: State (minimum wage, paid leave), federal (PRO Act, OSHA funding)
+
+**Strategy I: "Defend Public Lands and Climate"**
+- Focus: Chapter 13 (EPA) + Chapter 16 (Interior) + Chapter 12 (Energy)
+- Why: Connects to climate crisis, conservation, Indigenous sovereignty, clean energy
+- Coalition partners: Environmental orgs, tribal nations, clean energy industry, youth climate groups
+- Winnable at: State/local (clean energy mandates), federal (public lands protection, EPA restoration)
 
 ---
 
@@ -285,10 +327,12 @@ This guide helps you:
 - [ ] First 20-50 people recruited (your launch team)
 
 **Materials:**
-- [ ] One-pagers printed (from this project—share widely)
+- [ ] Reform one-pagers printed (from this project—share widely)
+- [ ] Chapter one-pagers printed (from [One-Pagers/Chapters/](../One-Pagers/Chapters/)—summary of each agency/department reform)
 - [ ] Talking points for volunteers
 - [ ] Petition or pledge (collect signatures/commitments)
-- [ ] Social media graphics (shareable images with key messages)
+- [ ] Social media graphics (use templates from [assets/social-cards/](../../assets/social-cards/))
+- [ ] Printable infographics (from [assets/printable/](../../assets/printable/))
 - [ ] Yard signs or stickers (if budget allows—visual presence)
 
 **Actions:**
@@ -469,6 +513,29 @@ This guide helps you:
 - People's Action
 - National Domestic Workers Alliance
 
+**Healthcare Access (Ch 14):**
+- Families USA
+- National Health Law Program
+- Planned Parenthood (reproductive rights)
+- Community Catalyst
+
+**Labor and Workers' Rights (Ch 18):**
+- AFL-CIO
+- Service Employees International Union (SEIU)
+- National Employment Law Project
+- Jobs With Justice
+
+**Environment and Public Lands (Ch 13, 16):**
+- Sierra Club
+- Earthjustice
+- League of Conservation Voters
+- Indigenous Environmental Network
+
+**Veterans (Ch 20):**
+- VoteVets
+- Iraq and Afghanistan Veterans of America (IAVA)
+- Wounded Warrior Project
+
 **Cross-Cutting:**
 - Sunrise Movement (youth-led, multi-issue)
 - Indivisible (grassroots resistance)
@@ -487,7 +554,7 @@ This guide helps you:
 - Ground rules (respect, confidentiality, step up/step back)
 
 **Content (45 min):**
-- Topic for the session (e.g., "Week 1 Day 3: Money in Politics")
+- Topic for the session (e.g., "Week 1 Day 3: Money in Politics" or "Healthcare Reform — Ch 14")
 - Brief presentation (10 min): Someone summarizes the reading
 - Discussion (35 min): Use discussion questions from this guide
 

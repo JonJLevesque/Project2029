@@ -7,7 +7,7 @@
 
 ## 📋 HOW TO USE THIS ROADMAP
 
-**Purpose:** Track implementation of Project 2029's 20 democracy reforms across a 4-year presidential term
+**Purpose:** Track implementation of Project 2029's 190+ reforms across all federal agencies over a 4-year presidential term
 
 **Status Key:**
 - ✅ **Completed** - Reform fully implemented
@@ -123,10 +123,136 @@ See [First 100 Days Checklist](First_100_Days_Checklist.md) for detailed Day 1-1
 
 ---
 
+### **AGENCY-SPECIFIC YEAR 1 PRIORITIES** (Months 1-12)
+
+**Department of Homeland Security (Ch 5):**
+- [ ] Pass Asylum System Restoration and Immigration Judge Expansion Act
+- [ ] Pass Protecting Sensitive Locations Act and ICE Accountability and Oversight Act
+- [ ] Complete National Detention Standards rulemaking
+- [ ] Restore CISA staffing to 90% of pre-2025 levels
+- [ ] Reduce ICE detention population from 66,000 to below 45,000
+- [ ] Deploy body cameras to all ICE ERO agents
+
+**Department of State (Ch 6):**
+- [ ] Restore State Department staffing to FY2024 levels
+- [ ] Pass USAID Restoration Act and Foreign Service Protection Act
+- [ ] Publish Quadrennial China Strategy
+- [ ] Restore all Global Magnitsky sanctions; issue 50+ new designations
+- [ ] Restore Fulbright Program exchange slots to FY2023 levels
+
+**Intelligence Community (Ch 7):**
+- [ ] Rebuild ODNI to pre-2025 staffing levels
+- [ ] Pass IC Inspector General Protection Act and FISA Court Reform Act
+- [ ] Pass Intelligence Community Independence Act
+- [ ] Restore Five Eyes intelligence-sharing to pre-2025 levels
+- [ ] Complete Section 702 reauthorization with strengthened protections
+
+**Media Agencies (Ch 8):**
+- [ ] Enact Open Internet Act (Title II broadband, net neutrality)
+- [ ] Enact Public Media Restoration and Independence Act ($1.5B CPB funding)
+- [ ] Enact USAGM Permanent Independence Act
+- [ ] Complete USAGM language service restoration to 30 languages
+- [ ] Begin Local Journalism Preservation Fund grant cycle
+
+**USAID (Ch 9):**
+- [ ] Achieve full USAID workforce reconstitution (12,000 personnel)
+- [ ] Enact USAID Statutory Independence Act
+- [ ] Enact PEPFAR Permanence and Continuity Act
+- [ ] Enact Global Food Security Permanence Act
+- [ ] Launch reconstituted One Health disease surveillance in 20 countries
+
+**Department of Agriculture (Ch 10):**
+- [ ] Pass Food Security Act of 2027 repealing SNAP provisions of H.R. 1
+- [ ] Establish Climate-Smart Agriculture Fund as permanent mandatory spending
+- [ ] Pass Rural Equity and Investment Act
+- [ ] Finalize Packers and Stockyards unfair practices rule
+- [ ] Achieve 28 million acres enrolled in CRP
+
+**Department of Health and Human Services (Ch 14):**
+- [ ] Enact permanent ACA enhanced premium tax credits
+- [ ] Begin Medicaid expansion federal fallback (1.9M Americans)
+- [ ] Complete reinstatement of all unlawfully terminated HHS employees; 50,000-position expansion
+- [ ] Complete first round of expanded Medicare drug price negotiations (20 additional drugs)
+- [ ] Fund maternal mortality review committees in all 50 states
+- [ ] Achieve full MHPAEA enforcement against 20 largest insurers
+
+**Department of the Interior (Ch 16):**
+- [ ] Finalize royalty rate rulemaking (12.5% to 18.75%)
+- [ ] Introduce National Monument Integrity Act, Sacred Places Protection Act, Tribal Co-Management Act
+- [ ] Finalize new ESA rules reversing Trump 2019 rollbacks
+- [ ] Approve first 10 GW of clean energy projects on public lands
+- [ ] Complete 30x30 initial assessment and first annual progress report
+
+**Department of Labor (Ch 18):**
+- [ ] Achieve passage of minimum wage increase to $17/hour
+- [ ] Finalize OSHA heat standard
+- [ ] Complete FMLA expansion rulemaking (25+ employees)
+- [ ] Finalize Davis-Bacon prevailing wage modernization
+- [ ] Complete NLRB regional office restoration
+- [ ] Achieve WHD staffing increase of 200 new investigators
+
+**Department of Transportation (Ch 19):**
+- [ ] Enact Aviation Safety Workforce Act (1,800 ATC trainees/year)
+- [ ] Enact Railway Safety Act (ECP brakes, wayside detection, two-person crews)
+- [ ] Establish National High-Speed Rail Authority through legislation
+- [ ] Obligate $2B in NEVI expansion funds
+- [ ] Reinstate mandatory automatic emergency braking for heavy vehicles
+
+**Department of Veterans Affairs (Ch 20):**
+- [ ] Complete reinstatement of all unlawfully terminated VA employees
+- [ ] Achieve 14-day mental health wait time at 75% of VA Medical Centers
+- [ ] Reduce PACT Act claims backlog by 40%
+- [ ] Open Women's Health Centers at 50% of VA Medical Centers
+- [ ] Deploy first cohort of mobile health units to 20 rural regions
+
+**Department of Commerce (Ch 21):**
+- [ ] Restore all NOAA/NWS positions to pre-2025 levels plus 10%
+- [ ] Begin BEAD funding distribution for first tranche of approved projects
+- [ ] Submit Weather Service Protection Act, AI Safety Act, Census Independence Act, Broadband Act, MBDA Expansion Act, Semiconductor Security Act
+- [ ] Complete NIST AI Safety Institute restaffing
+- [ ] Restore 24/7 NWS forecast office operations nationwide
+
+**Export-Import Bank (Ch 23):**
+- [ ] Achieve Senate confirmation of full five-member EXIM board
+- [ ] Enact EXIM Permanent Authorization and Quorum Protection Act
+- [ ] Launch Africa and Global South Competitiveness Program ($500M pipeline)
+- [ ] Achieve $3B in clean energy financing authorizations
+- [ ] Launch expanded Equity Express program (2,000+ underserved businesses)
+
+**Federal Reserve (Ch 24):**
+- [ ] Confirm Vice Chair for Supervision committed to post-Dodd-Frank culture
+- [ ] Finalize comprehensive new CRA rule covering nonbank lenders and fintechs
+- [ ] Publish Federal Digital Dollar Framework; begin FedNow expansion
+- [ ] Reinstate enhanced prudential standards for $100B+ bank holding companies
+- [ ] Restore FSOC nonbank SIFI designation authority
+
+**Small Business Administration (Ch 25):**
+- [ ] Complete SBA workforce restoration plus 200 additional disaster loan officers
+- [ ] Enact SBA Workforce Stability Act
+- [ ] Establish Disaster Loan Revolving Fund
+- [ ] Complete 8(a) program rulemaking; target 1,500 new admissions
+- [ ] Launch Main Street Equity Capital Initiative with 10 SBIC licenses
+
+**Trade Policy (Ch 26):**
+- [ ] Enact Trade Emergency Authority Reform Act
+- [ ] Enact American Worker Trade Transition Act (TAA 2.0)
+- [ ] Enact GSP Renewal and Reform Act
+- [ ] Initiate CPTPP accession talks
+- [ ] Negotiate Critical Minerals Agreements with Australia, Canada, Japan
+
+**Financial Regulatory Agencies (Ch 27):**
+- [ ] Enact CFPB Structural Independence Act (five-member commission)
+- [ ] Finalize revised Basel III endgame capital rules
+- [ ] Enact Stablecoin Safety and Consumer Protection Act
+- [ ] CFPB finalize revised credit card late fee rule
+- [ ] SEC propose comprehensive digital asset regulatory framework
+
+---
+
 ### **YEAR 1 SUCCESS METRICS**
 
 **Legislative:**
-- ✅ Target: Pass 8-10 priority bills through Congress
+- ✅ Target: Pass 30-40 priority bills through Congress
 - Actual: _____ bills passed
 
 **Executive Actions:**
@@ -188,6 +314,128 @@ See [First 100 Days Checklist](First_100_Days_Checklist.md) for detailed Day 1-1
 
 ---
 
+### **AGENCY-SPECIFIC YEARS 2-4 PRIORITIES**
+
+**Department of Homeland Security (Ch 5):**
+- [ ] Pass American Promise Act codifying DACA (1.75 million individuals protected)
+- [ ] Pass Cybersecurity Workforce and Infrastructure Defense Act (500 new CISA positions)
+- [ ] Pass Climate Resilience and Disaster Preparedness Act ($10B pre-disaster mitigation)
+- [ ] Reduce ICE detained population to below 30,000
+
+**Department of State (Ch 6):**
+- [ ] Achieve full USAID workforce and program portfolio restoration
+- [ ] Complete Foreign Service Institute capacity expansion for critical languages
+- [ ] Conclude renegotiation of trade agreements affected by 2025 tariff escalation
+- [ ] Complete Quadrennial Diplomacy and Development Review (QDDR)
+
+**Intelligence Community (Ch 7):**
+- [ ] Complete IC AI governance operational guidelines for all 17 components
+- [ ] Achieve measurable improvement in Five Eyes intelligence sharing
+- [ ] Complete comprehensive IC reform legislative agenda
+- [ ] Publish comprehensive report documenting Trump-era IC damage
+
+**Media Agencies (Ch 8):**
+- [ ] Complete USAGM restoration to 1,000 staff and 49 language services
+- [ ] Enact Local News Ownership Diversity Act
+- [ ] Enact Section 230 Targeted Reform Act
+- [ ] Enact FCC Independence and Anti-Retaliation Act
+- [ ] CPB digital infrastructure grants expand to streaming and podcast
+
+**USAID (Ch 9):**
+- [ ] Achieve 40% local prime implementer funding targets
+- [ ] Demonstrate PEPFAR treatment restoration to pre-freeze levels
+- [ ] Scale Power Africa to 50 million new clean electricity connections
+- [ ] Establish Foreign Assistance Accountability Office as permanent body
+
+**Department of Agriculture (Ch 10):**
+- [ ] Enact comprehensive Farm Bill with food systems equity title
+- [ ] Achieve full USDA workforce restoration plus 5,000 new positions
+- [ ] Achieve 90% rural broadband coverage at 100/20 Mbps by Year 4
+- [ ] Reduce rural hospital closure rate to zero
+
+**Department of Health and Human Services (Ch 14):**
+- [ ] Complete Medicare dental, vision, and hearing benefit implementation
+- [ ] Achieve 50-drug Medicare negotiation target ($100B savings over 10 years)
+- [ ] Enact federal public option in all 50 states
+- [ ] Achieve 45-state Medicaid expansion (uninsured below 4%)
+- [ ] Achieve 2,000 FQHC sites serving 35 million Americans
+- [ ] Complete NIH funding restoration and advance toward $77B target
+
+**Department of the Interior (Ch 16):**
+- [ ] Submit Wilderness designation recommendations for 10 million acres
+- [ ] Achieve 15 GW approved clean energy on public lands by Year 2
+- [ ] Achieve measurable 30x30 progress (10 million additional acres)
+- [ ] Fully staff NPS and BLM to pre-Trump levels plus 15%
+- [ ] Complete hard-rock mining reform rulemaking
+- [ ] Establish tribal co-management agreements for 5+ public land units
+
+**Department of Labor (Ch 18):**
+- [ ] Pass PRO Act with full provisions (captive audience ban, card check, Section 14(b) repeal)
+- [ ] Pass FAMILY Act; implement through SSA within 18 months
+- [ ] Pass Overtime Guarantee Act codifying $58,656 threshold
+- [ ] Pass Wage Theft Prevention and Accountability Act
+- [ ] Reach 800,000 active Registered Apprentices by Year 3
+- [ ] Achieve one OSHA inspector per 2,500 workplaces by Year 4
+
+**Department of Transportation (Ch 19):**
+- [ ] Achieve 85% targeted ATC staffing at all facilities
+- [ ] Open 5,000 new EV charging ports under expanded NEVI
+- [ ] Execute Gateway Program Hudson River tunnels full-funding grant agreement
+- [ ] Enact Freight Rail Competition Act with STB reforms
+- [ ] Finalize Autonomous Vehicle Safety Act regulations
+- [ ] Deploy 50,000 electric school buses in EJ communities
+
+**Department of Veterans Affairs (Ch 20):**
+- [ ] Achieve 14-day mental health wait time at 95% of VA Medical Centers
+- [ ] Eliminate PACT Act claims backlog entirely
+- [ ] Achieve functional zero veteran homelessness in 10 target cities
+- [ ] Complete Women's Health Centers at 100% of VA Medical Centers
+- [ ] Deploy EHR replacement system compliant with Section 508
+
+**Department of Commerce (Ch 21):**
+- [ ] Achieve BEAD broadband deployment milestones toward 2028 completion
+- [ ] Complete CHIPS Act manufacturing agreements; construction starts underway
+- [ ] Enact AI Safety and Standards Act
+- [ ] Expand MBDA network by 30 new locations; $500M in guaranteed loans by Year 4
+- [ ] Achieve USPTO examination pendency below 20 months
+
+**Export-Import Bank (Ch 23):**
+- [ ] Achieve $5B annual clean energy financing by FY2028
+- [ ] Achieve $3B annual Africa and Global South financing by FY2028
+- [ ] Raise small business volume share from 19% to 30%
+- [ ] Establish EXIM as recognized alternative to BRI in 10+ markets
+- [ ] Achieve $1B+ in technology sector EXIM authorizations annually
+
+**Federal Reserve (Ch 24):**
+- [ ] Enact Federal Reserve Digital Payments Act (digital dollar pilot, FedNow universal)
+- [ ] Enact Climate Financial Risk Supervision Act
+- [ ] Enact Systemic Risk Accountability Act (Dodd-Frank restoration)
+- [ ] Complete CRA rulemaking; publish first examinations under new standards
+- [ ] Publish first annual Racial Economic Equity Report
+
+**Small Business Administration (Ch 25):**
+- [ ] Enact comprehensive SBA Reauthorization Act
+- [ ] Achieve 15% SDB contracting goal governmentwide by Year 4
+- [ ] Complete Main Street Equity Capital deployment ($1.25B annually)
+- [ ] Double Microloan Program to $140M annually
+- [ ] Complete SBA technology modernization (full digital loan systems)
+
+**Trade Policy (Ch 26):**
+- [ ] Complete USMCA six-year review with strengthened provisions
+- [ ] Advance WTO Appellate Body reform to General Council adoption
+- [ ] Conclude CPTPP accession negotiations
+- [ ] Implement U.S. Climate Border Adjustment mechanism
+- [ ] Expand TAA 2.0 to service sector workers
+
+**Financial Regulatory Agencies (Ch 27):**
+- [ ] Enact GSE Stability and Homeownership Act
+- [ ] Enact Digital Asset Market Structure Act (SEC/CFTC framework)
+- [ ] Enact Investor Protection Modernization Act (climate disclosure)
+- [ ] Enact Financial Stability Preservation Act (FSOC restoration)
+- [ ] CFPB reach full enforcement staffing; annual enforcement report
+
+---
+
 ### **CONSTITUTIONAL AMENDMENT PROGRESS**
 
 **Year 2 Milestones:**
@@ -209,8 +457,8 @@ See [First 100 Days Checklist](First_100_Days_Checklist.md) for detailed Day 1-1
 ### **YEAR 2 SUCCESS METRICS**
 
 **Legislative:**
-- ✅ Target: Pass Universal Basic Services legislation (4 major bills)
-- Actual: _____ / 4 passed
+- ✅ Target: Pass Universal Basic Services and agency reform legislation (40+ major bills)
+- Actual: _____ / 40 passed
 
 **Constitutional Amendments:**
 - ✅ Target: At least 2 amendments pass Congress with 2/3 vote
@@ -412,11 +660,11 @@ Track ratification status for each amendment (need 38 states):
 ### **LEGISLATIVE ACHIEVEMENTS**
 
 **Bills Passed:**
-- Year 1: _____ / 10 target
-- Year 2: _____ / 8 target
-- Year 3: _____ / 6 target
-- Year 4: _____ / 4 target
-- **Total: _____ / 28 priority bills**
+- Year 1: _____ / 40 target
+- Year 2: _____ / 50 target
+- Year 3: _____ / 50 target
+- Year 4: _____ / 50 target
+- **Total: _____ / 190 priority bills**
 
 **Key Legislation Status:**
 
@@ -427,9 +675,23 @@ Track ratification status for each amendment (need 38 states):
 | Campaign Finance | _____ / 3 | _____ % |
 | Electoral Reform | _____ / 3 | _____ % |
 | Digital Democracy | _____ / 3 | _____ % |
-| Media Reform | _____ / 2 | _____ % |
+| Media Reform | _____ / 6 | _____ % |
 | Universal Basic Services | _____ / 4 | _____ % |
 | Structural Reform | _____ / 3 | _____ % |
+| Homeland Security | _____ / 10 | _____ % |
+| State & USAID | _____ / 12 | _____ % |
+| Intelligence Community | _____ / 6 | _____ % |
+| Agriculture | _____ / 7 | _____ % |
+| Health & Human Services | _____ / 11 | _____ % |
+| Interior & Conservation | _____ / 9 | _____ % |
+| Labor & Workers | _____ / 11 | _____ % |
+| Transportation | _____ / 7 | _____ % |
+| Veterans Affairs | _____ / 6 | _____ % |
+| Commerce & Technology | _____ / 6 | _____ % |
+| Trade Policy | _____ / 8 | _____ % |
+| Financial Regulation | _____ / 8 | _____ % |
+| EXIM & SBA | _____ / 14 | _____ % |
+| Federal Reserve | _____ / 6 | _____ % |
 
 ---
 
@@ -549,8 +811,8 @@ Track ratification status for each amendment (need 38 states):
 
 **This is a living document. Update quarterly with actual progress.**
 
-**Last Updated:** October 22, 2025
-**Version:** 1.0
+**Last Updated:** February 28, 2026
+**Version:** 2.0
 
 ---
 

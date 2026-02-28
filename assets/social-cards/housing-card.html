@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>National Social Housing Program</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px;
+    height: 1080px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #1a2744;
+    color: #ffffff;
+    overflow: hidden;
+  }
+  .card {
+    width: 1080px;
+    height: 1080px;
+    display: flex;
+    flex-direction: column;
+    padding: 70px 64px;
+    position: relative;
+  }
+  .top-bar {
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, #2563eb, #7c3aed);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .badge {
+    display: inline-block;
+    background: #7c3aed;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border-radius: 6px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    align-self: flex-start;
+  }
+  .title {
+    font-size: 56px;
+    font-weight: 800;
+    line-height: 1.08;
+    letter-spacing: -2px;
+    margin-bottom: 44px;
+  }
+  .title span {
+    color: #a78bfa;
+  }
+  .investment-block {
+    background: rgba(124, 58, 237, 0.12);
+    border: 1px solid rgba(124, 58, 237, 0.35);
+    border-radius: 14px;
+    padding: 36px 40px;
+    margin-bottom: 36px;
+    display: flex;
+    align-items: center;
+    gap: 28px;
+  }
+  .investment-number {
+    font-size: 64px;
+    font-weight: 800;
+    color: #a78bfa;
+    line-height: 1;
+    letter-spacing: -3px;
+    white-space: nowrap;
+  }
+  .investment-details {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .investment-label {
+    font-size: 22px;
+    color: #c4b5fd;
+    font-weight: 600;
+  }
+  .investment-model {
+    font-size: 17px;
+    color: #94a3b8;
+    font-weight: 500;
+  }
+  .promise {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .promise-text {
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 1.2;
+    letter-spacing: -1.5px;
+    margin-bottom: 20px;
+  }
+  .promise-text span {
+    color: #a78bfa;
+  }
+  .promise-sub {
+    font-size: 24px;
+    color: #cbd5e1;
+    font-weight: 600;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 36px;
+  }
+  .project-name {
+    font-size: 24px;
+    font-weight: 800;
+  }
+  .project-name span {
+    color: #60a5fa;
+  }
+  .site-link {
+    font-size: 15px;
+    color: #64748b;
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="top-bar"></div>
+  <div class="badge">Housing Justice</div>
+  <div class="title">National Social<br><span>Housing</span> Program</div>
+  <div class="investment-block">
+    <div class="investment-number">$50B</div>
+    <div class="investment-details">
+      <div class="investment-label">annually in federal investment</div>
+      <div class="investment-model">Vienna / Singapore model for America</div>
+    </div>
+  </div>
+  <div class="promise">
+    <div class="promise-text">End homelessness.<br>House <span>every</span> American.</div>
+    <div class="promise-sub">Affordable, dignified housing as a right</div>
+  </div>
+  <div class="footer">
+    <div class="project-name">PROJECT <span>2029</span></div>
+    <div class="site-link">project2029.github.io</div>
+  </div>
+</div>
+</body>
+</html>

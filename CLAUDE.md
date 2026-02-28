@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-**Project 2029: A Mandate for Restorative + Transformative Democratic Renewal** is a comprehensive progressive policy framework and counter-document to the Heritage Foundation's "Project 2025." It is a 210,000+ word blueprint for a future Democratic presidential administration covering all major federal agencies and proposing sweeping structural reforms.
+**Project 2029: A Mandate for Restorative + Transformative Democratic Renewal** is a comprehensive progressive policy framework and counter-document to the Heritage Foundation's "Project 2025." It is a 414,000+ word blueprint for a future Democratic presidential administration covering all major federal agencies and proposing sweeping structural reforms.
 
 - **Published at:** GitHub Pages via Docsify (`index.html` + `.nojekyll`)
 - **Repository:** `github.com/JonJLevesque/Project2029`
 - **Branch strategy:** Work on `main` directly; use feature branches for major chapter development
-- **Last major development:** December 2025
+- **Last major development:** February 2026
 
 ---
 
@@ -19,7 +19,7 @@ Project2029/
 ├── README.md                          ← Site homepage (Docsify renders this)
 ├── TABLE_OF_CONTENTS.md               ← Full navigation with chapter summaries
 ├── index.html                         ← Docsify config + CDN loading
-├── _sidebar.md                        ← Docsify sidebar navigation (89 lines)
+├── _sidebar.md                        ← Docsify sidebar navigation (140+ lines)
 ├── _coverpage.md                      ← Docsify cover page (landing page)
 ├── _404.md                            ← Custom 404 page
 ├── 00_Introduction_*.md               ← Introduction chapter
@@ -49,7 +49,14 @@ Project2029/
 │   ├── Study_Guides/
 │   │   ├── Activist_Study_Guide.md
 │   │   └── Educator_Study_Guide.md
-│   └── One-Pagers/                    (28 individual reform fact sheets, #01-28, #30)
+│   ├── One-Pagers/                    (29 individual reform fact sheets, #01-28, #30)
+│   │   └── Chapters/                  (31 chapter one-pagers, Ch_01 through Ch_31)
+│   └── Diagrams.md                    (Mermaid strategic diagrams)
+│
+├── assets/
+│   ├── custom.css                     ← Docsify custom theme (CSS variables, dark mode)
+│   ├── social-cards/                  (9 social media card HTML templates)
+│   └── printable/                     (4 print-optimized HTML infographics)
 │
 ├── .github/workflows/                 ← CI/CD: links.yml, lint.yml, spellcheck.yml
 └── .claude/agents/                    ← Custom agents (see below)
@@ -59,48 +66,41 @@ Project2029/
 
 ## Chapter Completion Status
 
-### Fully Developed (500+ lines)
+**All 31 chapters fully developed as of February 2026. Total: 414,000+ words.**
+
 | Chapter | Topic | Lines |
 |---------|-------|-------|
 | Ch 28 | Legal Accountability | 3,512 |
-| Ch 30 | Fundamental Transformation | 2,373 |
+| Ch 30 | Fundamental Transformation | 2,646 |
 | Ch 4 | Department of Defense | 1,962 |
+| Ch 22 | Treasury | 1,884 |
 | Ch 13 | EPA | 1,549 |
-| Ch 22 | Treasury | 1,485 |
+| Ch 7 | Intelligence Community | 1,125 |
 | Ch 12 | Energy | 1,108 |
+| Ch 8 | Media Agencies | 1,024 |
 | Ch 29 | Structural Safeguards | 1,028 |
-| Ch 15 | HUD | 950 |
 | Ch 17 | DOJ | 973 |
+| Ch 15 | HUD | 950 |
 | Ch 11 | Education | 913 |
+| Ch 18 | Labor | 801 |
+| Ch 14 | HHS | 801 |
+| Ch 16 | Interior | 800 |
+| Ch 5 | Homeland Security | 800 |
 | Ch 31 | Constitutional Hardball | 769 |
-| Ch 1 | White House Office | 708 |
-
-### Partially Developed (100-500 lines)
-| Chapter | Topic | Lines |
-|---------|-------|-------|
-| Ch 5 | Homeland Security | 375 |
-| Ch 8 | Media Agencies | 280 |
-| Ch 7 | Intelligence Community | 157 |
-| Ch 6 | Department of State | 171 |
-| Ch 3 | Personnel Agencies | 533 |
 | Ch 2 | Executive Office | 765 |
-
-### Stubs — Need Full Development (under 100 lines)
-| Chapter | Topic | Lines | Priority |
-|---------|-------|-------|----------|
-| Ch 14 | HHS | 32 | HIGH |
-| Ch 18 | Labor | 23 | HIGH |
-| Ch 16 | Interior | 16 | HIGH |
-| Ch 20 | Veterans Affairs | 16 | HIGH |
-| Ch 21 | Commerce | 15 | MEDIUM |
-| Ch 19 | Transportation | 15 | MEDIUM |
-| Ch 10 | Agriculture | 71 | MEDIUM |
-| Ch 24 | Federal Reserve | 14 | MEDIUM |
-| Ch 26 | Trade Policy | 14 | MEDIUM |
-| Ch 25 | Small Business | 15 | MEDIUM |
-| Ch 23 | Export-Import Bank | 13 | MEDIUM |
-| Ch 27 | Financial Regulatory | 27 | MEDIUM |
-| Ch 9 | USAID | 56 | LOW |
+| Ch 1 | White House Office | 708 |
+| Ch 21 | Commerce | 604 |
+| Ch 19 | Transportation | 604 |
+| Ch 10 | Agriculture | 603 |
+| Ch 6 | Department of State | 603 |
+| Ch 24 | Federal Reserve | 601 |
+| Ch 20 | Veterans Affairs | 601 |
+| Ch 27 | Financial Regulatory | 600 |
+| Ch 26 | Trade Policy | 600 |
+| Ch 9 | USAID | 600 |
+| Ch 3 | Personnel Agencies | 533 |
+| Ch 25 | Small Business | 500 |
+| Ch 23 | Export-Import Bank | 500 |
 
 ---
 
@@ -269,5 +269,5 @@ and what we will do to restore and transform it]
 - **The opponent:** Heritage Foundation's Project 2025 (Mandate for Leadership)
 - **The goal:** Ready-made policy playbook for next Democratic administration
 - **Two agendas:** Restorative (Chapters 1-29) + Transformative (Chapter 30 + throughout)
-- **6 proposed constitutional amendments:** 28th (Voting Rights), 29th (Presidential Accountability), 30th (Citizens United), 31st (Senate Terms), 32nd (Electoral College), 33rd (SCOTUS Terms)
-- **90+ proposed federal laws** consolidated in `Supporting_Materials/Master_Legislative_Requirements.md`
+- **7 proposed constitutional amendments:** 28th (Voting Rights), 29th (Presidential Accountability), 30th (Citizens United), 31st (Senate Terms), 32nd (Electoral College), 33rd (SCOTUS Terms), 34th (Social Security/Economic Rights)
+- **150+ proposed federal laws** consolidated in `Supporting_Materials/Master_Legislative_Requirements.md`

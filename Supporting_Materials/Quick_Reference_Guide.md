@@ -1,7 +1,66 @@
 # PROJECT 2029: QUICK REFERENCE GUIDE
-## The 29 Reforms to Save American Democracy
+## 31 Chapters. 150+ Proposed Laws. 7 Constitutional Amendments. Your Future.
 
-**One page. Twenty-nine reforms. Your future.**
+**414,000+ words of detailed policy across every federal department and agency.**
+
+---
+
+## 📋 ALL 31 CHAPTERS AT A GLANCE
+
+**Section 1: Restoring Good Governance**
+| Ch | Topic | One-Line Summary |
+|----|-------|-----------------|
+| 1 | White House Office | Restore ethics, transparency, and professional staffing to the West Wing |
+| 2 | Executive Office of the President | Rebuild OMB, NSC, and scientific advisory independence |
+| 3 | Central Personnel Agencies | Eliminate Schedule F, restore merit-based civil service |
+
+**Section 2: The Common Defense**
+| Ch | Topic | One-Line Summary |
+|----|-------|-----------------|
+| 4 | Department of Defense | Restore civilian control, combat extremism, reform military justice |
+| 5 | Homeland Security | Reform ICE/CBP accountability, overhaul immigration, protect civil liberties |
+| 6 | Department of State | Rebuild alliances, restore diplomacy, prioritize democracy and human rights |
+| 7 | Intelligence Community | Restore analytic integrity, end domestic weaponization, protect whistleblowers |
+| 8 | Media Agencies | Restore USAGM independence, strengthen public media, restore Fairness Doctrine |
+| 9 | USAID | Restore development aid, democracy support, and humanitarian assistance |
+
+**Section 3: The General Welfare**
+| Ch | Topic | One-Line Summary |
+|----|-------|-----------------|
+| 10 | Agriculture | Support small farmers, climate-smart agriculture, food security |
+| 11 | Education | Civic literacy, media literacy, free public higher education, teacher investment |
+| 12 | Energy | Clean energy expansion, grid modernization, fossil fuel subsidy elimination |
+| 13 | EPA | Restore environmental regulation, aggressive climate action, environmental justice |
+| 14 | HHS | Depoliticize CDC/FDA, expand healthcare access, protect reproductive rights |
+| 15 | HUD | $50B affordable housing, social housing, Housing First, anti-NIMBY zoning |
+| 16 | Interior | Protect public lands, restore tribal sovereignty, 30x30 conservation |
+| 17 | Justice | DOJ independence, civil rights restoration, criminal justice reform |
+| 18 | Labor | PRO Act, OSHA/NLRB revitalization, $15+ minimum wage, wage theft enforcement |
+| 19 | Transportation | Public transit investment, high-speed rail, green transportation, safety |
+| 20 | Veterans Affairs | Mental health crisis response, benefits backlog, toxic exposure care |
+
+**Section 4: The Economy**
+| Ch | Topic | One-Line Summary |
+|----|-------|-----------------|
+| 21 | Commerce | Manufacturing reshoring, CHIPS Act, Census integrity, NOAA climate science |
+| 22 | Treasury | Billionaire minimum tax, wealth tax, corporate tax reform, offshore crackdown |
+| 23 | Export-Import Bank | Green technology exports, small business access, development finance |
+| 24 | Federal Reserve | Preserve independence, full employment emphasis, climate risk supervision |
+| 25 | Small Business | Expand capital access, contracting equity, women/minority business support |
+| 26 | Trade Policy | Worker-centered trade, environmental standards, WTO re-engagement |
+
+**Section 5: Independent Regulatory Agencies**
+| Ch | Topic | One-Line Summary |
+|----|-------|-----------------|
+| 27 | Financial Regulation | Strengthen CFPB/SEC, community reinvestment, climate risk in finance |
+
+**Section 6: Safeguarding Democracy and Accountability**
+| Ch | Topic | One-Line Summary |
+|----|-------|-----------------|
+| 28 | Legal Accountability | Four-tier accountability system, 13 criminal statutes, truth commission |
+| 29 | Structural Safeguards | Electoral protections, executive power limits, whistleblower protections |
+| 30 | Fundamental Transformation | 13 transformative reforms, 6 constitutional amendments, universal services |
+| 31 | Constitutional Hardball | Day 1 executive blitz, filibuster elimination, SCOTUS expansion, DC/PR statehood |
 
 ---
 
@@ -216,6 +275,13 @@
 
 ## 📊 BY THE NUMBERS
 
+**The Full Scope of Project 2029:**
+- **31 chapters** covering every federal department and agency
+- **414,000+ words** of detailed policy analysis
+- **150+ proposed federal laws** across all chapters
+- **7 constitutional amendments** proposed (28th-34th)
+- **6 sections** from Good Governance to Safeguarding Democracy
+
 **Constitutional Amendments Proposed:** 7 (28th-34th)
 - 28th: Voting Rights
 - 29th: Presidential Accountability
@@ -302,27 +368,34 @@
 
 ## 📚 LEARN MORE
 
-**Full Document:** [Project2029 GitHub Repository]
-- 30 comprehensive chapters
-- 72,000+ words of detailed policy
+**Full Document:** [Project2029 GitHub Repository](https://github.com/JonJLevesque/Project2029)
+- 31 comprehensive chapters covering every federal department and agency
+- 414,000+ words of detailed policy analysis
+- 150+ proposed federal laws with constitutional authority
 - Implementation plans, budgets, timelines
-- Constitutional analysis
-- International precedents
+- Constitutional analysis and international precedents
 
 **Supporting Materials:**
-- One-pagers for each reform (deep dives)
-- Study guides (activist, legislative, educator)
-- Implementation checklists
+- **Chapter one-pagers** in [Supporting_Materials/One-Pagers/Chapters/](One-Pagers/Chapters/) - quick summaries of each chapter
+- **Reform one-pagers** - deep dives on each major democracy reform
+- **Social media cards** in [assets/social-cards/](../assets/social-cards/) - shareable graphics
+- **Printable infographics** in [assets/printable/](../assets/printable/) - for events and organizing
+- Study guides (activist and educator)
+- Implementation checklists (First 100 Days + Year 1-4 Roadmap)
 - Activist toolkit
 - Master legislative requirements list
+- Master bibliography
 
 **Key Chapters to Read:**
 - **Chapter 30:** Fundamental Democratic Transformation (18,000 words - the flagship)
-- **Chapter 11:** Education for Citizenship (7,000 words - civic education blueprint)
 - **Chapter 28:** Legal Accountability (14,000 words - accountability for subversion)
-- **Chapter 29:** Structural Safeguards (9,000 words - prevention framework)
-- **Chapter 8:** Media Reform (4,000 words - Fairness Doctrine restoration)
 - **Chapter 17:** DOJ Reform (9,500 words - enforcement and ethics)
+- **Chapter 29:** Structural Safeguards (9,000 words - prevention framework)
+- **Chapter 14:** HHS (healthcare access, reproductive rights, pandemic preparedness)
+- **Chapter 11:** Education for Citizenship (7,000 words - civic education blueprint)
+- **Chapter 18:** Labor (worker rights, PRO Act, OSHA/NLRB revitalization)
+- **Chapter 8:** Media Reform (4,000 words - Fairness Doctrine restoration)
+- **Chapter 31:** Constitutional Hardball (12,000 words - strategic power moves)
 
 ---
 
@@ -359,7 +432,7 @@ These aren't just policy proposals. **This is a blueprint for the democracy we'v
 - By the people (not lobbyists)
 - For the people (not the wealthy)
 
-**Your 29 reforms are the DNA of democratic renewal.**
+**31 chapters and 150+ proposed laws are the DNA of democratic renewal.**
 
 **Democracy requires eternal vigilance. This is our answer.**
 
@@ -369,7 +442,7 @@ These aren't just policy proposals. **This is a blueprint for the democracy we'v
 
 **Project 2029: Restorative + Transformative Democratic Renewal**
 
-*Last Updated: November 26, 2025*
+*Last Updated: February 28, 2026*
 *For full documentation: [GitHub Repository Link]*
 *Contact: [Project Email]*
 *Social: #Project2029 #DemocracyRenewal*

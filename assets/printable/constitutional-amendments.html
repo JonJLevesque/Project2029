@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project 2029: Proposed Constitutional Amendments</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 11pt; }
+  body {
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    color: #1a1a1a;
+    background: #f5f5f5;
+    line-height: 1.3;
+  }
+
+  .page {
+    width: 8.5in;
+    min-height: 11in;
+    margin: 0 auto;
+    padding: 0.4in 0.45in 0.3in;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── Header ── */
+  .header {
+    text-align: center;
+    border-bottom: 3px solid #1a1a1a;
+    padding-bottom: 0.1in;
+    margin-bottom: 0.12in;
+  }
+  .header h1 {
+    font-size: 16pt;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+  }
+  .header .subtitle {
+    font-size: 8.5pt;
+    color: #555;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-top: 2pt;
+  }
+
+  /* ── Intro line ── */
+  .intro {
+    text-align: center;
+    font-size: 8pt;
+    color: #444;
+    margin-bottom: 0.1in;
+    font-style: italic;
+    line-height: 1.4;
+  }
+
+  /* ── Amendment Cards Grid ── */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.08in;
+    flex: 1;
+  }
+
+  .card {
+    border: 1.5px solid #333;
+    border-radius: 5px;
+    padding: 0.08in 0.1in;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: var(--card-color);
+  }
+
+  .card-header {
+    display: flex;
+    align-items: baseline;
+    gap: 6pt;
+    margin-bottom: 3pt;
+    padding-top: 2pt;
+  }
+  .amend-num {
+    font-size: 18pt;
+    font-weight: 900;
+    color: var(--card-color);
+    line-height: 1;
+  }
+  .amend-ordinal {
+    font-size: 7pt;
+    font-weight: 800;
+    color: var(--card-color);
+    text-transform: uppercase;
+    vertical-align: super;
+  }
+  .amend-title {
+    font-size: 10pt;
+    font-weight: 800;
+    line-height: 1.15;
+  }
+
+  .card-body {
+    flex: 1;
+  }
+  .card-provision {
+    font-size: 7.5pt;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 3pt;
+    line-height: 1.35;
+  }
+  .card-details {
+    font-size: 7pt;
+    color: #444;
+    line-height: 1.4;
+  }
+  .card-details ul {
+    margin-left: 10pt;
+  }
+  .card-details li {
+    margin-bottom: 1pt;
+  }
+
+  .card-ref {
+    font-size: 6pt;
+    color: #777;
+    margin-top: auto;
+    padding-top: 3pt;
+    border-top: 0.5px solid #ddd;
+    font-weight: 600;
+  }
+
+  /* ── Card colors ── */
+  .card-voting   { --card-color: #1D4ED8; border-color: #1D4ED8; }
+  .card-pres     { --card-color: #7C3AED; border-color: #7C3AED; }
+  .card-citizens { --card-color: #B91C1C; border-color: #B91C1C; }
+  .card-senate   { --card-color: #B45309; border-color: #B45309; }
+  .card-ec       { --card-color: #15803D; border-color: #15803D; }
+  .card-scotus   { --card-color: #0E7490; border-color: #0E7490; }
+  .card-social   { --card-color: #BE185D; border-color: #BE185D; }
+
+  /* ── Full-width card (7th) ── */
+  .card-wide {
+    grid-column: 1 / -1;
+  }
+  .card-wide .card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6pt;
+  }
+
+  /* ── Process Box ── */
+  .process-box {
+    border: 2px solid #1a1a1a;
+    border-radius: 5px;
+    padding: 0.08in 0.1in;
+    margin-top: 0.08in;
+    background: #f9f9f9;
+  }
+  .process-box h2 {
+    font-size: 9pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 4pt;
+    text-align: center;
+  }
+  .process-steps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6pt;
+  }
+  .step {
+    text-align: center;
+    flex: 1;
+    max-width: 1.6in;
+  }
+  .step-num {
+    font-size: 14pt;
+    font-weight: 900;
+    color: #1D4ED8;
+    line-height: 1;
+  }
+  .step-label {
+    font-size: 7pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .step-detail {
+    font-size: 6.5pt;
+    color: #555;
+    line-height: 1.3;
+  }
+  .step-arrow {
+    font-size: 14pt;
+    color: #999;
+    flex-shrink: 0;
+  }
+
+  /* ── Timeline bar ── */
+  .timeline-bar {
+    display: flex;
+    margin-top: 6pt;
+    border-top: 1px solid #ccc;
+    padding-top: 4pt;
+    justify-content: center;
+    gap: 12pt;
+    font-size: 6.5pt;
+  }
+  .tl-item {
+    text-align: center;
+  }
+  .tl-item .tl-years {
+    font-weight: 800;
+    font-size: 8pt;
+    color: #1D4ED8;
+  }
+  .tl-item .tl-label {
+    color: #555;
+    font-weight: 600;
+  }
+
+  /* ── Footer ── */
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-top: 0.04in;
+    border-top: 2px solid #1a1a1a;
+    margin-top: 0.08in;
+  }
+  .footer .url {
+    font-size: 8pt;
+    font-weight: 700;
+    color: #1D4ED8;
+  }
+  .footer .note {
+    font-size: 6pt;
+    color: #777;
+    text-align: right;
+  }
+
+  /* ── Print ── */
+  @media print {
+    body { background: none; }
+    .page { margin: 0; padding: 0.35in 0.4in 0.25in; width: auto; min-height: auto; }
+    .card, .card::before, .process-box {
+      -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    }
+  }
+  @media screen {
+    .page { box-shadow: 0 2px 12px rgba(0,0,0,0.12); margin-top: 0.3in; margin-bottom: 0.3in; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <h1>Project 2029: Proposed Constitutional Amendments</h1>
+    <div class="subtitle">7 Amendments to Perfect the Union -- Building the Democracy We Have Never Had</div>
+  </div>
+
+  <div class="intro">
+    "Democracy is not inevitable. It is a choice that must be made by every generation."
+    -- These amendments represent a 10-20 year project to structurally reform American democracy.
+  </div>
+
+  <div class="cards-grid">
+
+    <!-- 28th Amendment -->
+    <div class="card card-voting">
+      <div class="card-header">
+        <div><span class="amend-num">28</span><span class="amend-ordinal">th</span></div>
+        <div class="amend-title">Voting Rights Amendment</div>
+      </div>
+      <div class="card-body">
+        <div class="card-provision">Establish a universal, affirmative right to vote for every U.S. citizen aged 18+.</div>
+        <div class="card-details">
+          <ul>
+            <li>Constitutionalize the right to vote (currently implied, not explicit)</li>
+            <li>Prohibit all voter suppression tactics: strict ID laws, purges, long lines</li>
+            <li>Mandate automatic voter registration nationwide</li>
+            <li>Require same-day registration and early voting in all states</li>
+          </ul>
+        </div>
+      </div>
+      <div class="card-ref">Chapter 29 -- Structural Safeguards</div>
+    </div>
+
+    <!-- 29th Amendment -->
+    <div class="card card-pres">
+      <div class="card-header">
+        <div><span class="amend-num">29</span><span class="amend-ordinal">th</span></div>
+        <div class="amend-title">Presidential Accountability</div>
+      </div>
+      <div class="card-body">
+        <div class="card-provision">Close the self-pardon loophole and strengthen presidential accountability.</div>
+        <div class="card-details">
+          <ul>
+            <li>Explicitly prohibit self-pardons by any sitting president</li>
+            <li>Limit pardon power for co-conspirators and family members</li>
+            <li>Require disclosure of all pardon deliberations</li>
+            <li>Clarify that no president is above criminal law</li>
+          </ul>
+        </div>
+      </div>
+      <div class="card-ref">Chapter 29 -- Structural Safeguards</div>
+    </div>
+
+    <!-- 30th Amendment -->
+    <div class="card card-citizens">
+      <div class="card-header">
+        <div><span class="amend-num">30</span><span class="amend-ordinal">th</span></div>
+        <div class="amend-title">Citizens United Reversal</div>
+      </div>
+      <div class="card-body">
+        <div class="card-provision">Overturn Citizens United: money is not speech, corporations are not people.</div>
+        <div class="card-details">
+          <ul>
+            <li>Allow Congress and states to regulate campaign spending</li>
+            <li>End unlimited corporate and dark money in elections</li>
+            <li>Restore pre-2010 campaign finance regulation authority</li>
+            <li>Interim: DISCLOSE Act, super PAC limits, DOJ enforcement unit (50 attorneys)</li>
+          </ul>
+        </div>
+      </div>
+      <div class="card-ref">Chapter 30 -- Fundamental Transformation (Reform I)</div>
+    </div>
+
+    <!-- 31st Amendment -->
+    <div class="card card-senate">
+      <div class="card-header">
+        <div><span class="amend-num">31</span><span class="amend-ordinal">st</span></div>
+        <div class="amend-title">Senate Term Limits</div>
+      </div>
+      <div class="card-body">
+        <div class="card-provision">Limit U.S. Senators to two terms (12 years maximum service).</div>
+        <div class="card-details">
+          <ul>
+            <li>End lifelong political careers in the upper chamber</li>
+            <li>Increase turnover, diversity, and fresh perspectives</li>
+            <li>Reduce accumulation of special interest power</li>
+            <li>Applies prospectively to future elections</li>
+          </ul>
+        </div>
+      </div>
+      <div class="card-ref">Chapter 30 -- Fundamental Transformation (Reform II)</div>
+    </div>
+
+    <!-- 32nd Amendment -->
+    <div class="card card-ec">
+      <div class="card-header">
+        <div><span class="amend-num">32</span><span class="amend-ordinal">nd</span></div>
+        <div class="amend-title">Electoral College Abolition</div>
+      </div>
+      <div class="card-body">
+        <div class="card-provision">Elect the President by direct national popular vote.</div>
+        <div class="card-details">
+          <ul>
+            <li>Every vote counts equally regardless of state</li>
+            <li>Majority requirement with instant runoff</li>
+            <li>End "swing state" dominance of campaigns</li>
+            <li>Interim: National Popular Vote Interstate Compact</li>
+          </ul>
+        </div>
+      </div>
+      <div class="card-ref">Chapter 30 -- Fundamental Transformation (Reform III)</div>
+    </div>
+
+    <!-- 33rd Amendment -->
+    <div class="card card-scotus">
+      <div class="card-header">
+        <div><span class="amend-num">33</span><span class="amend-ordinal">rd</span></div>
+        <div class="amend-title">Supreme Court Term Limits</div>
+      </div>
+      <div class="card-body">
+        <div class="card-provision">Replace lifetime appointments with 18-year staggered terms.</div>
+        <div class="card-details">
+          <ul>
+            <li>One appointment every 2 years (predictable, regular)</li>
+            <li>Senior status after 18 years (not forced retirement)</li>
+            <li>Binding, enforceable ethics code for all justices</li>
+            <li>Reduces stakes of any single appointment; increases legitimacy</li>
+          </ul>
+        </div>
+      </div>
+      <div class="card-ref">Chapter 29 / Chapter 30 -- Reform XIII</div>
+    </div>
+
+    <!-- 34th Amendment (wide) -->
+    <div class="card card-wide card-social">
+      <div class="card-header">
+        <div><span class="amend-num">34</span><span class="amend-ordinal">th</span></div>
+        <div class="amend-title">Social Security and Economic Rights Protection</div>
+      </div>
+      <div class="card-body">
+        <div>
+          <div class="card-provision">Constitutionally protect Social Security, Medicare, and core economic rights.</div>
+          <div class="card-details">
+            <ul>
+              <li>Enshrine Social Security and Medicare as constitutional rights</li>
+              <li>Prohibit benefit cuts below current levels without supermajority</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <div class="card-provision">&nbsp;</div>
+          <div class="card-details">
+            <ul>
+              <li>Establish right to healthcare, education, and housing as state obligations</li>
+              <li>Create constitutional floor for economic dignity and security</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card-ref">Chapter 30 -- Fundamental Transformation (Universal Basic Services)</div>
+    </div>
+
+  </div>
+
+  <!-- Amendment Process -->
+  <div class="process-box">
+    <h2>The Amendment Process -- Article V of the Constitution</h2>
+    <div class="process-steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-label">Proposal</div>
+        <div class="step-detail">2/3 of both chambers of Congress (290 House, 67 Senate) OR a convention called by 2/3 of state legislatures (34 states)</div>
+      </div>
+      <div class="step-arrow">&#9654;</div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-label">Ratification</div>
+        <div class="step-detail">3/4 of state legislatures must ratify (38 out of 50 states) -- no presidential signature required</div>
+      </div>
+      <div class="step-arrow">&#9654;</div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-label">Adoption</div>
+        <div class="step-detail">Amendment becomes part of the Constitution -- the supreme law of the land, binding on all branches and states</div>
+      </div>
+    </div>
+    <div class="timeline-bar">
+      <div class="tl-item"><div class="tl-years">Years 1-2</div><div class="tl-label">Build grassroots movement, draft language</div></div>
+      <div class="tl-item"><div class="tl-years">Years 3-5</div><div class="tl-label">Congressional proposal, public education</div></div>
+      <div class="tl-item"><div class="tl-years">Years 5-10</div><div class="tl-label">State-by-state ratification campaigns</div></div>
+      <div class="tl-item"><div class="tl-years">Years 10-20</div><div class="tl-label">Full adoption and consolidation</div></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="url">project2029.github.io</div>
+    <div class="note">Project 2029: A Mandate for Restorative + Transformative Democratic Renewal<br>Licensed CC BY-SA 4.0</div>
+  </div>
+
+</div>
+</body>
+</html>

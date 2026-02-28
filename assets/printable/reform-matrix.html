@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project 2029: Complete Reform Framework</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 11pt; }
+  body {
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    color: #1a1a1a;
+    background: #f5f5f5;
+    line-height: 1.3;
+  }
+
+  .page {
+    width: 8.5in;
+    min-height: 11in;
+    margin: 0 auto;
+    padding: 0.35in 0.45in 0.3in;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── Header ── */
+  .header {
+    text-align: center;
+    border-bottom: 3px solid #1a1a1a;
+    padding-bottom: 0.08in;
+    margin-bottom: 0.12in;
+  }
+  .header h1 {
+    font-size: 16pt;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+  }
+  .header .subtitle {
+    font-size: 8pt;
+    color: #555;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* ── Section colors ── */
+  .s1 { --sc: #6B21A8; --sbg: #F3E8FF; --sdot: #A855F7; }
+  .s2 { --sc: #B91C1C; --sbg: #FEE2E2; --sdot: #EF4444; }
+  .s3 { --sc: #15803D; --sbg: #DCFCE7; --sdot: #22C55E; }
+  .s4 { --sc: #B45309; --sbg: #FEF3C7; --sdot: #F59E0B; }
+  .s5 { --sc: #0E7490; --sbg: #CFFAFE; --sdot: #06B6D4; }
+  .s6 { --sc: #1D4ED8; --sbg: #DBEAFE; --sdot: #3B82F6; }
+
+  /* ── Section block ── */
+  .section-block {
+    margin-bottom: 0.08in;
+  }
+  .section-title {
+    font-size: 9pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background: var(--sc);
+    padding: 3pt 6pt;
+    border-radius: 3px 3px 0 0;
+  }
+
+  /* ── Chapter table ── */
+  .ch-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 7.5pt;
+    border: 1.5px solid var(--sc);
+    border-top: none;
+    border-radius: 0 0 3px 3px;
+  }
+  .ch-table tr { border-bottom: 0.5px solid #e0e0e0; }
+  .ch-table tr:last-child { border-bottom: none; }
+  .ch-table td {
+    padding: 2.5pt 5pt;
+    vertical-align: top;
+  }
+  .ch-table tr:nth-child(even) { background: var(--sbg); }
+
+  .col-num {
+    width: 28pt;
+    font-weight: 800;
+    color: var(--sc);
+    text-align: center;
+  }
+  .col-name {
+    width: 1.5in;
+    font-weight: 700;
+  }
+  .col-reform {
+    font-size: 7pt;
+    color: #333;
+  }
+  .col-badge {
+    width: 0.55in;
+    text-align: center;
+  }
+
+  /* ── Badges ── */
+  .badge {
+    display: inline-block;
+    font-size: 5.5pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 1pt 4pt;
+    border-radius: 2px;
+    line-height: 1.3;
+  }
+  .badge-flagship { background: #1a1a1a; color: #fbbf24; }
+  .badge-comprehensive { background: #e0e7ff; color: #3730a3; }
+
+  /* ── Dot indicators ── */
+  .dot {
+    display: inline-block;
+    width: 6pt;
+    height: 6pt;
+    border-radius: 50%;
+    background: var(--sdot);
+    margin-right: 2pt;
+    vertical-align: middle;
+  }
+
+  /* ── Legend ── */
+  .legend {
+    display: flex;
+    justify-content: center;
+    gap: 14pt;
+    padding: 0.06in 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 0.06in;
+    flex-wrap: wrap;
+  }
+  .legend-item {
+    font-size: 6.5pt;
+    display: flex;
+    align-items: center;
+    gap: 3pt;
+    font-weight: 600;
+  }
+  .legend-dot {
+    width: 7pt;
+    height: 7pt;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .legend-badge {
+    display: inline-block;
+    font-size: 5.5pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding: 1pt 4pt;
+    border-radius: 2px;
+  }
+
+  /* ── Summary stats ── */
+  .summary-row {
+    display: flex;
+    justify-content: center;
+    gap: 0.25in;
+    margin-top: auto;
+    padding-top: 0.06in;
+  }
+  .summary-stat {
+    text-align: center;
+  }
+  .summary-stat .val {
+    font-size: 13pt;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .summary-stat .slabel {
+    font-size: 6.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #555;
+    font-weight: 600;
+  }
+
+  /* ── Footer ── */
+  .footer {
+    text-align: center;
+    padding-top: 0.04in;
+    border-top: 2px solid #1a1a1a;
+    margin-top: 0.06in;
+  }
+  .footer .url {
+    font-size: 8pt;
+    font-weight: 700;
+    color: #1D4ED8;
+  }
+  .footer .note {
+    font-size: 6pt;
+    color: #777;
+  }
+
+  /* ── Print ── */
+  @media print {
+    body { background: none; }
+    .page { margin: 0; padding: 0.3in 0.4in 0.25in; width: auto; min-height: auto; }
+    .section-title, .ch-table tr:nth-child(even), .badge-flagship, .badge-comprehensive {
+      -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    }
+  }
+  @media screen {
+    .page { box-shadow: 0 2px 12px rgba(0,0,0,0.12); margin-top: 0.3in; margin-bottom: 0.3in; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <h1>Project 2029: Complete Reform Framework</h1>
+    <div class="subtitle">31 Chapters Across 6 Sections -- Every Federal Agency, Every Reform</div>
+  </div>
+
+  <!-- Legend -->
+  <div class="legend">
+    <div class="legend-item"><div class="legend-dot" style="background:#A855F7;"></div> Sec 1: Governance</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#EF4444;"></div> Sec 2: Defense</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#22C55E;"></div> Sec 3: Welfare</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#F59E0B;"></div> Sec 4: Economy</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#06B6D4;"></div> Sec 5: Regulatory</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#3B82F6;"></div> Sec 6: Democracy</div>
+    <div class="legend-item"><span class="legend-badge" style="background:#1a1a1a;color:#fbbf24;">FLAGSHIP</span> Key chapters</div>
+  </div>
+
+  <!-- Section 1 -->
+  <div class="section-block s1">
+    <div class="section-title">Section 1: Restoring Good Governance (Ch 1-3)</div>
+    <table class="ch-table">
+      <tr><td class="col-num"><span class="dot"></span>1</td><td class="col-name">White House Office</td><td class="col-reform">Ethics standards, professional staffing, transparency protocols</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>2</td><td class="col-name">Executive Office</td><td class="col-reform">OMB independence, NSC reform, science advisory rebuilding</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>3</td><td class="col-name">Personnel Agencies</td><td class="col-reform">End Schedule F, merit system, rebuild federal workforce</td><td class="col-badge"><span class="badge badge-comprehensive">DEEP</span></td></tr>
+    </table>
+  </div>
+
+  <!-- Section 2 -->
+  <div class="section-block s2">
+    <div class="section-title">Section 2: The Common Defense (Ch 4-9)</div>
+    <table class="ch-table">
+      <tr><td class="col-num"><span class="dot"></span>4</td><td class="col-name">Defense</td><td class="col-reform">Civilian control, anti-extremism, military justice independence</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>5</td><td class="col-name">Homeland Security</td><td class="col-reform">Civil liberties, immigration overhaul, ICE/CBP accountability</td><td class="col-badge"><span class="badge badge-comprehensive">DEEP</span></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>6</td><td class="col-name">State</td><td class="col-reform">Alliance rebuilding, diplomacy, human rights priority</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>7</td><td class="col-name">Intelligence</td><td class="col-reform">Analytic integrity, end domestic weaponization</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>8</td><td class="col-name">Media Agencies</td><td class="col-reform">Fairness Doctrine restoration, editorial independence</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>9</td><td class="col-name">USAID</td><td class="col-reform">Democracy support, humanitarian aid, climate development</td><td class="col-badge"></td></tr>
+    </table>
+  </div>
+
+  <!-- Section 3 -->
+  <div class="section-block s3">
+    <div class="section-title">Section 3: The General Welfare (Ch 10-20)</div>
+    <table class="ch-table">
+      <tr><td class="col-num"><span class="dot"></span>10</td><td class="col-name">Agriculture</td><td class="col-reform">Small farmers, climate-smart ag, food security</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>11</td><td class="col-name">Education</td><td class="col-reform">Civic literacy, $5B investment, media literacy</td><td class="col-badge"><span class="badge badge-flagship">FLAGSHIP</span></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>12</td><td class="col-name">Energy</td><td class="col-reform">Clean energy, grid modernization, end fossil subsidies</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>13</td><td class="col-name">EPA</td><td class="col-reform">Climate action, environmental justice, science integrity</td><td class="col-badge"><span class="badge badge-flagship">FLAGSHIP</span></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>14</td><td class="col-name">HHS</td><td class="col-reform">ACA expansion, reproductive rights, pandemic prep</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>15</td><td class="col-name">HUD</td><td class="col-reform">$50B housing, fair housing, homelessness prevention</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>16</td><td class="col-name">Interior</td><td class="col-reform">Public lands, tribal sovereignty, 30x30 conservation</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>17</td><td class="col-name">Justice</td><td class="col-reform">DOJ independence, civil rights, 10-year AG term</td><td class="col-badge"><span class="badge badge-flagship">FLAGSHIP</span></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>18</td><td class="col-name">Labor</td><td class="col-reform">PRO Act, minimum wage, OSHA revitalization</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>19</td><td class="col-name">Transportation</td><td class="col-reform">Public transit, high-speed rail, green infrastructure</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>20</td><td class="col-name">Veterans Affairs</td><td class="col-reform">Mental health, toxic exposure care, benefits backlog</td><td class="col-badge"></td></tr>
+    </table>
+  </div>
+
+  <!-- Section 4 -->
+  <div class="section-block s4">
+    <div class="section-title">Section 4: The Economy (Ch 21-26)</div>
+    <table class="ch-table">
+      <tr><td class="col-num"><span class="dot"></span>21</td><td class="col-name">Commerce</td><td class="col-reform">CHIPS Act, manufacturing reshoring, census integrity</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>22</td><td class="col-name">Treasury</td><td class="col-reform">Tax fairness, billionaire minimum tax, offshore crackdown</td><td class="col-badge"><span class="badge badge-flagship">FLAGSHIP</span></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>23</td><td class="col-name">Export-Import Bank</td><td class="col-reform">Clean tech exports, small business access</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>24</td><td class="col-name">Federal Reserve</td><td class="col-reform">Independence, full employment, climate risk</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>25</td><td class="col-name">Small Business</td><td class="col-reform">Capital access, minority/women-owned support</td><td class="col-badge"></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>26</td><td class="col-name">Trade Policy</td><td class="col-reform">Worker-centered trade, environmental standards</td><td class="col-badge"></td></tr>
+    </table>
+  </div>
+
+  <!-- Section 5 -->
+  <div class="section-block s5">
+    <div class="section-title">Section 5: Independent Regulatory Agencies (Ch 27)</div>
+    <table class="ch-table">
+      <tr><td class="col-num"><span class="dot"></span>27</td><td class="col-name">Financial Regulatory</td><td class="col-reform">CFPB strengthening, SEC corporate accountability, climate risk</td><td class="col-badge"></td></tr>
+    </table>
+  </div>
+
+  <!-- Section 6 -->
+  <div class="section-block s6">
+    <div class="section-title">Section 6: Safeguarding Democracy and Accountability (Ch 28-31)</div>
+    <table class="ch-table">
+      <tr><td class="col-num"><span class="dot"></span>28</td><td class="col-name">Legal Accountability</td><td class="col-reform">Prosecution framework, truth commission, 4-tier system</td><td class="col-badge"><span class="badge badge-flagship">FLAGSHIP</span></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>29</td><td class="col-name">Structural Safeguards</td><td class="col-reform">Voting rights, whistleblowers, IG protections</td><td class="col-badge"><span class="badge badge-comprehensive">DEEP</span></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>30</td><td class="col-name">Fundamental Transformation</td><td class="col-reform">13 reforms: Citizens United, Electoral College, UBS</td><td class="col-badge"><span class="badge badge-flagship">FLAGSHIP</span></td></tr>
+      <tr><td class="col-num"><span class="dot"></span>31</td><td class="col-name">Constitutional Hardball</td><td class="col-reform">SCOTUS expansion, filibuster elimination, statehood</td><td class="col-badge"><span class="badge badge-flagship">FLAGSHIP</span></td></tr>
+    </table>
+  </div>
+
+  <!-- Summary -->
+  <div class="summary-row">
+    <div class="summary-stat"><div class="val">31</div><div class="slabel">Chapters</div></div>
+    <div class="summary-stat"><div class="val">6</div><div class="slabel">Sections</div></div>
+    <div class="summary-stat"><div class="val">150+</div><div class="slabel">Laws Proposed</div></div>
+    <div class="summary-stat"><div class="val">7</div><div class="slabel">Amendments</div></div>
+    <div class="summary-stat"><div class="val">7</div><div class="slabel">Flagship Ch.</div></div>
+    <div class="summary-stat"><div class="val">414K+</div><div class="slabel">Words</div></div>
+  </div>
+
+  <div class="footer">
+    <div class="url">project2029.github.io</div>
+    <div class="note">A Mandate for Restorative + Transformative Democratic Renewal | CC BY-SA 4.0</div>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200">
+<title>Project 2029 By The Numbers</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: linear-gradient(135deg, #1a2744 0%, #0f1a2e 100%);
+    color: #ffffff;
+    overflow: hidden;
+  }
+  .card {
+    width: 1200px;
+    height: 630px;
+    display: flex;
+    flex-direction: column;
+    padding: 50px 60px;
+    position: relative;
+  }
+  .top-bar {
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(90deg, #2563eb, #60a5fa, #2563eb);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 30px;
+  }
+  .project-name {
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+  }
+  .project-name span {
+    color: #60a5fa;
+  }
+  .tagline {
+    font-size: 14px;
+    color: #94a3b8;
+    font-weight: 500;
+    text-align: right;
+    max-width: 400px;
+    line-height: 1.4;
+  }
+  .title {
+    font-size: 38px;
+    font-weight: 800;
+    margin-bottom: 40px;
+    letter-spacing: -1px;
+    text-align: center;
+  }
+  .title span {
+    color: #60a5fa;
+  }
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    flex: 1;
+  }
+  .stat-box {
+    background: rgba(37, 99, 235, 0.12);
+    border: 1px solid rgba(37, 99, 235, 0.3);
+    border-radius: 12px;
+    padding: 24px 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .stat-number {
+    font-size: 42px;
+    font-weight: 800;
+    color: #60a5fa;
+    line-height: 1;
+    margin-bottom: 8px;
+    letter-spacing: -1px;
+  }
+  .stat-label {
+    font-size: 15px;
+    color: #cbd5e1;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+  .footer {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 15px;
+    color: #64748b;
+    font-weight: 500;
+  }
+  .footer span {
+    color: #60a5fa;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="top-bar"></div>
+  <div class="header">
+    <div class="project-name">PROJECT <span>2029</span></div>
+    <div class="tagline">A Mandate for Restorative + Transformative Democratic Renewal</div>
+  </div>
+  <div class="title">By The <span>Numbers</span></div>
+  <div class="stats-grid">
+    <div class="stat-box">
+      <div class="stat-number">414K+</div>
+      <div class="stat-label">Words</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-number">31</div>
+      <div class="stat-label">Chapters</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-number">150+</div>
+      <div class="stat-label">Proposed Laws</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-number">7</div>
+      <div class="stat-label">Constitutional Amendments</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-number">6</div>
+      <div class="stat-label">Sections</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-number">1</div>
+      <div class="stat-label">Complete Democratic Blueprint</div>
+    </div>
+  </div>
+  <div class="footer">github.com/JonJLevesque/<span>Project2029</span></div>
+</div>
+</body>
+</html>

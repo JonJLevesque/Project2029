@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200">
+<title>Reform Card Template</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #1a2744;
+    color: #ffffff;
+    overflow: hidden;
+  }
+  .card {
+    width: 1200px;
+    height: 630px;
+    display: flex;
+    position: relative;
+  }
+  .accent-bar {
+    width: 8px;
+    height: 100%;
+    background: linear-gradient(180deg, #2563eb, #60a5fa);
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .content {
+    padding: 60px 70px 50px 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+  }
+  .top-section {
+    flex: 1;
+  }
+  .reform-badge {
+    display: inline-block;
+    background: #2563eb;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 8px 20px;
+    border-radius: 6px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 28px;
+  }
+  .reform-title {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -1.5px;
+    margin-bottom: 24px;
+    max-width: 900px;
+  }
+  .reform-description {
+    font-size: 22px;
+    color: #cbd5e1;
+    line-height: 1.5;
+    max-width: 850px;
+    margin-bottom: 32px;
+  }
+  .key-stat {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    background: rgba(37, 99, 235, 0.12);
+    border: 1px solid rgba(37, 99, 235, 0.3);
+    border-radius: 10px;
+    padding: 18px 24px;
+    display: inline-flex;
+  }
+  .key-stat-number {
+    font-size: 36px;
+    font-weight: 800;
+    color: #60a5fa;
+    letter-spacing: -1px;
+  }
+  .key-stat-label {
+    font-size: 16px;
+    color: #94a3b8;
+    font-weight: 500;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .project-name {
+    font-size: 22px;
+    font-weight: 800;
+  }
+  .project-name span {
+    color: #60a5fa;
+  }
+  .read-more {
+    font-size: 15px;
+    color: #64748b;
+    font-weight: 500;
+  }
+  .read-more span {
+    color: #60a5fa;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="accent-bar"></div>
+  <div class="content">
+    <div class="top-section">
+      <div class="reform-badge">Reform #XX</div>
+      <div class="reform-title">[Reform Name Goes Here]</div>
+      <div class="reform-description">[Two-sentence description of what this reform does and why it matters. Replace this placeholder text with the specific reform details.]</div>
+      <div class="key-stat">
+        <div class="key-stat-number">[STAT]</div>
+        <div class="key-stat-label">[Key statistic label]</div>
+      </div>
+    </div>
+    <div class="footer">
+      <div class="project-name">PROJECT <span>2029</span></div>
+      <div class="read-more">Read more: <span>project2029.github.io</span></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

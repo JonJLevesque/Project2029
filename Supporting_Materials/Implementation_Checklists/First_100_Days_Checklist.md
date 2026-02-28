@@ -543,35 +543,434 @@ The first 100 days are CRITICAL for:
 
 ---
 
+## DAY 1 - HOMELAND SECURITY RESTORATION
+
+**[See Chapter 5 for full details and legal framework]**
+
+### ☑️ **60. Reinstate Sensitive Locations Policy**
+- **Action:** EO reinstating and expanding sensitive locations policy to social service facilities, food banks, domestic violence shelters, and homeless services
+- **Responsible:** President → DHS Secretary
+- **Reference:** Chapter 5
+
+### ☑️ **61. Restore Prosecutorial Discretion in Immigration**
+- **Action:** EO reinstating prosecutorial discretion, deprioritizing DACA recipients, parents of U.S. citizen children, and long-term residents
+- **Responsible:** President → DHS Secretary → ICE
+- **Reference:** Chapter 5
+
+### ☑️ **62. Terminate Alien Enemies Act Immigration Designations**
+- **Action:** EO terminating all AEA designations applied to immigration; direct legal review of all AEA-based removal orders
+- **Responsible:** President → DHS General Counsel
+- **Reference:** Chapter 5
+
+### ☑️ **63. Restore Asylum System**
+- **Action:** EO reversing January 2025 proclamation suspending asylum; restore full statutory access at all ports of entry; cease metering practice
+- **Responsible:** President → CBP
+- **Reference:** Chapter 5
+
+### ☑️ **64. Reverse DOGE Staffing Cuts at FEMA and CISA**
+- **Action:** EO halting and reversing all DOGE-directed staffing reductions; reinstate all CISA threat hunting contracts
+- **Responsible:** President → DHS Secretary → CISA Director
+- **Reference:** Chapter 5
+
+---
+
+## DAY 1 - DEPARTMENT OF STATE RESTORATION
+
+**[See Chapter 6 for full details and legal framework]**
+
+### ☑️ **65. Rejoin WHO and Restore International Commitments**
+- **Action:** EO withdrawing from WHO withdrawal order; rejoin Paris Climate Agreement; reaffirm NATO Article 5
+- **Responsible:** President → Secretary of State
+- **Reference:** Chapter 6
+
+### ☑️ **66. Restore Refugee Admissions and Ukraine Support**
+- **Action:** EO restoring USRAP at 125,000 ceiling; restore full U.S. security assistance to Ukraine; disavow coercive territorial claims
+- **Responsible:** President → Secretary of State
+- **Reference:** Chapter 6
+
+### ☑️ **67. Halt USAID Wind-Down and Restore Humanitarian Pipelines**
+- **Action:** EO halting USAID wind-down; restore emergency humanitarian assistance; rescind Schedule F for State Department
+- **Responsible:** President → Secretary of State → Acting USAID Administrator
+- **Reference:** Chapters 6, 9
+
+---
+
+## DAY 1 - INTELLIGENCE COMMUNITY RESTORATION
+
+**[See Chapter 7 for full details and legal framework]**
+
+### ☑️ **68. Restore IC Independence and Analytic Standards**
+- **Action:** EO establishing binding DNI term and cause-for-removal requirement; prohibit political direction of IC assessments; ban loyalty tests in IC hiring
+- **Responsible:** President → DNI
+- **Reference:** Chapter 7
+
+### ☑️ **69. End Security Clearance Weaponization**
+- **Action:** EO prohibiting punitive security clearance revocations; direct review of all revocations since January 20, 2025
+- **Responsible:** President → DNI
+- **Reference:** Chapter 7
+
+### ☑️ **70. Restore IC Programs and Climate/Russia Intelligence**
+- **Action:** Reinstate Global Trends program; revoke NOFORN directive on Russia-Ukraine intelligence; restore climate security in Annual Threat Assessment
+- **Responsible:** President → DNI → NIC
+- **Reference:** Chapter 7
+
+---
+
+## DAY 1 - MEDIA AGENCIES RESTORATION
+
+**[See Chapter 8 for full details and legal framework]**
+
+### ☑️ **71. Suspend Political FCC License Actions**
+- **Action:** EO suspending all FCC license revocation proceedings initiated against major networks following Trump social media posts
+- **Responsible:** President → FCC
+- **Reference:** Chapter 8
+
+### ☑️ **72. Restore USAGM Editorial Independence**
+- **Action:** EO suspending Kari Lake directives; restore USAGM editorial firewall; terminate OAN content partnership; appoint professional interim CEO
+- **Responsible:** President → USAGM
+- **Reference:** Chapter 8
+
+---
+
+## DAY 1 - USAID RECONSTITUTION
+
+**[See Chapter 9 for full details and legal framework]**
+
+### ☑️ **73. Reconstitute USAID as Independent Agency**
+- **Action:** EO reconstituting USAID; appoint Acting Administrator; begin reinstatement of improperly separated career employees; restore IT systems and facilities
+- **Responsible:** President → OPM → Acting USAID Administrator
+- **Reference:** Chapter 9
+
+### ☑️ **74. Restore PEPFAR and Emergency Humanitarian Assistance**
+- **Action:** Direct reinstatement of PEPFAR implementing partners; release all frozen foreign assistance funds; convene emergency coordination with WFP, UNICEF, UNHCR, WHO
+- **Responsible:** Acting USAID Administrator → Treasury → OMB
+- **Reference:** Chapter 9
+
+---
+
+## DAY 1 - AGRICULTURE RESTORATION
+
+**[See Chapter 10 for full details and legal framework]**
+
+### ☑️ **75. Restore SNAP Benefit Protections**
+- **Action:** EO directing FNS to restore categorical eligibility; suspend work requirement age expansion for veterans, homeless, and foster youth
+- **Responsible:** President → USDA Secretary → FNS
+- **Reference:** Chapter 10
+
+### ☑️ **76. Reinstate Climate-Smart Commodities and Conservation Programs**
+- **Action:** EO reinstating PCSC program; reopen CRP enrollment; freeze office consolidation proposals
+- **Responsible:** President → USDA Secretary → FSA
+- **Reference:** Chapter 10
+
+### ☑️ **77. USDA Workforce Restoration and Food Safety**
+- **Action:** EO directing reinstatement with back pay for all DOGE-terminated employees; resume Packers and Stockyards enforcement; authorize emergency FSIS inspector hiring
+- **Responsible:** President → USDA Secretary → FSIS
+- **Reference:** Chapter 10
+
+---
+
+## DAY 1 - HHS RESTORATION
+
+**[See Chapter 14 for full details and legal framework]**
+
+### ☑️ **78. Restore Reproductive Healthcare Access**
+- **Action:** EO withdrawing mifepristone safety review; restore Title X grants; withdraw "Department of Life" policies; revoke expanded conscience clause regulations; DOJ guidance on Comstock Act
+- **Responsible:** President → HHS Secretary → FDA Commissioner
+- **Reference:** Chapter 14
+
+### ☑️ **79. Restore NIH Research Independence**
+- **Action:** EO directing reinstatement of all NIH research grants terminated without peer review; prohibit future terminations outside 42 U.S.C. § 289 process
+- **Responsible:** President → HHS Secretary → NIH Director
+- **Reference:** Chapter 14
+
+### ☑️ **80. Restore HHS Workforce and Public Health Infrastructure**
+- **Action:** EO directing reinstatement of terminated HHS employees; restore Mental Health Parity enforcement; restore ASPR independence; reinstate CDC Office of Health Equity and immunization programs
+- **Responsible:** President → HHS Secretary → CDC Director
+- **Reference:** Chapter 14
+
+---
+
+## DAY 1 - INTERIOR RESTORATION
+
+**[See Chapter 16 for full details and legal framework]**
+
+### ☑️ **81. Restore National Monuments and Conservation**
+- **Action:** Presidential proclamations restoring Bears Ears and Grand Staircase-Escalante; restore 30x30 framework; reinstate BLM Conservation Rule
+- **Responsible:** President → Secretary of Interior
+- **Reference:** Chapter 16
+
+### ☑️ **82. Withdraw Offshore Drilling and Restore Clean Energy**
+- **Action:** EO withdrawing all areas from oil and gas leasing per Biden offshore ban; reinstate Renewable Energy Rule and Western Solar Plan
+- **Responsible:** President → Secretary of Interior → BLM
+- **Reference:** Chapter 16
+
+### ☑️ **83. Restore Interior Workforce and Tribal Consultation**
+- **Action:** EO halting all Interior RIF actions; reinstate all terminated employees; mandate government-to-government tribal consultation with enforceable timelines
+- **Responsible:** President → Secretary of Interior
+- **Reference:** Chapter 16
+
+---
+
+## DAY 1 - LABOR RESTORATION
+
+**[See Chapter 18 for full details and legal framework]**
+
+### ☑️ **84. Restore Overtime and Worker Classification Protections**
+- **Action:** EO reinstating $58,656 overtime threshold; reinstate independent contractor rule; restore fiduciary rule for retirement advisors
+- **Responsible:** President → Secretary of Labor → WHD
+- **Reference:** Chapter 18
+
+### ☑️ **85. Restore Federal Contractor Worker Protections**
+- **Action:** EO raising federal contractor minimum wage to $17/hour with CPI indexing; restore OFCCP compliance audits; require union neutrality in federal grants above $1M
+- **Responsible:** President → Secretary of Labor → OFCCP
+- **Reference:** Chapter 18
+
+### ☑️ **86. Restore NLRB and OSHA Enforcement**
+- **Action:** Reappoint NLRB General Counsel; direct OSHA to rescind Trump-era guidance; reinstate heat rulemaking; resume independent contractor enforcement
+- **Responsible:** President → Secretary of Labor → NLRB → OSHA
+- **Reference:** Chapter 18
+
+---
+
+## DAY 1 - TRANSPORTATION RESTORATION
+
+**[See Chapter 19 for full details and legal framework]**
+
+### ☑️ **87. Restore Transportation Safety and Infrastructure**
+- **Action:** EO lifting NEVI fund freezes; reinstate terminated FAA employees; obligate IIJA grants; reinstate mandatory AV crash reporting; rescind trucking hours-of-service rollbacks; restore airline passenger rights rules
+- **Responsible:** President → DOT Secretary → FAA → NHTSA → FMCSA
+- **Reference:** Chapter 19
+
+### ☑️ **88. Complete Streets and Amtrak Restoration**
+- **Action:** EO conditioning FHWA apportionments on Complete Streets policies; restore Amtrak NEC capital allocation; reinstate Dallas-Houston HSR funding
+- **Responsible:** President → DOT Secretary → FHWA → FRA
+- **Reference:** Chapter 19
+
+---
+
+## DAY 1 - VETERANS AFFAIRS RESTORATION
+
+**[See Chapter 20 for full details and legal framework]**
+
+### ☑️ **89. Halt VA Facility Closures and Restore Workforce**
+- **Action:** EO suspending all VA facility closures and workforce reductions; reinstate all DOGE-terminated VA employees; suspend Oracle-Cerner EHR deployment pending safety review
+- **Responsible:** President → VA Secretary
+- **Reference:** Chapter 20
+
+### ☑️ **90. Restore VA Healthcare Access and PACT Act Implementation**
+- **Action:** Rescind community care expansion directive requiring volume targets; restore PACT Act processing standards; reinstate LGBTQ+ care coordinators and gender-affirming care
+- **Responsible:** President → VA Secretary → VBA → VHA
+- **Reference:** Chapter 20
+
+---
+
+## DAY 1 - COMMERCE RESTORATION
+
+**[See Chapter 21 for full details and legal framework]**
+
+### ☑️ **91. Restore NOAA, NWS, and Climate Science**
+- **Action:** EO directing reinstatement of all NOAA/NWS/NIST/MBDA employees; rescind climate science communication restrictions; restore DMSP satellite data sharing
+- **Responsible:** President → Secretary of Commerce
+- **Reference:** Chapter 21
+
+### ☑️ **92. Restore BEAD Broadband and CHIPS Programs**
+- **Action:** Pause BEAD rule changes; resume CHIPS grant administration; restore Census surveys and advisory committees
+- **Responsible:** President → NTIA → CHIPS Program Office → Census Bureau
+- **Reference:** Chapter 21
+
+---
+
+## DAY 1 - EXPORT-IMPORT BANK RESTORATION
+
+**[See Chapter 23 for full details and legal framework]**
+
+### ☑️ **93. Reaffirm EXIM Mission and Restore Operations**
+- **Action:** Presidential directive reaffirming EXIM role; designate acting board leadership; suspend Trump-era restrictions; establish China Export Finance Coordination Committee
+- **Responsible:** President → EXIM → Treasury → Commerce → State → NSC
+- **Reference:** Chapter 23
+
+---
+
+## DAY 1 - FEDERAL RESERVE INDEPENDENCE
+
+**[See Chapter 24 for full details and legal framework]**
+
+### ☑️ **94. Protect Federal Reserve Independence**
+- **Action:** EO rescinding CBDC ban; cease all proceedings targeting Fed officials; affirm Fed independence; convene FSOC review; AG opinion on for-cause removal protection
+- **Responsible:** President → Treasury Secretary → Attorney General
+- **Reference:** Chapter 24
+
+---
+
+## DAY 1 - SBA RESTORATION
+
+**[See Chapter 25 for full details and legal framework]**
+
+### ☑️ **95. Restore SBA Workforce and Programs**
+- **Action:** EO directing reinstatement of DOGE-terminated employees; release frozen SBDC/SCORE/WBC/VBOC funds; halt politically motivated funding pauses; restore 8(a) program and 15% SDB contracting goal
+- **Responsible:** President → SBA Administrator
+- **Reference:** Chapter 25
+
+---
+
+## DAY 1 - TRADE POLICY RESTORATION
+
+**[See Chapter 26 for full details and legal framework]**
+
+### ☑️ **96. Rescind IEEPA Tariffs on Allies and Restore Trade Order**
+- **Action:** EO rescinding IEEPA tariffs on allied nations; direct USTR to stop blocking WTO Appellate Body; reinstate Trade Adjustment Assistance; recognize USMCA obligations
+- **Responsible:** President → USTR → DOL → DOC
+- **Reference:** Chapter 26
+
+---
+
+## DAY 1 - FINANCIAL REGULATORY RESTORATION
+
+**[See Chapter 27 for full details and legal framework]**
+
+### ☑️ **97. Restore CFPB Enforcement and Consumer Protection**
+- **Action:** EO directing CFPB to restore enforcement staff; resume supervisory examinations; reinstate pending enforcement actions; revoke DOGE access to consumer data; investigate data breach
+- **Responsible:** President → CFPB Acting Director → CFPB IG
+- **Reference:** Chapter 27
+
+### ☑️ **98. Restore SEC Climate Disclosure and Financial Regulation**
+- **Action:** EO directing SEC to reinstate Climate Disclosure Rule; suspend GSE privatization; reinstate FSOC climate risk committees; nominate FDIC Chair, OCC Comptroller, CFTC Chair
+- **Responsible:** President → SEC → FHFA → FSOC → Treasury
+- **Reference:** Chapter 27
+
+---
+
+## FIRST 100 DAYS - EXPANDED AGENCY ACTIONS
+
+### ☑️ **99. DHS Legislative Package and Oversight Actions**
+- **Action:** Submit Asylum System Restoration Act, Protecting Sensitive Locations Act, ICE Accountability Act, and DACA Codification Act to Congress; establish ICE Oversight Board; mandatory body cameras for ICE
+- **Responsible:** DHS Secretary → Congress
+- **Timeline:** Within 60 days
+- **Reference:** Chapter 5
+
+### ☑️ **100. State Department Alliance Restoration Tours**
+- **Action:** Presidential visit to NATO HQ; Indo-Pacific tour (45 days), Latin America (60 days), Africa (90 days); Summit for Democracy (90 days); pay all UN arrears
+- **Responsible:** President → Secretary of State
+- **Reference:** Chapter 6
+
+### ☑️ **101. IC Personnel Restoration and Legislative Package**
+- **Action:** Complete review of all IC personnel separations since Jan 2025; reconstitute IC Election Security Initiative; submit IC Inspector General Protection Act, FISA Court Reform Act, IC Independence Act
+- **Responsible:** DNI → Congress
+- **Reference:** Chapter 7
+
+### ☑️ **102. Media Agency Reform Package**
+- **Action:** Nominate FCC commissioners; begin USAGM workforce rebuild; commission content audit; introduce Open Internet Act, FCC Independence Act, Public Media Restoration Act, USAGM Independence Act
+- **Responsible:** President → FCC → USAGM → Congress
+- **Reference:** Chapter 8
+
+### ☑️ **103. USAID Reconstitution Legislative Package**
+- **Action:** Submit USAID Statutory Independence Act, PEPFAR Permanence Act; $3B emergency supplemental; commence workforce reconstitution targeting 3,000 employees in 90 days
+- **Responsible:** Acting USAID Administrator → Congress
+- **Reference:** Chapter 9
+
+### ☑️ **104. Agriculture Legislative Package**
+- **Action:** Submit Food Security Act of 2027, Climate-Smart Agriculture Investment Act, Rural Equity and Investment Act; reissue school meal nutrition standards; establish USDA Office of Food Systems Equity
+- **Responsible:** USDA Secretary → Congress
+- **Reference:** Chapter 10
+
+### ☑️ **105. HHS Legislative and Regulatory Package**
+- **Action:** Submit CDC Independence Act, NIH Independence Act, Permanent ACA Subsidy Act, Medicare Benefits Expansion Act, Medication Abortion Access Act, Black Maternal Health Momnibus Act; nominate CDC Director for fixed term; restore WHO membership
+- **Responsible:** HHS Secretary → Congress
+- **Reference:** Chapter 14
+
+### ☑️ **106. Interior Monument Restoration and Legislative Package**
+- **Action:** Complete all monument restorations; cancel improper lease sales; initiate royalty rate and ESA rulemaking; submit $2B NPS emergency supplemental
+- **Responsible:** Secretary of Interior → Congress
+- **Reference:** Chapter 16
+
+### ☑️ **107. Labor Legislative Package**
+- **Action:** Submit PRO Act, FAMILY Act, $17 minimum wage, Overtime Guarantee Act, Wage Theft Prevention Act, FAIR Act, Apprenticeship Modernization Act; OSHA heat standard finalization; establish Worker Protection Task Force
+- **Responsible:** Secretary of Labor → Congress
+- **Reference:** Chapter 18
+
+### ☑️ **108. Transportation Safety and Legislative Package**
+- **Action:** Appoint FAA/NHTSA Administrators; submit Aviation Safety Emergency Supplemental ($3B), Railway Safety Act, Autonomous Vehicle Safety Act; convene National Transportation Safety Summit
+- **Responsible:** DOT Secretary → Congress
+- **Reference:** Chapter 19
+
+### ☑️ **109. VA Workforce and Claims Processing Restoration**
+- **Action:** Publish VA Workforce Restoration Plan; establish Toxic Exposure Claims Emergency Unit (5,000 hires); submit VA Accountability Act and Veterans Homelessness Elimination Act; commission Oracle-Cerner safety assessment
+- **Responsible:** VA Secretary → VBA → Congress
+- **Reference:** Chapter 20
+
+### ☑️ **110. Commerce Broadband and Technology Restoration**
+- **Action:** Restore BEAD program framework; restore NWS 24/7 operations; publish National Semiconductor Strategy draft; reinstate MBDA business centers; nominate NOAA Administrator
+- **Responsible:** Secretary of Commerce → NTIA → NOAA
+- **Reference:** Chapter 21
+
+### ☑️ **111. EXIM Clean Energy and Competition Initiatives**
+- **Action:** Submit EXIM Permanent Authorization Act and CTEP Expansion Act; establish Clean Energy Export Finance Initiative; nominate full EXIM board
+- **Responsible:** EXIM President → Congress
+- **Reference:** Chapter 23
+
+### ☑️ **112. Federal Reserve Reform Legislative Package**
+- **Action:** Introduce Federal Reserve Independence Preservation Act, Maximum Employment Equity Act, Fed Governance Modernization Act; reinstate CRA rule; restore climate financial risk principles
+- **Responsible:** Treasury Secretary → Federal Reserve → Congress
+- **Reference:** Chapter 24
+
+### ☑️ **113. SBA Workforce and Program Restoration**
+- **Action:** Complete reinstatement of terminated employees; restore 8(a) program; launch Emergency Working Capital Loan program for tariff-affected importers; introduce SBA Workforce Stability Act and four additional bills
+- **Responsible:** SBA Administrator → Congress
+- **Reference:** Chapter 25
+
+### ☑️ **114. Trade Policy Legislative Package**
+- **Action:** Submit Trade Emergency Authority Reform Act, American Worker Trade Transition Act, GSP Renewal Act, WTO Dispute Settlement Restoration Act; complete Section 301 tariff review; initiate USMCA Rapid Response cases
+- **Responsible:** USTR → DOL → Congress
+- **Reference:** Chapter 26
+
+### ☑️ **115. Financial Regulatory Restoration Package**
+- **Action:** CFPB refile dismissed enforcement actions; restore crypto enforcement at SEC; joint Basel III endgame rulemaking; restore PCAOB budget and inspection schedule; digital asset regulatory framework review
+- **Responsible:** CFPB → SEC → FDIC → OCC → Federal Reserve → CFTC → PCAOB
+- **Reference:** Chapter 27
+
+---
+
 ## 📊 SUCCESS METRICS (100-DAY GOALS)
 
 **Executive Actions:**
-- ✅ 60+ executive orders issued (including tax, housing, education)
-- ✅ All Project 2025 damage reversed
-- ✅ Civil service protections restored (10,000+ employees)
+- ✅ 100+ executive orders issued (across all federal agencies)
+- ✅ All Project 2025 damage reversed across 30+ agencies
+- ✅ Civil service protections restored (50,000+ employees across DHS, State, IC, USDA, HHS, Interior, DOL, DOT, VA, Commerce, SBA)
 - ✅ IRS high-wealth enforcement launched
 - ✅ Housing First policy implemented nationwide
 - ✅ Title IX and student protections restored
+- ✅ Reproductive healthcare access restored (mifepristone, Title X)
+- ✅ National monuments restored (Bears Ears, Grand Staircase-Escalante)
+- ✅ USAID reconstituted as independent agency
+- ✅ Federal Reserve independence reaffirmed
+- ✅ CFPB enforcement fully restored
+- ✅ IEEPA tariffs on allies rescinded
 
 **Personnel:**
 - ✅ 100% Cabinet confirmed
 - ✅ 500+ political operatives removed from career positions
 - ✅ 200+ civil rights attorneys hired/hiring
+- ✅ FAA, NHTSA, NOAA, SBA, EXIM leadership appointed
+- ✅ Full NLRB board nominated
+- ✅ CDC Director, FDA Commissioner, CFPB Director nominated
 
 **Investigations:**
 - ✅ Special Counsel appointed and operational
 - ✅ 100+ cases reopened (voting rights, police misconduct, corruption)
 - ✅ 20+ public integrity investigations launched
+- ✅ CFPB dismissed enforcement actions refiled
+- ✅ DOGE data access incidents investigated
+- ✅ IC personnel separations reviewed
 
 **Legislation:**
-- ✅ 8 priority bills introduced to Congress
+- ✅ 60+ priority bills introduced to Congress (across all agencies)
 - ✅ Bipartisan coalitions built (10+ Republican co-sponsors)
 - ✅ Grassroots support mobilized (1M+ petition signatures)
 
 **Policy Development:**
-- ✅ Year 1 legislative agenda complete (18 bills drafted)
-- ✅ Implementation plans for all major reforms
-- ✅ Budget proposals submitted
+- ✅ Year 1 legislative agenda complete (190+ bills drafted)
+- ✅ Implementation plans for all major reforms across 30+ agencies
+- ✅ Budget proposals and emergency supplementals submitted
 
 **Public Confidence:**
 - ✅ Presidential approval: 60%+ (from starting point)
@@ -683,7 +1082,7 @@ DAY 100: Assessment & Year 1 Launch
 ## 📚 SUPPORTING DOCUMENTS
 
 **Use alongside this checklist:**
-- Master Legislative Requirements (90+ laws needed)
+- Master Legislative Requirements (190+ laws needed)
 - Year 1 Implementation Checklist (Months 4-12)
 - Agency-Specific Transition Plans (all 31 chapters)
 - Constitutional Amendments Package (7 amendments, long-term)
@@ -737,7 +1136,7 @@ This checklist is ambitious but achievable. **It requires:**
 ---
 
 **Project 2029: First 100 Days Checklist**
-*59 Critical Actions | Day-by-Day Plan | Ready for Implementation*
+*115 Critical Actions | Day-by-Day Plan | Ready for Implementation*
 *From 31 Comprehensive Chapters | See Master Legislative Requirements for Full Details*
 
 **PRINT THIS. POST IT. EXECUTE IT. 🇺🇸**
