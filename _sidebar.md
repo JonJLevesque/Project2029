@@ -1,4 +1,5 @@
-* [Home](README.md)
+* [Home](home.md)
+* [README / Full Overview](README.md)
 * [Introduction](00_Introduction_A_Mandate_to_Restore_Democracy.md)
 * [Table of Contents](TABLE_OF_CONTENTS.md)
 

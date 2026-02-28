@@ -765,3 +765,118 @@ section.cover .cover-main {
     max-width: 100% !important;
   }
 }
+
+/* ----- Homepage: Stats Grid ----- */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.stat-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-top: 3px solid var(--accent);
+  border-radius: 8px;
+  padding: 1.25rem 1rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.stat-number {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--accent);
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ----- Homepage: Section Navigation Cards ----- */
+.section-nav {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.reform-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.reform-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.reform-card h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.reform-card ul {
+  margin: 0;
+  padding-left: 1.25rem;
+  font-size: 0.875rem;
+}
+
+.reform-card li {
+  margin-bottom: 0.2rem;
+}
+
+/* Section color borders */
+.reform-card.section1 { border-top: 3px solid var(--section1-governance); }
+.reform-card.section1 h3 { color: var(--section1-governance); border-bottom-color: var(--section1-governance); }
+
+.reform-card.section2 { border-top: 3px solid var(--section2-defense); }
+.reform-card.section2 h3 { color: var(--section2-defense); border-bottom-color: var(--section2-defense); }
+
+.reform-card.section3 { border-top: 3px solid var(--section3-welfare); }
+.reform-card.section3 h3 { color: var(--section3-welfare); border-bottom-color: var(--section3-welfare); }
+
+.reform-card.section4 { border-top: 3px solid var(--section4-economy); }
+.reform-card.section4 h3 { color: var(--section4-economy); border-bottom-color: var(--section4-economy); }
+
+.reform-card.section5 { border-top: 3px solid var(--section5-regulatory); }
+.reform-card.section5 h3 { color: var(--section5-regulatory); border-bottom-color: var(--section5-regulatory); }
+
+.reform-card.section6 { border-top: 3px solid var(--section6-democracy); }
+.reform-card.section6 h3 { color: var(--section6-democracy); border-bottom-color: var(--section6-democracy); }
+
+/* Dark mode adjustments for cards */
+@media (prefers-color-scheme: dark) {
+  .stat-card,
+  .reform-card {
+    background: var(--bg-secondary);
+    border-color: var(--border-color);
+  }
+}
+
+/* Mobile: single column cards */
+@media (max-width: 600px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .section-nav {
+    grid-template-columns: 1fr;
+  }
+}
