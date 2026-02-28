@@ -3,13 +3,35 @@
 <head>
   <meta charset="UTF-8">
   <title>Project 2029: A Mandate for Democratic Renewal</title>
-  <meta name="description" content="A comprehensive policy blueprint for restoring and transforming American democracy">
+  <meta name="description" content="A comprehensive progressive policy blueprint for restoring and transforming American democracy — a 210,000+ word counter to Project 2025.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Project 2029: A Mandate for Democratic Renewal">
+  <meta property="og:description" content="A comprehensive progressive policy blueprint for restoring and transforming American democracy.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://jonjlevesque.github.io/Project2029/">
+  <meta property="og:image" content="https://jonjlevesque.github.io/Project2029/assets/og-image.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Project 2029: A Mandate for Democratic Renewal">
+  <meta name="twitter:description" content="A comprehensive progressive policy blueprint for restoring and transforming American democracy.">
+  <meta name="twitter:image" content="https://jonjlevesque.github.io/Project2029/assets/og-image.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+
+  <!-- Docsify theme (pinned) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/themes/vue.css"
+        integrity="sha384-jCK82M2ExfkqAO/MYBKMjP1qC4AvZ4/Duf2gVWOy3RPn26uz+KW5I+9S39za1Fqv"
+        crossorigin="anonymous">
+
   <style>
     :root {
       --theme-color: #2563eb;
     }
+    .cover-main h1 { font-size: 2.8rem; }
   </style>
 </head>
 <body>
@@ -19,21 +41,50 @@
       name: 'Project 2029',
       repo: 'https://github.com/JonJLevesque/Project2029',
       loadSidebar: true,
+      loadNavbar: false,
+      coverpage: true,
+      onlyCover: false,
       subMaxLevel: 2,
+      auto2top: true,
+      homepage: 'README.md',
+      notFoundPage: '_404.md',
       search: {
-        placeholder: 'Search',
-        noData: 'No Results',
+        placeholder: 'Search Project 2029',
+        noData: 'No results found.',
         depth: 3
       },
-      auto2top: true,
-      homepage: 'README.md'
+      pagination: {
+        previousText: 'Previous Chapter',
+        nextText: 'Next Chapter',
+        crossChapter: true,
+        crossChapterText: true
+      }
     }
   </script>
-  <!-- Docsify -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- Docsify core (pinned v4.13.1) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/docsify.min.js"
+          integrity="sha384-KaHhgnx/OTLoJ4J33SSJsF4x1pk4I7q3s5ZOfIDHJYl6IG7Oyn2vNDsHiWJe46fD"
+          crossorigin="anonymous"></script>
+
   <!-- Search plugin -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/search.min.js"
+          integrity="sha384-LthJPBJ4RGco78kBY+EmKz5rmISZ5vrtAu3+l2ALQ2mrZHOe6Wyf6knyKjeC4cL6"
+          crossorigin="anonymous"></script>
+
   <!-- Copy code plugin -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2.1.1/dist/docsify-copy-code.min.js"
+          integrity="sha384-t4d9b4/0dEBkoJ5e77XEPBrqJ790jbFQFmEaTbBqIlTDeGosM1AbZvC1NQwqTg+5"
+          crossorigin="anonymous"></script>
+
+  <!-- Pagination plugin (prev/next chapter nav) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"
+          integrity="sha384-uFEp18/1vv2dYlO64J2lOcnbhirAQZPtruqAZZ7PZYoXenm5c+tIs3AqSMjVMRe8"
+          crossorigin="anonymous"></script>
+
+  <!-- Sidebar collapse plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"
+          integrity="sha384-lMHOyuqf3B/T/BgfYxUKprN0bdRf8KhVTE11w76Tvtze86XHVSDYzxqNGDGgIi9I"
+          crossorigin="anonymous"></script>
 </body>
 </html>
