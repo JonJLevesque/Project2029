@@ -1,0 +1,20 @@
+# markdownlint configuration
+# https://github.com/DavidAnson/markdownlint
+
+default: true
+
+# Disable line length limit (policy documents have long lines)
+MD013: false
+
+# Allow duplicate headings in different sections
+MD024:
+  allow_different_nesting: true
+
+# Allow bare URLs (used in References sections)
+MD034: false
+
+# Allow inline HTML (used in Docsify special syntax)
+MD033: false
+
+# First heading need not be h1 (sidebars, support files start with ##)
+MD041: false
