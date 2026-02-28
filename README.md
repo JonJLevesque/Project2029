@@ -258,7 +258,7 @@ Project 2029 proposes **7 constitutional amendments** to permanently secure demo
 | [Educator Study Guide](Supporting_Materials/Study_Guides/Educator_Study_Guide.md) | Classroom integration toolkit |
 | [Activist Toolkit](Supporting_Materials/Activist_Toolkit.md) | Templates, scripts, organizing resources |
 | [Opposition Playbook](Supporting_Materials/Opposition_Playbook.md) | Anticipate attacks, preempt opposition, win debates |
-| [Advisory Board](Supporting_Materials/Advisory_Board.md) | Expert contributors |
+| [Key Sources and Inspirations](Supporting_Materials/Advisory_Board.md) | Organizations and scholars whose work informed this project |
 
 ---
 
@@ -305,7 +305,7 @@ Project 2029 proposes **7 constitutional amendments** to permanently secure demo
 
 ## Contributors & License
 
-Project 2029 is developed with input from constitutional law experts, former government officials, policy specialists, civil rights advocates, and democracy scholars. See [Advisory Board](Supporting_Materials/Advisory_Board.md).
+Project 2029 builds on decades of research, litigation, and scholarship by leading democracy, civil rights, labor, and environmental organizations. See [Key Sources and Inspirations](Supporting_Materials/Advisory_Board.md) for the full list of work that informed this project.
 
 **You are free to:** share, print, distribute, use in organizing and advocacy, adapt for local/state campaigns, and cite with attribution. Please maintain accuracy and share improvements back to the project.
 
