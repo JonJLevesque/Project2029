@@ -1,6 +1,6 @@
 # Project 2029: A Mandate for Restorative + Transformative Democratic Renewal
 
-**Quick Navigation:** [Overview](#overview) | [By The Numbers](#by-the-numbers) | [Quick Start](#quick-start) | [31 Chapters](#31-chapters) | [32 Reforms](#the-32-transformative-reforms) | [Supporting Materials](#supporting-materials) | [Get Started](#get-started) | [Support](https://buymeacoffee.com/project2029)
+**Quick Navigation:** [Overview](#overview) | [By The Numbers](#by-the-numbers) | [Quick Start](#quick-start) | [31 Chapters](#31-chapters) | [32 Reforms](#the-32-transformative-reforms) | [Supporting Materials](#supporting-materials) | [Get Started](#get-started)
 
 ---
 
@@ -318,5 +318,3 @@ Project 2029 is developed with input from constitutional law experts, former gov
 **Project 2029: Not restoration — transformation. Building the democracy we have never had but always promised: of the people, by the people, for the people.**
 
 **Ready for Implementation.**
-
-<a href="https://buymeacoffee.com/project2029" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

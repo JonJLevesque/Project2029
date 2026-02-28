@@ -217,4 +217,3 @@ Full text and legal analysis: [Chapter 29](Section6_Safeguarding_Democracy_And_A
 
 *Last Updated: February 28, 2026 · All 31 chapters fully developed · [View on GitHub](https://github.com/JonJLevesque/Project2029)*
 
-<a href="https://buymeacoffee.com/project2029" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
