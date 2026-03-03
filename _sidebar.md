@@ -126,5 +126,7 @@
   * [#27 Free College](Supporting_Materials/One-Pagers/27_Free_Public_College.md)
   * [#28 Wealth Tax](Supporting_Materials/One-Pagers/28_Wealth_Tax.md)
   * [#30 AI Governance](Supporting_Materials/One-Pagers/30_AI_Governance.md)
+  * [#31 VP Disqualification](Supporting_Materials/One-Pagers/31_VP_Disqualification.md)
+  * [#32 Felon Disqualification](Supporting_Materials/One-Pagers/32_Felon_Disqualification.md)
 
 * [Conclusion](30_Conclusion_Forward_Together.md)

@@ -1085,7 +1085,7 @@ DAY 100: Assessment & Year 1 Launch
 - Master Legislative Requirements (190+ laws needed)
 - Year 1 Implementation Checklist (Months 4-12)
 - Agency-Specific Transition Plans (all 31 chapters)
-- Constitutional Amendments Package (7 amendments, long-term)
+- Constitutional Amendments Package (9 amendments, long-term)
 
 ---
 

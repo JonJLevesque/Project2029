@@ -16,7 +16,7 @@
 <span class="stat-label">Proposed Laws</span>
 </div>
 <div class="stat-card">
-<span class="stat-number">7</span>
+<span class="stat-number">9</span>
 <span class="stat-label">Constitutional Amendments</span>
 </div>
 </div>
@@ -185,7 +185,7 @@ These chapters represent the core of the Project 2029 vision:
 
 ---
 
-## 7 Proposed Constitutional Amendments
+## 9 Proposed Constitutional Amendments
 
 Permanent structural reform requires constitutional change. Project 2029 proposes:
 
@@ -198,6 +198,8 @@ Permanent structural reform requires constitutional change. Project 2029 propose
 | **32nd** | Abolish Electoral College | Direct popular vote for President |
 | **33rd** | SCOTUS 18-Year Terms | Staggered, predictable appointments every 2 years |
 | **34th** | Social Security Protection | Benefits can never be cut; eliminate payroll cap |
+| **35th** | Two-Term President VP Ban | No end-run around term limits via the Vice Presidency |
+| **36th** | Felony Disqualification | Convicted felons cannot hold the office of President or VP |
 
 Full text and legal analysis: [Chapter 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) · [Chapter 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md)
 

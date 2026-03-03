@@ -963,6 +963,52 @@ Section 3. Self-pardons are prohibited. No President may pardon themselves or gr
 Section 4. Congress shall have power to enforce this article by appropriate legislation.
 ```
 
+### Proposed 35th Amendment: Two-Term President Vice-Presidential Disqualification
+
+**The Loophole:** The 22nd Amendment bars a person from being *elected* President more than twice. It does not bar a former two-term President from serving as Vice President and ascending to the Presidency through succession under the 25th Amendment — without ever being elected. This loophole was identified during the 2024 election cycle and must be closed permanently.
+
+```
+Section 1. No person who has been elected to the office of President twice, or who has served as
+President for more than four years by virtue of succession or otherwise, shall be eligible to hold
+the office of Vice President of the United States.
+
+Section 2. No such person shall be eligible to succeed to the Presidency through any constitutional
+provision, including but not limited to Article II and the Twenty-Fifth Amendment.
+
+Section 3. Congress shall have power to enforce this article by appropriate legislation.
+```
+
+**Constitutional Basis:** Extends the 22nd Amendment's term-limit principle to close the succession loophole. The 12th Amendment already provides that anyone constitutionally ineligible to be President is ineligible to be Vice President — this amendment makes the term-limit bar explicit for succession purposes.
+
+**Why It Matters:** A former two-term President could run as VP, have their running mate resign or die in office, and ascend to a third presidential term without winning a presidential election. This amendment prevents that scenario entirely.
+
+---
+
+### Proposed 36th Amendment: Felony Disqualification from the Presidency
+
+**The Gap:** The Constitution sets minimal eligibility requirements for the Presidency — natural born citizen, 35 years of age, 14 years of residency. No provision bars a person convicted of serious crimes from holding the nation's highest office. Section 3 of the 14th Amendment disqualifies those who engaged in insurrection, but requires a separate congressional vote to enforce and does not cover other felonies. This amendment closes that gap.
+
+```
+Section 1. No person who has been convicted of a felony under the laws of the United States, or of
+a felony under the laws of any State that involves corruption, abuse of public trust, fraud, bribery,
+election interference, or obstruction of justice, shall be eligible to hold the office of President
+or Vice President of the United States.
+
+Section 2. A conviction shall not operate as a disqualification under this article if it has been
+reversed or vacated by a court of competent jurisdiction prior to the date of the election.
+
+Section 3. Congress shall have power to enforce this article by appropriate legislation, including
+establishing procedures for determining the applicability of this disqualification.
+```
+
+**Constitutional Basis:** Article I, Section 3 already allows Senate to disqualify from holding federal office following impeachment conviction. Section 3 of the 14th Amendment disqualifies insurrectionists. This amendment extends the disqualification principle to serious felony convictions, consistent with the constitutional framework of protecting the integrity of federal office.
+
+**Scope:** Covers all federal felonies. For state felonies, limited to corruption, public trust violations, fraud, bribery, election interference, and obstruction — preventing application to minor or technical offenses while ensuring crimes that directly implicate fitness for office are covered.
+
+**Why It Matters:** In 2024, a major-party presidential nominee ran while under federal felony indictment and was subsequently convicted. The Constitution as written did not bar that person from the ballot or from serving. No democracy should be vulnerable to governance by a convicted criminal. This amendment closes that vulnerability permanently.
+
+---
+
 ## X. Implementation and Enforcement
 
 ### Timeline

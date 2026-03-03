@@ -7,7 +7,7 @@
 
 ## 📚 OVERVIEW
 
-This guide helps educators integrate Project 2029's democratic renewal framework into existing curricula. Project 2029 spans 31 chapters, 414,000+ words, 150+ proposed federal laws, and 7 constitutional amendments covering every federal department and agency. The material aligns with National Curriculum Standards for Social Studies (NCSS), the C3 Framework, and Common Core State Standards for literacy in history/social studies.
+This guide helps educators integrate Project 2029's democratic renewal framework into existing curricula. Project 2029 spans 31 chapters, 414,000+ words, 150+ proposed federal laws, and 9 constitutional amendments covering every federal department and agency. The material aligns with National Curriculum Standards for Social Studies (NCSS), the C3 Framework, and Common Core State Standards for literacy in history/social studies.
 
 **Appropriate for:**
 - **High School:** Grades 9-12 (Government, Civics, US History, AP Government)

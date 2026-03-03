@@ -28,7 +28,7 @@ Project 2029 is a **414,000+ word comprehensive policy framework** designed to c
 | | |
 |--|--|
 | **414,000+** words | **31** fully developed chapters |
-| **150+** proposed federal laws | **7** proposed constitutional amendments |
+| **150+** proposed federal laws | **9** proposed constitutional amendments |
 | **32** democracy reforms | **~$600B** annual new investment |
 | **29** reform one-pagers | **31** chapter one-pagers |
 
@@ -191,7 +191,7 @@ All 31 chapters fully developed. Total: 414,000+ words.
 
 ## Proposed Constitutional Amendments
 
-Project 2029 proposes **7 constitutional amendments** to permanently secure democratic governance:
+Project 2029 proposes **9 constitutional amendments** to permanently secure democratic governance:
 
 | Amendment | Purpose | Chapter |
 |-----------|---------|---------|
@@ -202,6 +202,8 @@ Project 2029 proposes **7 constitutional amendments** to permanently secure demo
 | **32nd** | Abolish Electoral College — direct popular vote for President | [Ch 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) |
 | **33rd** | Supreme Court 18-Year Terms — staggered, predictable appointments | [Ch 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) |
 | **34th** | Social Security Protection — benefits can never be cut | [Ch 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) |
+| **35th** | Two-Term President VP Disqualification — no end-run around term limits via VP | [Ch 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) |
+| **36th** | Felony Disqualification from the Presidency — convicted felons cannot hold the office | [Ch 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) |
 
 ---
 
@@ -240,6 +242,7 @@ Project 2029 proposes **7 constitutional amendments** to permanently secure demo
 | [05 Fairness Doctrine](Supporting_Materials/One-Pagers/05_Restore_Fairness_Doctrine.md) | [12 Ranked Choice](Supporting_Materials/One-Pagers/12_Ranked_Choice_Voting.md) | [19 Civic Education](Supporting_Materials/One-Pagers/19_Civic_Education_Overhaul.md) | [26 Housing First](Supporting_Materials/One-Pagers/26_Housing_First_Homelessness.md) |
 | [06 Lobbying](Supporting_Materials/One-Pagers/06_Ban_Lobbying.md) | [13 Paper Ballots](Supporting_Materials/One-Pagers/13_Paper_Ballot_Trail_Mandate.md) | [20 Deepfake Ban](Supporting_Materials/One-Pagers/20_Political_Deepfake_Ban.md) | [27 Free College](Supporting_Materials/One-Pagers/27_Free_Public_College.md) |
 | [07 Public Elections](Supporting_Materials/One-Pagers/07_Publicly_Funded_Elections.md) | [14 Social Media](Supporting_Materials/One-Pagers/14_Social_Media_Transparency.md) | [21 Const. Hardball](Supporting_Materials/One-Pagers/21_Constitutional_Hardball.md) | [28 Wealth Tax](Supporting_Materials/One-Pagers/28_Wealth_Tax.md) · [30 AI Governance](Supporting_Materials/One-Pagers/30_AI_Governance.md) |
+| [31 VP Disqualification](Supporting_Materials/One-Pagers/31_VP_Disqualification.md) | [32 Felon Disqualification](Supporting_Materials/One-Pagers/32_Felon_Disqualification.md) | | |
 
 ### Visual & Print Assets
 | Resource | Description |
@@ -248,7 +251,7 @@ Project 2029 proposes **7 constitutional amendments** to permanently secure demo
 | [Project Overview (Printable)](assets/printable/project-overview.html) | Single-page print summary — all 6 sections |
 | [First 100 Days (Printable)](assets/printable/first-100-days.html) | Visual timeline infographic for tabling and events |
 | [Reform Matrix (Printable)](assets/printable/reform-matrix.html) | All 31 chapters in a color-coded grid |
-| [Constitutional Amendments (Printable)](assets/printable/constitutional-amendments.html) | Visual summary of all 7 proposed amendments |
+| [Constitutional Amendments (Printable)](assets/printable/constitutional-amendments.html) | Visual summary of all 9 proposed amendments |
 
 ### Research & Organizing
 | Resource | Description |
