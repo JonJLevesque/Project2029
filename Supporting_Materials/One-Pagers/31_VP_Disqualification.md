@@ -43,12 +43,32 @@ The 35th Amendment resolves this ambiguity by constitutional text — not court 
 
 ---
 
+## Does the 12th Amendment Already Cover This?
+
+**The argument that it does:** The 12th Amendment (1804) states that "no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President." If a two-term former president is "constitutionally ineligible" to be president under the 22nd Amendment, then by this logic, they're automatically ineligible to be VP too — no new amendment needed.
+
+**Why that argument is insufficient:**
+
+**1. The textual problem.** The 22nd Amendment bars *election* to a third presidential term — it does not declare a two-term president "ineligible" to hold the office in a broader constitutional sense. A former president could be *appointed* VP under the 25th Amendment succession provisions. The 12th Amendment only applies to election — not to succession. That gap is real, and it's textually unresolved.
+
+**2. No court has ever ruled on this.** The interaction between the 12th and 22nd Amendments has never been adjudicated. That means any attempt to put a two-term former president on a VP ticket — or to have them ascend through succession — would immediately trigger litigation. That litigation could take years. It could go to a Supreme Court without obvious precedent. The outcome is genuinely uncertain.
+
+**3. The "ineligible" language was written in 1804.** When the 12th Amendment was drafted, the only presidential eligibility requirements were Article II's age, citizenship, and residency criteria. Courts must determine whether "constitutionally ineligible" as written in 1804 incorporates a term-limit bar added 147 years later. Textualists and originalists will argue it does not. That is a serious legal argument, not a frivolous one.
+
+**4. Conservative scholars have staked out the other side.** Prominent conservative legal academics — including those with significant influence over the current Supreme Court majority — have argued that the 12th Amendment does not incorporate the 22nd Amendment's bar. Under this reading, a two-term former president could constitutionally appear on a ticket as VP. *The current Court might agree.*
+
+**5. "Probably constitutional" is not the same as "constitutionally closed."** A norm that depends on litigation outcomes and judicial temperament is not a structural safeguard. It is a bet. The 35th Amendment converts an uncertain judicial question into clear constitutional text — which is exactly what the amendment process is for.
+
+**Bottom line:** The 12th Amendment *might* cover this. But the whole point of a constitutional amendment is to close the gap with certainty rather than leave it to courts to resolve under political pressure. The Framers did not rely on "probably fine" — they wrote it down. The 35th Amendment does the same.
+
+---
+
 ## Constitutional Authority and Precedent
 
-- **22nd Amendment (1951):** Establishes the two-term limit
-- **12th Amendment:** VP must be eligible to serve as President — the 35th clarifies what "eligible" means post-two-terms
+- **22nd Amendment (1951):** Establishes the two-term limit — bars *election* to a third term
+- **12th Amendment (1804):** VP must be "constitutionally eligible" to serve as President — but does not clearly incorporate the 22nd Amendment's term-limit bar
 - **Article V:** Congress proposes amendments by 2/3 vote of both chambers; ratified by 3/4 of states
-- **Historical precedent:** The 22nd Amendment itself was passed specifically to prevent the kind of indefinite executive power consolidation seen during FDR's four terms
+- **Historical precedent:** The 22nd Amendment itself was passed to prevent indefinite executive power consolidation — the 35th completes that intent
 
 ---
 
@@ -80,8 +100,8 @@ This is not a hypothetical. It is a structural vulnerability in the current cons
 **For constituents:**
 > "The 22nd Amendment says a two-term president can't run for president again. But it doesn't say they can't run for vice president — and then take the job they were banned from. This amendment closes that loophole. A limit means a limit."
 
-**For skeptics:**
-> "This isn't hypothetical. It is a real gap in constitutional text. If we don't close it by amendment, we leave it to courts — and courts can get it wrong. We fix it now, before someone exploits it."
+**For skeptics who say "doesn't the 12th Amendment already cover this?":**
+> "Maybe. No court has ever ruled on it, legal scholars are genuinely split, and conservative textualists have a serious argument that the 12th Amendment's language — written in 1804 — doesn't incorporate a term-limit bar added in 1951. If someone puts a two-term former president on a VP ticket, that question goes to courts, takes years, and could go either way on a politically charged Supreme Court. We fix it now with clear text rather than gambling on litigation."
 
 **Historical framing:**
 > "The founders wanted no king. The 22nd Amendment reaffirmed that. The 35th Amendment makes it stick."
