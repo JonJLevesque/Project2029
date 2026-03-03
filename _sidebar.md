@@ -142,5 +142,7 @@
   * [#41 Corporate Tax Reform](Supporting_Materials/One-Pagers/41_Corporate_Tax_Reform.md)
   * [#42 Cannabis Legalization](Supporting_Materials/One-Pagers/42_Cannabis_Legalization.md)
   * [#43 Anti-NIMBY Zoning Reform](Supporting_Materials/One-Pagers/43_Anti_NIMBY_Zoning.md)
+  * [#44 Break Up Billionaire Media](Supporting_Materials/One-Pagers/44_Break_Up_Billionaire_Media.md)
+  * [#45 Main Street Investment Act](Supporting_Materials/One-Pagers/45_Main_Street_Investment_Act.md)
 
 * [Conclusion](30_Conclusion_Forward_Together.md)
