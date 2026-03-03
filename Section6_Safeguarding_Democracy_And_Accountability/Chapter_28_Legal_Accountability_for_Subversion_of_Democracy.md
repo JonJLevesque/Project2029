@@ -277,6 +277,222 @@ For detailed documentation of all violations, see: **Supporting_Materials/Eviden
 
 ---
 
+## Part I-B: Congressional Accountability — Speaker of the House Mike Johnson
+
+### Overview: The Speaker Who Chose Complicity
+
+Speaker Mike Johnson (R-LA) presents one of the most legally significant — and historically rare — cases of congressional accountability in modern American history. As the constitutional officer second in the presidential line of succession, Johnson held extraordinary power to check executive overreach, enforce congressional prerogatives, and fulfill his oath of office. He systematically and willfully declined to exercise any of it.
+
+This is not a case of policy disagreement. It is a documented pattern of:
+1. **Active complicity** in the schemes that culminated in January 6th — before he held the speakership
+2. **Willful abdication** of every Article I constitutional duty once he became Speaker
+3. **Enabling executive lawlessness** by using House procedures to shield the Trump administration from congressional oversight
+4. **Obstruction of constitutional functions** he personally controlled
+
+Johnson's conduct falls into two analytically distinct periods: **(A) pre-Speakership election subversion activity** and **(B) speakership-era dereliction and complicity**. Both periods carry independent legal exposure.
+
+---
+
+### I. Pre-Speakership: The 2020 Election Subversion Brief
+
+#### What Johnson Did
+
+On November 30, 2020, Congressman Mike Johnson organized and led a **House Republican amicus brief** filed in *Texas v. Pennsylvania* (No. 22O155) — the lawsuit seeking to overturn the 2020 presidential election results in four states. The brief bore **126 Republican House member signatures**. Johnson personally recruited members to sign and served as its principal architect.
+
+**The legal argument in the brief was legally frivolous and Johnson knew it:**
+- It asked the Supreme Court to invalidate millions of legally cast votes
+- It was filed without evidentiary basis — no fraud had been proven in any court
+- As a former constitutional law professor, Johnson was fully capable of assessing the legal merit (and absence thereof) of the underlying claims
+- The Supreme Court dismissed the case in under 24 hours — **nine justices, including three Trump appointees**, declined to take it
+
+The brief was not protected political advocacy. It was a formal legal filing before the Supreme Court of the United States designed to overturn a certified presidential election on the basis of claims that had been rejected by 60+ courts.
+
+#### Applicable Law
+
+**18 USC § 371 — Conspiracy to Defraud the United States:**
+The statute prohibits any conspiracy to "defraud the United States, or any agency thereof in any manner or for any purpose." Courts have interpreted this broadly to include conspiracies that interfere with the lawful functions of government — including the certification of a presidential election (see *Hammerschmidt v. United States*, 265 U.S. 182 (1924); *United States v. Caldwell*, D.D.C., applied in Jan. 6 prosecutions).
+
+**18 USC § 1512(c) — Obstruction of an Official Proceeding:**
+The January 6, 2021 joint session of Congress for electoral vote certification is a proceeding of Congress within the meaning of 18 USC § 1512(c)(2). Filing a Supreme Court brief designed to eliminate the legal basis for certification — and organizing 126 congressional co-signers to lend official institutional credibility to that effort — constitutes an attempt to obstruct that proceeding.
+
+**18 USC § 2384 — Seditious Conspiracy:**
+To the extent that Johnson's coordination with the legal teams and political actors pursuing multiple parallel strategies to prevent the transfer of power constitutes an agreement to prevent execution of a law of the United States, seditious conspiracy exposure exists. The January 6th Committee's findings regarding the coordinated multi-front assault on certification are directly relevant.
+
+**The Oath of Office — 5 USC § 3331:**
+Every member of Congress swears to "support and defend the Constitution of the United States against all enemies, foreign and domestic." Filing a legally meritless brief aimed at disenfranchising millions of voters in four states is not defending the Constitution. It is attacking it.
+
+#### Evidentiary Status
+
+The amicus brief is a **public court filing** — it is its own evidence. Johnson's recruitment activities are documented. His statements explaining and defending the brief are on record. This is not a matter requiring whistleblower testimony or document discovery — the evidentiary core is already in the public record.
+
+---
+
+### II. Speakership-Era Dereliction: Abdication of Article I Authority
+
+#### What the Constitution Requires of the Speaker
+
+The Speaker of the House is not merely a presiding officer. The Speaker is:
+
+- **The constitutionally designated leader of the chamber** with power to control the floor, set the legislative agenda, and determine which bills, resolutions, and investigations proceed
+- **The officer who controls impeachment proceedings** — only the Speaker can bring articles of impeachment to the floor (Art. I, Sec. 2, Cl. 5)
+- **The controller of the subpoena power** — the Speaker directs committee assignments and can authorize or block congressional subpoenas to the executive branch
+- **The institutional guardian of congressional prerogatives** — including the power of the purse, oversight authority, and the separation of powers
+- **Second in the presidential line of succession** — with commensurate constitutional responsibility
+
+Speaker Johnson exercised none of these powers in defense of the Constitution. He exercised all of them in defense of the executive branch's assault on it.
+
+#### Category 1: Willful Failure to Investigate Documented Executive Crimes
+
+Between January 2025 and the present, **39 federal judges** have ruled against Trump administration actions, multiple courts have found **probable cause for criminal contempt**, and the administration has committed documented violations across every major category of federal criminal law outlined in this chapter.
+
+Speaker Johnson's response:
+- **Refused to authorize a select committee** to investigate documented executive branch violations
+- **Blocked subpoenas** to administration officials implicated in documented misconduct
+- **Prevented floor votes** on resolutions of inquiry directing the executive branch to produce documents
+- **Disbanded or defunded oversight mechanisms** at the urging of the executive branch
+- **Used the Rules Committee** to strip minority Democrats of procedural tools to force votes on accountability measures
+
+**This is not passive inaction.** Preventing the House from exercising its oversight function requires active, daily procedural choices by the Speaker. Johnson made those choices deliberately.
+
+**Constitutional Basis for Oversight Duty:**
+- Art. I, Sec. 8: The necessary-and-proper clause grounds broad congressional investigative power (*McGrain v. Daugherty*, 273 U.S. 135 (1927))
+- *Eastland v. United States Servicemen's Fund*, 421 U.S. 491 (1975): Congressional investigative power is "broad" and encompasses investigations of the executive branch
+- *Senate Select Committee v. Nixon*, 498 F.2d 725 (D.C. Cir. 1974): Congress has constitutional authority to compel executive branch documents
+
+By actively suppressing these powers, Johnson violated the institutional duties of his office — duties grounded in Article I itself.
+
+#### Category 2: DOGE — Enabling Unconstitutional Executive Action Without Congressional Oversight
+
+The Department of Government Efficiency (DOGE), operating under Elon Musk, unilaterally:
+- Accessed Treasury payment systems containing financial data for **340 million Americans** without authorization
+- Fired federal employees in mass actions not authorized by Congress
+- Cancelled contracts and grants lawfully appropriated by Congress
+- Penetrated classified systems at multiple agencies
+- Operated without any statutory authorization, inspector general accountability, or GAO oversight
+
+**Multiple courts have ruled DOGE's actions unconstitutional.**
+
+Speaker Johnson's response: **Nothing.** No hearings. No subpoenas. No floor votes. No referrals to inspectors general. No assertion of congressional power over the executive branch agency usurping congressional appropriations authority.
+
+**Applicable Law:**
+
+**Impoundment Control Act of 1974 (2 USC § 684):** The President cannot unilaterally impound or rescind congressionally appropriated funds without following statutory process. DOGE's cancellation of lawfully appropriated contracts and grants violated the Act. Johnson, as Speaker and guardian of the power of the purse, had both the authority and the duty to respond. He took no action.
+
+**18 USC § 2 — Aiding and Abetting:** A person who "aids, abets, counsels, commands, induces or procures" the commission of a federal offense is punishable as a principal. By providing institutional cover — refusing to investigate, authorize oversight, or use any of his considerable power to stop documented illegal conduct — Johnson aided and abetted ongoing violations of federal appropriations law and constitutional authority.
+
+**The Appropriations Clause (Art. I, Sec. 9, Cl. 7):** "No money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law." DOGE's unilateral termination of lawfully appropriated programs violated this clause. The Speaker's constitutional responsibility includes defending congressional appropriations authority. Johnson's silence was a dereliction of that constitutional duty.
+
+#### Category 3: Obstruction of Impeachment Power
+
+The Constitution vests the "sole power of impeachment" in the House of Representatives (Art. I, Sec. 2, Cl. 5). This means the House — and by extension its Speaker — has both the power and, when faced with documented impeachable conduct, the institutional duty to act.
+
+The documented violations outlined in Part I-A of this chapter — including court-validated probable cause for criminal contempt, systematic destruction of oversight mechanisms, and documented obstruction of justice — constitute the evidentiary basis for articles of impeachment.
+
+Speaker Johnson:
+- **Refused to authorize impeachment inquiries** despite requests from 100+ House members
+- **Blocked floor procedures** that would have forced votes on impeachment resolutions
+- **Declined to refer documented violations** to the House Judiciary Committee for investigation
+- **Publicly stated** that impeachment proceedings would not be permitted under his speakership
+
+This is not a constitutional gray area. When a Speaker uses the procedural machinery of the House to suppress its "sole power of impeachment" in the face of documented, court-validated executive branch criminality, that Speaker has converted a constitutional power into a constitutional weapon — deployed against the institution the Speaker is sworn to serve.
+
+#### Category 4: Enabling Attacks on Congressional Members and Staff
+
+The Trump DOJ sent threatening letters to members of Congress — including **Rep. Garcia**, **Sen. Schumer**, and **Rep. Vindman** — an act of executive intimidation against the legislative branch that courts have found constitutes potential witness tampering and First Amendment retaliation.
+
+Speaker Johnson's response: **Defense of the executive branch.** He made no public statement condemning the letters, took no institutional action to protect members from executive intimidation, and used no House power to sanction or investigate the conduct.
+
+**Applicable Law:**
+
+**18 USC § 1512(b) — Witness Tampering / Intimidation:** By failing to use the institutional powers of the speakership to protect members of Congress from documented executive branch intimidation, and by publicly validating the executive branch's characterizations of targeted members, Johnson provided passive facilitation of ongoing intimidation.
+
+**Speech or Debate Clause (Art. I, Sec. 6, Cl. 1):** The Clause protects members of Congress from executive branch intimidation of legislative acts. The Speaker is the institutional guardian of that protection. Johnson's failure to invoke it in the face of documented intimidation is itself a dereliction of constitutional duty.
+
+#### Category 5: Ukraine Aid Suppression — Aiding and Abetting Foreign Policy Sabotage
+
+For **six months** in 2023-2024 — and again in 2025 — Speaker Johnson blocked bipartisan-supported Ukraine military aid packages from reaching the House floor. During this period:
+- Russian forces advanced on multiple fronts
+- Ukrainian defensive positions collapsed in areas that could have been held with supplied ammunition
+- U.S. allies in Europe publicly stated that Johnson's blockade was strategic sabotage of the Western alliance
+
+Johnson's stated justification — that he was "praying" about the decision — was later contradicted by documented coordination with individuals and organizations with financial connections to Russian-aligned actors.
+
+**To the extent Johnson's coordination in blocking Ukraine aid involved:**
+- **Foreign influence** from Russian-aligned actors (*Foreign Agent Registration Act*, 22 USC § 611 et seq.)
+- **Conspiracy to interfere with U.S. foreign policy** in a manner benefiting a foreign adversary (18 USC § 371)
+- **Wire communications** advancing those conspiracies (18 USC § 1343)
+
+...his conduct may constitute federal criminal exposure beyond dereliction.
+
+---
+
+### III. The Legal Framework for Congressional Accountability
+
+#### Does Accountability for Congress Members Require Different Analysis?
+
+Yes — but it does not preclude accountability.
+
+**The Speech or Debate Clause (Art. I, Sec. 6, Cl. 1)** provides members of Congress broad immunity for legislative acts — introducing bills, voting, making floor speeches, issuing committee reports. This immunity is real and must be respected.
+
+**But the Clause does not immunize:**
+- Non-legislative conduct (*United States v. Helstoski*, 442 U.S. 477 (1979))
+- Conduct that is part of a criminal conspiracy (*Gravel v. United States*, 408 U.S. 606 (1972): the Clause "does not protect all behavior")
+- Conduct outside the scope of legislative duties
+- Coordination with non-congressional actors in furtherance of election fraud schemes (*United States v. McDade*, 28 F.3d 283 (3d Cir. 1994))
+
+Johnson's pre-Speakership election subversion activity — including organizing and filing a Supreme Court brief and coordinating with the executive branch to overturn an election — is not a "legislative act." It is non-legislative conduct outside the Clause's protection.
+
+Johnson's speakership-era conduct — to the extent it involves coordination with the executive branch to suppress congressional oversight — also falls outside the Clause's protection, which applies only to the legislative process itself, not to the abuse of procedural power to obstruct it.
+
+#### The 14th Amendment, Section 3 Dimension
+
+Section 3 of the 14th Amendment bars from office any person who, "having previously taken an oath... to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof."
+
+**Congress has the authority** to enforce Section 3 by legislation (Sec. 5 of the 14th Amendment). The January 6th Committee found that Johnson's amicus brief was part of the "multi-front effort" to prevent the constitutional transfer of power. Whether that rises to "aid or comfort" to insurrection is a legal and factual question — but it is a legitimate one.
+
+**There is no statute of limitations on Section 3 disqualification proceedings** before Congress.
+
+---
+
+### IV. Summary: The Accountability Case
+
+| Conduct | Legal Theory | Constitutional Authority |
+|---------|-------------|--------------------------|
+| 2020 election subversion amicus brief | Conspiracy to defraud United States (18 USC § 371); Obstruction of official proceeding (18 USC § 1512(c)) | Art. I, Sec. 8; *Hammerschmidt* (1924) |
+| Organizing 126 members to sign the brief | Aiding and abetting (18 USC § 2); Seditious conspiracy (18 USC § 2384) | Jan. 6 Committee findings |
+| Blocking all oversight of documented executive criminality | Dereliction of constitutional duty; Aiding and abetting (18 USC § 2) | Art. I, Sec. 8; *McGrain v. Daugherty* (1927) |
+| Enabling DOGE's unconstitutional operations | Impoundment Control Act violations; Aiding and abetting appropriations violations | Art. I, Sec. 9, Cl. 7; 2 USC § 684 |
+| Blocking impeachment proceedings despite documented basis | Obstruction of Art. I constitutional power | Art. I, Sec. 2, Cl. 5 |
+| Failing to protect members from executive intimidation | Failure to enforce Speech or Debate Clause protections | Art. I, Sec. 6, Cl. 1 |
+| Ukraine aid blockade with potential foreign coordination | FARA (22 USC § 611); Conspiracy (18 USC § 371); Wire fraud (18 USC § 1343) | Pending investigation |
+| Oath of office violation — pattern and practice | 5 USC § 3331 | Art. VI, Cl. 3 |
+
+**The core accountability principle:** A Speaker of the House who uses the procedural machinery of Congress not to govern, not to legislate, and not to check executive power — but exclusively to shield executive branch lawlessness from congressional scrutiny — has betrayed the institution and the constitutional oath. That betrayal is not merely political. It is, depending on the specific conduct and coordination involved, criminal.
+
+---
+
+### V. Recommended Accountability Actions
+
+**Under the 14th Amendment, Section 3:**
+- The next Congress should open a formal Section 3 eligibility proceeding examining Johnson's pre-Speakership conduct in connection with the 2020 election subversion effort
+- This requires simple majority vote of the relevant chamber, per *Griffin's Case* and subsequent scholarship
+
+**Under the Criminal Law Framework:**
+- The Special Counsel established in Part V of this chapter should investigate Johnson's pre-Speakership coordination with legal teams and political actors advancing the election subversion effort
+- Specific focus: the amicus brief coordination, communications with Trump White House officials in November–December 2020, and the sequencing of the brief with parallel strategies
+
+**Under the Civil Accountability Framework:**
+- Civil suits by members of Congress, election officials, and voters harmed by Johnson's speakership-era dereliction — particularly the DOGE appropriations violations — present viable claims under *Bivens v. Six Unknown Named Agents* and 42 USC § 1983
+
+**Congressional Accountability:**
+- Rules reform: No future Speaker should have unilateral power to suppress impeachment proceedings or block resolutions of inquiry. The majority-leader model should be structured to prevent any single officer from using procedural control as a constitutional veto
+
+---
+
+*See also: [Chapter 29: Structural Safeguards](Chapter_29_Structural_Safeguards.md) (institutional reforms preventing recurrence) · [Chapter 31: Constitutional Hardball](Chapter_31_Constitutional_Hardball.md) (Day One executive actions to restore oversight)*
+
+---
+
 ## Part II: Constitutional and Legal Framework
 
 ### A. First Amendment Protections and Limitations
