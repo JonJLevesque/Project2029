@@ -269,5 +269,5 @@ and what we will do to restore and transform it]
 - **The opponent:** Heritage Foundation's Project 2025 (Mandate for Leadership)
 - **The goal:** Ready-made policy playbook for next Democratic administration
 - **Two agendas:** Restorative (Chapters 1-29) + Transformative (Chapter 30 + throughout)
-- **9 proposed constitutional amendments:** 28th (Voting Rights), 29th (Presidential Accountability), 30th (Citizens United), 31st (Senate Terms), 32nd (Electoral College), 33rd (SCOTUS Terms), 34th (Social Security/Economic Rights), 35th (Two-Term President VP Disqualification), 36th (Felony Disqualification from Presidency)
+- **10 proposed constitutional amendments:** 28th (Voting Rights), 29th (Presidential Accountability), 30th (Citizens United), 31st (Senate Terms), 32nd (Electoral College), 33rd (SCOTUS Terms), 34th (Social Security/Economic Rights), 35th (Two-Term President VP Disqualification), 36th (Felony Disqualification from Presidency), 37th (Federal Recall Elections)
 - **150+ proposed federal laws** consolidated in `Supporting_Materials/Master_Legislative_Requirements.md`

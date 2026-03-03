@@ -191,7 +191,7 @@ All 31 chapters fully developed. Total: 414,000+ words.
 
 ## Proposed Constitutional Amendments
 
-Project 2029 proposes **9 constitutional amendments** to permanently secure democratic governance:
+Project 2029 proposes **10 constitutional amendments** to permanently secure democratic governance:
 
 | Amendment | Purpose | Chapter |
 |-----------|---------|---------|
@@ -204,6 +204,7 @@ Project 2029 proposes **9 constitutional amendments** to permanently secure demo
 | **34th** | Social Security Protection — benefits can never be cut | [Ch 30](Section6_Safeguarding_Democracy_And_Accountability/Chapter_30_Fundamental_Democratic_Transformation.md) |
 | **35th** | Two-Term President VP Disqualification — no end-run around term limits via VP | [Ch 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) |
 | **36th** | Felony Disqualification from the Presidency — convicted felons cannot hold the office | [Ch 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) |
+| **37th** | Federal Recall Elections — 15% petition triggers recall vote within 90 days for any elected federal official | [Ch 29](Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) |
 
 ---
 
@@ -242,7 +243,7 @@ Project 2029 proposes **9 constitutional amendments** to permanently secure demo
 | [05 Fairness Doctrine](Supporting_Materials/One-Pagers/05_Restore_Fairness_Doctrine.md) | [12 Ranked Choice](Supporting_Materials/One-Pagers/12_Ranked_Choice_Voting.md) | [19 Civic Education](Supporting_Materials/One-Pagers/19_Civic_Education_Overhaul.md) | [26 Housing First](Supporting_Materials/One-Pagers/26_Housing_First_Homelessness.md) |
 | [06 Lobbying](Supporting_Materials/One-Pagers/06_Ban_Lobbying.md) | [13 Paper Ballots](Supporting_Materials/One-Pagers/13_Paper_Ballot_Trail_Mandate.md) | [20 Deepfake Ban](Supporting_Materials/One-Pagers/20_Political_Deepfake_Ban.md) | [27 Free College](Supporting_Materials/One-Pagers/27_Free_Public_College.md) |
 | [07 Public Elections](Supporting_Materials/One-Pagers/07_Publicly_Funded_Elections.md) | [14 Social Media](Supporting_Materials/One-Pagers/14_Social_Media_Transparency.md) | [21 Const. Hardball](Supporting_Materials/One-Pagers/21_Constitutional_Hardball.md) | [28 Wealth Tax](Supporting_Materials/One-Pagers/28_Wealth_Tax.md) · [30 AI Governance](Supporting_Materials/One-Pagers/30_AI_Governance.md) |
-| [31 VP Disqualification](Supporting_Materials/One-Pagers/31_VP_Disqualification.md) | [32 Felon Disqualification](Supporting_Materials/One-Pagers/32_Felon_Disqualification.md) | [33 Stock Trading Ban](Supporting_Materials/One-Pagers/33_Congressional_Stock_Trading_Ban.md) | |
+| [31 VP Disqualification](Supporting_Materials/One-Pagers/31_VP_Disqualification.md) | [32 Felon Disqualification](Supporting_Materials/One-Pagers/32_Felon_Disqualification.md) | [33 Stock Trading Ban](Supporting_Materials/One-Pagers/33_Congressional_Stock_Trading_Ban.md) | [34 Federal Accountability Office](Supporting_Materials/One-Pagers/34_Federal_Accountability_Office.md) |
 
 ### Visual & Print Assets
 | Resource | Description |

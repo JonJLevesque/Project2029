@@ -1,5 +1,5 @@
 # PROJECT 2029: QUICK REFERENCE GUIDE
-## 31 Chapters. 150+ Proposed Laws. 9 Constitutional Amendments. Your Future.
+## 31 Chapters. 150+ Proposed Laws. 10 Constitutional Amendments. Your Future.
 
 **414,000+ words of detailed policy across every federal department and agency.**
 
@@ -279,10 +279,10 @@
 - **31 chapters** covering every federal department and agency
 - **414,000+ words** of detailed policy analysis
 - **150+ proposed federal laws** across all chapters
-- **9 constitutional amendments** proposed (28th-36th)
+- **10 constitutional amendments** proposed (28th-37th)
 - **6 sections** from Good Governance to Safeguarding Democracy
 
-**Constitutional Amendments Proposed:** 9 (28th-36th)
+**Constitutional Amendments Proposed:** 10 (28th-37th)
 - 28th: Voting Rights
 - 29th: Presidential Accountability
 - 30th: Overturn Citizens United
@@ -292,6 +292,7 @@
 - 34th: Social Security Protection / Wealth Tax Authority
 - 35th: Two-Term President VP Disqualification
 - 36th: Felony Disqualification from the Presidency
+- 37th: Federal Recall Elections
 
 **Total Annual Investment:** ~$550 billion
 - Electoral/anti-corruption reforms: $30B

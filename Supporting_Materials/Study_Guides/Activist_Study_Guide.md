@@ -15,7 +15,7 @@ This guide helps you:
 5. **Build coalitions** across movements
 6. **Track progress** and sustain momentum
 
-**Project 2029 by the numbers:** 31 chapters, 414,000+ words, 150+ proposed laws, 9 constitutional amendments, covering every federal department and agency.
+**Project 2029 by the numbers:** 31 chapters, 414,000+ words, 150+ proposed laws, 10 constitutional amendments, covering every federal department and agency.
 
 **Study plan: 4 weeks**
 - Week 1: Understand the reforms (read, discuss, internalize)
