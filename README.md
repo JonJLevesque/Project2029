@@ -28,9 +28,9 @@ Project 2029 is a **414,000+ word comprehensive policy framework** designed to c
 | | |
 |--|--|
 | **414,000+** words | **31** fully developed chapters |
-| **150+** proposed federal laws | **9** proposed constitutional amendments |
+| **150+** proposed federal laws | **10** proposed constitutional amendments |
 | **32** democracy reforms | **~$600B** annual new investment |
-| **29** reform one-pagers | **31** chapter one-pagers |
+| **43** reform one-pagers | **31** chapter one-pagers |
 
 </div>
 
@@ -232,7 +232,7 @@ Project 2029 proposes **10 constitutional amendments** to permanently secure dem
 **31 Chapter One-Pagers** — concise summaries of each chapter with damage assessment, top reforms, Day One actions, and key stats:
 [Browse all 31 →](Supporting_Materials/One-Pagers/Chapters/)
 
-**29 Reform One-Pagers** — individual reform fact sheets with Q&A, talking points, and evidence:
+**43 Reform One-Pagers** — individual reform fact sheets with Q&A, talking points, and evidence:
 
 | | | | |
 |--|--|--|--|
@@ -242,8 +242,11 @@ Project 2029 proposes **10 constitutional amendments** to permanently secure dem
 | [04 Gerrymandering](Supporting_Materials/One-Pagers/04_Ban_Gerrymandering.md) | [11 Election Holiday](Supporting_Materials/One-Pagers/11_Election_Day_Federal_Holiday.md) | [18 Sunset Provisions](Supporting_Materials/One-Pagers/18_Sunset_Provisions.md) | [25 Social Housing](Supporting_Materials/One-Pagers/25_Social_Housing_America.md) |
 | [05 Fairness Doctrine](Supporting_Materials/One-Pagers/05_Restore_Fairness_Doctrine.md) | [12 Ranked Choice](Supporting_Materials/One-Pagers/12_Ranked_Choice_Voting.md) | [19 Civic Education](Supporting_Materials/One-Pagers/19_Civic_Education_Overhaul.md) | [26 Housing First](Supporting_Materials/One-Pagers/26_Housing_First_Homelessness.md) |
 | [06 Lobbying](Supporting_Materials/One-Pagers/06_Ban_Lobbying.md) | [13 Paper Ballots](Supporting_Materials/One-Pagers/13_Paper_Ballot_Trail_Mandate.md) | [20 Deepfake Ban](Supporting_Materials/One-Pagers/20_Political_Deepfake_Ban.md) | [27 Free College](Supporting_Materials/One-Pagers/27_Free_Public_College.md) |
-| [07 Public Elections](Supporting_Materials/One-Pagers/07_Publicly_Funded_Elections.md) | [14 Social Media](Supporting_Materials/One-Pagers/14_Social_Media_Transparency.md) | [21 Const. Hardball](Supporting_Materials/One-Pagers/21_Constitutional_Hardball.md) | [28 Wealth Tax](Supporting_Materials/One-Pagers/28_Wealth_Tax.md) · [30 AI Governance](Supporting_Materials/One-Pagers/30_AI_Governance.md) |
-| [31 VP Disqualification](Supporting_Materials/One-Pagers/31_VP_Disqualification.md) | [32 Felon Disqualification](Supporting_Materials/One-Pagers/32_Felon_Disqualification.md) | [33 Stock Trading Ban](Supporting_Materials/One-Pagers/33_Congressional_Stock_Trading_Ban.md) | [34 Federal Accountability Office](Supporting_Materials/One-Pagers/34_Federal_Accountability_Office.md) |
+| [07 Public Elections](Supporting_Materials/One-Pagers/07_Publicly_Funded_Elections.md) | [14 Social Media](Supporting_Materials/One-Pagers/14_Social_Media_Transparency.md) | [21 Const. Hardball](Supporting_Materials/One-Pagers/21_Constitutional_Hardball.md) | [28 Wealth Tax](Supporting_Materials/One-Pagers/28_Wealth_Tax.md) |
+| [29 Federal Recall](Supporting_Materials/One-Pagers/29_Federal_Recall_Elections.md) | [30 AI Governance](Supporting_Materials/One-Pagers/30_AI_Governance.md) | [31 VP Disqualification](Supporting_Materials/One-Pagers/31_VP_Disqualification.md) | [32 Felon Disqualification](Supporting_Materials/One-Pagers/32_Felon_Disqualification.md) |
+| [33 Stock Trading Ban](Supporting_Materials/One-Pagers/33_Congressional_Stock_Trading_Ban.md) | [34 Federal Accountability](Supporting_Materials/One-Pagers/34_Federal_Accountability_Office.md) | [35 DC Statehood](Supporting_Materials/One-Pagers/35_DC_Statehood.md) | [36 Puerto Rico Statehood](Supporting_Materials/One-Pagers/36_Puerto_Rico_Statehood.md) |
+| [37 Student Debt](Supporting_Materials/One-Pagers/37_Student_Debt_Cancellation.md) | [38 Private Prisons](Supporting_Materials/One-Pagers/38_Private_Prison_Abolition.md) | [39 Cash Bail](Supporting_Materials/One-Pagers/39_Cash_Bail_Elimination.md) | [40 Death Penalty](Supporting_Materials/One-Pagers/40_Death_Penalty_Abolition.md) |
+| [41 Corporate Tax](Supporting_Materials/One-Pagers/41_Corporate_Tax_Reform.md) | [42 Cannabis](Supporting_Materials/One-Pagers/42_Cannabis_Legalization.md) | [43 Anti-NIMBY Zoning](Supporting_Materials/One-Pagers/43_Anti_NIMBY_Zoning.md) | |
 
 ### Visual & Print Assets
 | Resource | Description |
@@ -252,7 +255,7 @@ Project 2029 proposes **10 constitutional amendments** to permanently secure dem
 | [Project Overview (Printable)](assets/printable/project-overview.html) | Single-page print summary — all 6 sections |
 | [First 100 Days (Printable)](assets/printable/first-100-days.html) | Visual timeline infographic for tabling and events |
 | [Reform Matrix (Printable)](assets/printable/reform-matrix.html) | All 31 chapters in a color-coded grid |
-| [Constitutional Amendments (Printable)](assets/printable/constitutional-amendments.html) | Visual summary of all 9 proposed amendments |
+| [Constitutional Amendments (Printable)](assets/printable/constitutional-amendments.html) | Visual summary of all 10 proposed amendments |
 
 ### Research & Organizing
 | Resource | Description |

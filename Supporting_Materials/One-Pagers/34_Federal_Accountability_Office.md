@@ -120,14 +120,35 @@ The 37th Amendment closes this gap by establishing the first federal recall mech
 
 ---
 
-### Companion: Expanded Whistleblower Protection
+### Expanded Whistleblower Protection: How the System Works
 
-The FAO's effectiveness depends on insiders willing to report corruption. Current whistleblower protections are riddled with gaps — federal employees can be fired, prosecuted, or have their clearances revoked. The FAO includes:
+The FAO's effectiveness depends entirely on insiders willing to report corruption before it becomes public knowledge. Current whistleblower protections are riddled with gaps — federal employees can be fired, prosecuted under the Espionage Act, or have their security clearances revoked as retaliation. The FAO's whistleblower division addresses each gap:
 
-- **Automatic stay of any adverse employment action** against a person who has filed a complaint with the FAO, pending resolution
-- **FAO representation** for whistleblowers facing retaliation — the institution's attorneys represent them at no cost
-- **$1M+ bounties** for information leading to a successful corruption prosecution (modeled on SEC whistleblower program)
-- **Criminal penalties** for anyone who retaliates against an FAO complainant
+**Intake process:**
+
+1. A whistleblower contacts the FAO's dedicated intake channel — available via encrypted online portal, secure phone line, or in-person at any of the FAO's 50+ regional offices. The intake channel is operationally separate from the FAO's own investigators to prevent leaks.
+2. Within **72 hours** of intake, the Whistleblower Division assigns a dedicated case manager and an FAO staff attorney to the complainant. This attorney-client relationship is privileged.
+3. Within **30 days**, the case manager conducts an initial assessment and determines whether the complaint falls within FAO jurisdiction. If yes, a formal investigation is opened. If no, the complainant is referred to the appropriate oversight body (IG, SEC, etc.) with full FAO advocacy support.
+4. The complainant receives a status update every **30 days** throughout the investigation.
+5. Final resolution — prosecution, referral, declination with written explanation — occurs within **18 months** of a formal investigation opening, absent exceptional circumstances requiring court extension.
+
+**Anonymity protections:**
+
+- The complainant's identity is sealed from all parties outside the Whistleblower Division and their assigned attorney until prosecution is filed — the FAO's investigators receive only a redacted summary of the complaint
+- The FAO maintains a dedicated **secure evidence repository** where whistleblowers may deposit documents, recordings, and other evidence without revealing their identity to the investigation team
+- Anonymity is preserved even in prosecution: wherever legally feasible, the FAO develops its case through independent evidence rather than exposing the whistleblower as the source
+
+**Automatic stay of adverse employment action:**
+
+- Upon filing a formal complaint with the FAO, any adverse employment action against the complainant — termination, demotion, suspension, security clearance revocation, reassignment — is automatically stayed for **180 days**
+- The FAO may extend the stay for the duration of the investigation upon a showing that the adverse action is likely retaliatory
+- Any official who takes or directs an adverse action against a known FAO complainant during the stay period is subject to immediate criminal referral under the FAO's anti-retaliation statute
+
+**Financial protections:**
+- **$1M minimum bounty** for information leading to a successful corruption prosecution with recovered funds exceeding $10 million (scaled up to 20% of recovered funds for larger cases — modeled on the SEC's whistleblower program, which has paid over $1.9 billion in awards since 2012)
+- **$250,000 minimum bounty** for information leading to a successful prosecution even without financial recovery
+- FAO staff attorneys represent complainants in retaliation lawsuits at no cost through final judgment or settlement
+- Emergency financial support fund for whistleblowers who lose income due to retaliation before the stay is in effect
 
 ---
 

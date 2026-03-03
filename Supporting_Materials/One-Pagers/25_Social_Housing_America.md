@@ -73,6 +73,129 @@
 
 ---
 
+## INTERNATIONAL CASE STUDIES: WHAT WORKS AND WHY
+
+### Vienna, Austria: 60% Social Housing for 100 Years
+
+Vienna is the gold standard for social housing in the developed world — not as a legacy of wartime necessity but as a sustained political and policy commitment spanning a century.
+
+**The numbers:**
+- Approximately 60% of Vienna's 1.9 million residents live in subsidized housing
+- 220,000+ units owned directly by the City of Vienna (*Gemeindebau*)
+- An additional 200,000+ units operated by limited-profit housing associations (*gemeinnützige Bauvereinigungen*)
+- Average rent in social housing: approximately €7.50 per square meter (well below market rate of €15-20)
+- Average housing cost burden: 20-25% of income (vs. 50%+ for many American renters)
+
+**What makes Vienna's model work:**
+
+| Feature | Vienna Practice | American Public Housing (Historical) |
+|---------|----------------|--------------------------------------|
+| Income targeting | All income levels — doctors, teachers, workers live side by side | Concentrated poverty only — eligibility often capped at 30-50% AMI |
+| Design quality | Internationally recognized architecture; amenities; community spaces | Minimalist construction; deliberately underfunded |
+| Maintenance budget | Fully funded; buildings maintained to century-long standard | Capital fund cut 50%+; chronic deferred maintenance |
+| Land ownership | City owns land — eliminates largest cost driver | Complicated land deals; site costs borne by housing authority |
+| Political constituency | Middle class uses it — politically untouchable | Stigmatized as "welfare housing" — politically vulnerable |
+| Stigma | None — aspirational address | Severe — "the projects" carries lasting negative connotation |
+| Homelessness rate | Near-zero | 650,000+ Americans homeless on any given night |
+
+**The 100-year political durability lesson:** Vienna's social housing has survived multiple changes in city government because the constituency is the entire middle class, not a marginalized poor population. When doctors, architects, and civil servants live in *Gemeindebau*, there is no political coalition for defunding it.
+
+---
+
+### Singapore: 80% Government-Built Housing, 90%+ Homeownership
+
+Singapore presents the most ambitious public housing program in the world — and one of the most successful. The Housing Development Board (HDB), established in 1960, has housed the majority of Singapore's population for over six decades.
+
+**The numbers:**
+- Approximately 80% of Singapore's 5.9 million residents live in HDB flats
+- Over 1 million HDB units in the public housing stock
+- Homeownership rate: approximately 90% — among the highest in the world
+- HDB flats are sold to residents on 99-year leases (effectively ownership); they can be resold on the open market after a minimum occupation period
+- Average HDB resale prices remain far below private market condominiums
+
+**Key features of the Singapore model:**
+
+**Ethnic integration mandate:** The Ethnic Integration Policy requires each HDB block and neighborhood to maintain a proportional mix of Chinese, Malay, Indian, and Other residents. This was designed to prevent ethnic enclaves and social fragmentation — a deliberate policy choice to use housing as a tool for social cohesion.
+
+**Mandatory savings funding:** Singapore's Central Provident Fund (CPF) — a mandatory employment savings scheme — can be used to purchase HDB flats. This means most Singaporeans finance their public housing purchase through their own lifelong savings, reducing reliance on direct government subsidy over time.
+
+**Quality and design:** HDB flats are modern, well-maintained high-rise apartments with full amenities. New-build HDB developments routinely win architectural awards. There is no stigma — HDB addresses are aspirational.
+
+**The American lesson from Singapore:** The government can build quality, permanent housing at scale — and residents can accumulate equity in it. The 99-year lease model is one option for the American Social Housing Authority to explore for its ownership-track units.
+
+---
+
+### Finland: Housing First and Social Housing Reduce Homelessness by 75%
+
+Finland has achieved something no other wealthy nation has: a sustained, measurable reduction in homelessness over decades — using a combination of social housing investment and the Housing First policy model.
+
+**The results:**
+- In 1987, Finland had approximately 18,000 homeless people
+- By 2022, that number had fallen to approximately 4,000 — a 78% reduction over 35 years
+- Finland is the only EU country where homelessness has been consistently declining
+
+**How Finland did it:**
+
+**Housing First (not "treatment first"):** Finland adopted the Housing First philosophy in the late 2000s — meaning that stable housing is provided immediately, without preconditions of sobriety, mental health treatment compliance, or employment. Services are offered alongside housing, not as prerequisites to receiving it.
+
+**Social housing investment:** Finland's Y-Foundation and A-Kliniikkasäätiö converted hostels and shelters into permanent supported housing. The Finnish government invested in long-term housing stock.
+
+**Partnership model:** National government, municipalities, and nonprofits co-fund and co-operate social housing. The government provides capital grants; nonprofits manage day-to-day operations.
+
+**The American Housing First evidence:** The evidence base from American pilot programs is consistent with Finland's results. The Denver Social Impact Bond (2016) found that Housing First participants experienced 34% fewer emergency room visits and 76% fewer jail days, generating savings that exceeded the cost of providing housing. The American Social Housing program pairs $10 billion in Housing First investment with the broader social housing construction program.
+
+---
+
+## FINANCING MECHANISM: HOW SOCIAL HOUSING PAYS FOR ITSELF
+
+### The Social Housing Authority Bond Model
+
+The National Social Housing Authority (NSHA) is financed through a self-sustaining bond model — meaning the program does not require perpetual annual appropriations from general revenue after the initial capital investment.
+
+**How it works:**
+
+**Step 1 — Federal capitalization:** Congress appropriates $50 billion in Year 1 as the initial capital pool. This is the seed investment.
+
+**Step 2 — NSHA issues long-term revenue bonds:** The NSHA issues 30-year bonds backed by long-term rental revenue from its housing portfolio. These bonds are rated AAA due to the federal guarantee backing them — meaning they can be issued at very low interest rates (near Treasury rates).
+
+**Step 3 — Rental revenue services the debt:** Rents collected from NSHA units — including market-rate and moderate-income units that charge below-market but substantial rents — service the bond debt. The cross-subsidy model (higher-income residents paying more) generates sufficient revenue to cover bond payments while keeping very-low-income rents at 30% of income.
+
+**Step 4 — Revolving capital fund:** As bonds mature and are repaid from rental revenue, the capital is recycled into new construction. The housing stock grows over time, generating more rental revenue, enabling more bond issuance — a self-reinforcing cycle.
+
+**The self-financing math:**
+| Unit type | Monthly rent | Units (Year 10) | Annual revenue |
+|-----------|-------------|----------------|----------------|
+| Very low income (30% AMI) | ~$400 | 450,000 | $2.16B |
+| Low income (50% AMI) | ~$800 | 450,000 | $4.32B |
+| Moderate income (80% AMI) | ~$1,200 | 300,000 | $4.32B |
+| Middle income (75% market) | ~$1,600 | 300,000 | $5.76B |
+| **Total annual rental revenue** | | **1.5M units** | **~$16.56B** |
+
+At 1.5 million units, annual rental revenue of approximately $16+ billion comfortably services bond debt on the construction investment, funds maintenance reserves, and generates surplus for new construction — making the program self-financing within 15-20 years of launch.
+
+---
+
+## WHAT MAKES AMERICAN PUBLIC HOUSING FAIL — AND WHAT VIENNA AND SINGAPORE DO DIFFERENTLY
+
+American public housing failed due to deliberate policy choices, not inherent limitations of public ownership. The contrast with Vienna and Singapore makes this clear:
+
+| Failure Point | American Public Housing | Vienna | Singapore |
+|--------------|------------------------|--------|-----------|
+| Income segregation | Only the very poor eligible — concentrated poverty by design | All income levels | All income levels |
+| Maintenance funding | Capital fund chronically underfunded; 50%+ cuts | Fully funded; 100-year building standard | Full government maintenance budget |
+| Design quality | Minimum-cost construction; no amenities | Award-winning architecture; parks, community spaces | Modern, high-rise, well-maintained |
+| Location | Often isolated from transit, jobs, services | Integrated into existing neighborhoods | Near transit; full infrastructure |
+| Political constituency | Narrow (poor-only) — easily stigmatized and defunded | Broad (middle class) — politically untouchable | Near-universal — no political will to defund |
+| Land ownership | Complex; often poorly sited | City owns land permanently | Government owns land |
+| Racial policy | Explicitly segregated (to protect existing neighborhoods) until Fair Housing Act | Integrated from the start | Mandated ethnic mixing |
+| Scale | Never exceeded 5% of housing stock | 60% of housing stock | 80% of housing stock |
+
+**The core lesson:** American public housing was designed to fail. It was segregated to concentrate poverty. It was underfunded to ensure deterioration. It was sited to isolate residents from opportunity. Vienna and Singapore designed their programs to serve everyone — and they work precisely because the middle class has a stake in their success.
+
+The American Social Housing Program adopts the Vienna/Singapore design principles: mixed-income, quality construction, full maintenance budgets, integrated locations, and a political constituency that spans all income levels.
+
+---
+
 ## THE AMERICAN MODEL
 
 ### National Social Housing Program
