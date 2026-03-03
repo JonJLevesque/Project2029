@@ -30,7 +30,7 @@ Project 2029 is a **414,000+ word comprehensive policy framework** designed to c
 | **414,000+** words | **31** fully developed chapters |
 | **150+** proposed federal laws | **10** proposed constitutional amendments |
 | **32** democracy reforms | **~$600B** annual new investment |
-| **45** reform one-pagers | **31** chapter one-pagers |
+| **47** reform one-pagers | **31** chapter one-pagers |
 
 </div>
 
@@ -247,7 +247,7 @@ Project 2029 proposes **10 constitutional amendments** to permanently secure dem
 | [33 Stock Trading Ban](Supporting_Materials/One-Pagers/33_Congressional_Stock_Trading_Ban.md) | [34 Federal Accountability](Supporting_Materials/One-Pagers/34_Federal_Accountability_Office.md) | [35 DC Statehood](Supporting_Materials/One-Pagers/35_DC_Statehood.md) | [36 Puerto Rico Statehood](Supporting_Materials/One-Pagers/36_Puerto_Rico_Statehood.md) |
 | [37 Student Debt](Supporting_Materials/One-Pagers/37_Student_Debt_Cancellation.md) | [38 Private Prisons](Supporting_Materials/One-Pagers/38_Private_Prison_Abolition.md) | [39 Cash Bail](Supporting_Materials/One-Pagers/39_Cash_Bail_Elimination.md) | [40 Death Penalty](Supporting_Materials/One-Pagers/40_Death_Penalty_Abolition.md) |
 | [41 Corporate Tax](Supporting_Materials/One-Pagers/41_Corporate_Tax_Reform.md) | [42 Cannabis](Supporting_Materials/One-Pagers/42_Cannabis_Legalization.md) | [43 Anti-NIMBY Zoning](Supporting_Materials/One-Pagers/43_Anti_NIMBY_Zoning.md) | [44 Break Up Billionaire Media](Supporting_Materials/One-Pagers/44_Break_Up_Billionaire_Media.md) |
-| [45 Main Street Investment Act](Supporting_Materials/One-Pagers/45_Main_Street_Investment_Act.md) | | | |
+| [45 Main Street Investment Act](Supporting_Materials/One-Pagers/45_Main_Street_Investment_Act.md) | [46 Rebuild Public Media](Supporting_Materials/One-Pagers/46_Public_Media_Investment.md) | [47 Education Funding Reform](Supporting_Materials/One-Pagers/47_Education_Funding_Reform.md) | |
 
 ### Visual & Print Assets
 | Resource | Description |
