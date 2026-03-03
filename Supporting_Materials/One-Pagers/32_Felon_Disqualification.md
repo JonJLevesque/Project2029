@@ -265,14 +265,40 @@ A: This is the "political prosecution" objection addressed above. The structural
 
 ---
 
+## Q&A: Five Common Questions and Answers
+
+**Q: Won't this amendment be used to politically target opposition candidates with manufactured charges?**
+
+A: See the full discussion in the "Political Prosecution Counter-Argument" section above. The short answer: the existing criminal justice system's safeguards — grand jury indictment, proof beyond a reasonable doubt, jury trial, and full appellate review — must all be satisfied before a conviction becomes final. The amendment does not create new prosecutorial power. Section 2's reversal protection ensures that any conviction that is successfully challenged — on any grounds — lifts the disqualification automatically. If the criminal justice system has been so thoroughly corrupted that it produces false, affirmed-on-appeal convictions against political opponents, the problem is that corruption — not this amendment.
+
+**Q: What if a president is convicted after taking office? Are they removed or just barred from future terms?**
+
+A: The amendment addresses eligibility for office — it does not create an automatic removal mechanism for a sitting president. A sitting president convicted of a qualifying felony would face impeachment and removal through the existing constitutional process (Article II, Section 4). The 36th Amendment's disqualification would then bar them from future presidential or VP service even if the Senate failed to convict in an impeachment trial. The two mechanisms are complementary — impeachment addresses current service; the 36th Amendment closes the door on return to power.
+
+**Q: Does a presidential pardon of a federal conviction eliminate the disqualification?**
+
+A: This is addressed in detail above. A pardon is not a reversal or vacation by a court — it is an executive act. Section 2 specifies that only a court reversal or vacation lifts the disqualification. Congress's Section 3 implementing legislation will confirm this interpretation explicitly. The proposed 29th Amendment (barring self-pardons) provides an additional layer of protection against the most obvious manipulation: a president pardoning themselves of their own disqualifying conviction.
+
+**Q: Does this amendment apply to Vice Presidents, or only to presidential candidates?**
+
+A: Section 1 explicitly applies to both offices: "No person who has been convicted of a felony... shall be eligible to hold the office of President *or Vice President* of the United States." This is deliberate — under the 12th Amendment and the 25th Amendment succession chain, a VP is next in line for the presidency. Allowing a convicted-felon VP would create an obvious circumvention: disqualify from the presidency, run for VP, succeed to the office. The amendment closes both paths simultaneously.
+
+**Q: What is the process if a candidate's disqualification is disputed on the ballot?**
+
+A: Congress's enforcement authority under Section 3 includes establishing a federal adjudication process. The likely mechanism: the Federal Election Commission (or a dedicated Federal Candidacy Eligibility Board) conducts a preliminary review; any adverse determination is immediately appealable to a federal district court, then the relevant circuit court on an expedited basis, with the Supreme Court available for emergency review. The entire process must be capable of resolution well before election day — Congress will set statutory deadlines (e.g., 90 days from formal challenge to final judicial resolution). The current absence of any such process for eligibility disputes is itself a structural gap this legislation addresses.
+
+---
+
 ## Connection to Broader Reform
 
 The 36th Amendment works alongside:
-- **[29th Amendment](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md):** No presidential immunity for crimes committed in office
-- **[Ch 28: Legal Accountability](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_28_Legal_Accountability_for_Subversion_of_Democracy.md):** Criminal prosecution framework for subversion of democracy
-- **[Ch 31: Constitutional Hardball](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md):** Using all constitutional tools to lock in structural reforms
+- **[35th Amendment](31_VP_Disqualification.md):** Bars two-term presidents from the VP office — together, these amendments close the two most significant eligibility gaps in current constitutional text
+- **[29th Amendment](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md):** No presidential immunity for crimes committed in office — eliminates the incentive to use the presidency as a shield against prosecution, and bars self-pardons
+- **[Ch 28: Legal Accountability](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_28_Legal_Accountability_for_Subversion_of_Democracy.md):** Criminal prosecution framework for subversion of democracy — the substantive law that generates the convictions this amendment applies consequences to
+- **[Ch 31: Constitutional Hardball](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md):** Using all constitutional tools to lock in structural reforms before they are needed
+- **[Reform #34: Federal Accountability Office](34_Federal_Accountability_Office.md):** Independent institution with prosecution authority — ensures that qualifying convictions are actually pursued, not buried by a politicized DOJ
 
-Together, these reforms create a system where criminal conduct in office is prosecuted, and criminal conviction bars return to office. Accountability becomes structural, not discretionary.
+Together, these reforms create a system where criminal conduct in office is prosecuted, final conviction bars return to power, and the institution doing the prosecuting is structurally insulated from political interference. Accountability becomes structural, not discretionary.
 
 ---
 

@@ -230,6 +230,68 @@ A: The amendment is carefully targeted. It does not bar two-term former presiden
 **Historical framing:**
 > "The founders wanted no king. The 22nd Amendment reaffirmed that. The 35th Amendment makes it stick."
 
+**On the "kingmaker" scenario:**
+> "A two-term former president running as VP is not the same as any other VP. They have name recognition, a political base, and experience that will inevitably dominate the partnership. A politically weaker sitting president who owes their victory to their VP's popularity is not going to overrule that VP on major decisions. The 35th Amendment is not just about preventing direct succession — it's about preventing a structural shadow presidency that bypasses the intent of term limits entirely."
+
+**On the question of what offices remain open:**
+> "This amendment does one specific thing: it bars a two-term former president from the VP office and from succeeding to the presidency. Everything else remains open. They can be Secretary of State. They can run for Senate. They can be appointed to the Cabinet. They can serve as a diplomat, an envoy, a Supreme Court justice. The amendment is targeted and narrow — it closes one loophole, not every door."
+
+**For those focused on the 12th Amendment text:**
+> "I understand the argument. Read carefully: the 12th says 'no person constitutionally ineligible to the office of President.' The 22nd says a two-term president can't be *elected* president again. Those aren't the same thing. The 12th Amendment's language was drafted in 1804. The Framers of the 12th were thinking about natural-born citizenship and age — not a term limit that didn't exist yet. We should write it down clearly rather than rely on courts to connect those dots under political pressure."
+
+---
+
+## Key Facts
+
+- **Amendment number:** 35th
+- **Type:** Structural/accountability
+- **Closes:** 22nd Amendment VP loophole — election, appointment, and succession paths
+- **Also prevents:** The "kingmaker" scenario of a de facto shadow presidency
+- **Does NOT bar:** Two-term former presidents from Cabinet service, diplomatic roles, or Congress
+- **Chapter:** [Chapter 29: Structural Safeguards](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md)
+- **Companion amendment:** [36th: Felony Disqualification](32_Felon_Disqualification.md)
+- **Public support:** Polling consistently shows 60%+ support for enforcing term limits — this amendment makes the existing limit enforceable
+- **Does not require:** Any change to how the 22nd Amendment currently operates — it supplements, not replaces, existing term limit structure
+- **Ratification threshold:** 2/3 of Congress + 3/4 of states (38 states)
+
+---
+
+## Ratification Strategy: How This Amendment Gets Passed
+
+The 35th Amendment faces the same ratification challenge as any constitutional amendment: 2/3 of both chambers of Congress, then 3/4 of state legislatures (38 states). This is a high bar — but the VP loophole amendment has characteristics that make ratification more achievable than it might appear.
+
+**The bipartisan case:** Presidential term limits enjoy broad public support across party lines — consistently 70%+ in polling. The argument for closing the VP loophole is fundamentally about structural integrity, not partisan advantage. Republicans who supported the 22nd Amendment's term limits have no principled basis for opposing an amendment that enforces those same limits. Democrats who support democratic accountability have equal reason to support it. The strongest case is not partisan — it is structural.
+
+**The state legislature path:** Unlike a constitutional convention (Article V's alternative route), Congress initiates this amendment in the standard way. State legislative ratification follows. Because the amendment is not politically threatening to state-level officials — it applies only to federal executive positions — state legislators face no personal stake in opposing it. The ratification politics are different from amendments that redistribute power between states and the federal government.
+
+**Timing:** The strongest moment to advance this amendment is during a period when no specific individual is positioned to exploit the loophole — i.e., when it is clearly prospective rather than targeted at a current political figure. Amendments that appear targeted at individuals generate partisan resistance; amendments that appear structural and forward-looking attract broader coalitions. This amendment should be introduced and advanced during periods when its application is clearly hypothetical.
+
+**Presidential advocacy:** The sitting President's endorsement of this amendment — particularly if that President is or will be term-limited — is the single most powerful argument for ratification. A two-term president saying "I want to make sure no one can use the VP slot to get around the limit I am subject to" is an unanswerable statement of principle.
+
+The 35th Amendment works alongside:
+- **[36th Amendment](32_Felon_Disqualification.md):** Bars convicted felons from the presidency — together, these two amendments close the two most significant eligibility gaps in current constitutional text
+- **[29th Amendment](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md):** No presidential immunity for crimes committed in office — eliminates the incentive to use the presidency as a shield against prosecution
+- **[Ch 29: Structural Safeguards](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md):** Full structural accountability framework
+- **[Ch 31: Constitutional Hardball](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md):** Using all constitutional tools to lock in structural reforms before they are needed
+
+The 22nd Amendment established the principle: no indefinite presidential power. The 35th Amendment enforces it.
+
+---
+
+## By The Numbers: The Scale of the Problem
+
+| Metric | Value |
+|--------|-------|
+| Former presidents alive and potentially eligible for VP (as of 2026) | 4 |
+| Former two-term presidents alive (subject to the loophole) | 3 (Clinton, Obama, Trump) |
+| Times the VP loophole question has been raised in legal commentary | Dozens (2008, 2016, 2020, 2024) |
+| Federal courts that have definitively ruled on 12th/22nd Amendment interaction | 0 |
+| Years since the 22nd Amendment was ratified | 75 |
+| States needed for ratification (3/4 of 50) | 38 |
+| Current public support for enforcing term limits | 70%+ across party lines |
+
+The window for this reform is the period when it is clearly prospective — before any specific former president is positioned to exploit the loophole. Amendments that address structural vulnerabilities before a crisis are far easier to ratify than amendments proposed in the middle of one.
+
 ---
 
 *Project 2029 · [Full Chapter 29](../../Section6_Safeguarding_Democracy_And_Accountability/Chapter_29_Structural_Safeguards.md) · [All Amendments](../../Supporting_Materials/One-Pagers/32_Felon_Disqualification.md)*
