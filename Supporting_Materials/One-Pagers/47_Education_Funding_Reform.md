@@ -147,6 +147,18 @@ A local restaurant with 50 employees and $3 million in annual revenue has an RER
 
 Companies whose capital expenditure on AI systems, automation equipment, or data center infrastructure exceeds 20% of gross revenue in a given tax year pay a **1.5x multiplier** on their base CAET rate for that year. This multiplier specifically targets the companies most aggressively deploying capital to replace human labor — the companies driving the largest share of automation-related worker displacement. It applies in the year the capital expenditure is made, directly linking the tax to the investment decision.
 
+### Autonomous Vehicle and Robotics Priority Categories
+
+The CAET's Revenue-to-Employee Ratio captures the automation economy in aggregate. Four deployment categories — autonomous vehicles, warehouse robotics, last-mile delivery automation, and service/point-of-sale automation — represent the most direct, sector-specific displacement of working-class jobs and are explicitly named in the CAET framework as priority enforcement and audit categories.
+
+**Autonomous and driverless vehicles.** Commercially deployed Level 4 and Level 5 autonomous vehicles — including robotaxi fleets (Waymo, Uber Autonomous, GM Cruise), autonomous trucking systems (Aurora Innovation, Kodiak Robotics, Waymo Via, Embark), and autonomous last-mile delivery vehicles — each directly replace a human worker in a transportation occupation. The U.S. employed approximately 3.5 million truck drivers and 1.7 million taxi, rideshare, and delivery drivers as of 2024. Autonomous vehicle operators — companies deploying these systems commercially — are subject to CAET assessment based on their total gross revenue and US employee count. Companies whose revenue-to-employee ratio exceeds $5,000,000 per employee (a threshold reachable by robotaxi and autonomous trucking operators with large fleets and small human workforces) face the 2.0% rate. In addition, companies that hold federal or state operating permits for autonomous commercial vehicle deployment are categorized as AI/automation capital deployment companies for purposes of the Data Center and AI Infrastructure Multiplier, regardless of whether their capital expenditure on AV systems is disaggregated from other technology investments in their financial reporting.
+
+**Warehouse and fulfillment robotics.** Amazon operates more than 750,000 warehouse robots (Kiva, Proteus, Sequoia systems) in its fulfillment centers, reducing human labor requirements per unit shipped by approximately 25 percent compared to 2019 baseline operations. Walmart, Target, and major third-party logistics operators have made comparable investments in Symbotic, Boston Dynamics Stretch, and comparable systems. Each deployed warehouse robot unit performs tasks previously handled by human workers in picking, packing, sorting, and transport roles. Employers in the warehousing and storage sector (NAICS 493) who deploy warehouse automation systems at a ratio exceeding one robot unit per five FTE workers are classified as operating automated fulfillment systems for CAET purposes, and their capital expenditure on warehouse robotics counts toward the 20% threshold for the Data Center and AI Infrastructure Multiplier.
+
+**Last-mile delivery automation.** Ground-based delivery robots (Starship Technologies, Serve Robotics, Amazon Scout) and commercial drone delivery systems (Amazon Prime Air, Alphabet Wing, Zipline) operating at commercial scale displace human delivery workers. Companies operating more than 1,000 autonomous delivery units in a given tax year are identified as priority CAET audit targets by the IRS Education Tax Division, with specific scrutiny applied to whether autonomous delivery unit counts are accurately disclosed in contractor and employment filings.
+
+**Service and point-of-sale automation.** Automated food preparation systems (Miso Robotics Flippy, automated kitchen lines), cashierless retail environments (Amazon Go, similar systems deployed by major retailers), and self-checkout kiosk networks that have replaced cashier positions at scale are included in the definition of "automation equipment" for purposes of the Data Center and AI Infrastructure Multiplier. Employers in the food service (NAICS 722) and retail (NAICS 44-45) sectors with gross revenue exceeding $1 billion and revenue-to-employee ratios above $300,000 are subject to enhanced CAET disclosure requirements identifying the number of automated service units deployed and the estimated employee positions eliminated through automation in the prior 24 months.
+
 ### Who Pays: Illustrative Calculations
 
 | Company | Revenue | US Employees | RER | Base CAET Rate | Est. CAET Liability |
@@ -254,6 +266,20 @@ There is no constitutional right to a specific tax structure. The property-tax-b
   - Trust Fund rescission protection: CAET revenues may not be rescinded without affirmative legislation in both chambers subject to 60-vote Senate cloture
 - **Constitutional Authority:** U.S. Const. art. I, § 8, cl. 1 (Taxing Power and Spending Clause); U.S. Const. art. I, § 8, cl. 3 (Commerce Clause); U.S. Const. amend. XVI; *Helvering v. Davis*, 301 U.S. 619 (1937)
 
+### Autonomous Deployment Surcharge Act
+
+- **Purpose:** Establish the ADS as a dedicated per-unit annual excise tax on commercial autonomous vehicle and robotics deployments, fund the American Worker Transition Trust Fund, and ensure that the corporations most aggressively automating human jobs contribute directly to supporting the workers those jobs supported
+- **Key Provisions:**
+  - Per-unit annual fee schedule covering autonomous vehicles, warehouse robots, delivery robots, automated food preparation, cashierless retail, and self-checkout systems (see rate schedule above)
+  - American Worker Transition Trust Fund: ring-fenced Treasury fund; ADS revenues exclusively deposited; not subject to general fund appropriation or sequestration
+  - Bridge Income Support: 18 months at 80% of prior wages for documented automation-displaced workers
+  - Retraining Grants: up to $30,000 per displaced worker for accredited programs in high-demand occupations not at high automation risk
+  - Retirement Bridge: 70% of projected Social Security benefit for displaced workers 55+ with 20+ years of work history, paid until Social Security eligibility
+  - Displacement documentation standard: employer deployment of covered autonomous/robotic systems within 36 months of job elimination creates a rebuttable presumption of automation displacement
+  - IRS Autonomous Systems Registry: all commercial operators of covered units must register units annually with the IRS; failure to register triggers $50,000 per-unit penalty
+  - Anti-circumvention contractor rule: autonomous units operated through contractor or platform arrangements count toward the deploying company's ADS liability based on the economic reality of the deployment relationship
+- **Constitutional Authority:** U.S. Const. art. I, § 8, cl. 1 (Taxing Power and Spending Clause); U.S. Const. art. I, § 8, cl. 3 (Commerce Clause); U.S. Const. amend. XVI; *Helvering v. Davis*, 301 U.S. 619 (1937); 29 U.S.C. § 2901 et seq. (WIOA)
+
 ---
 
 ## IMPLEMENTATION TIMELINE
@@ -298,6 +324,68 @@ There is no constitutional right to a specific tax structure. The property-tax-b
 - Annual RER recalculation: districts and companies both receive adjusted assessments based on prior-year data
 - Report to Congress: Department of Education publishes annual report on per-pupil spending distribution, equalization grant expenditures, and remaining funding gaps
 - CAET revenue trajectory reviewed: rate schedule adjustment authority reserved to Congress by statute; any adjustment requires new legislation, not regulatory action
+
+---
+
+## PART V: WORKER TRANSITION TRUST FUND — THE AUTONOMOUS DEPLOYMENT SURCHARGE
+
+### The Gap the CAET Does Not Fill
+
+The Corporate Automation Education Tax is designed to fund education equity — the long-term structural investment needed to ensure that the children of displaced workers have access to the school funding their communities cannot provide through property taxes. But education funding does not help the 54-year-old warehouse worker whose job was eliminated last Tuesday.
+
+The automation economy is creating a class of displaced workers with specific, immediate needs: income while they search for new employment, retraining support for new skills, and — for older workers close to retirement — a bridge to Social Security eligibility that their abruptly ended careers would otherwise deny them. The CAET funds the education system. The Autonomous Deployment Surcharge funds the workers.
+
+### The Autonomous Deployment Surcharge (ADS)
+
+The **Autonomous Deployment Surcharge** is a separate federal excise tax — entirely distinct from the CAET — assessed annually on the commercial deployment of autonomous vehicles and robotics systems in the United States. Unlike the CAET, which is a gross revenue tax on corporations, the ADS is a per-unit deployment fee assessed on each autonomous or robotic unit in commercial operation. All ADS revenues are deposited directly into the **American Worker Transition Trust Fund**, established as a dedicated Treasury fund with the same ring-fencing protections as the Equitable Education Trust Fund.
+
+### ADS Rate Schedule
+
+| Deployment Category | Annual ADS Fee per Unit |
+|---------------------|------------------------|
+| Level 4/5 commercial autonomous passenger vehicle (robotaxi, ride-hail) | $15,000 per vehicle per year |
+| Level 4/5 commercial autonomous freight/trucking vehicle | $25,000 per vehicle per year |
+| Autonomous bus or transit vehicle | $20,000 per vehicle per year |
+| Warehouse picking, packing, or transport robot | $5,000 per unit per year |
+| Last-mile ground delivery robot | $3,000 per unit per year |
+| Commercial delivery drone (100+ unit commercial operation) | $2,000 per unit per year |
+| Automated food preparation system (commercial kitchen) | $4,000 per system per year |
+| Cashierless retail environment (per location) | $10,000 per location per year |
+| Automated self-checkout kiosk bank (3+ units, replacing cashier FTE) | $2,500 per bank per year |
+
+The ADS rate for autonomous freight vehicles ($25,000/year) is set at the approximate annual federal income tax contribution of a full-time truck driver earning the median CDL driver wage of approximately $55,000/year, adjusted for Social Security and Medicare contributions. This is not coincidental. The rate is designed to ensure that when a company deploys an autonomous truck that eliminates a driver's income, the company contributes to the fund that supports that driver — and every driver similarly displaced — at a level proportional to the wage value it has extracted from the labor market.
+
+### Who Deploys: Illustrative ADS Liability
+
+| Operator | Estimated Deployment Scale | Estimated Annual ADS |
+|----------|---------------------------|---------------------|
+| Amazon (warehouse robots + delivery) | 750,000+ robots; 100,000+ delivery units | ~$4.0 billion |
+| Waymo (robotaxi + commercial) | 700+ commercial AVs (2024, scaling rapidly) | ~$10.5 million (Year 1); scales with deployment |
+| Major retailer (cashierless + self-checkout) | 1,000 store locations with automated checkout | ~$10 million |
+| Autonomous trucking operator (Aurora scale) | 200 commercial AV trucks | ~$5 million |
+| National fast food chain (automated kitchen) | 5,000 restaurant locations | ~$20 million |
+
+As autonomous vehicle deployment scales to the projected commercial levels — tens of thousands of AV trucks, hundreds of thousands of robotaxis — the ADS revenue grows proportionally, ensuring that the Worker Transition Fund scales with the displacement it is designed to address.
+
+### The American Worker Transition Trust Fund
+
+All ADS revenues are deposited into the **American Worker Transition Trust Fund**, administered jointly by the Departments of Labor and Treasury. The Trust Fund provides three categories of support to workers documented as displaced by automation:
+
+**Bridge Income Support.** Workers who lose employment due to documented automation displacement — defined as job elimination by an employer that has deployed autonomous or robotic systems in the affected job category within the prior 36 months — are eligible for Bridge Income Support equal to 80 percent of their prior-year average weekly wage for up to 18 months. Bridge Income Support is not subject to the limitations of state unemployment insurance and does not count toward the recipient's state UI benefit calculation. For the truck driver earning $55,000/year whose employer deploys autonomous trucking, this means $44,000 in wage replacement in Year 1 of their transition.
+
+**Retraining and Skills Investment.** Workers receiving Bridge Income Support are eligible for up to $30,000 in Retraining Grants covering tuition, fees, tools, and living expenses for enrollment in community college, vocational training, registered apprenticeship, or skills certification programs in occupations with documented labor demand. Retraining Grants are paid directly to the training institution, with a living stipend component paid directly to the worker. The training institutions eligible for Retraining Grants must be accredited, must have demonstrated employment placement rates above 70 percent in their target occupation within 12 months of completion, and must offer programs in occupations that have not themselves been identified by DOL as high-risk for automation displacement within 10 years.
+
+**Retirement Bridge for Older Workers.** Workers age 55 and older who are automation-displaced and who have at least 20 years of documented work history are eligible for Retirement Bridge payments equal to 70 percent of their prior-year Social Security estimated benefit, payable from the date of displacement until Social Security retirement eligibility (age 62 for early benefits, 67 for full benefits). The Retirement Bridge addresses the specific vulnerability of older workers, who face documented age discrimination in re-employment, for whom retraining to a new career is both more challenging and less economically rational given the years of expected employment remaining, and for whom automation displacement at age 58 effectively means permanent income loss absent a bridge mechanism. A 58-year-old warehouse supervisor with 30 years of work history who loses their job to Amazon's Sequoia robotic fulfillment system deserves more than 26 weeks of state unemployment benefits. The Retirement Bridge provides it.
+
+### Constitutional and Legal Authority
+
+| Authority | Application |
+|-----------|-------------|
+| U.S. Const. art. I, § 8, cl. 1 (Taxing Power) | Congress may levy excise taxes on commercial activity. A per-unit fee on the commercial deployment of autonomous vehicles and robots is an excise tax on the commercial use of a technology class — within Congress's plenary taxing authority. |
+| U.S. Const. art. I, § 8, cl. 3 (Commerce Clause) | The commercial deployment of autonomous vehicles on public roads and of robots in commercial warehouses constitutes interstate commerce. Congress may regulate and tax this activity. |
+| U.S. Const. amend. XVI | Insofar as the ADS is structured as a tax on revenue derived from autonomous operations, it falls within Congress's income tax authority. The per-unit structure avoids income tax challenges by functioning as an excise, not an income levy. |
+| *Helvering v. Davis*, 301 U.S. 619 (1937) | Congress has broad authority to establish social insurance programs funded by dedicated taxes. The Worker Transition Trust Fund is a targeted social insurance program; the ADS is its funding mechanism. The structure is directly analogous to the Social Security and Medicare financing mechanisms upheld in *Helvering*. |
+| 29 U.S.C. § 2901 et seq. (Workforce Innovation and Opportunity Act) | The Retraining Grant program extends and supplements existing WIOA workforce development infrastructure; states administering WIOA programs become eligible conduits for Trust Fund retraining investments under a federal-state cost-share model. |
 
 ---
 

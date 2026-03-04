@@ -384,6 +384,93 @@ Direct all DOT sub-agencies to establish Safety-Critical Personnel Classificatio
 
 Establish an independent DOT Safety Oversight Board composed of former NTSB members, aviation and rail safety experts, and consumer safety advocates, with authority to review and publicly comment on any proposed regulatory rollback that affects transportation safety. The Board shall have no veto authority — preserving executive flexibility — but its public findings shall be required before any safety-related final rule can take effect, creating an accountability mechanism that makes regulatory rollbacks harder to execute quietly.
 
+### Reform XI: National Infrastructure Reclamation and Modernization
+
+America's physical infrastructure — the broadband lines, water pipes, power grids, toll roads, and ports on which every other element of economic life depends — has been systematically handed to private corporations whose incentive structure is fundamentally incompatible with the public interest. Private infrastructure owners extract dividends. Public infrastructure serves people. The next administration will begin the long work of reclaiming, rebuilding, and hardening the infrastructure that the private sector has underfunded, sold to foreign operators, and left vulnerable to extreme weather, cyberattack, and physical failure.
+
+This is not a statement about ideology. It is a statement about results. The American Society of Civil Engineers' 2025 Report Card gives U.S. drinking water infrastructure a "C," wastewater a "D+," the power grid a "C," and broadband a "C+." These are not grades for a country with a $28 trillion economy. They are grades for a country that has mistaken privatization for investment.
+
+#### The Damage: What Privatization Has Cost America
+
+**Broadband.** The United States ranks 13th globally in broadband speed and access despite having spent approximately $400 billion in public subsidies on private internet service providers over three decades. Rural America has worse broadband connectivity than rural Romania. In 21 states, ISPs have successfully lobbied for laws that prohibit municipalities from building their own broadband networks — making it illegal for communities to solve the problem the private market refuses to solve. Comcast, AT&T, and Verizon received public rights-of-way, pole attachment access, and federal subsidies in exchange for deployment commitments they routinely failed to meet. The FCC's own data showed that ISPs systematically overclaimed coverage in federal broadband maps to prevent competitors from accessing subsidies and to avoid regulatory scrutiny. Approximately 21 million Americans have no access to broadband internet — a conservative estimate that independent researchers put as high as 42 million. These Americans are not failing to thrive in the modern economy because they lack motivation. They lack infrastructure.
+
+**Water systems.** Six billion gallons of treated drinking water leak from aging pipes in the United States every day — enough to fill 9,000 Olympic swimming pools. The average age of a U.S. water main is 45 years; millions of miles of pipe were installed before the Clean Water Act (33 U.S.C. § 1251 et seq.) existed. Private water companies — Veolia/Suez, American Water Works, Essential Utilities — have acquired hundreds of municipal water systems under the premise that private management produces efficiency. The documented outcomes contradict this premise: private water rates increase an average of 29 percent within five years of acquisition, capital maintenance investment does not keep pace with the public systems the companies replaced, and service quality deteriorates in low-income communities that lack political leverage over their private water provider. The Flint, Michigan water crisis was caused by failure of a public system — but the pattern of private operators prioritizing shareholder returns over pipe replacement is producing thousands of slow-motion Flints in communities too small and too poor to attract regulatory scrutiny. More than 400,000 miles of lead service lines remain in use across the United States, exposing millions of children to lead poisoning through their drinking water. Lead service line replacement is not technologically complicated. It requires sustained investment that private operators have no incentive to make.
+
+**Power grid.** Texas's ERCOT grid collapse in February 2021 killed at least 246 people, left 4.5 million households without power for days in subfreezing temperatures, and caused an estimated $200 billion in economic damage — the costliest natural disaster in Texas history. The proximate cause was a cold weather event. The underlying cause was decades of investor-owned utility decisions to defer winterization investment because it reduced quarterly returns. The grid that America needs — capable of handling the 2.5 times increase in electricity demand projected from vehicle electrification, hardened against extreme weather events that are increasing in frequency and severity due to climate change, and capable of distributing renewable energy generated in high-resource areas to population centers hundreds of miles away — requires investment that private utilities will not make voluntarily because it does not optimize near-term return on equity. The Federal Energy Regulatory Commission (FERC) and state public utility commissions have the authority to require this investment. They have chronically failed to exercise it. The next administration will not repeat that failure.
+
+**Toll roads and privatized infrastructure.** Private infrastructure conglomerates — Transurban, Cintra (a subsidiary of Spain's Ferrovial), Macquarie Infrastructure, and their competitors — have acquired long-term lease concessions on American toll roads, bridges, and tunnels, extracting perpetual toll revenue from commuters who have no competitive alternative. The Indiana Toll Road was sold by Governor Mitch Daniels in 2006 for $3.8 billion in a 75-year concession — a transaction that Indiana's own Legislative Services Agency later estimated cost the state $5 billion in forgone revenue over the first decade alone. The Chicago Skyway was sold by Mayor Richard Daley in 2005 in a 99-year concession. These transactions exchanged perpetual public assets for one-time payments used to paper over short-term fiscal gaps, privatizing infrastructure that the public had built and paid for while permanently ceding its revenue to foreign shareholders.
+
+**Port security and supply chain sovereignty.** The COVID-19 supply chain crisis exposed the degree to which American logistics infrastructure had been ceded to foreign operators. Terminal concession agreements at major U.S. ports gave Chinese state-owned shipping companies (COSCO, China Merchants Group) and their affiliates operational roles at ports through which a substantial fraction of U.S. imports flow. The U.S. Committee on Foreign Investment in the United States (CFIUS) has authority to review foreign acquisitions of U.S. businesses for national security risks. Port terminal concession agreements — which do not involve the purchase of a U.S. company but rather the contract operation of public port facilities — fell outside CFIUS jurisdiction until recent statutory amendments. The infrastructure that American supply chains depend on must not be operated by entities whose ultimate principals are governments adversarial to the United States.
+
+#### The Reform: American Infrastructure Reclamation and Modernization Act (AIRMA)
+
+The **American Infrastructure Reclamation and Modernization Act** establishes a $3 trillion federal infrastructure investment program over 10 years — the largest public works investment in American history since the Interstate Highway System — funded through a combination of general appropriations, infrastructure bonds, and repatriation of private infrastructure returns currently flowing to foreign shareholders. AIRMA has six pillars:
+
+**Pillar One: Public Broadband Build-Out — $150 Billion**
+
+Repeal state laws that prohibit municipal and cooperative broadband networks through federal preemption under the Commerce Clause and the Communications Act (47 U.S.C. § 151 et seq.). The FCC has authority under Section 706 of the Telecommunications Act (47 U.S.C. § 1302) to preempt state laws that impede broadband deployment; the next administration will direct the FCC to exercise this authority. Establish a National Broadband Authority within the Department of Commerce to administer $150 billion in public fiber broadband infrastructure grants to municipalities, rural electric cooperatives, and tribal governments — entities with a demonstrated commitment to universal service rather than return on equity. Deployment priority for communities with no broadband access, followed by communities with only one provider (where market power eliminates competitive discipline).
+
+Reclassify broadband internet access service as a Title II telecommunications service under the Communications Act, restoring net neutrality rules and FCC authority to require nondiscrimination in interconnection, peering, and transmission. Establish a Universal Broadband Affordability Program ensuring that every household in America has access to symmetric gigabit broadband at a price not to exceed $30 per month, funded through a reformed Universal Service Fund (47 U.S.C. § 254) with enhanced contribution requirements from the large ISPs that have collected universal service fees while failing universal service obligations.
+
+**Pillar Two: Water Infrastructure Reclamation — $250 Billion**
+
+Invest $250 billion through EPA's State Revolving Fund programs (Safe Drinking Water Act, 42 U.S.C. § 300f et seq.; Clean Water Act, 33 U.S.C. § 1383) and a new National Lead Pipe Elimination Program to replace every lead service line in the United States within 10 years, funded at 80 percent federal share with state and local matching requirements adjusted for fiscal capacity.
+
+Establish a federal Private Water System Performance Registry requiring all investor-owned water utilities serving more than 500 connections to publicly report water quality, capital investment, and rate data on a standardized annual basis. Create a federal Municipal Water Reclamation Fund providing buyout financing to municipalities seeking to return privatized water systems to public ownership when private operators fail to meet performance standards or when rate increases exceed the rate of inflation by more than 5 percent in any three-year period. No federal funding, loan guarantees, or tax-exempt financing may be used by private water companies acquiring municipal systems; federal infrastructure support is reserved for public, nonprofit, and cooperative water utilities.
+
+Establish the first federal safe drinking water enforcement floor independent of state enforcement: direct EPA to exercise primary enforcement authority under Section 1414 of the Safe Drinking Water Act (42 U.S.C. § 300g-3) in any state where lead action level violations go unremediated for more than 12 months, creating a federal backstop that the Flint crisis demonstrated was absent.
+
+**Pillar Three: Grid Modernization and Energy Security — $800 Billion**
+
+The power grid is the foundation on which the entire decarbonized economy depends. An electrified transportation system, a decarbonized industrial sector, and a resilient built environment all require a grid that can handle dramatically increased demand, distribute renewable energy across thousands of miles of new transmission, and remain operational through the extreme weather events that are increasing in both frequency and severity.
+
+Invest $800 billion over 10 years in grid hardening and modernization through a combination of federal grants, loans, and transmission investment authority under FERC's existing jurisdiction (Federal Power Act, 16 U.S.C. § 824 et seq.). Establish a Federal Grid Resilience Authority within DOE with power to issue Grid Hardening Orders to investor-owned utilities, specifying required infrastructure investments and providing federal co-financing to prevent residential rate increases. The model is direct: the federal government sets the standard, provides the capital, and the utility executes. No more Texas winters. No more deferred maintenance in the service of quarterly earnings.
+
+Build the transmission backbone the renewable energy transition requires: a National High-Voltage Transmission Network connecting Great Plains wind generation, Southwest solar generation, and Great Lakes distributed renewable resources to the population centers of the East and West Coasts. The U.S. has world-class renewable energy resources but a transmission grid designed for the fossil fuel era — centralized generation near population centers. Moving to a renewable energy system requires building the grid the energy is on. The National Transmission Build-Out Program, administered through a joint DOE-FERC authority, shall permit, fund, and construct 100,000 miles of new high-voltage direct current (HVDC) transmission lines over 10 years, using existing federal land rights and eminent domain authority where necessary.
+
+Establish a Strategic Grid Reserve of distributed battery storage and backup generation sufficient to maintain critical services — hospitals, water treatment, communications, emergency management — through a 72-hour grid outage in any region of the country. The Strategic Grid Reserve is a direct analogue of the Strategic Petroleum Reserve: a national security asset funded by the federal government and maintained as a hedge against infrastructure failure.
+
+**Pillar Four: Infrastructure Reclamation Fund — $300 Billion**
+
+Establish a $300 billion Infrastructure Reclamation Fund allowing the federal government, in partnership with state and local governments, to purchase private infrastructure concession agreements at fair market value — calculated as the net present value of projected future toll revenues over the remaining concession term, discounted at the federal borrowing rate. The Fund is available when concession agreements expire, when private operators demonstrate sustained failure to maintain infrastructure to specified standards, or when the Secretary of Transportation certifies that the concession terms are materially inconsistent with the public interest.
+
+No new infrastructure concession agreement for public roads, bridges, tunnels, ports, or airports shall extend beyond 15 years without affirmative approval by Congress. All new concession agreements must include: a rate cap indexed to inflation; minimum capital investment requirements with performance bonds; federal audit rights; and a government repurchase option at a pre-agreed formula. The era of 75-year and 99-year privatization concessions that permanently alienate public assets to extract private returns is over.
+
+**Pillar Five: Port Security and Supply Chain Sovereignty — $100 Billion**
+
+No foreign state-owned enterprise — including entities in which the government of China, Russia, Iran, North Korea, or any country designated as a foreign adversary under 50 U.S.C. § 4872 holds a majority or controlling interest — shall hold an operational terminal concession at any U.S. port facility. Direct CFIUS and the Department of Homeland Security, under 46 U.S.C. § 70110 (port security authorities), to review all existing port concession agreements held by entities with foreign state ownership within 180 days of inauguration and to develop transition plans with federal compensation for any concession that presents a national security risk.
+
+Invest $100 billion in American port infrastructure modernization and electrification, with priority for Pacific Coast ports handling the majority of containerized imports. Require that all federal port infrastructure investment be conditioned on labor agreements with the International Longshoremen's Association and International Longshore and Warehouse Union ensuring that port automation investments do not result in net workforce reductions without worker transition support funded by port operators.
+
+**Pillar VI: Critical Infrastructure Cybersecurity — $50 Billion**
+
+The SolarWinds intrusion, the Colonial Pipeline ransomware attack, and the Volt Typhoon campaign — in which Chinese state-affiliated hackers pre-positioned malware in U.S. critical infrastructure including power grids, water systems, and communications networks for potential activation during a future conflict — demonstrate that the cybersecurity of physical infrastructure is a national security emergency.
+
+Invest $50 billion in Critical Infrastructure Cyber Defense through CISA's existing authority under the Cybersecurity and Infrastructure Security Agency Act (6 U.S.C. § 651 et seq.). Establish a Critical Infrastructure Cyber Defense Corps of 15,000 federally employed cybersecurity specialists — analogous to the National Guard model — deployed to state and local water utilities, electric cooperatives, transit systems, and port authorities that lack the resources to maintain professional cybersecurity staff. All infrastructure covered under AIRMA must achieve CISA Cybersecurity Performance Goals within three years of enactment or face suspension of federal infrastructure assistance. Mandatory incident reporting for all critical infrastructure operators under the Cyber Incident Reporting for Critical Infrastructure Act of 2022 (6 U.S.C. § 681b) must be enforced with civil penalties sufficient to create genuine compliance incentives, not merely a cost of doing business.
+
+#### Jobs: The Hidden Dividend of Infrastructure Investment
+
+Every $1 billion in infrastructure investment generates approximately 13,000 job-years in direct and indirect employment, according to Political Economy Research Institute (PERI) modeling. A $3 trillion investment generates approximately 39 million job-years over the investment period — the largest single jobs program in American history. These are not temporary jobs. Infrastructure requires operations and maintenance workforces that persist for decades after construction. A rebuilt power grid, a modernized water system, a new fiber broadband network, a hardened port — all require permanent, well-compensated, union-eligible technical workforces that form the backbone of a sustainable middle class.
+
+All AIRMA-funded projects shall require project labor agreements under Executive Order 13502 (as revived and strengthened), prevailing wage requirements under the Davis-Bacon Act (40 U.S.C. § 3141 et seq.), domestic content requirements under Buy America provisions, and apprenticeship utilization standards requiring that at least 15 percent of labor hours on AIRMA projects be performed by registered apprentices. These are not aspirational goals. They are statutory conditions of federal funding.
+
+The private infrastructure model has demonstrated its limits. Private companies built the water systems of Flint and Jackson and thousands of communities in between, then deferred maintenance until the pipes were poisoning children. Private ISPs took subsidies to build rural broadband and built nothing. Private utilities deferred grid hardening until Texas froze. The calculation is clear: the private sector will not build what the public requires. The federal government will.
+
+#### Legislative Requirements — AIRMA
+
+### The American Infrastructure Reclamation and Modernization Act
+
+- **Purpose:** Establish a $3 trillion federal public infrastructure investment program over 10 years, reclaim privatized infrastructure from foreign and extractive private operators, modernize the power grid for the clean energy transition, build universal public broadband, replace all lead service lines, and harden all critical infrastructure against cyberattack and climate-driven extreme weather
+- **Key Provisions:**
+  - National Broadband Authority: $150 billion in public fiber grants; federal preemption of state anti-municipal broadband laws; Title II broadband reclassification; Universal Broadband Affordability Program at $30/month cap
+  - National Lead Pipe Elimination Program: $250 billion at 80% federal share; 10-year completion mandate; Private Water System Performance Registry; Municipal Water Reclamation Fund; EPA primary enforcement backstop
+  - Federal Grid Resilience Authority: $800 billion over 10 years; Grid Hardening Orders with federal co-financing; 100,000 miles of new HVDC transmission; Strategic Grid Reserve of distributed storage
+  - Infrastructure Reclamation Fund: $300 billion; buyout authority for expired or underperforming private concessions; 15-year cap on new concession terms; rate caps and government repurchase options in all new agreements
+  - Port Security: prohibition on foreign state-owned operator concessions; CFIUS review of existing concessions; $100 billion port modernization with labor protection requirements
+  - Critical Infrastructure Cyber Defense Corps: 15,000 federal cybersecurity specialists; CISA Performance Goal compliance mandates; Cyber Incident Reporting enforcement
+  - Project labor agreements, Davis-Bacon prevailing wage, Buy America, and 15% apprenticeship utilization requirements on all AIRMA projects
+- **Constitutional Authority:** Commerce Clause (Art. I, § 8, cl. 3); Spending Clause (Art. I, § 8, cl. 1); Federal Power Act (16 U.S.C. § 824 et seq.); Communications Act (47 U.S.C. § 151 et seq.); Safe Drinking Water Act (42 U.S.C. § 300f et seq.); Clean Water Act (33 U.S.C. § 1251 et seq.); Cybersecurity and Infrastructure Security Agency Act (6 U.S.C. § 651 et seq.); Davis-Bacon Act (40 U.S.C. § 3141 et seq.)
+
 ---
 
 ## Implementation Timeline
@@ -396,6 +483,7 @@ Establish an independent DOT Safety Oversight Board composed of former NTSB memb
 - Reinstate federal funding commitment to the Dallas-Houston high-speed rail project pending completion of required environmental reviews
 - Direct DOT Inspector General to open investigation of IIJA impoundments and NEVI freeze for Impoundment Control Act violations and referral to DOJ
 - Rescind the "Unleashing American Energy" executive order's application to IIJA transportation funds and direct all DOT sub-agencies to resume normal grant administration within 48 hours
+- Issue the Infrastructure Reclamation Executive Order directing: (1) FCC to begin rulemaking for Title II broadband reclassification and preemption of state anti-municipal broadband laws; (2) CFIUS and DHS to begin review of all port concession agreements held by foreign state-owned enterprises; (3) CISA to issue mandatory Cybersecurity Performance Goal compliance orders to all critical infrastructure operators; (4) DOE to begin National Transmission Build-Out Program site assessment and permitting process; (5) EPA to exercise primary Safe Drinking Water Act enforcement authority in all states with unremediated lead action level violations
 
 ### First 100 Days
 
@@ -419,6 +507,11 @@ Establish an independent DOT Safety Oversight Board composed of former NTSB memb
 - Issue NHTSA Final Rule reinstating mandatory automatic emergency braking standards for heavy vehicles canceled by prior administration
 - Complete review of IIJA grant expirations; submit emergency legislation to reauthorize any lapsed grants and restore funding to affected communities
 - Submit Freight Rail Competition Act as administration priority legislation
+- Transmit the American Infrastructure Reclamation and Modernization Act to Congress as administration priority legislation
+- Establish the National Broadband Authority within Commerce; issue first round of $30 billion in public fiber broadband grants
+- Establish the Federal Grid Resilience Authority within DOE; issue first Grid Hardening Orders to the 10 investor-owned utilities with the worst documented grid reliability records
+- Launch National Lead Pipe Elimination Program; obligate first $25 billion to states with highest lead pipe concentrations (Michigan, Illinois, Ohio, Pennsylvania, New Jersey, New York)
+- Issue $50 billion in AIRMA infrastructure bonds under Treasury authority
 
 ### Years 2-4: Consolidation
 
@@ -540,6 +633,16 @@ Establish an independent DOT Safety Oversight Board composed of former NTSB memb
 - Independent DOT Safety Oversight Board established through legislation within first year
 - Grant award documentation requirements in place before first supplemental appropriations funding is disbursed
 
+**National Infrastructure Reclamation:**
+- All $150 billion in public broadband grants awarded within four years; 10 million new households connected in communities previously unserved
+- State anti-municipal broadband preemption laws nullified in all 21 states with such laws within two years via FCC action or litigation
+- All lead service lines in communities served by federal Safe Drinking Water Act compliance orders replaced within first term (approximately 400,000 miles)
+- Federal Grid Resilience Authority operational within 90 days; first Grid Hardening Orders issued within 180 days; HVDC transmission permitting for initial 10,000 miles commenced within Year 1
+- All foreign state-owned port terminal concessions reviewed within 180 days; transition plans for concessions presenting national security risks completed within one year
+- Critical Infrastructure Cyber Defense Corps recruitment and deployment commenced within Year 1; 5,000 specialists deployed to water, power, and transit operators within two years
+- Zero private infrastructure concession agreements exceeding 15 years approved without congressional authorization after Day One
+- 39 million job-years of employment generated over the 10-year AIRMA investment period, with union wage rates and apprenticeship utilization verified through annual DOL reporting
+
 **Freight Rail:**
 - STB reciprocal switching rulemaking completed within 18 months
 - Freight Rail Competition Act introduced in Congress within first year
@@ -595,6 +698,22 @@ Establish an independent DOT Safety Oversight Board composed of former NTSB memb
 - 14 C.F.R. Part 21 (Aircraft Certification Procedures)
 - 49 C.F.R. Part 213 (Track Safety Standards)
 - Spirit Airlines, Inc. v. DOT, 687 F.3d 403 (D.C. Cir. 2012)
+- American Society of Civil Engineers, Infrastructure Report Card 2025
+- Federal Power Act, 16 U.S.C. § 824 et seq.
+- Communications Act, 47 U.S.C. § 151 et seq.; Telecommunications Act § 706, 47 U.S.C. § 1302
+- Safe Drinking Water Act, 42 U.S.C. § 300f et seq.
+- Clean Water Act, 33 U.S.C. § 1251 et seq.
+- Davis-Bacon Act, 40 U.S.C. § 3141 et seq.
+- Cybersecurity and Infrastructure Security Agency Act, 6 U.S.C. § 651 et seq.
+- Cyber Incident Reporting for Critical Infrastructure Act of 2022, 6 U.S.C. § 681b
+- PERI, "Job Opportunities for the Green Economy" (modeling infrastructure employment multipliers)
+- CISA, Cybersecurity Performance Goals (2023)
+- GAO, "Broadband: FCC's Coverage Data Overstated Access in Some Areas" (2020)
+- Texas Grid Failure After-Action Report, ERCOT (2021)
+- Volt Typhoon, CISA Advisory AA24-038A (2024)
+- Colonial Pipeline Incident, DHS Review (2021)
+- Environmental Defense Fund, "Lead in the Water: What We Know About the Lead Service Line Problem" (2022)
+- Brookings Institution, "Why Broadband in Rural America Remains Out of Reach" (2023)
 - Train v. City of New York, 420 U.S. 35 (1975)
 - Clean Air Act § 209, 42 U.S.C. § 7543 (California Emissions Waiver)
 - 42 U.S.C. § 32902 (Corporate Average Fuel Economy Standards)
