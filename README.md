@@ -1,5 +1,12 @@
 # Project 2029: A Mandate for Restorative + Transformative Democratic Renewal
 
+## [>> VISIT BUILDTHEPROMISE.COM <<](https://www.buildthepromise.com)
+
+> **The citizen-facing hub for Project 2029** - Track your representatives, explore the reforms, and take action.
+> [www.buildthepromise.com](https://www.buildthepromise.com)
+
+---
+
 **Quick Navigation:** [Overview](#overview) | [By The Numbers](#by-the-numbers) | [Quick Start](#quick-start) | [31 Chapters](#31-chapters) | [32 Reforms](#the-32-transformative-reforms) | [Supporting Materials](#supporting-materials) | [Get Started](#get-started)
 
 ---
