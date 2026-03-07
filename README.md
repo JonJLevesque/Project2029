@@ -1,8 +1,8 @@
-# Project 2029: A Mandate for Restorative + Transformative Democratic Renewal
+# Project 2029: The Progressive Counter to Project 2025 - A Policy Blueprint for Democratic Renewal
 
-## [>> VISIT BUILDTHEPROMISE.COM <<](https://www.buildthepromise.com)
+## [>> VISIT BUILDTHEPROMISE.COM - Track Your Representatives <<](https://www.buildthepromise.com)
 
-> **The citizen-facing hub for Project 2029** - Track your representatives, explore the reforms, and take action.
+> **The citizen-facing hub for Project 2029** - Score every member of Congress, track votes, explore reforms, and take action.
 > [www.buildthepromise.com](https://www.buildthepromise.com)
 
 ---
@@ -13,14 +13,23 @@
 
 <a id="overview"></a>
 
-## Overview
+## What Is Project 2029?
 
-Project 2029 is a **414,000+ word comprehensive policy framework** designed to counter Project 2025's authoritarian agenda and fundamentally transform American democracy. It is a ready-made blueprint for the next Democratic administration — covering every federal agency with detailed restoration plans, structural reforms, and transformative proposals grounded in constitutional law.
+**Project 2029** is a **414,000+ word progressive policy framework and direct counter to the Heritage Foundation's Project 2025.** It is a ready-made governing blueprint for the next Democratic presidential administration - covering every federal agency with detailed restoration plans, 150+ proposed federal laws, 10 constitutional amendments, and structural reforms grounded in constitutional law.
+
+**If Project 2025 is the authoritarian playbook, Project 2029 is the democratic response.**
+
+Project 2029 answers three questions:
+1. What did Project 2025 and the Trump administration break?
+2. How do we restore it - specifically, legally, and immediately?
+3. How do we go further and build the democracy we have never had?
 
 **Two agendas. One mission.**
 
-- **Restorative** (Chapters 1-29): Reverse Project 2025 damage across every federal agency, rebuild democratic institutions, establish legal accountability, implement structural safeguards.
-- **Transformative** (Chapter 30 + integrated throughout): Go beyond restoration to build the democracy we have never had — from overturning Citizens United to universal basic services.
+- **Restorative** (Chapters 1-29): Reverse Project 2025 damage across every federal agency - DOJ, EPA, DOD, DHS, HHS, Labor, Education, Treasury, and more. Rebuild democratic institutions, establish legal accountability for constitutional violations, implement structural safeguards against authoritarian consolidation.
+- **Transformative** (Chapter 30 + integrated throughout): Go beyond restoration. Overturn Citizens United, expand voting rights, end the Electoral College, establish term limits for SCOTUS, guarantee housing and healthcare as rights, build the democracy we have never had.
+
+**Policy areas covered:** voting rights - campaign finance reform - climate and environmental policy - Medicare and healthcare - workers rights and labor organizing - housing and homelessness - immigration and asylum - criminal justice reform - constitutional accountability - SCOTUS and court reform - DC and Puerto Rico statehood - student debt - public education - veterans benefits - Social Security expansion.
 
 > **[Chapter 31: Constitutional Hardball](Section6_Safeguarding_Democracy_And_Accountability/Chapter_31_Constitutional_Hardball.md)** — Day 1 Executive Blitz, filibuster elimination, SCOTUS expansion, DC/PR statehood. Playing by rules your opponent ignores is a losing strategy.
 
