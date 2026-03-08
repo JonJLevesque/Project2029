@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jonjlevesque.github.io/Project2029/sitemap.xml

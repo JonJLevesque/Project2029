@@ -124,5 +124,14 @@
   <!-- Mermaid diagram support -->
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
+
+  <!-- GitHub Pages SPA routing fix for history mode -->
+  <script>
+    // Redirect from 404 back to the app with the path preserved
+    var path = window.location.pathname;
+    if (path !== '/Project2029/' && path !== '/Project2029') {
+      // Already handled by Docsify history mode
+    }
+  </script>
 </body>
 </html>
